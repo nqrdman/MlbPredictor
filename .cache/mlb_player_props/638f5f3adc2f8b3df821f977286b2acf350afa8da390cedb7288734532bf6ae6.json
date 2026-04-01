@@ -1,0 +1,457 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "gameLog"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "summary": "0-1",
+            "gamesPlayed": 1,
+            "flyOuts": 1,
+            "groundOuts": 0,
+            "airOuts": 1,
+            "runs": 0,
+            "doubles": 0,
+            "triples": 0,
+            "homeRuns": 0,
+            "strikeOuts": 0,
+            "baseOnBalls": 0,
+            "intentionalWalks": 0,
+            "hits": 0,
+            "hitByPitch": 0,
+            "avg": ".000",
+            "atBats": 1,
+            "obp": ".000",
+            "slg": ".000",
+            "ops": ".000",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 0,
+            "groundIntoTriplePlay": 0,
+            "numberOfPitches": 3,
+            "plateAppearances": 1,
+            "totalBases": 0,
+            "rbi": 0,
+            "leftOnBase": 3,
+            "sacBunts": 0,
+            "sacFlies": 0,
+            "babip": ".000",
+            "groundOutsToAirouts": "0.00",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "-.--"
+          },
+          "team": {
+            "id": 135,
+            "name": "San Diego Padres",
+            "link": "/api/v1/teams/135"
+          },
+          "player": {
+            "id": 592206,
+            "fullName": "Nick Castellanos",
+            "link": "/api/v1/people/592206"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "opponent": {
+            "id": 116,
+            "name": "Detroit Tigers",
+            "link": "/api/v1/teams/116"
+          },
+          "date": "2026-03-26",
+          "gameType": "R",
+          "isHome": true,
+          "isWin": false,
+          "positionsPlayed": [
+            {
+              "code": "11",
+              "name": "Pinch Hitter",
+              "type": "Hitter",
+              "abbreviation": "PH"
+            },
+            {
+              "code": "3",
+              "name": "First Base",
+              "type": "Infielder",
+              "abbreviation": "1B"
+            }
+          ],
+          "game": {
+            "gamePk": 823325,
+            "link": "/api/v1.1/game/823325/feed/live",
+            "content": {
+              "link": "/api/v1/game/823325/content"
+            },
+            "gameNumber": 1,
+            "dayNight": "day"
+          }
+        },
+        {
+          "season": "2026",
+          "stat": {
+            "summary": "0-1 | K",
+            "gamesPlayed": 1,
+            "flyOuts": 0,
+            "groundOuts": 0,
+            "airOuts": 0,
+            "runs": 0,
+            "doubles": 0,
+            "triples": 0,
+            "homeRuns": 0,
+            "strikeOuts": 1,
+            "baseOnBalls": 0,
+            "intentionalWalks": 0,
+            "hits": 0,
+            "hitByPitch": 0,
+            "avg": ".000",
+            "atBats": 1,
+            "obp": ".000",
+            "slg": ".000",
+            "ops": ".000",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 0,
+            "groundIntoTriplePlay": 0,
+            "numberOfPitches": 4,
+            "plateAppearances": 1,
+            "totalBases": 0,
+            "rbi": 0,
+            "leftOnBase": 0,
+            "sacBunts": 0,
+            "sacFlies": 0,
+            "babip": ".---",
+            "groundOutsToAirouts": "-.--",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "-.--"
+          },
+          "team": {
+            "id": 135,
+            "name": "San Diego Padres",
+            "link": "/api/v1/teams/135"
+          },
+          "player": {
+            "id": 592206,
+            "fullName": "Nick Castellanos",
+            "link": "/api/v1/people/592206"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "opponent": {
+            "id": 116,
+            "name": "Detroit Tigers",
+            "link": "/api/v1/teams/116"
+          },
+          "date": "2026-03-27",
+          "gameType": "R",
+          "isHome": true,
+          "isWin": false,
+          "positionsPlayed": [
+            {
+              "code": "11",
+              "name": "Pinch Hitter",
+              "type": "Hitter",
+              "abbreviation": "PH"
+            }
+          ],
+          "game": {
+            "gamePk": 823324,
+            "link": "/api/v1.1/game/823324/feed/live",
+            "content": {
+              "link": "/api/v1/game/823324/content"
+            },
+            "gameNumber": 1,
+            "dayNight": "day"
+          }
+        },
+        {
+          "season": "2026",
+          "stat": {
+            "summary": "1-4",
+            "gamesPlayed": 1,
+            "flyOuts": 1,
+            "groundOuts": 2,
+            "airOuts": 1,
+            "runs": 0,
+            "doubles": 0,
+            "triples": 0,
+            "homeRuns": 0,
+            "strikeOuts": 0,
+            "baseOnBalls": 0,
+            "intentionalWalks": 0,
+            "hits": 1,
+            "hitByPitch": 0,
+            "avg": ".167",
+            "atBats": 4,
+            "obp": ".167",
+            "slg": ".167",
+            "ops": ".334",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 0,
+            "groundIntoTriplePlay": 0,
+            "numberOfPitches": 13,
+            "plateAppearances": 4,
+            "totalBases": 1,
+            "rbi": 0,
+            "leftOnBase": 2,
+            "sacBunts": 0,
+            "sacFlies": 0,
+            "babip": ".250",
+            "groundOutsToAirouts": "2.00",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "-.--"
+          },
+          "team": {
+            "id": 135,
+            "name": "San Diego Padres",
+            "link": "/api/v1/teams/135"
+          },
+          "player": {
+            "id": 592206,
+            "fullName": "Nick Castellanos",
+            "link": "/api/v1/people/592206"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "opponent": {
+            "id": 116,
+            "name": "Detroit Tigers",
+            "link": "/api/v1/teams/116"
+          },
+          "date": "2026-03-28",
+          "gameType": "R",
+          "isHome": true,
+          "isWin": true,
+          "positionsPlayed": [
+            {
+              "code": "10",
+              "name": "Designated Hitter",
+              "type": "Hitter",
+              "abbreviation": "DH"
+            }
+          ],
+          "game": {
+            "gamePk": 823323,
+            "link": "/api/v1.1/game/823323/feed/live",
+            "content": {
+              "link": "/api/v1/game/823323/content"
+            },
+            "gameNumber": 1,
+            "dayNight": "day"
+          }
+        },
+        {
+          "season": "2026",
+          "stat": {
+            "summary": "0-3 | 2 K",
+            "gamesPlayed": 1,
+            "flyOuts": 0,
+            "groundOuts": 0,
+            "airOuts": 1,
+            "runs": 0,
+            "doubles": 0,
+            "triples": 0,
+            "homeRuns": 0,
+            "strikeOuts": 2,
+            "baseOnBalls": 0,
+            "intentionalWalks": 0,
+            "hits": 0,
+            "hitByPitch": 0,
+            "avg": ".111",
+            "atBats": 3,
+            "obp": ".111",
+            "slg": ".111",
+            "ops": ".222",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 0,
+            "groundIntoTriplePlay": 0,
+            "numberOfPitches": 8,
+            "plateAppearances": 3,
+            "totalBases": 0,
+            "rbi": 0,
+            "leftOnBase": 1,
+            "sacBunts": 0,
+            "sacFlies": 0,
+            "babip": ".000",
+            "groundOutsToAirouts": "0.00",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "-.--"
+          },
+          "team": {
+            "id": 135,
+            "name": "San Diego Padres",
+            "link": "/api/v1/teams/135"
+          },
+          "player": {
+            "id": 592206,
+            "fullName": "Nick Castellanos",
+            "link": "/api/v1/people/592206"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "opponent": {
+            "id": 137,
+            "name": "San Francisco Giants",
+            "link": "/api/v1/teams/137"
+          },
+          "date": "2026-03-30",
+          "gameType": "R",
+          "isHome": true,
+          "isWin": false,
+          "positionsPlayed": [
+            {
+              "code": "10",
+              "name": "Designated Hitter",
+              "type": "Hitter",
+              "abbreviation": "DH"
+            }
+          ],
+          "game": {
+            "gamePk": 823320,
+            "link": "/api/v1.1/game/823320/feed/live",
+            "content": {
+              "link": "/api/v1/game/823320/content"
+            },
+            "gameNumber": 1,
+            "dayNight": "day"
+          }
+        },
+        {
+          "season": "2026",
+          "stat": {
+            "summary": "1-2 | 2B, BB",
+            "gamesPlayed": 1,
+            "flyOuts": 0,
+            "groundOuts": 0,
+            "airOuts": 1,
+            "runs": 0,
+            "doubles": 1,
+            "triples": 0,
+            "homeRuns": 0,
+            "strikeOuts": 0,
+            "baseOnBalls": 1,
+            "intentionalWalks": 0,
+            "hits": 1,
+            "hitByPitch": 0,
+            "avg": ".182",
+            "atBats": 2,
+            "obp": ".250",
+            "slg": ".273",
+            "ops": ".523",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 0,
+            "groundIntoTriplePlay": 0,
+            "numberOfPitches": 19,
+            "plateAppearances": 3,
+            "totalBases": 2,
+            "rbi": 0,
+            "leftOnBase": 0,
+            "sacBunts": 0,
+            "sacFlies": 0,
+            "babip": ".500",
+            "groundOutsToAirouts": "0.00",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "-.--"
+          },
+          "team": {
+            "id": 135,
+            "name": "San Diego Padres",
+            "link": "/api/v1/teams/135"
+          },
+          "player": {
+            "id": 592206,
+            "fullName": "Nick Castellanos",
+            "link": "/api/v1/people/592206"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "opponent": {
+            "id": 137,
+            "name": "San Francisco Giants",
+            "link": "/api/v1/teams/137"
+          },
+          "date": "2026-03-31",
+          "gameType": "R",
+          "isHome": true,
+          "isWin": false,
+          "positionsPlayed": [
+            {
+              "code": "7",
+              "name": "Outfielder",
+              "type": "Outfielder",
+              "abbreviation": "LF"
+            }
+          ],
+          "game": {
+            "gamePk": 823322,
+            "link": "/api/v1.1/game/823322/feed/live",
+            "content": {
+              "link": "/api/v1/game/823322/content"
+            },
+            "gameNumber": 1,
+            "dayNight": "day"
+          }
+        }
+      ]
+    }
+  ]
+}

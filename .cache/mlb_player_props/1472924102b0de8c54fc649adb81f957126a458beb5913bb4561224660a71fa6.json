@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 28,
+            "gamesPlayed": 136,
+            "groundOuts": 115,
+            "airOuts": 163,
+            "runs": 63,
+            "doubles": 29,
+            "triples": 0,
+            "homeRuns": 9,
+            "strikeOuts": 106,
+            "baseOnBalls": 54,
+            "intentionalWalks": 0,
+            "hits": 116,
+            "hitByPitch": 13,
+            "avg": ".233",
+            "atBats": 497,
+            "obp": ".323",
+            "slg": ".346",
+            "ops": ".669",
+            "caughtStealing": 4,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".000",
+            "caughtStealingPercentage": "1.000",
+            "groundIntoDoublePlay": 10,
+            "numberOfPitches": 2359,
+            "plateAppearances": 567,
+            "totalBases": 172,
+            "rbi": 45,
+            "leftOnBase": 153,
+            "sacBunts": 1,
+            "sacFlies": 2,
+            "babip": ".279",
+            "groundOutsToAirouts": "0.71",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "55.22"
+          },
+          "team": {
+            "id": 118,
+            "name": "Kansas City Royals",
+            "link": "/api/v1/teams/118"
+          },
+          "player": {
+            "id": 663697,
+            "fullName": "Jonathan India",
+            "link": "/api/v1/people/663697"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

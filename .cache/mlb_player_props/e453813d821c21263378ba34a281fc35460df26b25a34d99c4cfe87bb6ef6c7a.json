@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 24,
+            "gamesPlayed": 55,
+            "groundOuts": 52,
+            "airOuts": 49,
+            "runs": 28,
+            "doubles": 18,
+            "triples": 3,
+            "homeRuns": 5,
+            "strikeOuts": 48,
+            "baseOnBalls": 22,
+            "intentionalWalks": 0,
+            "hits": 61,
+            "hitByPitch": 2,
+            "avg": ".292",
+            "atBats": 209,
+            "obp": ".363",
+            "slg": ".478",
+            "ops": ".841",
+            "caughtStealing": 6,
+            "stolenBases": 14,
+            "stolenBasePercentage": ".700",
+            "caughtStealingPercentage": ".300",
+            "groundIntoDoublePlay": 2,
+            "numberOfPitches": 881,
+            "plateAppearances": 234,
+            "totalBases": 100,
+            "rbi": 33,
+            "leftOnBase": 71,
+            "sacBunts": 0,
+            "sacFlies": 1,
+            "babip": ".357",
+            "groundOutsToAirouts": "1.06",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "41.80"
+          },
+          "team": {
+            "id": 146,
+            "name": "Miami Marlins",
+            "link": "/api/v1/teams/146"
+          },
+          "player": {
+            "id": 805300,
+            "fullName": "Jakob Marsee",
+            "link": "/api/v1/people/805300"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

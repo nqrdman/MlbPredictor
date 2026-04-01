@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 23,
+            "gamesPlayed": 51,
+            "groundOuts": 61,
+            "airOuts": 55,
+            "runs": 17,
+            "doubles": 5,
+            "triples": 1,
+            "homeRuns": 2,
+            "strikeOuts": 24,
+            "baseOnBalls": 17,
+            "intentionalWalks": 0,
+            "hits": 40,
+            "hitByPitch": 0,
+            "avg": ".231",
+            "atBats": 173,
+            "obp": ".292",
+            "slg": ".306",
+            "ops": ".598",
+            "caughtStealing": 4,
+            "stolenBases": 3,
+            "stolenBasePercentage": ".429",
+            "caughtStealingPercentage": ".571",
+            "groundIntoDoublePlay": 2,
+            "numberOfPitches": 712,
+            "plateAppearances": 197,
+            "totalBases": 53,
+            "rbi": 16,
+            "leftOnBase": 86,
+            "sacBunts": 2,
+            "sacFlies": 5,
+            "babip": ".250",
+            "groundOutsToAirouts": "1.11",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "86.50"
+          },
+          "team": {
+            "id": 133,
+            "name": "Athletics",
+            "link": "/api/v1/teams/133"
+          },
+          "player": {
+            "id": 687231,
+            "fullName": "Darell Hernaiz",
+            "link": "/api/v1/people/687231"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

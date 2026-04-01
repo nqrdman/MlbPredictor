@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 27,
+            "gamesPlayed": 138,
+            "groundOuts": 129,
+            "airOuts": 124,
+            "runs": 57,
+            "doubles": 23,
+            "triples": 2,
+            "homeRuns": 15,
+            "strikeOuts": 138,
+            "baseOnBalls": 30,
+            "intentionalWalks": 0,
+            "hits": 117,
+            "hitByPitch": 0,
+            "avg": ".233",
+            "atBats": 502,
+            "obp": ".274",
+            "slg": ".376",
+            "ops": ".650",
+            "caughtStealing": 2,
+            "stolenBases": 18,
+            "stolenBasePercentage": ".900",
+            "caughtStealingPercentage": ".100",
+            "groundIntoDoublePlay": 14,
+            "numberOfPitches": 1957,
+            "plateAppearances": 538,
+            "totalBases": 189,
+            "rbi": 57,
+            "leftOnBase": 194,
+            "sacBunts": 2,
+            "sacFlies": 4,
+            "babip": ".289",
+            "groundOutsToAirouts": "1.04",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "33.47"
+          },
+          "team": {
+            "id": 115,
+            "name": "Colorado Rockies",
+            "link": "/api/v1/teams/115"
+          },
+          "player": {
+            "id": 686668,
+            "fullName": "Brenton Doyle",
+            "link": "/api/v1/people/686668"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

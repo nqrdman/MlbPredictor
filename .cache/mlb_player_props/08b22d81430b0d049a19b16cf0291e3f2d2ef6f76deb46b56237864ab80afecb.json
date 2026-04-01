@@ -1,0 +1,55 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 694377,
+      "fullName": "Nick Yorke",
+      "link": "/api/v1/people/694377",
+      "firstName": "Nicholas",
+      "lastName": "Yorke",
+      "primaryNumber": "38",
+      "birthDate": "2002-04-02",
+      "currentAge": 23,
+      "birthCity": "Newport Beach",
+      "birthStateProvince": "CA",
+      "birthCountry": "USA",
+      "height": "5' 11\"",
+      "weight": 220,
+      "active": true,
+      "primaryPosition": {
+        "code": "4",
+        "name": "Second Base",
+        "type": "Infielder",
+        "abbreviation": "2B"
+      },
+      "useName": "Nick",
+      "useLastName": "Yorke",
+      "middleName": "Anthony",
+      "boxscoreName": "Yorke",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2020,
+      "pronunciation": "YORK",
+      "mlbDebutDate": "2024-09-16",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Nick Yorke",
+      "nameSlug": "nick-yorke-694377",
+      "firstLastName": "Nick Yorke",
+      "lastFirstName": "Yorke, Nick",
+      "lastInitName": "Yorke, N",
+      "initLastName": "N Yorke",
+      "fullFMLName": "Nicholas Anthony Yorke",
+      "fullLFMName": "Yorke, Nicholas Anthony",
+      "strikeZoneTop": 3.19,
+      "strikeZoneBottom": 1.61
+    }
+  ]
+}

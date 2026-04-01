@@ -1,0 +1,451 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "gameLog"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "summary": "2-4 | 2B, BB, K",
+            "gamesPlayed": 1,
+            "flyOuts": 0,
+            "groundOuts": 1,
+            "airOuts": 0,
+            "runs": 0,
+            "doubles": 1,
+            "triples": 0,
+            "homeRuns": 0,
+            "strikeOuts": 1,
+            "baseOnBalls": 1,
+            "intentionalWalks": 0,
+            "hits": 2,
+            "hitByPitch": 0,
+            "avg": ".500",
+            "atBats": 4,
+            "obp": ".600",
+            "slg": ".750",
+            "ops": "1.350",
+            "caughtStealing": 1,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".000",
+            "caughtStealingPercentage": "1.000",
+            "groundIntoDoublePlay": 0,
+            "groundIntoTriplePlay": 0,
+            "numberOfPitches": 22,
+            "plateAppearances": 5,
+            "totalBases": 3,
+            "rbi": 0,
+            "leftOnBase": 4,
+            "sacBunts": 0,
+            "sacFlies": 0,
+            "babip": ".667",
+            "groundOutsToAirouts": "1.00",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "-.--"
+          },
+          "team": {
+            "id": 158,
+            "name": "Milwaukee Brewers",
+            "link": "/api/v1/teams/158"
+          },
+          "player": {
+            "id": 668930,
+            "fullName": "Brice Turang",
+            "link": "/api/v1/people/668930"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "opponent": {
+            "id": 145,
+            "name": "Chicago White Sox",
+            "link": "/api/v1/teams/145"
+          },
+          "date": "2026-03-26",
+          "gameType": "R",
+          "isHome": true,
+          "isWin": true,
+          "positionsPlayed": [
+            {
+              "code": "4",
+              "name": "Second Base",
+              "type": "Infielder",
+              "abbreviation": "2B"
+            }
+          ],
+          "game": {
+            "gamePk": 823812,
+            "link": "/api/v1.1/game/823812/feed/live",
+            "content": {
+              "link": "/api/v1/game/823812/content"
+            },
+            "gameNumber": 1,
+            "dayNight": "day"
+          }
+        },
+        {
+          "season": "2026",
+          "stat": {
+            "summary": "3-5 | 2 2B, 2 R",
+            "gamesPlayed": 1,
+            "flyOuts": 2,
+            "groundOuts": 0,
+            "airOuts": 2,
+            "runs": 2,
+            "doubles": 2,
+            "triples": 0,
+            "homeRuns": 0,
+            "strikeOuts": 0,
+            "baseOnBalls": 0,
+            "intentionalWalks": 0,
+            "hits": 3,
+            "hitByPitch": 0,
+            "avg": ".556",
+            "atBats": 5,
+            "obp": ".600",
+            "slg": ".889",
+            "ops": "1.489",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 0,
+            "groundIntoTriplePlay": 0,
+            "numberOfPitches": 18,
+            "plateAppearances": 5,
+            "totalBases": 5,
+            "rbi": 0,
+            "leftOnBase": 3,
+            "sacBunts": 0,
+            "sacFlies": 0,
+            "babip": ".600",
+            "groundOutsToAirouts": "0.00",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "-.--"
+          },
+          "team": {
+            "id": 158,
+            "name": "Milwaukee Brewers",
+            "link": "/api/v1/teams/158"
+          },
+          "player": {
+            "id": 668930,
+            "fullName": "Brice Turang",
+            "link": "/api/v1/people/668930"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "opponent": {
+            "id": 145,
+            "name": "Chicago White Sox",
+            "link": "/api/v1/teams/145"
+          },
+          "date": "2026-03-28",
+          "gameType": "R",
+          "isHome": true,
+          "isWin": true,
+          "positionsPlayed": [
+            {
+              "code": "4",
+              "name": "Second Base",
+              "type": "Infielder",
+              "abbreviation": "2B"
+            }
+          ],
+          "game": {
+            "gamePk": 823811,
+            "link": "/api/v1.1/game/823811/feed/live",
+            "content": {
+              "link": "/api/v1/game/823811/content"
+            },
+            "gameNumber": 1,
+            "dayNight": "day"
+          }
+        },
+        {
+          "season": "2026",
+          "stat": {
+            "summary": "1-5 | 2 K, RBI, R",
+            "gamesPlayed": 1,
+            "flyOuts": 0,
+            "groundOuts": 2,
+            "airOuts": 0,
+            "runs": 1,
+            "doubles": 0,
+            "triples": 0,
+            "homeRuns": 0,
+            "strikeOuts": 2,
+            "baseOnBalls": 0,
+            "intentionalWalks": 0,
+            "hits": 1,
+            "hitByPitch": 0,
+            "avg": ".429",
+            "atBats": 5,
+            "obp": ".467",
+            "slg": ".643",
+            "ops": "1.110",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 0,
+            "groundIntoTriplePlay": 0,
+            "numberOfPitches": 20,
+            "plateAppearances": 5,
+            "totalBases": 1,
+            "rbi": 1,
+            "leftOnBase": 3,
+            "sacBunts": 0,
+            "sacFlies": 0,
+            "babip": ".333",
+            "groundOutsToAirouts": "2.00",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "-.--"
+          },
+          "team": {
+            "id": 158,
+            "name": "Milwaukee Brewers",
+            "link": "/api/v1/teams/158"
+          },
+          "player": {
+            "id": 668930,
+            "fullName": "Brice Turang",
+            "link": "/api/v1/people/668930"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "opponent": {
+            "id": 145,
+            "name": "Chicago White Sox",
+            "link": "/api/v1/teams/145"
+          },
+          "date": "2026-03-29",
+          "gameType": "R",
+          "isHome": true,
+          "isWin": true,
+          "positionsPlayed": [
+            {
+              "code": "4",
+              "name": "Second Base",
+              "type": "Infielder",
+              "abbreviation": "2B"
+            }
+          ],
+          "game": {
+            "gamePk": 823810,
+            "link": "/api/v1.1/game/823810/feed/live",
+            "content": {
+              "link": "/api/v1/game/823810/content"
+            },
+            "gameNumber": 1,
+            "dayNight": "day"
+          }
+        },
+        {
+          "season": "2026",
+          "stat": {
+            "summary": "1-3 | 2B, BB, K",
+            "gamesPlayed": 1,
+            "flyOuts": 1,
+            "groundOuts": 0,
+            "airOuts": 1,
+            "runs": 1,
+            "doubles": 1,
+            "triples": 0,
+            "homeRuns": 0,
+            "strikeOuts": 1,
+            "baseOnBalls": 1,
+            "intentionalWalks": 0,
+            "hits": 1,
+            "hitByPitch": 0,
+            "avg": ".412",
+            "atBats": 3,
+            "obp": ".474",
+            "slg": ".647",
+            "ops": "1.121",
+            "caughtStealing": 0,
+            "stolenBases": 1,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 0,
+            "groundIntoTriplePlay": 0,
+            "numberOfPitches": 14,
+            "plateAppearances": 4,
+            "totalBases": 2,
+            "rbi": 0,
+            "leftOnBase": 1,
+            "sacBunts": 0,
+            "sacFlies": 0,
+            "babip": ".500",
+            "groundOutsToAirouts": "0.00",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "-.--"
+          },
+          "team": {
+            "id": 158,
+            "name": "Milwaukee Brewers",
+            "link": "/api/v1/teams/158"
+          },
+          "player": {
+            "id": 668930,
+            "fullName": "Brice Turang",
+            "link": "/api/v1/people/668930"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "opponent": {
+            "id": 139,
+            "name": "Tampa Bay Rays",
+            "link": "/api/v1/teams/139"
+          },
+          "date": "2026-03-30",
+          "gameType": "R",
+          "isHome": true,
+          "isWin": false,
+          "positionsPlayed": [
+            {
+              "code": "4",
+              "name": "Second Base",
+              "type": "Infielder",
+              "abbreviation": "2B"
+            }
+          ],
+          "game": {
+            "gamePk": 823809,
+            "link": "/api/v1.1/game/823809/feed/live",
+            "content": {
+              "link": "/api/v1/game/823809/content"
+            },
+            "gameNumber": 1,
+            "dayNight": "day"
+          }
+        },
+        {
+          "season": "2026",
+          "stat": {
+            "summary": "1-3 | BB, K, 2 RBI",
+            "gamesPlayed": 1,
+            "flyOuts": 0,
+            "groundOuts": 0,
+            "airOuts": 1,
+            "runs": 0,
+            "doubles": 0,
+            "triples": 0,
+            "homeRuns": 0,
+            "strikeOuts": 1,
+            "baseOnBalls": 1,
+            "intentionalWalks": 0,
+            "hits": 1,
+            "hitByPitch": 0,
+            "avg": ".400",
+            "atBats": 3,
+            "obp": ".478",
+            "slg": ".600",
+            "ops": "1.078",
+            "caughtStealing": 0,
+            "stolenBases": 1,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 0,
+            "groundIntoTriplePlay": 0,
+            "numberOfPitches": 16,
+            "plateAppearances": 4,
+            "totalBases": 1,
+            "rbi": 2,
+            "leftOnBase": 0,
+            "sacBunts": 0,
+            "sacFlies": 0,
+            "babip": ".500",
+            "groundOutsToAirouts": "0.00",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "-.--"
+          },
+          "team": {
+            "id": 158,
+            "name": "Milwaukee Brewers",
+            "link": "/api/v1/teams/158"
+          },
+          "player": {
+            "id": 668930,
+            "fullName": "Brice Turang",
+            "link": "/api/v1/people/668930"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "opponent": {
+            "id": 139,
+            "name": "Tampa Bay Rays",
+            "link": "/api/v1/teams/139"
+          },
+          "date": "2026-03-31",
+          "gameType": "R",
+          "isHome": true,
+          "isWin": true,
+          "positionsPlayed": [
+            {
+              "code": "4",
+              "name": "Second Base",
+              "type": "Infielder",
+              "abbreviation": "2B"
+            }
+          ],
+          "game": {
+            "gamePk": 823807,
+            "link": "/api/v1.1/game/823807/feed/live",
+            "content": {
+              "link": "/api/v1/game/823807/content"
+            },
+            "gameNumber": 1,
+            "dayNight": "day"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,451 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "gameLog"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "summary": "1-3 | BB, K",
+            "gamesPlayed": 1,
+            "flyOuts": 1,
+            "groundOuts": 0,
+            "airOuts": 1,
+            "runs": 0,
+            "doubles": 0,
+            "triples": 0,
+            "homeRuns": 0,
+            "strikeOuts": 1,
+            "baseOnBalls": 1,
+            "intentionalWalks": 0,
+            "hits": 1,
+            "hitByPitch": 0,
+            "avg": ".333",
+            "atBats": 3,
+            "obp": ".500",
+            "slg": ".333",
+            "ops": ".833",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 0,
+            "groundIntoTriplePlay": 0,
+            "numberOfPitches": 12,
+            "plateAppearances": 4,
+            "totalBases": 1,
+            "rbi": 0,
+            "leftOnBase": 1,
+            "sacBunts": 0,
+            "sacFlies": 0,
+            "babip": ".500",
+            "groundOutsToAirouts": "0.00",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "-.--"
+          },
+          "team": {
+            "id": 135,
+            "name": "San Diego Padres",
+            "link": "/api/v1/teams/135"
+          },
+          "player": {
+            "id": 592518,
+            "fullName": "Manny Machado",
+            "link": "/api/v1/people/592518"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "opponent": {
+            "id": 116,
+            "name": "Detroit Tigers",
+            "link": "/api/v1/teams/116"
+          },
+          "date": "2026-03-26",
+          "gameType": "R",
+          "isHome": true,
+          "isWin": false,
+          "positionsPlayed": [
+            {
+              "code": "5",
+              "name": "Third Base",
+              "type": "Infielder",
+              "abbreviation": "3B"
+            }
+          ],
+          "game": {
+            "gamePk": 823325,
+            "link": "/api/v1.1/game/823325/feed/live",
+            "content": {
+              "link": "/api/v1/game/823325/content"
+            },
+            "gameNumber": 1,
+            "dayNight": "day"
+          }
+        },
+        {
+          "season": "2026",
+          "stat": {
+            "summary": "1-3 | 2B, BB, R",
+            "gamesPlayed": 1,
+            "flyOuts": 0,
+            "groundOuts": 1,
+            "airOuts": 1,
+            "runs": 1,
+            "doubles": 1,
+            "triples": 0,
+            "homeRuns": 0,
+            "strikeOuts": 0,
+            "baseOnBalls": 1,
+            "intentionalWalks": 0,
+            "hits": 1,
+            "hitByPitch": 0,
+            "avg": ".333",
+            "atBats": 3,
+            "obp": ".500",
+            "slg": ".500",
+            "ops": "1.000",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 1,
+            "groundIntoTriplePlay": 0,
+            "numberOfPitches": 19,
+            "plateAppearances": 4,
+            "totalBases": 2,
+            "rbi": 0,
+            "leftOnBase": 1,
+            "sacBunts": 0,
+            "sacFlies": 0,
+            "babip": ".333",
+            "groundOutsToAirouts": "1.00",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "-.--"
+          },
+          "team": {
+            "id": 135,
+            "name": "San Diego Padres",
+            "link": "/api/v1/teams/135"
+          },
+          "player": {
+            "id": 592518,
+            "fullName": "Manny Machado",
+            "link": "/api/v1/people/592518"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "opponent": {
+            "id": 116,
+            "name": "Detroit Tigers",
+            "link": "/api/v1/teams/116"
+          },
+          "date": "2026-03-27",
+          "gameType": "R",
+          "isHome": true,
+          "isWin": false,
+          "positionsPlayed": [
+            {
+              "code": "5",
+              "name": "Third Base",
+              "type": "Infielder",
+              "abbreviation": "3B"
+            }
+          ],
+          "game": {
+            "gamePk": 823324,
+            "link": "/api/v1.1/game/823324/feed/live",
+            "content": {
+              "link": "/api/v1/game/823324/content"
+            },
+            "gameNumber": 1,
+            "dayNight": "day"
+          }
+        },
+        {
+          "season": "2026",
+          "stat": {
+            "summary": "0-2 | 2 BB, K",
+            "gamesPlayed": 1,
+            "flyOuts": 0,
+            "groundOuts": 1,
+            "airOuts": 0,
+            "runs": 0,
+            "doubles": 0,
+            "triples": 0,
+            "homeRuns": 0,
+            "strikeOuts": 1,
+            "baseOnBalls": 2,
+            "intentionalWalks": 0,
+            "hits": 0,
+            "hitByPitch": 0,
+            "avg": ".250",
+            "atBats": 2,
+            "obp": ".500",
+            "slg": ".375",
+            "ops": ".875",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 0,
+            "groundIntoTriplePlay": 0,
+            "numberOfPitches": 23,
+            "plateAppearances": 4,
+            "totalBases": 0,
+            "rbi": 0,
+            "leftOnBase": 0,
+            "sacBunts": 0,
+            "sacFlies": 0,
+            "babip": ".000",
+            "groundOutsToAirouts": "1.00",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "-.--"
+          },
+          "team": {
+            "id": 135,
+            "name": "San Diego Padres",
+            "link": "/api/v1/teams/135"
+          },
+          "player": {
+            "id": 592518,
+            "fullName": "Manny Machado",
+            "link": "/api/v1/people/592518"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "opponent": {
+            "id": 116,
+            "name": "Detroit Tigers",
+            "link": "/api/v1/teams/116"
+          },
+          "date": "2026-03-28",
+          "gameType": "R",
+          "isHome": true,
+          "isWin": true,
+          "positionsPlayed": [
+            {
+              "code": "5",
+              "name": "Third Base",
+              "type": "Infielder",
+              "abbreviation": "3B"
+            }
+          ],
+          "game": {
+            "gamePk": 823323,
+            "link": "/api/v1.1/game/823323/feed/live",
+            "content": {
+              "link": "/api/v1/game/823323/content"
+            },
+            "gameNumber": 1,
+            "dayNight": "day"
+          }
+        },
+        {
+          "season": "2026",
+          "stat": {
+            "summary": "0-4 | K",
+            "gamesPlayed": 1,
+            "flyOuts": 0,
+            "groundOuts": 3,
+            "airOuts": 0,
+            "runs": 0,
+            "doubles": 0,
+            "triples": 0,
+            "homeRuns": 0,
+            "strikeOuts": 1,
+            "baseOnBalls": 0,
+            "intentionalWalks": 0,
+            "hits": 0,
+            "hitByPitch": 0,
+            "avg": ".167",
+            "atBats": 4,
+            "obp": ".375",
+            "slg": ".250",
+            "ops": ".625",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 1,
+            "groundIntoTriplePlay": 0,
+            "numberOfPitches": 14,
+            "plateAppearances": 4,
+            "totalBases": 0,
+            "rbi": 0,
+            "leftOnBase": 3,
+            "sacBunts": 0,
+            "sacFlies": 0,
+            "babip": ".000",
+            "groundOutsToAirouts": "3.00",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "-.--"
+          },
+          "team": {
+            "id": 135,
+            "name": "San Diego Padres",
+            "link": "/api/v1/teams/135"
+          },
+          "player": {
+            "id": 592518,
+            "fullName": "Manny Machado",
+            "link": "/api/v1/people/592518"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "opponent": {
+            "id": 137,
+            "name": "San Francisco Giants",
+            "link": "/api/v1/teams/137"
+          },
+          "date": "2026-03-30",
+          "gameType": "R",
+          "isHome": true,
+          "isWin": false,
+          "positionsPlayed": [
+            {
+              "code": "5",
+              "name": "Third Base",
+              "type": "Infielder",
+              "abbreviation": "3B"
+            }
+          ],
+          "game": {
+            "gamePk": 823320,
+            "link": "/api/v1.1/game/823320/feed/live",
+            "content": {
+              "link": "/api/v1/game/823320/content"
+            },
+            "gameNumber": 1,
+            "dayNight": "day"
+          }
+        },
+        {
+          "season": "2026",
+          "stat": {
+            "summary": "0-2 | BB, K, R",
+            "gamesPlayed": 1,
+            "flyOuts": 1,
+            "groundOuts": 0,
+            "airOuts": 1,
+            "runs": 1,
+            "doubles": 0,
+            "triples": 0,
+            "homeRuns": 0,
+            "strikeOuts": 1,
+            "baseOnBalls": 1,
+            "intentionalWalks": 0,
+            "hits": 0,
+            "hitByPitch": 0,
+            "avg": ".143",
+            "atBats": 2,
+            "obp": ".368",
+            "slg": ".214",
+            "ops": ".582",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 0,
+            "groundIntoTriplePlay": 0,
+            "numberOfPitches": 13,
+            "plateAppearances": 3,
+            "totalBases": 0,
+            "rbi": 0,
+            "leftOnBase": 1,
+            "sacBunts": 0,
+            "sacFlies": 0,
+            "babip": ".000",
+            "groundOutsToAirouts": "0.00",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "-.--"
+          },
+          "team": {
+            "id": 135,
+            "name": "San Diego Padres",
+            "link": "/api/v1/teams/135"
+          },
+          "player": {
+            "id": 592518,
+            "fullName": "Manny Machado",
+            "link": "/api/v1/people/592518"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "opponent": {
+            "id": 137,
+            "name": "San Francisco Giants",
+            "link": "/api/v1/teams/137"
+          },
+          "date": "2026-03-31",
+          "gameType": "R",
+          "isHome": true,
+          "isWin": false,
+          "positionsPlayed": [
+            {
+              "code": "5",
+              "name": "Third Base",
+              "type": "Infielder",
+              "abbreviation": "3B"
+            }
+          ],
+          "game": {
+            "gamePk": 823322,
+            "link": "/api/v1.1/game/823322/feed/live",
+            "content": {
+              "link": "/api/v1/game/823322/content"
+            },
+            "gameNumber": 1,
+            "dayNight": "day"
+          }
+        }
+      ]
+    }
+  ]
+}

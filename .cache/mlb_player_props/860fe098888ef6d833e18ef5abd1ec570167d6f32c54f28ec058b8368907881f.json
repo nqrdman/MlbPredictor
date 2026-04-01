@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 23,
+            "gamesPlayed": 90,
+            "groundOuts": 87,
+            "airOuts": 80,
+            "runs": 45,
+            "doubles": 17,
+            "triples": 2,
+            "homeRuns": 14,
+            "strikeOuts": 85,
+            "baseOnBalls": 16,
+            "intentionalWalks": 0,
+            "hits": 89,
+            "hitByPitch": 3,
+            "avg": ".263",
+            "atBats": 339,
+            "obp": ".300",
+            "slg": ".448",
+            "ops": ".748",
+            "caughtStealing": 3,
+            "stolenBases": 10,
+            "stolenBasePercentage": ".769",
+            "caughtStealingPercentage": ".231",
+            "groundIntoDoublePlay": 7,
+            "numberOfPitches": 1267,
+            "plateAppearances": 360,
+            "totalBases": 152,
+            "rbi": 51,
+            "leftOnBase": 159,
+            "sacBunts": 0,
+            "sacFlies": 2,
+            "babip": ".310",
+            "groundOutsToAirouts": "1.09",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "24.21"
+          },
+          "team": {
+            "id": 113,
+            "name": "Cincinnati Reds",
+            "link": "/api/v1/teams/113"
+          },
+          "player": {
+            "id": 682622,
+            "fullName": "Noelvi Marte",
+            "link": "/api/v1/people/682622"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

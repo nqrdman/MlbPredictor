@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 24,
+            "gamesPlayed": 23,
+            "groundOuts": 14,
+            "airOuts": 15,
+            "runs": 7,
+            "doubles": 1,
+            "triples": 0,
+            "homeRuns": 2,
+            "strikeOuts": 28,
+            "baseOnBalls": 7,
+            "intentionalWalks": 0,
+            "hits": 9,
+            "hitByPitch": 0,
+            "avg": ".138",
+            "atBats": 65,
+            "obp": ".219",
+            "slg": ".246",
+            "ops": ".465",
+            "caughtStealing": 0,
+            "stolenBases": 2,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 2,
+            "numberOfPitches": 307,
+            "plateAppearances": 73,
+            "totalBases": 16,
+            "rbi": 8,
+            "leftOnBase": 32,
+            "sacBunts": 0,
+            "sacFlies": 1,
+            "babip": ".194",
+            "groundOutsToAirouts": "0.93",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "32.50"
+          },
+          "team": {
+            "id": 139,
+            "name": "Tampa Bay Rays",
+            "link": "/api/v1/teams/139"
+          },
+          "player": {
+            "id": 677592,
+            "fullName": "Everson Pereira",
+            "link": "/api/v1/people/677592"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

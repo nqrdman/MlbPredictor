@@ -1,0 +1,52 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 829272,
+      "fullName": "Shinnosuke Ogasawara",
+      "link": "/api/v1/people/829272",
+      "firstName": "Shinnosuke",
+      "lastName": "Ogasawara",
+      "primaryNumber": "16",
+      "birthDate": "1997-10-08",
+      "currentAge": 28,
+      "birthCity": "Fujisawa",
+      "birthCountry": "Japan",
+      "height": "5' 11\"",
+      "weight": 205,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Shinnosuke",
+      "useLastName": "Ogasawara",
+      "boxscoreName": "Ogasawara",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "pronunciation": "shin-OH-skeh og-ah-sah-wah-rah",
+      "mlbDebutDate": "2025-07-06",
+      "batSide": {
+        "code": "L",
+        "description": "Left"
+      },
+      "pitchHand": {
+        "code": "L",
+        "description": "Left"
+      },
+      "nameFirstLast": "Shinnosuke Ogasawara",
+      "nameSlug": "shinnosuke-ogasawara-829272",
+      "firstLastName": "Shinnosuke Ogasawara",
+      "lastFirstName": "Ogasawara, Shinnosuke",
+      "lastInitName": "Ogasawara, S",
+      "initLastName": "S Ogasawara",
+      "fullFMLName": "Shinnosuke Ogasawara",
+      "fullLFMName": "Ogasawara, Shinnosuke ",
+      "strikeZoneTop": 3.165,
+      "strikeZoneBottom": 1.598
+    }
+  ]
+}

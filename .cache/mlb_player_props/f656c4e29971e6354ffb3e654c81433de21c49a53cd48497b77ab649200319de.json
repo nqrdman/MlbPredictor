@@ -1,0 +1,122 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "gameLog"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "summary": "1.2 IP, 3 ER, 2 K, 2 BB",
+            "gamesPlayed": 1,
+            "gamesStarted": 1,
+            "flyOuts": 0,
+            "groundOuts": 2,
+            "airOuts": 1,
+            "runs": 4,
+            "doubles": 2,
+            "triples": 0,
+            "homeRuns": 0,
+            "strikeOuts": 2,
+            "baseOnBalls": 2,
+            "intentionalWalks": 0,
+            "hits": 3,
+            "hitByPitch": 0,
+            "avg": ".375",
+            "atBats": 8,
+            "obp": ".500",
+            "slg": ".625",
+            "ops": "1.125",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 0,
+            "numberOfPitches": 54,
+            "era": "16.20",
+            "inningsPitched": "1.2",
+            "wins": 0,
+            "losses": 1,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 3,
+            "whip": "3.00",
+            "battersFaced": 11,
+            "outs": 5,
+            "gamesPitched": 1,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 35,
+            "strikePercentage": ".650",
+            "hitBatsmen": 0,
+            "balks": 0,
+            "wildPitches": 0,
+            "pickoffs": 0,
+            "totalBases": 5,
+            "groundOutsToAirouts": "2.00",
+            "winPercentage": ".000",
+            "pitchesPerInning": "32.40",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "1.00",
+            "strikeoutsPer9Inn": "10.80",
+            "walksPer9Inn": "10.80",
+            "hitsPer9Inn": "16.20",
+            "runsScoredPer9": "21.60",
+            "homeRunsPer9": "0.00",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 1,
+            "sacBunts": 0,
+            "sacFlies": 0
+          },
+          "team": {
+            "id": 145,
+            "name": "Chicago White Sox",
+            "link": "/api/v1/teams/145"
+          },
+          "player": {
+            "id": 681343,
+            "fullName": "Shane Smith",
+            "link": "/api/v1/people/681343"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "opponent": {
+            "id": 158,
+            "name": "Milwaukee Brewers",
+            "link": "/api/v1/teams/158"
+          },
+          "date": "2026-03-26",
+          "gameType": "R",
+          "isHome": false,
+          "isWin": false,
+          "game": {
+            "gamePk": 823812,
+            "link": "/api/v1.1/game/823812/feed/live",
+            "content": {
+              "link": "/api/v1/game/823812/content"
+            },
+            "gameNumber": 1,
+            "dayNight": "day"
+          }
+        }
+      ]
+    }
+  ]
+}

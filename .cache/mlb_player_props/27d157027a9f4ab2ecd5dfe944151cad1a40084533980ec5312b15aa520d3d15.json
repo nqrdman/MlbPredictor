@@ -1,0 +1,538 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "gameLog"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "summary": "1-5 | HR, 3 K, RBI",
+            "gamesPlayed": 1,
+            "flyOuts": 1,
+            "groundOuts": 0,
+            "airOuts": 1,
+            "runs": 1,
+            "doubles": 0,
+            "triples": 0,
+            "homeRuns": 1,
+            "strikeOuts": 3,
+            "baseOnBalls": 0,
+            "intentionalWalks": 0,
+            "hits": 1,
+            "hitByPitch": 0,
+            "avg": ".200",
+            "atBats": 5,
+            "obp": ".200",
+            "slg": ".800",
+            "ops": "1.000",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 0,
+            "groundIntoTriplePlay": 0,
+            "numberOfPitches": 24,
+            "plateAppearances": 5,
+            "totalBases": 4,
+            "rbi": 1,
+            "leftOnBase": 3,
+            "sacBunts": 0,
+            "sacFlies": 0,
+            "babip": ".000",
+            "groundOutsToAirouts": "0.00",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "5.00"
+          },
+          "team": {
+            "id": 108,
+            "name": "Los Angeles Angels",
+            "link": "/api/v1/teams/108"
+          },
+          "player": {
+            "id": 694384,
+            "fullName": "Nolan Schanuel",
+            "link": "/api/v1/people/694384"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "opponent": {
+            "id": 117,
+            "name": "Houston Astros",
+            "link": "/api/v1/teams/117"
+          },
+          "date": "2026-03-26",
+          "gameType": "R",
+          "isHome": false,
+          "isWin": true,
+          "positionsPlayed": [
+            {
+              "code": "3",
+              "name": "First Base",
+              "type": "Infielder",
+              "abbreviation": "1B"
+            }
+          ],
+          "game": {
+            "gamePk": 824218,
+            "link": "/api/v1.1/game/824218/feed/live",
+            "content": {
+              "link": "/api/v1/game/824218/content"
+            },
+            "gameNumber": 1,
+            "dayNight": "day"
+          }
+        },
+        {
+          "season": "2026",
+          "stat": {
+            "summary": "2-3 | 2 BB",
+            "gamesPlayed": 1,
+            "flyOuts": 0,
+            "groundOuts": 1,
+            "airOuts": 0,
+            "runs": 0,
+            "doubles": 0,
+            "triples": 0,
+            "homeRuns": 0,
+            "strikeOuts": 0,
+            "baseOnBalls": 2,
+            "intentionalWalks": 0,
+            "hits": 2,
+            "hitByPitch": 0,
+            "avg": ".375",
+            "atBats": 3,
+            "obp": ".500",
+            "slg": ".750",
+            "ops": "1.250",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 1,
+            "groundIntoTriplePlay": 0,
+            "numberOfPitches": 22,
+            "plateAppearances": 5,
+            "totalBases": 2,
+            "rbi": 0,
+            "leftOnBase": 1,
+            "sacBunts": 0,
+            "sacFlies": 0,
+            "babip": ".667",
+            "groundOutsToAirouts": "1.00",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "-.--"
+          },
+          "team": {
+            "id": 108,
+            "name": "Los Angeles Angels",
+            "link": "/api/v1/teams/108"
+          },
+          "player": {
+            "id": 694384,
+            "fullName": "Nolan Schanuel",
+            "link": "/api/v1/people/694384"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "opponent": {
+            "id": 117,
+            "name": "Houston Astros",
+            "link": "/api/v1/teams/117"
+          },
+          "date": "2026-03-27",
+          "gameType": "R",
+          "isHome": false,
+          "isWin": true,
+          "positionsPlayed": [
+            {
+              "code": "3",
+              "name": "First Base",
+              "type": "Infielder",
+              "abbreviation": "1B"
+            }
+          ],
+          "game": {
+            "gamePk": 824216,
+            "link": "/api/v1.1/game/824216/feed/live",
+            "content": {
+              "link": "/api/v1/game/824216/content"
+            },
+            "gameNumber": 1,
+            "dayNight": "day"
+          }
+        },
+        {
+          "season": "2026",
+          "stat": {
+            "summary": "1-5 | HR, K, 3 RBI",
+            "gamesPlayed": 1,
+            "flyOuts": 2,
+            "groundOuts": 1,
+            "airOuts": 2,
+            "runs": 1,
+            "doubles": 0,
+            "triples": 0,
+            "homeRuns": 1,
+            "strikeOuts": 1,
+            "baseOnBalls": 0,
+            "intentionalWalks": 0,
+            "hits": 1,
+            "hitByPitch": 0,
+            "avg": ".308",
+            "atBats": 5,
+            "obp": ".400",
+            "slg": ".769",
+            "ops": "1.169",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 1,
+            "groundIntoTriplePlay": 0,
+            "numberOfPitches": 20,
+            "plateAppearances": 5,
+            "totalBases": 4,
+            "rbi": 3,
+            "leftOnBase": 4,
+            "sacBunts": 0,
+            "sacFlies": 0,
+            "babip": ".000",
+            "groundOutsToAirouts": "0.50",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "5.00"
+          },
+          "team": {
+            "id": 108,
+            "name": "Los Angeles Angels",
+            "link": "/api/v1/teams/108"
+          },
+          "player": {
+            "id": 694384,
+            "fullName": "Nolan Schanuel",
+            "link": "/api/v1/people/694384"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "opponent": {
+            "id": 117,
+            "name": "Houston Astros",
+            "link": "/api/v1/teams/117"
+          },
+          "date": "2026-03-28",
+          "gameType": "R",
+          "isHome": false,
+          "isWin": false,
+          "positionsPlayed": [
+            {
+              "code": "3",
+              "name": "First Base",
+              "type": "Infielder",
+              "abbreviation": "1B"
+            }
+          ],
+          "game": {
+            "gamePk": 824213,
+            "link": "/api/v1.1/game/824213/feed/live",
+            "content": {
+              "link": "/api/v1/game/824213/content"
+            },
+            "gameNumber": 1,
+            "dayNight": "day"
+          }
+        },
+        {
+          "season": "2026",
+          "stat": {
+            "summary": "1-3 | 2 BB, RBI, R",
+            "gamesPlayed": 1,
+            "flyOuts": 0,
+            "groundOuts": 1,
+            "airOuts": 1,
+            "runs": 1,
+            "doubles": 0,
+            "triples": 0,
+            "homeRuns": 0,
+            "strikeOuts": 0,
+            "baseOnBalls": 2,
+            "intentionalWalks": 0,
+            "hits": 1,
+            "hitByPitch": 0,
+            "avg": ".313",
+            "atBats": 3,
+            "obp": ".450",
+            "slg": ".688",
+            "ops": "1.138",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 0,
+            "groundIntoTriplePlay": 0,
+            "numberOfPitches": 23,
+            "plateAppearances": 5,
+            "totalBases": 1,
+            "rbi": 1,
+            "leftOnBase": 0,
+            "sacBunts": 0,
+            "sacFlies": 0,
+            "babip": ".333",
+            "groundOutsToAirouts": "1.00",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "-.--"
+          },
+          "team": {
+            "id": 108,
+            "name": "Los Angeles Angels",
+            "link": "/api/v1/teams/108"
+          },
+          "player": {
+            "id": 694384,
+            "fullName": "Nolan Schanuel",
+            "link": "/api/v1/people/694384"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "opponent": {
+            "id": 117,
+            "name": "Houston Astros",
+            "link": "/api/v1/teams/117"
+          },
+          "date": "2026-03-29",
+          "gameType": "R",
+          "isHome": false,
+          "isWin": false,
+          "positionsPlayed": [
+            {
+              "code": "3",
+              "name": "First Base",
+              "type": "Infielder",
+              "abbreviation": "1B"
+            }
+          ],
+          "game": {
+            "gamePk": 824215,
+            "link": "/api/v1.1/game/824215/feed/live",
+            "content": {
+              "link": "/api/v1/game/824215/content"
+            },
+            "gameNumber": 1,
+            "dayNight": "day"
+          }
+        },
+        {
+          "season": "2026",
+          "stat": {
+            "summary": "2-4",
+            "gamesPlayed": 1,
+            "flyOuts": 0,
+            "groundOuts": 1,
+            "airOuts": 1,
+            "runs": 0,
+            "doubles": 0,
+            "triples": 0,
+            "homeRuns": 0,
+            "strikeOuts": 0,
+            "baseOnBalls": 0,
+            "intentionalWalks": 0,
+            "hits": 2,
+            "hitByPitch": 0,
+            "avg": ".350",
+            "atBats": 4,
+            "obp": ".458",
+            "slg": ".650",
+            "ops": "1.108",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 0,
+            "groundIntoTriplePlay": 0,
+            "numberOfPitches": 14,
+            "plateAppearances": 4,
+            "totalBases": 2,
+            "rbi": 0,
+            "leftOnBase": 0,
+            "sacBunts": 0,
+            "sacFlies": 0,
+            "babip": ".500",
+            "groundOutsToAirouts": "1.00",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "-.--"
+          },
+          "team": {
+            "id": 108,
+            "name": "Los Angeles Angels",
+            "link": "/api/v1/teams/108"
+          },
+          "player": {
+            "id": 694384,
+            "fullName": "Nolan Schanuel",
+            "link": "/api/v1/people/694384"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "opponent": {
+            "id": 112,
+            "name": "Chicago Cubs",
+            "link": "/api/v1/teams/112"
+          },
+          "date": "2026-03-30",
+          "gameType": "R",
+          "isHome": false,
+          "isWin": false,
+          "positionsPlayed": [
+            {
+              "code": "3",
+              "name": "First Base",
+              "type": "Infielder",
+              "abbreviation": "1B"
+            }
+          ],
+          "game": {
+            "gamePk": 824702,
+            "link": "/api/v1.1/game/824702/feed/live",
+            "content": {
+              "link": "/api/v1/game/824702/content"
+            },
+            "gameNumber": 1,
+            "dayNight": "day"
+          }
+        },
+        {
+          "season": "2026",
+          "stat": {
+            "summary": "0-5",
+            "gamesPlayed": 1,
+            "flyOuts": 1,
+            "groundOuts": 3,
+            "airOuts": 2,
+            "runs": 0,
+            "doubles": 0,
+            "triples": 0,
+            "homeRuns": 0,
+            "strikeOuts": 0,
+            "baseOnBalls": 0,
+            "intentionalWalks": 0,
+            "hits": 0,
+            "hitByPitch": 0,
+            "avg": ".280",
+            "atBats": 5,
+            "obp": ".379",
+            "slg": ".520",
+            "ops": ".899",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 0,
+            "groundIntoTriplePlay": 0,
+            "numberOfPitches": 22,
+            "plateAppearances": 5,
+            "totalBases": 0,
+            "rbi": 0,
+            "leftOnBase": 6,
+            "sacBunts": 0,
+            "sacFlies": 0,
+            "babip": ".000",
+            "groundOutsToAirouts": "1.50",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "-.--"
+          },
+          "team": {
+            "id": 108,
+            "name": "Los Angeles Angels",
+            "link": "/api/v1/teams/108"
+          },
+          "player": {
+            "id": 694384,
+            "fullName": "Nolan Schanuel",
+            "link": "/api/v1/people/694384"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "opponent": {
+            "id": 112,
+            "name": "Chicago Cubs",
+            "link": "/api/v1/teams/112"
+          },
+          "date": "2026-03-31",
+          "gameType": "R",
+          "isHome": false,
+          "isWin": true,
+          "positionsPlayed": [
+            {
+              "code": "3",
+              "name": "First Base",
+              "type": "Infielder",
+              "abbreviation": "1B"
+            }
+          ],
+          "game": {
+            "gamePk": 824699,
+            "link": "/api/v1.1/game/824699/feed/live",
+            "content": {
+              "link": "/api/v1/game/824699/content"
+            },
+            "gameNumber": 1,
+            "dayNight": "day"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 24,
+            "gamesPlayed": 160,
+            "groundOuts": 193,
+            "airOuts": 149,
+            "runs": 55,
+            "doubles": 26,
+            "triples": 6,
+            "homeRuns": 20,
+            "strikeOuts": 128,
+            "baseOnBalls": 16,
+            "intentionalWalks": 1,
+            "hits": 152,
+            "hitByPitch": 3,
+            "avg": ".249",
+            "atBats": 611,
+            "obp": ".268",
+            "slg": ".409",
+            "ops": ".677",
+            "caughtStealing": 6,
+            "stolenBases": 20,
+            "stolenBasePercentage": ".769",
+            "caughtStealingPercentage": ".231",
+            "groundIntoDoublePlay": 7,
+            "numberOfPitches": 2177,
+            "plateAppearances": 641,
+            "totalBases": 250,
+            "rbi": 86,
+            "leftOnBase": 307,
+            "sacBunts": 4,
+            "sacFlies": 7,
+            "babip": ".281",
+            "groundOutsToAirouts": "1.30",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "30.55"
+          },
+          "team": {
+            "id": 144,
+            "name": "Atlanta Braves",
+            "link": "/api/v1/teams/144"
+          },
+          "player": {
+            "id": 671739,
+            "fullName": "Michael Harris II",
+            "link": "/api/v1/people/671739"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

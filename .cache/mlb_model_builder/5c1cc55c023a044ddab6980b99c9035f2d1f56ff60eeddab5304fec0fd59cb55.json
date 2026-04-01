@@ -1,0 +1,56 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 802419,
+      "fullName": "Thomas Harrington",
+      "link": "/api/v1/people/802419",
+      "firstName": "Tom",
+      "lastName": "Harrington",
+      "primaryNumber": "78",
+      "birthDate": "2001-07-12",
+      "currentAge": 24,
+      "birthCity": "Sanford",
+      "birthStateProvince": "NC",
+      "birthCountry": "USA",
+      "height": "6' 2\"",
+      "weight": 210,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Thomas",
+      "useLastName": "Harrington",
+      "middleName": "Hinson",
+      "boxscoreName": "Harrington",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2022,
+      "mlbDebutDate": "2025-04-01",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Thomas Harrington",
+      "nameTitle": "III",
+      "nameSuffix": "III",
+      "nameSlug": "thomas-harrington-802419",
+      "firstLastName": "Thomas Harrington",
+      "lastFirstName": "Harrington, Thomas",
+      "lastInitName": "Harrington, T",
+      "initLastName": "T Harrington",
+      "fullFMLName": "Tom Hinson Harrington",
+      "fullLFMName": "Harrington, Tom Hinson",
+      "strikeZoneTop": 3.299,
+      "strikeZoneBottom": 1.665
+    }
+  ]
+}

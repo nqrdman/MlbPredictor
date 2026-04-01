@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 23,
+            "gamesPlayed": 71,
+            "groundOuts": 50,
+            "airOuts": 62,
+            "runs": 43,
+            "doubles": 9,
+            "triples": 1,
+            "homeRuns": 21,
+            "strikeOuts": 83,
+            "baseOnBalls": 25,
+            "intentionalWalks": 1,
+            "hits": 61,
+            "hitByPitch": 2,
+            "avg": ".239",
+            "atBats": 255,
+            "obp": ".311",
+            "slg": ".529",
+            "ops": ".840",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 3,
+            "numberOfPitches": 1082,
+            "plateAppearances": 284,
+            "totalBases": 135,
+            "rbi": 55,
+            "leftOnBase": 134,
+            "sacBunts": 0,
+            "sacFlies": 1,
+            "babip": ".263",
+            "groundOutsToAirouts": "0.81",
+            "catchersInterference": 1,
+            "atBatsPerHomeRun": "12.14"
+          },
+          "team": {
+            "id": 145,
+            "name": "Chicago White Sox",
+            "link": "/api/v1/teams/145"
+          },
+          "player": {
+            "id": 695657,
+            "fullName": "Colson Montgomery",
+            "link": "/api/v1/people/695657"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

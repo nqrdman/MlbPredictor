@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 24,
+            "gamesPlayed": 139,
+            "groundOuts": 138,
+            "airOuts": 147,
+            "runs": 50,
+            "doubles": 15,
+            "triples": 1,
+            "homeRuns": 16,
+            "strikeOuts": 92,
+            "baseOnBalls": 31,
+            "intentionalWalks": 0,
+            "hits": 115,
+            "hitByPitch": 4,
+            "avg": ".236",
+            "atBats": 487,
+            "obp": ".285",
+            "slg": ".370",
+            "ops": ".655",
+            "caughtStealing": 1,
+            "stolenBases": 3,
+            "stolenBasePercentage": ".750",
+            "caughtStealingPercentage": ".250",
+            "groundIntoDoublePlay": 11,
+            "numberOfPitches": 2009,
+            "plateAppearances": 527,
+            "totalBases": 180,
+            "rbi": 64,
+            "leftOnBase": 209,
+            "sacBunts": 0,
+            "sacFlies": 5,
+            "babip": ".258",
+            "groundOutsToAirouts": "0.94",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "30.44"
+          },
+          "team": {
+            "id": 142,
+            "name": "Minnesota Twins",
+            "link": "/api/v1/teams/142"
+          },
+          "player": {
+            "id": 686797,
+            "fullName": "Brooks Lee",
+            "link": "/api/v1/people/686797"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

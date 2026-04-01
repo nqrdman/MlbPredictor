@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 657376,
+      "fullName": "Clarke Schmidt",
+      "link": "/api/v1/people/657376",
+      "firstName": "Clarke",
+      "lastName": "Schmidt",
+      "primaryNumber": "36",
+      "birthDate": "1996-02-20",
+      "currentAge": 30,
+      "birthCity": "Acworth",
+      "birthStateProvince": "GA",
+      "birthCountry": "USA",
+      "height": "6' 1\"",
+      "weight": 210,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Clarke",
+      "useLastName": "Schmidt",
+      "middleName": "D.",
+      "boxscoreName": "Schmidt",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2017,
+      "mlbDebutDate": "2020-09-04",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Clarke Schmidt",
+      "nameSlug": "clarke-schmidt-657376",
+      "firstLastName": "Clarke Schmidt",
+      "lastFirstName": "Schmidt, Clarke",
+      "lastInitName": "Schmidt, C",
+      "initLastName": "C Schmidt",
+      "fullFMLName": "Clarke D. Schmidt",
+      "fullLFMName": "Schmidt, Clarke D.",
+      "strikeZoneTop": 3.255,
+      "strikeZoneBottom": 1.643
+    }
+  ]
+}

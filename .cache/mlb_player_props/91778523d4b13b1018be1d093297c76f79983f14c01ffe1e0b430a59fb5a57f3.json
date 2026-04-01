@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 25,
+            "gamesPlayed": 157,
+            "groundOuts": 124,
+            "airOuts": 197,
+            "runs": 99,
+            "doubles": 47,
+            "triples": 6,
+            "homeRuns": 23,
+            "strikeOuts": 125,
+            "baseOnBalls": 49,
+            "intentionalWalks": 8,
+            "hits": 184,
+            "hitByPitch": 8,
+            "avg": ".295",
+            "atBats": 623,
+            "obp": ".351",
+            "slg": ".501",
+            "ops": ".852",
+            "caughtStealing": 9,
+            "stolenBases": 38,
+            "stolenBasePercentage": ".809",
+            "caughtStealingPercentage": ".191",
+            "groundIntoDoublePlay": 7,
+            "numberOfPitches": 2511,
+            "plateAppearances": 687,
+            "totalBases": 312,
+            "rbi": 88,
+            "leftOnBase": 235,
+            "sacBunts": 0,
+            "sacFlies": 7,
+            "babip": ".334",
+            "groundOutsToAirouts": "0.63",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "27.09"
+          },
+          "team": {
+            "id": 118,
+            "name": "Kansas City Royals",
+            "link": "/api/v1/teams/118"
+          },
+          "player": {
+            "id": 677951,
+            "fullName": "Bobby Witt Jr.",
+            "link": "/api/v1/people/677951"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

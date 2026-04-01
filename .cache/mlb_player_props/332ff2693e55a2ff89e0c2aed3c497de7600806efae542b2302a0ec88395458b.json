@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 21,
+            "gamesPlayed": 154,
+            "groundOuts": 169,
+            "airOuts": 156,
+            "runs": 93,
+            "doubles": 28,
+            "triples": 0,
+            "homeRuns": 45,
+            "strikeOuts": 125,
+            "baseOnBalls": 41,
+            "intentionalWalks": 1,
+            "hits": 159,
+            "hitByPitch": 3,
+            "avg": ".264",
+            "atBats": 602,
+            "obp": ".311",
+            "slg": ".535",
+            "ops": ".846",
+            "caughtStealing": 1,
+            "stolenBases": 7,
+            "stolenBasePercentage": ".875",
+            "caughtStealingPercentage": ".125",
+            "groundIntoDoublePlay": 31,
+            "numberOfPitches": 2494,
+            "plateAppearances": 653,
+            "totalBases": 322,
+            "rbi": 110,
+            "leftOnBase": 268,
+            "sacBunts": 0,
+            "sacFlies": 7,
+            "babip": ".260",
+            "groundOutsToAirouts": "1.08",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "13.38"
+          },
+          "team": {
+            "id": 139,
+            "name": "Tampa Bay Rays",
+            "link": "/api/v1/teams/139"
+          },
+          "player": {
+            "id": 691406,
+            "fullName": "Junior Caminero",
+            "link": "/api/v1/people/691406"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

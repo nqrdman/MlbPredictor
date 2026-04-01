@@ -1,0 +1,122 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "gameLog"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "summary": "6.2 IP, 3 ER, 8 K, 3 BB",
+            "gamesPlayed": 1,
+            "gamesStarted": 1,
+            "flyOuts": 4,
+            "groundOuts": 4,
+            "airOuts": 5,
+            "runs": 3,
+            "doubles": 0,
+            "triples": 0,
+            "homeRuns": 1,
+            "strikeOuts": 8,
+            "baseOnBalls": 3,
+            "intentionalWalks": 0,
+            "hits": 8,
+            "hitByPitch": 0,
+            "avg": ".320",
+            "atBats": 25,
+            "obp": ".393",
+            "slg": ".440",
+            "ops": ".833",
+            "caughtStealing": 0,
+            "stolenBases": 1,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 2,
+            "numberOfPitches": 101,
+            "era": "4.05",
+            "inningsPitched": "6.2",
+            "wins": 1,
+            "losses": 0,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 3,
+            "whip": "1.65",
+            "battersFaced": 28,
+            "outs": 20,
+            "gamesPitched": 1,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 69,
+            "strikePercentage": ".680",
+            "hitBatsmen": 0,
+            "balks": 0,
+            "wildPitches": 0,
+            "pickoffs": 0,
+            "totalBases": 11,
+            "groundOutsToAirouts": "0.80",
+            "winPercentage": "1.000",
+            "pitchesPerInning": "15.15",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "2.67",
+            "strikeoutsPer9Inn": "10.80",
+            "walksPer9Inn": "4.05",
+            "hitsPer9Inn": "10.80",
+            "runsScoredPer9": "4.05",
+            "homeRunsPer9": "1.35",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 0,
+            "sacFlies": 0
+          },
+          "team": {
+            "id": 111,
+            "name": "Boston Red Sox",
+            "link": "/api/v1/teams/111"
+          },
+          "player": {
+            "id": 592254,
+            "fullName": "Jos\u00e9 De Le\u00f3n",
+            "link": "/api/v1/people/592254"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "opponent": {
+            "id": 116,
+            "name": "Detroit Tigers",
+            "link": "/api/v1/teams/116"
+          },
+          "date": "2025-09-28",
+          "gameType": "R",
+          "isHome": true,
+          "isWin": true,
+          "game": {
+            "gamePk": 776151,
+            "link": "/api/v1.1/game/776151/feed/live",
+            "content": {
+              "link": "/api/v1/game/776151/content"
+            },
+            "gameNumber": 1,
+            "dayNight": "day"
+          }
+        }
+      ]
+    }
+  ]
+}

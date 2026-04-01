@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 33,
+            "gamesPlayed": 96,
+            "groundOuts": 68,
+            "airOuts": 85,
+            "runs": 28,
+            "doubles": 10,
+            "triples": 1,
+            "homeRuns": 9,
+            "strikeOuts": 65,
+            "baseOnBalls": 34,
+            "intentionalWalks": 0,
+            "hits": 48,
+            "hitByPitch": 5,
+            "avg": ".181",
+            "atBats": 265,
+            "obp": ".285",
+            "slg": ".328",
+            "ops": ".613",
+            "caughtStealing": 0,
+            "stolenBases": 2,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 5,
+            "numberOfPitches": 1237,
+            "plateAppearances": 306,
+            "totalBases": 87,
+            "rbi": 26,
+            "leftOnBase": 135,
+            "sacBunts": 0,
+            "sacFlies": 1,
+            "babip": ".203",
+            "groundOutsToAirouts": "0.80",
+            "catchersInterference": 1,
+            "atBatsPerHomeRun": "29.44"
+          },
+          "team": {
+            "id": 140,
+            "name": "Texas Rangers",
+            "link": "/api/v1/teams/140"
+          },
+          "player": {
+            "id": 592626,
+            "fullName": "Joc Pederson",
+            "link": "/api/v1/people/592626"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,451 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "gameLog"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "summary": "1-5 | 3 K, R",
+            "gamesPlayed": 1,
+            "flyOuts": 0,
+            "groundOuts": 1,
+            "airOuts": 0,
+            "runs": 1,
+            "doubles": 0,
+            "triples": 0,
+            "homeRuns": 0,
+            "strikeOuts": 3,
+            "baseOnBalls": 0,
+            "intentionalWalks": 0,
+            "hits": 1,
+            "hitByPitch": 0,
+            "avg": ".200",
+            "atBats": 5,
+            "obp": ".200",
+            "slg": ".200",
+            "ops": ".400",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 0,
+            "groundIntoTriplePlay": 0,
+            "numberOfPitches": 27,
+            "plateAppearances": 5,
+            "totalBases": 1,
+            "rbi": 0,
+            "leftOnBase": 2,
+            "sacBunts": 0,
+            "sacFlies": 0,
+            "babip": ".500",
+            "groundOutsToAirouts": "1.00",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "-.--"
+          },
+          "team": {
+            "id": 134,
+            "name": "Pittsburgh Pirates",
+            "link": "/api/v1/teams/134"
+          },
+          "player": {
+            "id": 665833,
+            "fullName": "Oneil Cruz",
+            "link": "/api/v1/people/665833"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "opponent": {
+            "id": 121,
+            "name": "New York Mets",
+            "link": "/api/v1/teams/121"
+          },
+          "date": "2026-03-26",
+          "gameType": "R",
+          "isHome": false,
+          "isWin": false,
+          "positionsPlayed": [
+            {
+              "code": "8",
+              "name": "Outfielder",
+              "type": "Outfielder",
+              "abbreviation": "CF"
+            }
+          ],
+          "game": {
+            "gamePk": 823649,
+            "link": "/api/v1.1/game/823649/feed/live",
+            "content": {
+              "link": "/api/v1/game/823649/content"
+            },
+            "gameNumber": 1,
+            "dayNight": "day"
+          }
+        },
+        {
+          "season": "2026",
+          "stat": {
+            "summary": "0-1 | K",
+            "gamesPlayed": 1,
+            "flyOuts": 0,
+            "groundOuts": 0,
+            "airOuts": 0,
+            "runs": 0,
+            "doubles": 0,
+            "triples": 0,
+            "homeRuns": 0,
+            "strikeOuts": 1,
+            "baseOnBalls": 0,
+            "intentionalWalks": 0,
+            "hits": 0,
+            "hitByPitch": 0,
+            "avg": ".167",
+            "atBats": 1,
+            "obp": ".167",
+            "slg": ".167",
+            "ops": ".334",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 0,
+            "groundIntoTriplePlay": 0,
+            "numberOfPitches": 4,
+            "plateAppearances": 1,
+            "totalBases": 0,
+            "rbi": 0,
+            "leftOnBase": 0,
+            "sacBunts": 0,
+            "sacFlies": 0,
+            "babip": ".---",
+            "groundOutsToAirouts": "-.--",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "-.--"
+          },
+          "team": {
+            "id": 134,
+            "name": "Pittsburgh Pirates",
+            "link": "/api/v1/teams/134"
+          },
+          "player": {
+            "id": 665833,
+            "fullName": "Oneil Cruz",
+            "link": "/api/v1/people/665833"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "opponent": {
+            "id": 121,
+            "name": "New York Mets",
+            "link": "/api/v1/teams/121"
+          },
+          "date": "2026-03-28",
+          "gameType": "R",
+          "isHome": false,
+          "isWin": false,
+          "positionsPlayed": [
+            {
+              "code": "11",
+              "name": "Pinch Hitter",
+              "type": "Hitter",
+              "abbreviation": "PH"
+            }
+          ],
+          "game": {
+            "gamePk": 823651,
+            "link": "/api/v1.1/game/823651/feed/live",
+            "content": {
+              "link": "/api/v1/game/823651/content"
+            },
+            "gameNumber": 1,
+            "dayNight": "day"
+          }
+        },
+        {
+          "season": "2026",
+          "stat": {
+            "summary": "1-4 | BB, 2 K, R",
+            "gamesPlayed": 1,
+            "flyOuts": 0,
+            "groundOuts": 1,
+            "airOuts": 0,
+            "runs": 1,
+            "doubles": 0,
+            "triples": 0,
+            "homeRuns": 0,
+            "strikeOuts": 2,
+            "baseOnBalls": 1,
+            "intentionalWalks": 0,
+            "hits": 1,
+            "hitByPitch": 0,
+            "avg": ".200",
+            "atBats": 4,
+            "obp": ".273",
+            "slg": ".200",
+            "ops": ".473",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 0,
+            "groundIntoTriplePlay": 0,
+            "numberOfPitches": 23,
+            "plateAppearances": 5,
+            "totalBases": 1,
+            "rbi": 0,
+            "leftOnBase": 1,
+            "sacBunts": 0,
+            "sacFlies": 0,
+            "babip": ".500",
+            "groundOutsToAirouts": "1.00",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "-.--"
+          },
+          "team": {
+            "id": 134,
+            "name": "Pittsburgh Pirates",
+            "link": "/api/v1/teams/134"
+          },
+          "player": {
+            "id": 665833,
+            "fullName": "Oneil Cruz",
+            "link": "/api/v1/people/665833"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "opponent": {
+            "id": 121,
+            "name": "New York Mets",
+            "link": "/api/v1/teams/121"
+          },
+          "date": "2026-03-29",
+          "gameType": "R",
+          "isHome": false,
+          "isWin": true,
+          "positionsPlayed": [
+            {
+              "code": "8",
+              "name": "Outfielder",
+              "type": "Outfielder",
+              "abbreviation": "CF"
+            }
+          ],
+          "game": {
+            "gamePk": 823647,
+            "link": "/api/v1.1/game/823647/feed/live",
+            "content": {
+              "link": "/api/v1/game/823647/content"
+            },
+            "gameNumber": 1,
+            "dayNight": "day"
+          }
+        },
+        {
+          "season": "2026",
+          "stat": {
+            "summary": "0-4 | 2 K",
+            "gamesPlayed": 1,
+            "flyOuts": 0,
+            "groundOuts": 1,
+            "airOuts": 1,
+            "runs": 0,
+            "doubles": 0,
+            "triples": 0,
+            "homeRuns": 0,
+            "strikeOuts": 2,
+            "baseOnBalls": 0,
+            "intentionalWalks": 0,
+            "hits": 0,
+            "hitByPitch": 0,
+            "avg": ".143",
+            "atBats": 4,
+            "obp": ".200",
+            "slg": ".143",
+            "ops": ".343",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 0,
+            "groundIntoTriplePlay": 0,
+            "numberOfPitches": 16,
+            "plateAppearances": 4,
+            "totalBases": 0,
+            "rbi": 0,
+            "leftOnBase": 1,
+            "sacBunts": 0,
+            "sacFlies": 0,
+            "babip": ".000",
+            "groundOutsToAirouts": "1.00",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "-.--"
+          },
+          "team": {
+            "id": 134,
+            "name": "Pittsburgh Pirates",
+            "link": "/api/v1/teams/134"
+          },
+          "player": {
+            "id": 665833,
+            "fullName": "Oneil Cruz",
+            "link": "/api/v1/people/665833"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "opponent": {
+            "id": 113,
+            "name": "Cincinnati Reds",
+            "link": "/api/v1/teams/113"
+          },
+          "date": "2026-03-30",
+          "gameType": "R",
+          "isHome": false,
+          "isWin": false,
+          "positionsPlayed": [
+            {
+              "code": "8",
+              "name": "Outfielder",
+              "type": "Outfielder",
+              "abbreviation": "CF"
+            }
+          ],
+          "game": {
+            "gamePk": 824539,
+            "link": "/api/v1.1/game/824539/feed/live",
+            "content": {
+              "link": "/api/v1/game/824539/content"
+            },
+            "gameNumber": 1,
+            "dayNight": "day"
+          }
+        },
+        {
+          "season": "2026",
+          "stat": {
+            "summary": "3-4 | 2 HR, K, 3 RBI",
+            "gamesPlayed": 1,
+            "flyOuts": 0,
+            "groundOuts": 0,
+            "airOuts": 0,
+            "runs": 3,
+            "doubles": 0,
+            "triples": 0,
+            "homeRuns": 2,
+            "strikeOuts": 1,
+            "baseOnBalls": 0,
+            "intentionalWalks": 0,
+            "hits": 3,
+            "hitByPitch": 0,
+            "avg": ".278",
+            "atBats": 4,
+            "obp": ".316",
+            "slg": ".611",
+            "ops": ".927",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 0,
+            "groundIntoTriplePlay": 0,
+            "numberOfPitches": 15,
+            "plateAppearances": 4,
+            "totalBases": 9,
+            "rbi": 3,
+            "leftOnBase": 0,
+            "sacBunts": 0,
+            "sacFlies": 0,
+            "babip": "1.000",
+            "groundOutsToAirouts": "-.--",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "2.00"
+          },
+          "team": {
+            "id": 134,
+            "name": "Pittsburgh Pirates",
+            "link": "/api/v1/teams/134"
+          },
+          "player": {
+            "id": 665833,
+            "fullName": "Oneil Cruz",
+            "link": "/api/v1/people/665833"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "opponent": {
+            "id": 113,
+            "name": "Cincinnati Reds",
+            "link": "/api/v1/teams/113"
+          },
+          "date": "2026-03-31",
+          "gameType": "R",
+          "isHome": false,
+          "isWin": true,
+          "positionsPlayed": [
+            {
+              "code": "8",
+              "name": "Outfielder",
+              "type": "Outfielder",
+              "abbreviation": "CF"
+            }
+          ],
+          "game": {
+            "gamePk": 824537,
+            "link": "/api/v1.1/game/824537/feed/live",
+            "content": {
+              "link": "/api/v1/game/824537/content"
+            },
+            "gameNumber": 1,
+            "dayNight": "day"
+          }
+        }
+      ]
+    }
+  ]
+}

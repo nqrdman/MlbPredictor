@@ -1,0 +1,55 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 663399,
+      "fullName": "Brandon Waddell",
+      "link": "/api/v1/people/663399",
+      "firstName": "Brandon",
+      "lastName": "Waddell",
+      "primaryNumber": "82",
+      "birthDate": "1994-06-03",
+      "currentAge": 31,
+      "birthCity": "Houston",
+      "birthStateProvince": "TX",
+      "birthCountry": "USA",
+      "height": "6' 3\"",
+      "weight": 180,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Brandon",
+      "useLastName": "Waddell",
+      "middleName": "David",
+      "boxscoreName": "Waddell",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2015,
+      "pronunciation": "wah-DEHL",
+      "mlbDebutDate": "2020-08-14",
+      "batSide": {
+        "code": "L",
+        "description": "Left"
+      },
+      "pitchHand": {
+        "code": "L",
+        "description": "Left"
+      },
+      "nameFirstLast": "Brandon Waddell",
+      "nameSlug": "brandon-waddell-663399",
+      "firstLastName": "Brandon Waddell",
+      "lastFirstName": "Waddell, Brandon",
+      "lastInitName": "Waddell, B",
+      "initLastName": "B Waddell",
+      "fullFMLName": "Brandon David Waddell",
+      "fullLFMName": "Waddell, Brandon David",
+      "strikeZoneTop": 3.344,
+      "strikeZoneBottom": 1.688
+    }
+  ]
+}

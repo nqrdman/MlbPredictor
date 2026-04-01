@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 32,
+            "gamesPlayed": 157,
+            "groundOuts": 129,
+            "airOuts": 148,
+            "runs": 91,
+            "doubles": 29,
+            "triples": 0,
+            "homeRuns": 25,
+            "strikeOuts": 176,
+            "baseOnBalls": 33,
+            "intentionalWalks": 1,
+            "hits": 161,
+            "hitByPitch": 7,
+            "avg": ".263",
+            "atBats": 612,
+            "obp": ".308",
+            "slg": ".433",
+            "ops": ".741",
+            "caughtStealing": 1,
+            "stolenBases": 31,
+            "stolenBasePercentage": ".969",
+            "caughtStealingPercentage": ".031",
+            "groundIntoDoublePlay": 3,
+            "numberOfPitches": 2472,
+            "plateAppearances": 654,
+            "totalBases": 265,
+            "rbi": 96,
+            "leftOnBase": 259,
+            "sacBunts": 1,
+            "sacFlies": 1,
+            "babip": ".330",
+            "groundOutsToAirouts": "0.87",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "24.48"
+          },
+          "team": {
+            "id": 111,
+            "name": "Boston Red Sox",
+            "link": "/api/v1/teams/111"
+          },
+          "player": {
+            "id": 596115,
+            "fullName": "Trevor Story",
+            "link": "/api/v1/people/596115"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

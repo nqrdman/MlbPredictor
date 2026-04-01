@@ -1,0 +1,53 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 686642,
+      "fullName": "Fraser Ellard",
+      "link": "/api/v1/people/686642",
+      "firstName": "Fraser",
+      "lastName": "Ellard",
+      "primaryNumber": "55",
+      "birthDate": "1997-11-06",
+      "currentAge": 28,
+      "birthCity": "Roswell",
+      "birthStateProvince": "GA",
+      "birthCountry": "USA",
+      "height": "6' 3\"",
+      "weight": 220,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Fraser",
+      "useLastName": "Ellard",
+      "boxscoreName": "Ellard",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2021,
+      "mlbDebutDate": "2024-07-30",
+      "batSide": {
+        "code": "L",
+        "description": "Left"
+      },
+      "pitchHand": {
+        "code": "L",
+        "description": "Left"
+      },
+      "nameFirstLast": "Fraser Ellard",
+      "nameSlug": "fraser-ellard-686642",
+      "firstLastName": "Fraser Ellard",
+      "lastFirstName": "Ellard, Fraser",
+      "lastInitName": "Ellard, F",
+      "initLastName": "F Ellard",
+      "fullFMLName": "Fraser Ellard",
+      "fullLFMName": "Ellard, Fraser",
+      "strikeZoneTop": 3.344,
+      "strikeZoneBottom": 1.688
+    }
+  ]
+}

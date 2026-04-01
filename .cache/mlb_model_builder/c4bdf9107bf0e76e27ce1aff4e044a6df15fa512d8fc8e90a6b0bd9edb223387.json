@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 685107,
+      "fullName": "Anthony Veneziano",
+      "link": "/api/v1/people/685107",
+      "firstName": "Anthony",
+      "lastName": "Veneziano",
+      "birthDate": "1997-09-01",
+      "currentAge": 28,
+      "birthCity": "Hackettstown",
+      "birthStateProvince": "NJ",
+      "birthCountry": "USA",
+      "height": "6' 5\"",
+      "weight": 205,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Anthony",
+      "useLastName": "Veneziano",
+      "middleName": "James",
+      "boxscoreName": "Veneziano",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2019,
+      "pronunciation": "veh-knee-zee-ah-no",
+      "mlbDebutDate": "2023-09-26",
+      "batSide": {
+        "code": "L",
+        "description": "Left"
+      },
+      "pitchHand": {
+        "code": "L",
+        "description": "Left"
+      },
+      "nameFirstLast": "Anthony Veneziano",
+      "nameSlug": "anthony-veneziano-685107",
+      "firstLastName": "Anthony Veneziano",
+      "lastFirstName": "Veneziano, Anthony",
+      "lastInitName": "Veneziano, A",
+      "initLastName": "A Veneziano",
+      "fullFMLName": "Anthony James Veneziano",
+      "fullLFMName": "Veneziano, Anthony James",
+      "strikeZoneTop": 3.433,
+      "strikeZoneBottom": 1.733
+    }
+  ]
+}

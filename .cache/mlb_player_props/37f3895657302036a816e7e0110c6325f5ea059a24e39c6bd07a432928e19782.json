@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 25,
+            "gamesPlayed": 144,
+            "groundOuts": 100,
+            "airOuts": 140,
+            "runs": 73,
+            "doubles": 28,
+            "triples": 5,
+            "homeRuns": 31,
+            "strikeOuts": 152,
+            "baseOnBalls": 33,
+            "intentionalWalks": 0,
+            "hits": 150,
+            "hitByPitch": 4,
+            "avg": ".278",
+            "atBats": 540,
+            "obp": ".323",
+            "slg": ".520",
+            "ops": ".843",
+            "caughtStealing": 2,
+            "stolenBases": 1,
+            "stolenBasePercentage": ".333",
+            "caughtStealingPercentage": ".667",
+            "groundIntoDoublePlay": 16,
+            "numberOfPitches": 2149,
+            "plateAppearances": 579,
+            "totalBases": 281,
+            "rbi": 91,
+            "leftOnBase": 205,
+            "sacBunts": 0,
+            "sacFlies": 2,
+            "babip": ".331",
+            "groundOutsToAirouts": "0.71",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "17.42"
+          },
+          "team": {
+            "id": 115,
+            "name": "Colorado Rockies",
+            "link": "/api/v1/teams/115"
+          },
+          "player": {
+            "id": 696100,
+            "fullName": "Hunter Goodman",
+            "link": "/api/v1/people/696100"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

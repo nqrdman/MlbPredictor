@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 29,
+            "gamesPlayed": 145,
+            "groundOuts": 111,
+            "airOuts": 154,
+            "runs": 57,
+            "doubles": 28,
+            "triples": 1,
+            "homeRuns": 19,
+            "strikeOuts": 107,
+            "baseOnBalls": 44,
+            "intentionalWalks": 1,
+            "hits": 124,
+            "hitByPitch": 5,
+            "avg": ".252",
+            "atBats": 492,
+            "obp": ".317",
+            "slg": ".429",
+            "ops": ".746",
+            "caughtStealing": 1,
+            "stolenBases": 2,
+            "stolenBasePercentage": ".667",
+            "caughtStealingPercentage": ".333",
+            "groundIntoDoublePlay": 9,
+            "numberOfPitches": 2279,
+            "plateAppearances": 545,
+            "totalBases": 211,
+            "rbi": 71,
+            "leftOnBase": 227,
+            "sacBunts": 0,
+            "sacFlies": 4,
+            "babip": ".284",
+            "groundOutsToAirouts": "0.72",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "25.90"
+          },
+          "team": {
+            "id": 135,
+            "name": "San Diego Padres",
+            "link": "/api/v1/teams/135"
+          },
+          "player": {
+            "id": 657757,
+            "fullName": "Gavin Sheets",
+            "link": "/api/v1/people/657757"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

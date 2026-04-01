@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 24,
+            "gamesPlayed": 160,
+            "groundOuts": 174,
+            "airOuts": 154,
+            "runs": 106,
+            "doubles": 31,
+            "triples": 4,
+            "homeRuns": 32,
+            "strikeOuts": 152,
+            "baseOnBalls": 44,
+            "intentionalWalks": 5,
+            "hits": 174,
+            "hitByPitch": 12,
+            "avg": ".267",
+            "atBats": 652,
+            "obp": ".324",
+            "slg": ".474",
+            "ops": ".798",
+            "caughtStealing": 6,
+            "stolenBases": 30,
+            "stolenBasePercentage": ".833",
+            "caughtStealingPercentage": ".167",
+            "groundIntoDoublePlay": 15,
+            "numberOfPitches": 2496,
+            "plateAppearances": 710,
+            "totalBases": 309,
+            "rbi": 95,
+            "leftOnBase": 272,
+            "sacBunts": 0,
+            "sacFlies": 2,
+            "babip": ".302",
+            "groundOutsToAirouts": "1.13",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "20.38"
+          },
+          "team": {
+            "id": 136,
+            "name": "Seattle Mariners",
+            "link": "/api/v1/teams/136"
+          },
+          "player": {
+            "id": 677594,
+            "fullName": "Julio Rodr\u00edguez",
+            "link": "/api/v1/people/677594"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

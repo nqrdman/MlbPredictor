@@ -1,0 +1,55 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 570632,
+      "fullName": "Jos\u00e9 Ure\u00f1a",
+      "link": "/api/v1/people/570632",
+      "firstName": "Jos\u00e9",
+      "lastName": "Ure\u00f1a",
+      "primaryNumber": "54",
+      "birthDate": "1991-09-12",
+      "currentAge": 34,
+      "birthCity": "Santo Domingo",
+      "birthCountry": "Dominican Republic",
+      "height": "6' 2\"",
+      "weight": 208,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Jos\u00e9",
+      "useLastName": "Ure\u00f1a",
+      "middleName": "Miguel",
+      "boxscoreName": "Ure\u00f1a",
+      "nickName": "El Nueve",
+      "gender": "M",
+      "nameMatrilineal": "Rodriguez",
+      "isPlayer": true,
+      "isVerified": true,
+      "pronunciation": "ooh-rain-ya",
+      "mlbDebutDate": "2015-04-14",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Jos\u00e9 Ure\u00f1a",
+      "nameSlug": "jose-urena-570632",
+      "firstLastName": "Jos\u00e9 Ure\u00f1a",
+      "lastFirstName": "Ure\u00f1a, Jos\u00e9",
+      "lastInitName": "Ure\u00f1a, J",
+      "initLastName": "J Ure\u00f1a",
+      "fullFMLName": "Jos\u00e9 Miguel Ure\u00f1a",
+      "fullLFMName": "Ure\u00f1a, Jos\u00e9 Miguel",
+      "strikeZoneTop": 3.299,
+      "strikeZoneBottom": 1.665
+    }
+  ]
+}

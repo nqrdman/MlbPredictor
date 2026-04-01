@@ -1,0 +1,187 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "gamesPlayed": 138,
+            "groundOuts": 160,
+            "airOuts": 87,
+            "runs": 45,
+            "doubles": 21,
+            "triples": 2,
+            "homeRuns": 2,
+            "strikeOuts": 77,
+            "baseOnBalls": 17,
+            "intentionalWalks": 0,
+            "hits": 113,
+            "hitByPitch": 5,
+            "avg": ".262",
+            "atBats": 431,
+            "obp": ".297",
+            "slg": ".334",
+            "ops": ".631",
+            "caughtStealing": 4,
+            "stolenBases": 15,
+            "stolenBasePercentage": ".789",
+            "caughtStealingPercentage": ".211",
+            "groundIntoDoublePlay": 9,
+            "numberOfPitches": 1631,
+            "plateAppearances": 459,
+            "totalBases": 144,
+            "rbi": 40,
+            "leftOnBase": 184,
+            "sacBunts": 5,
+            "sacFlies": 1,
+            "babip": ".314",
+            "groundOutsToAirouts": "1.84",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "215.50"
+          },
+          "player": {
+            "id": 643396,
+            "fullName": "Isiah Kiner-Falefa",
+            "link": "/api/v1/people/643396"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R",
+          "numTeams": 2,
+          "numLeagues": 2
+        },
+        {
+          "season": "2025",
+          "stat": {
+            "age": 30,
+            "gamesPlayed": 119,
+            "groundOuts": 149,
+            "airOuts": 83,
+            "runs": 40,
+            "doubles": 20,
+            "triples": 2,
+            "homeRuns": 1,
+            "strikeOuts": 69,
+            "baseOnBalls": 17,
+            "intentionalWalks": 0,
+            "hits": 106,
+            "hitByPitch": 4,
+            "avg": ".264",
+            "atBats": 401,
+            "obp": ".300",
+            "slg": ".332",
+            "ops": ".632",
+            "caughtStealing": 4,
+            "stolenBases": 15,
+            "stolenBasePercentage": ".789",
+            "caughtStealingPercentage": ".211",
+            "groundIntoDoublePlay": 9,
+            "numberOfPitches": 1528,
+            "plateAppearances": 428,
+            "totalBases": 133,
+            "rbi": 35,
+            "leftOnBase": 173,
+            "sacBunts": 5,
+            "sacFlies": 1,
+            "babip": ".316",
+            "groundOutsToAirouts": "1.80",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "401.00"
+          },
+          "team": {
+            "id": 134,
+            "name": "Pittsburgh Pirates",
+            "link": "/api/v1/teams/134"
+          },
+          "player": {
+            "id": 643396,
+            "fullName": "Isiah Kiner-Falefa",
+            "link": "/api/v1/people/643396"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        },
+        {
+          "season": "2025",
+          "stat": {
+            "age": 30,
+            "gamesPlayed": 19,
+            "groundOuts": 11,
+            "airOuts": 4,
+            "runs": 5,
+            "doubles": 1,
+            "triples": 0,
+            "homeRuns": 1,
+            "strikeOuts": 8,
+            "baseOnBalls": 0,
+            "intentionalWalks": 0,
+            "hits": 7,
+            "hitByPitch": 1,
+            "avg": ".233",
+            "atBats": 30,
+            "obp": ".258",
+            "slg": ".367",
+            "ops": ".625",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 0,
+            "numberOfPitches": 103,
+            "plateAppearances": 31,
+            "totalBases": 11,
+            "rbi": 5,
+            "leftOnBase": 11,
+            "sacBunts": 0,
+            "sacFlies": 0,
+            "babip": ".286",
+            "groundOutsToAirouts": "2.75",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "30.00"
+          },
+          "team": {
+            "id": 141,
+            "name": "Toronto Blue Jays",
+            "link": "/api/v1/teams/141"
+          },
+          "player": {
+            "id": 643396,
+            "fullName": "Isiah Kiner-Falefa",
+            "link": "/api/v1/people/643396"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

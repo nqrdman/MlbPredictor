@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 31,
+            "gamesPlayed": 159,
+            "groundOuts": 137,
+            "airOuts": 147,
+            "runs": 84,
+            "doubles": 24,
+            "triples": 3,
+            "homeRuns": 24,
+            "strikeOuts": 168,
+            "baseOnBalls": 47,
+            "intentionalWalks": 1,
+            "hits": 144,
+            "hitByPitch": 2,
+            "avg": ".244",
+            "atBats": 590,
+            "obp": ".300",
+            "slg": ".417",
+            "ops": ".717",
+            "caughtStealing": 3,
+            "stolenBases": 20,
+            "stolenBasePercentage": ".870",
+            "caughtStealingPercentage": ".130",
+            "groundIntoDoublePlay": 9,
+            "numberOfPitches": 2521,
+            "plateAppearances": 645,
+            "totalBases": 246,
+            "rbi": 77,
+            "leftOnBase": 264,
+            "sacBunts": 1,
+            "sacFlies": 5,
+            "babip": ".298",
+            "groundOutsToAirouts": "0.93",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "24.58"
+          },
+          "team": {
+            "id": 112,
+            "name": "Chicago Cubs",
+            "link": "/api/v1/teams/112"
+          },
+          "player": {
+            "id": 621020,
+            "fullName": "Dansby Swanson",
+            "link": "/api/v1/people/621020"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

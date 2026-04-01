@@ -1,0 +1,122 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "gameLog"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "summary": "6.0 IP, 2 ER, 6 K, BB",
+            "gamesPlayed": 1,
+            "gamesStarted": 1,
+            "flyOuts": 2,
+            "groundOuts": 5,
+            "airOuts": 7,
+            "runs": 2,
+            "doubles": 1,
+            "triples": 0,
+            "homeRuns": 0,
+            "strikeOuts": 6,
+            "baseOnBalls": 1,
+            "intentionalWalks": 0,
+            "hits": 4,
+            "hitByPitch": 0,
+            "avg": ".190",
+            "atBats": 21,
+            "obp": ".217",
+            "slg": ".238",
+            "ops": ".455",
+            "caughtStealing": 0,
+            "stolenBases": 1,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 0,
+            "numberOfPitches": 90,
+            "era": "3.00",
+            "inningsPitched": "6.0",
+            "wins": 0,
+            "losses": 0,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 2,
+            "whip": "0.83",
+            "battersFaced": 23,
+            "outs": 18,
+            "gamesPitched": 1,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 57,
+            "strikePercentage": ".630",
+            "hitBatsmen": 0,
+            "balks": 0,
+            "wildPitches": 0,
+            "pickoffs": 0,
+            "totalBases": 5,
+            "groundOutsToAirouts": "0.71",
+            "winPercentage": ".---",
+            "pitchesPerInning": "15.00",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "6.00",
+            "strikeoutsPer9Inn": "9.00",
+            "walksPer9Inn": "1.50",
+            "hitsPer9Inn": "6.00",
+            "runsScoredPer9": "3.00",
+            "homeRunsPer9": "0.00",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 0,
+            "sacFlies": 1
+          },
+          "team": {
+            "id": 119,
+            "name": "Los Angeles Dodgers",
+            "link": "/api/v1/teams/119"
+          },
+          "player": {
+            "id": 607192,
+            "fullName": "Tyler Glasnow",
+            "link": "/api/v1/people/607192"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "opponent": {
+            "id": 109,
+            "name": "Arizona Diamondbacks",
+            "link": "/api/v1/teams/109"
+          },
+          "date": "2026-03-28",
+          "gameType": "R",
+          "isHome": true,
+          "isWin": true,
+          "game": {
+            "gamePk": 823973,
+            "link": "/api/v1.1/game/823973/feed/live",
+            "content": {
+              "link": "/api/v1/game/823973/content"
+            },
+            "gameNumber": 1,
+            "dayNight": "day"
+          }
+        }
+      ]
+    }
+  ]
+}

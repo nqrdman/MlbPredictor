@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 28,
+            "gamesPlayed": 147,
+            "groundOuts": 156,
+            "airOuts": 126,
+            "runs": 55,
+            "doubles": 16,
+            "triples": 3,
+            "homeRuns": 9,
+            "strikeOuts": 104,
+            "baseOnBalls": 33,
+            "intentionalWalks": 0,
+            "hits": 119,
+            "hitByPitch": 3,
+            "avg": ".238",
+            "atBats": 501,
+            "obp": ".287",
+            "slg": ".335",
+            "ops": ".622",
+            "caughtStealing": 7,
+            "stolenBases": 10,
+            "stolenBasePercentage": ".588",
+            "caughtStealingPercentage": ".412",
+            "groundIntoDoublePlay": 7,
+            "numberOfPitches": 2008,
+            "plateAppearances": 541,
+            "totalBases": 168,
+            "rbi": 43,
+            "leftOnBase": 189,
+            "sacBunts": 1,
+            "sacFlies": 3,
+            "babip": ".281",
+            "groundOutsToAirouts": "1.24",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "55.67"
+          },
+          "team": {
+            "id": 108,
+            "name": "Los Angeles Angels",
+            "link": "/api/v1/teams/108"
+          },
+          "player": {
+            "id": 650859,
+            "fullName": "Luis Rengifo",
+            "link": "/api/v1/people/650859"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

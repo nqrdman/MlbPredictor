@@ -1,0 +1,228 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "gameLog"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "summary": "3.0 IP, 3 ER, 2 K, 2 BB",
+            "gamesPlayed": 1,
+            "gamesStarted": 1,
+            "flyOuts": 2,
+            "groundOuts": 4,
+            "airOuts": 4,
+            "runs": 3,
+            "doubles": 3,
+            "triples": 0,
+            "homeRuns": 0,
+            "strikeOuts": 2,
+            "baseOnBalls": 2,
+            "intentionalWalks": 0,
+            "hits": 6,
+            "hitByPitch": 0,
+            "avg": ".400",
+            "atBats": 15,
+            "obp": ".471",
+            "slg": ".600",
+            "ops": "1.071",
+            "caughtStealing": 0,
+            "stolenBases": 1,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 0,
+            "numberOfPitches": 68,
+            "era": "9.00",
+            "inningsPitched": "3.0",
+            "wins": 0,
+            "losses": 0,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 3,
+            "whip": "2.67",
+            "battersFaced": 18,
+            "outs": 9,
+            "gamesPitched": 1,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 39,
+            "strikePercentage": ".570",
+            "hitBatsmen": 0,
+            "balks": 0,
+            "wildPitches": 0,
+            "pickoffs": 0,
+            "totalBases": 9,
+            "groundOutsToAirouts": "1.00",
+            "winPercentage": ".---",
+            "pitchesPerInning": "22.67",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "1.00",
+            "strikeoutsPer9Inn": "6.00",
+            "walksPer9Inn": "6.00",
+            "hitsPer9Inn": "18.00",
+            "runsScoredPer9": "9.00",
+            "homeRunsPer9": "0.00",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 1,
+            "sacFlies": 0
+          },
+          "team": {
+            "id": 136,
+            "name": "Seattle Mariners",
+            "link": "/api/v1/teams/136"
+          },
+          "player": {
+            "id": 622379,
+            "fullName": "Luis F. Castillo",
+            "link": "/api/v1/people/622379"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "opponent": {
+            "id": 137,
+            "name": "San Francisco Giants",
+            "link": "/api/v1/teams/137"
+          },
+          "date": "2025-04-04",
+          "gameType": "R",
+          "isHome": false,
+          "isWin": false,
+          "game": {
+            "gamePk": 778444,
+            "link": "/api/v1.1/game/778444/feed/live",
+            "content": {
+              "link": "/api/v1/game/778444/content"
+            },
+            "gameNumber": 1,
+            "dayNight": "day"
+          }
+        },
+        {
+          "season": "2025",
+          "stat": {
+            "summary": "4.0 IP, 3 ER, 3 K, 5 BB",
+            "gamesPlayed": 1,
+            "gamesStarted": 1,
+            "flyOuts": 3,
+            "groundOuts": 5,
+            "airOuts": 4,
+            "runs": 4,
+            "doubles": 0,
+            "triples": 0,
+            "homeRuns": 0,
+            "strikeOuts": 3,
+            "baseOnBalls": 5,
+            "intentionalWalks": 0,
+            "hits": 6,
+            "hitByPitch": 0,
+            "avg": ".364",
+            "atBats": 18,
+            "obp": ".478",
+            "slg": ".333",
+            "ops": ".811",
+            "caughtStealing": 0,
+            "stolenBases": 1,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 1,
+            "numberOfPitches": 100,
+            "era": "7.71",
+            "inningsPitched": "4.0",
+            "wins": 0,
+            "losses": 0,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 3,
+            "whip": "2.71",
+            "battersFaced": 23,
+            "outs": 12,
+            "gamesPitched": 1,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 57,
+            "strikePercentage": ".570",
+            "hitBatsmen": 0,
+            "balks": 0,
+            "wildPitches": 0,
+            "pickoffs": 0,
+            "totalBases": 6,
+            "groundOutsToAirouts": "1.13",
+            "winPercentage": ".---",
+            "pitchesPerInning": "25.00",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "0.60",
+            "strikeoutsPer9Inn": "6.75",
+            "walksPer9Inn": "11.25",
+            "hitsPer9Inn": "13.50",
+            "runsScoredPer9": "9.00",
+            "homeRunsPer9": "0.00",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 0,
+            "sacFlies": 0
+          },
+          "team": {
+            "id": 136,
+            "name": "Seattle Mariners",
+            "link": "/api/v1/teams/136"
+          },
+          "player": {
+            "id": 622379,
+            "fullName": "Luis F. Castillo",
+            "link": "/api/v1/people/622379"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "opponent": {
+            "id": 117,
+            "name": "Houston Astros",
+            "link": "/api/v1/teams/117"
+          },
+          "date": "2025-04-09",
+          "gameType": "R",
+          "isHome": true,
+          "isWin": true,
+          "game": {
+            "gamePk": 778383,
+            "link": "/api/v1.1/game/778383/feed/live",
+            "content": {
+              "link": "/api/v1/game/778383/content"
+            },
+            "gameNumber": 1,
+            "dayNight": "day"
+          }
+        }
+      ]
+    }
+  ]
+}

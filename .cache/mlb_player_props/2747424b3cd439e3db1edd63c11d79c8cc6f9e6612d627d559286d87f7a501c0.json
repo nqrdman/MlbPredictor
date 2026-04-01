@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 24,
+            "gamesPlayed": 53,
+            "groundOuts": 22,
+            "airOuts": 35,
+            "runs": 15,
+            "doubles": 5,
+            "triples": 0,
+            "homeRuns": 4,
+            "strikeOuts": 58,
+            "baseOnBalls": 10,
+            "intentionalWalks": 0,
+            "hits": 29,
+            "hitByPitch": 1,
+            "avg": ".204",
+            "atBats": 142,
+            "obp": ".258",
+            "slg": ".324",
+            "ops": ".582",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 1,
+            "numberOfPitches": 600,
+            "plateAppearances": 155,
+            "totalBases": 46,
+            "rbi": 24,
+            "leftOnBase": 75,
+            "sacBunts": 0,
+            "sacFlies": 2,
+            "babip": ".305",
+            "groundOutsToAirouts": "0.63",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "35.50"
+          },
+          "team": {
+            "id": 119,
+            "name": "Los Angeles Dodgers",
+            "link": "/api/v1/teams/119"
+          },
+          "player": {
+            "id": 687221,
+            "fullName": "Dalton Rushing",
+            "link": "/api/v1/people/687221"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

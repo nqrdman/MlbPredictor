@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 31,
+            "gamesPlayed": 55,
+            "groundOuts": 73,
+            "airOuts": 45,
+            "runs": 16,
+            "doubles": 11,
+            "triples": 0,
+            "homeRuns": 4,
+            "strikeOuts": 24,
+            "baseOnBalls": 10,
+            "intentionalWalks": 0,
+            "hits": 50,
+            "hitByPitch": 3,
+            "avg": ".266",
+            "atBats": 188,
+            "obp": ".307",
+            "slg": ".388",
+            "ops": ".695",
+            "caughtStealing": 0,
+            "stolenBases": 3,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 3,
+            "numberOfPitches": 715,
+            "plateAppearances": 205,
+            "totalBases": 73,
+            "rbi": 26,
+            "leftOnBase": 82,
+            "sacBunts": 0,
+            "sacFlies": 4,
+            "babip": ".280",
+            "groundOutsToAirouts": "1.62",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "47.00"
+          },
+          "team": {
+            "id": 111,
+            "name": "Boston Red Sox",
+            "link": "/api/v1/teams/111"
+          },
+          "player": {
+            "id": 807799,
+            "fullName": "Masataka Yoshida",
+            "link": "/api/v1/people/807799"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "gamesPlayed": 147,
+            "groundOuts": 95,
+            "airOuts": 170,
+            "runs": 68,
+            "doubles": 28,
+            "triples": 1,
+            "homeRuns": 17,
+            "strikeOuts": 108,
+            "baseOnBalls": 72,
+            "intentionalWalks": 4,
+            "hits": 111,
+            "hitByPitch": 2,
+            "avg": ".233",
+            "atBats": 477,
+            "obp": ".333",
+            "slg": ".403",
+            "ops": ".736",
+            "caughtStealing": 2,
+            "stolenBases": 7,
+            "stolenBasePercentage": ".778",
+            "caughtStealingPercentage": ".222",
+            "groundIntoDoublePlay": 7,
+            "numberOfPitches": 2305,
+            "plateAppearances": 558,
+            "totalBases": 192,
+            "rbi": 46,
+            "leftOnBase": 200,
+            "sacBunts": 2,
+            "sacFlies": 5,
+            "babip": ".263",
+            "groundOutsToAirouts": "0.56",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "28.06"
+          },
+          "player": {
+            "id": 573262,
+            "fullName": "Mike Yastrzemski",
+            "link": "/api/v1/people/573262"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R",
+          "numTeams": 2,
+          "numLeagues": 2
+        },
+        {
+          "season": "2025",
+          "stat": {
+            "age": 34,
+            "gamesPlayed": 50,
+            "groundOuts": 26,
+            "airOuts": 75,
+            "runs": 30,
+            "doubles": 14,
+            "triples": 0,
+            "homeRuns": 9,
+            "strikeOuts": 22,
+            "baseOnBalls": 25,
+            "intentionalWalks": 0,
+            "hits": 37,
+            "hitByPitch": 1,
+            "avg": ".237",
+            "atBats": 156,
+            "obp": ".339",
+            "slg": ".500",
+            "ops": ".839",
+            "caughtStealing": 0,
+            "stolenBases": 1,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 3,
+            "numberOfPitches": 801,
+            "plateAppearances": 186,
+            "totalBases": 78,
+            "rbi": 18,
+            "leftOnBase": 60,
+            "sacBunts": 0,
+            "sacFlies": 4,
+            "babip": ".217",
+            "groundOutsToAirouts": "0.35",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "17.33"
+          },
+          "team": {
+            "id": 118,
+            "name": "Kansas City Royals",
+            "link": "/api/v1/teams/118"
+          },
+          "player": {
+            "id": 573262,
+            "fullName": "Mike Yastrzemski",
+            "link": "/api/v1/people/573262"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        },
+        {
+          "season": "2025",
+          "stat": {
+            "age": 34,
+            "gamesPlayed": 97,
+            "groundOuts": 69,
+            "airOuts": 95,
+            "runs": 38,
+            "doubles": 14,
+            "triples": 1,
+            "homeRuns": 8,
+            "strikeOuts": 86,
+            "baseOnBalls": 47,
+            "intentionalWalks": 4,
+            "hits": 74,
+            "hitByPitch": 1,
+            "avg": ".231",
+            "atBats": 321,
+            "obp": ".330",
+            "slg": ".355",
+            "ops": ".685",
+            "caughtStealing": 2,
+            "stolenBases": 6,
+            "stolenBasePercentage": ".750",
+            "caughtStealingPercentage": ".250",
+            "groundIntoDoublePlay": 4,
+            "numberOfPitches": 1504,
+            "plateAppearances": 372,
+            "totalBases": 114,
+            "rbi": 28,
+            "leftOnBase": 140,
+            "sacBunts": 2,
+            "sacFlies": 1,
+            "babip": ".289",
+            "groundOutsToAirouts": "0.73",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "40.12"
+          },
+          "team": {
+            "id": 137,
+            "name": "San Francisco Giants",
+            "link": "/api/v1/teams/137"
+          },
+          "player": {
+            "id": 573262,
+            "fullName": "Mike Yastrzemski",
+            "link": "/api/v1/people/573262"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

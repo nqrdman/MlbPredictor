@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 680880,
+      "fullName": "Grant Holman",
+      "link": "/api/v1/people/680880",
+      "firstName": "Grant",
+      "lastName": "Holman",
+      "primaryNumber": "92",
+      "birthDate": "2000-05-31",
+      "currentAge": 25,
+      "birthCity": "Chula Vista",
+      "birthStateProvince": "CA",
+      "birthCountry": "USA",
+      "height": "6' 6\"",
+      "weight": 250,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Grant",
+      "useLastName": "Holman",
+      "middleName": "James",
+      "boxscoreName": "Holman",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2021,
+      "mlbDebutDate": "2024-08-17",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Grant Holman",
+      "nameSlug": "grant-holman-680880",
+      "firstLastName": "Grant Holman",
+      "lastFirstName": "Holman, Grant",
+      "lastInitName": "Holman, G",
+      "initLastName": "G Holman",
+      "fullFMLName": "Grant James Holman",
+      "fullLFMName": "Holman, Grant James",
+      "strikeZoneTop": 3.478,
+      "strikeZoneBottom": 1.755
+    }
+  ]
+}

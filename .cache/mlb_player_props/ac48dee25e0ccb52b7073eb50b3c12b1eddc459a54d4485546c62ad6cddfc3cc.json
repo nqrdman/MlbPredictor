@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 27,
+            "gamesPlayed": 130,
+            "groundOuts": 90,
+            "airOuts": 117,
+            "runs": 75,
+            "doubles": 15,
+            "triples": 1,
+            "homeRuns": 31,
+            "strikeOuts": 148,
+            "baseOnBalls": 58,
+            "intentionalWalks": 1,
+            "hits": 112,
+            "hitByPitch": 6,
+            "avg": ".242",
+            "atBats": 462,
+            "obp": ".332",
+            "slg": ".481",
+            "ops": ".813",
+            "caughtStealing": 8,
+            "stolenBases": 31,
+            "stolenBasePercentage": ".795",
+            "caughtStealingPercentage": ".205",
+            "groundIntoDoublePlay": 3,
+            "numberOfPitches": 2138,
+            "plateAppearances": 531,
+            "totalBases": 222,
+            "rbi": 80,
+            "leftOnBase": 222,
+            "sacBunts": 1,
+            "sacFlies": 4,
+            "babip": ".282",
+            "groundOutsToAirouts": "0.77",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "14.90"
+          },
+          "team": {
+            "id": 147,
+            "name": "New York Yankees",
+            "link": "/api/v1/teams/147"
+          },
+          "player": {
+            "id": 665862,
+            "fullName": "Jazz Chisholm Jr.",
+            "link": "/api/v1/people/665862"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

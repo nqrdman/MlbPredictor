@@ -1,0 +1,191 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "gamesPlayed": 65,
+            "groundOuts": 39,
+            "airOuts": 27,
+            "runs": 22,
+            "doubles": 6,
+            "triples": 1,
+            "homeRuns": 5,
+            "strikeOuts": 51,
+            "baseOnBalls": 11,
+            "intentionalWalks": 0,
+            "hits": 32,
+            "hitByPitch": 0,
+            "avg": ".216",
+            "atBats": 148,
+            "obp": ".270",
+            "slg": ".372",
+            "ops": ".642",
+            "caughtStealing": 0,
+            "stolenBases": 1,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 6,
+            "numberOfPitches": 644,
+            "plateAppearances": 160,
+            "totalBases": 55,
+            "rbi": 13,
+            "leftOnBase": 78,
+            "sacBunts": 1,
+            "sacFlies": 0,
+            "babip": ".293",
+            "groundOutsToAirouts": "1.44",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "29.60"
+          },
+          "player": {
+            "id": 596103,
+            "fullName": "Austin Slater",
+            "link": "/api/v1/people/596103"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R",
+          "numTeams": 2
+        },
+        {
+          "season": "2025",
+          "stat": {
+            "age": 32,
+            "gamesPlayed": 51,
+            "groundOuts": 33,
+            "airOuts": 27,
+            "runs": 20,
+            "doubles": 6,
+            "triples": 1,
+            "homeRuns": 5,
+            "strikeOuts": 35,
+            "baseOnBalls": 11,
+            "intentionalWalks": 0,
+            "hits": 29,
+            "hitByPitch": 0,
+            "avg": ".236",
+            "atBats": 123,
+            "obp": ".299",
+            "slg": ".423",
+            "ops": ".722",
+            "caughtStealing": 0,
+            "stolenBases": 1,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 5,
+            "numberOfPitches": 540,
+            "plateAppearances": 135,
+            "totalBases": 52,
+            "rbi": 11,
+            "leftOnBase": 66,
+            "sacBunts": 1,
+            "sacFlies": 0,
+            "babip": ".289",
+            "groundOutsToAirouts": "1.22",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "24.60"
+          },
+          "team": {
+            "id": 145,
+            "name": "Chicago White Sox",
+            "link": "/api/v1/teams/145"
+          },
+          "player": {
+            "id": 596103,
+            "fullName": "Austin Slater",
+            "link": "/api/v1/people/596103"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        },
+        {
+          "season": "2025",
+          "stat": {
+            "age": 32,
+            "gamesPlayed": 14,
+            "groundOuts": 6,
+            "airOuts": 0,
+            "runs": 2,
+            "doubles": 0,
+            "triples": 0,
+            "homeRuns": 0,
+            "strikeOuts": 16,
+            "baseOnBalls": 0,
+            "intentionalWalks": 0,
+            "hits": 3,
+            "hitByPitch": 0,
+            "avg": ".120",
+            "atBats": 25,
+            "obp": ".120",
+            "slg": ".120",
+            "ops": ".240",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 1,
+            "numberOfPitches": 104,
+            "plateAppearances": 25,
+            "totalBases": 3,
+            "rbi": 2,
+            "leftOnBase": 12,
+            "sacBunts": 0,
+            "sacFlies": 0,
+            "babip": ".333",
+            "groundOutsToAirouts": "6.00",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "-.--"
+          },
+          "team": {
+            "id": 147,
+            "name": "New York Yankees",
+            "link": "/api/v1/teams/147"
+          },
+          "player": {
+            "id": 596103,
+            "fullName": "Austin Slater",
+            "link": "/api/v1/people/596103"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

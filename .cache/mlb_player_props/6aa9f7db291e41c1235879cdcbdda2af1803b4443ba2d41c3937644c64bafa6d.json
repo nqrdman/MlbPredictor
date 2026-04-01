@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 26,
+            "gamesPlayed": 101,
+            "groundOuts": 97,
+            "airOuts": 101,
+            "runs": 39,
+            "doubles": 11,
+            "triples": 1,
+            "homeRuns": 7,
+            "strikeOuts": 66,
+            "baseOnBalls": 25,
+            "intentionalWalks": 0,
+            "hits": 69,
+            "hitByPitch": 11,
+            "avg": ".210",
+            "atBats": 329,
+            "obp": ".285",
+            "slg": ".313",
+            "ops": ".598",
+            "caughtStealing": 2,
+            "stolenBases": 12,
+            "stolenBasePercentage": ".857",
+            "caughtStealingPercentage": ".143",
+            "groundIntoDoublePlay": 8,
+            "numberOfPitches": 1452,
+            "plateAppearances": 369,
+            "totalBases": 103,
+            "rbi": 35,
+            "leftOnBase": 142,
+            "sacBunts": 1,
+            "sacFlies": 3,
+            "babip": ".239",
+            "groundOutsToAirouts": "0.96",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "47.00"
+          },
+          "team": {
+            "id": 141,
+            "name": "Toronto Blue Jays",
+            "link": "/api/v1/teams/141"
+          },
+          "player": {
+            "id": 665926,
+            "fullName": "Andr\u00e9s Gim\u00e9nez",
+            "link": "/api/v1/people/665926"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

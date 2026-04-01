@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 666185,
+      "fullName": "Dylan Carlson",
+      "link": "/api/v1/people/666185",
+      "firstName": "Dylan",
+      "lastName": "Carlson",
+      "primaryNumber": "5",
+      "birthDate": "1998-10-23",
+      "currentAge": 27,
+      "birthCity": "Elk Grove",
+      "birthStateProvince": "CA",
+      "birthCountry": "USA",
+      "height": "6' 1\"",
+      "weight": 200,
+      "active": true,
+      "primaryPosition": {
+        "code": "7",
+        "name": "Outfielder",
+        "type": "Outfielder",
+        "abbreviation": "LF"
+      },
+      "useName": "Dylan",
+      "useLastName": "Carlson",
+      "middleName": "James",
+      "boxscoreName": "Carlson",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": false,
+      "draftYear": 2016,
+      "mlbDebutDate": "2020-08-15",
+      "batSide": {
+        "code": "S",
+        "description": "Switch"
+      },
+      "pitchHand": {
+        "code": "L",
+        "description": "Left"
+      },
+      "nameFirstLast": "Dylan Carlson",
+      "nameSlug": "dylan-carlson-666185",
+      "firstLastName": "Dylan Carlson",
+      "lastFirstName": "Carlson, Dylan",
+      "lastInitName": "Carlson, D",
+      "initLastName": "D Carlson",
+      "fullFMLName": "Dylan James Carlson",
+      "fullLFMName": "Carlson, Dylan James",
+      "strikeZoneTop": 3.272,
+      "strikeZoneBottom": 1.651
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "gameLog"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "summary": "0.2 IP, 5 ER, K, 2 BB",
+            "gamesPlayed": 1,
+            "gamesStarted": 1,
+            "flyOuts": 1,
+            "groundOuts": 0,
+            "airOuts": 1,
+            "runs": 5,
+            "doubles": 1,
+            "triples": 1,
+            "homeRuns": 0,
+            "strikeOuts": 1,
+            "baseOnBalls": 2,
+            "intentionalWalks": 0,
+            "hits": 4,
+            "hitByPitch": 1,
+            "avg": ".800",
+            "atBats": 5,
+            "obp": ".778",
+            "slg": "1.400",
+            "ops": "2.178",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 0,
+            "numberOfPitches": 37,
+            "era": "67.50",
+            "inningsPitched": "0.2",
+            "wins": 0,
+            "losses": 1,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 5,
+            "whip": "9.00",
+            "battersFaced": 9,
+            "outs": 2,
+            "gamesPitched": 1,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 26,
+            "strikePercentage": ".700",
+            "hitBatsmen": 1,
+            "balks": 0,
+            "wildPitches": 0,
+            "pickoffs": 0,
+            "totalBases": 7,
+            "groundOutsToAirouts": "0.00",
+            "winPercentage": ".000",
+            "pitchesPerInning": "55.50",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "0.50",
+            "strikeoutsPer9Inn": "13.50",
+            "walksPer9Inn": "27.00",
+            "hitsPer9Inn": "54.00",
+            "runsScoredPer9": "67.50",
+            "homeRunsPer9": "0.00",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 0,
+            "sacFlies": 1
+          },
+          "team": {
+            "id": 134,
+            "name": "Pittsburgh Pirates",
+            "link": "/api/v1/teams/134"
+          },
+          "player": {
+            "id": 694973,
+            "fullName": "Paul Skenes",
+            "link": "/api/v1/people/694973"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "opponent": {
+            "id": 121,
+            "name": "New York Mets",
+            "link": "/api/v1/teams/121"
+          },
+          "date": "2026-03-26",
+          "gameType": "R",
+          "isHome": false,
+          "isWin": false,
+          "game": {
+            "gamePk": 823649,
+            "link": "/api/v1.1/game/823649/feed/live",
+            "content": {
+              "link": "/api/v1/game/823649/content"
+            },
+            "gameNumber": 1,
+            "dayNight": "day"
+          }
+        }
+      ]
+    }
+  ]
+}

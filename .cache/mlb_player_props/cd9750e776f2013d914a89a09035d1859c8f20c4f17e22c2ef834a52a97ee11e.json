@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 33,
+            "gamesPlayed": 130,
+            "groundOuts": 66,
+            "airOuts": 112,
+            "runs": 73,
+            "doubles": 14,
+            "triples": 1,
+            "homeRuns": 26,
+            "strikeOuts": 178,
+            "baseOnBalls": 87,
+            "intentionalWalks": 10,
+            "hits": 106,
+            "hitByPitch": 6,
+            "avg": ".232",
+            "atBats": 456,
+            "obp": ".359",
+            "slg": ".439",
+            "ops": ".798",
+            "caughtStealing": 0,
+            "stolenBases": 2,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 7,
+            "numberOfPitches": 2482,
+            "plateAppearances": 556,
+            "totalBases": 200,
+            "rbi": 64,
+            "leftOnBase": 161,
+            "sacBunts": 0,
+            "sacFlies": 6,
+            "babip": ".310",
+            "groundOutsToAirouts": "0.59",
+            "catchersInterference": 1,
+            "atBatsPerHomeRun": "17.54"
+          },
+          "team": {
+            "id": 108,
+            "name": "Los Angeles Angels",
+            "link": "/api/v1/teams/108"
+          },
+          "player": {
+            "id": 545361,
+            "fullName": "Mike Trout",
+            "link": "/api/v1/people/545361"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

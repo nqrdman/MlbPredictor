@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 23,
+            "gamesPlayed": 134,
+            "groundOuts": 87,
+            "airOuts": 138,
+            "runs": 73,
+            "doubles": 25,
+            "triples": 1,
+            "homeRuns": 22,
+            "strikeOuts": 151,
+            "baseOnBalls": 74,
+            "intentionalWalks": 3,
+            "hits": 118,
+            "hitByPitch": 5,
+            "avg": ".241",
+            "atBats": 489,
+            "obp": ".344",
+            "slg": ".431",
+            "ops": ".775",
+            "caughtStealing": 6,
+            "stolenBases": 22,
+            "stolenBasePercentage": ".786",
+            "caughtStealingPercentage": ".214",
+            "groundIntoDoublePlay": 9,
+            "numberOfPitches": 2335,
+            "plateAppearances": 573,
+            "totalBases": 211,
+            "rbi": 62,
+            "leftOnBase": 185,
+            "sacBunts": 0,
+            "sacFlies": 5,
+            "babip": ".299",
+            "groundOutsToAirouts": "0.63",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "22.23"
+          },
+          "team": {
+            "id": 140,
+            "name": "Texas Rangers",
+            "link": "/api/v1/teams/140"
+          },
+          "player": {
+            "id": 694671,
+            "fullName": "Wyatt Langford",
+            "link": "/api/v1/people/694671"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

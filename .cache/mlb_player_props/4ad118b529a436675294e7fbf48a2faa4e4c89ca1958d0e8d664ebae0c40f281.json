@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 669720,
+      "fullName": "Austin Hays",
+      "link": "/api/v1/people/669720",
+      "firstName": "Austin",
+      "lastName": "Hays",
+      "primaryNumber": "21",
+      "birthDate": "1995-07-05",
+      "currentAge": 30,
+      "birthCity": "Daytona Beach",
+      "birthStateProvince": "FL",
+      "birthCountry": "USA",
+      "height": "5' 10\"",
+      "weight": 200,
+      "active": true,
+      "primaryPosition": {
+        "code": "7",
+        "name": "Outfielder",
+        "type": "Outfielder",
+        "abbreviation": "LF"
+      },
+      "useName": "Austin",
+      "useLastName": "Hays",
+      "middleName": "Charles Bryan",
+      "boxscoreName": "Hays",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2016,
+      "mlbDebutDate": "2017-09-07",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Austin Hays",
+      "nameSlug": "austin-hays-669720",
+      "firstLastName": "Austin Hays",
+      "lastFirstName": "Hays, Austin",
+      "lastInitName": "Hays, A",
+      "initLastName": "A Hays",
+      "fullFMLName": "Austin Charles Bryan Hays",
+      "fullLFMName": "Hays, Austin Charles Bryan",
+      "strikeZoneTop": 3.142,
+      "strikeZoneBottom": 1.586
+    }
+  ]
+}

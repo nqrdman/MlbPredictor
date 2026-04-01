@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 29,
+            "gamesPlayed": 157,
+            "groundOuts": 129,
+            "airOuts": 216,
+            "runs": 83,
+            "doubles": 35,
+            "triples": 2,
+            "homeRuns": 9,
+            "strikeOuts": 61,
+            "baseOnBalls": 27,
+            "intentionalWalks": 1,
+            "hits": 151,
+            "hitByPitch": 4,
+            "avg": ".277",
+            "atBats": 545,
+            "obp": ".313",
+            "slg": ".398",
+            "ops": ".711",
+            "caughtStealing": 5,
+            "stolenBases": 6,
+            "stolenBasePercentage": ".545",
+            "caughtStealingPercentage": ".455",
+            "groundIntoDoublePlay": 13,
+            "numberOfPitches": 1871,
+            "plateAppearances": 588,
+            "totalBases": 217,
+            "rbi": 50,
+            "leftOnBase": 241,
+            "sacBunts": 7,
+            "sacFlies": 5,
+            "babip": ".296",
+            "groundOutsToAirouts": "0.60",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "60.56"
+          },
+          "team": {
+            "id": 141,
+            "name": "Toronto Blue Jays",
+            "link": "/api/v1/teams/141"
+          },
+          "player": {
+            "id": 676391,
+            "fullName": "Ernie Clement",
+            "link": "/api/v1/people/676391"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

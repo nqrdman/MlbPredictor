@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 31,
+            "gamesPlayed": 138,
+            "groundOuts": 114,
+            "airOuts": 158,
+            "runs": 64,
+            "doubles": 30,
+            "triples": 0,
+            "homeRuns": 26,
+            "strikeOuts": 82,
+            "baseOnBalls": 42,
+            "intentionalWalks": 1,
+            "hits": 125,
+            "hitByPitch": 3,
+            "avg": ".265",
+            "atBats": 471,
+            "obp": ".326",
+            "slg": ".495",
+            "ops": ".821",
+            "caughtStealing": 3,
+            "stolenBases": 6,
+            "stolenBasePercentage": ".667",
+            "caughtStealingPercentage": ".333",
+            "groundIntoDoublePlay": 7,
+            "numberOfPitches": 2023,
+            "plateAppearances": 524,
+            "totalBases": 233,
+            "rbi": 78,
+            "leftOnBase": 164,
+            "sacBunts": 3,
+            "sacFlies": 5,
+            "babip": ".269",
+            "groundOutsToAirouts": "0.72",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "18.12"
+          },
+          "team": {
+            "id": 136,
+            "name": "Seattle Mariners",
+            "link": "/api/v1/teams/136"
+          },
+          "player": {
+            "id": 593871,
+            "fullName": "Jorge Polanco",
+            "link": "/api/v1/people/593871"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 30,
+            "gamesPlayed": 137,
+            "groundOuts": 68,
+            "airOuts": 91,
+            "runs": 51,
+            "doubles": 14,
+            "triples": 1,
+            "homeRuns": 4,
+            "strikeOuts": 50,
+            "baseOnBalls": 19,
+            "intentionalWalks": 0,
+            "hits": 70,
+            "hitByPitch": 1,
+            "avg": ".262",
+            "atBats": 267,
+            "obp": ".313",
+            "slg": ".367",
+            "ops": ".680",
+            "caughtStealing": 1,
+            "stolenBases": 12,
+            "stolenBasePercentage": ".923",
+            "caughtStealingPercentage": ".077",
+            "groundIntoDoublePlay": 5,
+            "numberOfPitches": 1104,
+            "plateAppearances": 299,
+            "totalBases": 98,
+            "rbi": 32,
+            "leftOnBase": 127,
+            "sacBunts": 11,
+            "sacFlies": 1,
+            "babip": ".308",
+            "groundOutsToAirouts": "0.75",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "66.75"
+          },
+          "team": {
+            "id": 141,
+            "name": "Toronto Blue Jays",
+            "link": "/api/v1/teams/141"
+          },
+          "player": {
+            "id": 664702,
+            "fullName": "Myles Straw",
+            "link": "/api/v1/people/664702"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 518489,
+      "fullName": "Ryan Brasier",
+      "link": "/api/v1/people/518489",
+      "firstName": "Ryan",
+      "lastName": "Brasier",
+      "birthDate": "1987-08-26",
+      "currentAge": 38,
+      "birthCity": "Wichita Falls",
+      "birthStateProvince": "TX",
+      "birthCountry": "USA",
+      "height": "6' 0\"",
+      "weight": 223,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Ryan",
+      "useLastName": "Brasier",
+      "middleName": "David",
+      "boxscoreName": "Brasier",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2007,
+      "pronunciation": "BRAY-zhur",
+      "mlbDebutDate": "2013-05-02",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Ryan Brasier",
+      "nameSlug": "ryan-brasier-518489",
+      "firstLastName": "Ryan Brasier",
+      "lastFirstName": "Brasier, Ryan",
+      "lastInitName": "Brasier, R",
+      "initLastName": "R Brasier",
+      "fullFMLName": "Ryan David Brasier",
+      "fullLFMName": "Brasier, Ryan David",
+      "strikeZoneTop": 3.21,
+      "strikeZoneBottom": 1.62
+    }
+  ]
+}

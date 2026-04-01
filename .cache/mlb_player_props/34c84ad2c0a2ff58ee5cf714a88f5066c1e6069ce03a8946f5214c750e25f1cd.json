@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 23,
+            "gamesPlayed": 13,
+            "groundOuts": 7,
+            "airOuts": 10,
+            "runs": 6,
+            "doubles": 0,
+            "triples": 0,
+            "homeRuns": 4,
+            "strikeOuts": 20,
+            "baseOnBalls": 2,
+            "intentionalWalks": 0,
+            "hits": 7,
+            "hitByPitch": 1,
+            "avg": ".167",
+            "atBats": 42,
+            "obp": ".222",
+            "slg": ".452",
+            "ops": ".674",
+            "caughtStealing": 0,
+            "stolenBases": 1,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 0,
+            "numberOfPitches": 179,
+            "plateAppearances": 47,
+            "totalBases": 19,
+            "rbi": 9,
+            "leftOnBase": 19,
+            "sacBunts": 2,
+            "sacFlies": 0,
+            "babip": ".167",
+            "groundOutsToAirouts": "0.70",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "10.50"
+          },
+          "team": {
+            "id": 117,
+            "name": "Houston Astros",
+            "link": "/api/v1/teams/117"
+          },
+          "player": {
+            "id": 694728,
+            "fullName": "Brice Matthews",
+            "link": "/api/v1/people/694728"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

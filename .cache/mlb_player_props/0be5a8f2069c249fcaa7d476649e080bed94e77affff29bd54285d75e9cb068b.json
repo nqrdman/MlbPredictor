@@ -1,0 +1,187 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "gamesPlayed": 133,
+            "groundOuts": 79,
+            "airOuts": 151,
+            "runs": 58,
+            "doubles": 23,
+            "triples": 1,
+            "homeRuns": 17,
+            "strikeOuts": 120,
+            "baseOnBalls": 50,
+            "intentionalWalks": 0,
+            "hits": 94,
+            "hitByPitch": 4,
+            "avg": ".216",
+            "atBats": 435,
+            "obp": ".299",
+            "slg": ".391",
+            "ops": ".690",
+            "caughtStealing": 4,
+            "stolenBases": 22,
+            "stolenBasePercentage": ".846",
+            "caughtStealingPercentage": ".154",
+            "groundIntoDoublePlay": 2,
+            "numberOfPitches": 2112,
+            "plateAppearances": 498,
+            "totalBases": 170,
+            "rbi": 59,
+            "leftOnBase": 194,
+            "sacBunts": 3,
+            "sacFlies": 6,
+            "babip": ".253",
+            "groundOutsToAirouts": "0.52",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "25.59"
+          },
+          "player": {
+            "id": 656775,
+            "fullName": "Cedric Mullins",
+            "link": "/api/v1/people/656775"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R",
+          "numTeams": 2,
+          "numLeagues": 2
+        },
+        {
+          "season": "2025",
+          "stat": {
+            "age": 30,
+            "gamesPlayed": 91,
+            "groundOuts": 52,
+            "airOuts": 110,
+            "runs": 42,
+            "doubles": 19,
+            "triples": 0,
+            "homeRuns": 15,
+            "strikeOuts": 85,
+            "baseOnBalls": 34,
+            "intentionalWalks": 0,
+            "hits": 72,
+            "hitByPitch": 2,
+            "avg": ".229",
+            "atBats": 314,
+            "obp": ".305",
+            "slg": ".433",
+            "ops": ".738",
+            "caughtStealing": 4,
+            "stolenBases": 14,
+            "stolenBasePercentage": ".778",
+            "caughtStealingPercentage": ".222",
+            "groundIntoDoublePlay": 2,
+            "numberOfPitches": 1504,
+            "plateAppearances": 355,
+            "totalBases": 136,
+            "rbi": 49,
+            "leftOnBase": 138,
+            "sacBunts": 1,
+            "sacFlies": 4,
+            "babip": ".261",
+            "groundOutsToAirouts": "0.47",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "20.93"
+          },
+          "team": {
+            "id": 110,
+            "name": "Baltimore Orioles",
+            "link": "/api/v1/teams/110"
+          },
+          "player": {
+            "id": 656775,
+            "fullName": "Cedric Mullins",
+            "link": "/api/v1/people/656775"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        },
+        {
+          "season": "2025",
+          "stat": {
+            "age": 30,
+            "gamesPlayed": 42,
+            "groundOuts": 27,
+            "airOuts": 41,
+            "runs": 16,
+            "doubles": 4,
+            "triples": 1,
+            "homeRuns": 2,
+            "strikeOuts": 35,
+            "baseOnBalls": 16,
+            "intentionalWalks": 0,
+            "hits": 22,
+            "hitByPitch": 2,
+            "avg": ".182",
+            "atBats": 121,
+            "obp": ".284",
+            "slg": ".281",
+            "ops": ".565",
+            "caughtStealing": 0,
+            "stolenBases": 8,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 0,
+            "numberOfPitches": 608,
+            "plateAppearances": 143,
+            "totalBases": 34,
+            "rbi": 10,
+            "leftOnBase": 56,
+            "sacBunts": 2,
+            "sacFlies": 2,
+            "babip": ".233",
+            "groundOutsToAirouts": "0.66",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "60.50"
+          },
+          "team": {
+            "id": 121,
+            "name": "New York Mets",
+            "link": "/api/v1/teams/121"
+          },
+          "player": {
+            "id": 656775,
+            "fullName": "Cedric Mullins",
+            "link": "/api/v1/people/656775"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

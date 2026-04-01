@@ -1,0 +1,187 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "gamesPlayed": 147,
+            "groundOuts": 158,
+            "airOuts": 147,
+            "runs": 81,
+            "doubles": 29,
+            "triples": 1,
+            "homeRuns": 20,
+            "strikeOuts": 83,
+            "baseOnBalls": 48,
+            "intentionalWalks": 4,
+            "hits": 160,
+            "hitByPitch": 4,
+            "avg": ".295",
+            "atBats": 543,
+            "obp": ".353",
+            "slg": ".462",
+            "ops": ".815",
+            "caughtStealing": 2,
+            "stolenBases": 30,
+            "stolenBasePercentage": ".938",
+            "caughtStealingPercentage": ".063",
+            "groundIntoDoublePlay": 17,
+            "numberOfPitches": 2013,
+            "plateAppearances": 604,
+            "totalBases": 251,
+            "rbi": 92,
+            "leftOnBase": 231,
+            "sacBunts": 0,
+            "sacFlies": 5,
+            "babip": ".315",
+            "groundOutsToAirouts": "1.07",
+            "catchersInterference": 4,
+            "atBatsPerHomeRun": "27.15"
+          },
+          "player": {
+            "id": 647304,
+            "fullName": "Josh Naylor",
+            "link": "/api/v1/people/647304"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R",
+          "numTeams": 2,
+          "numLeagues": 2
+        },
+        {
+          "season": "2025",
+          "stat": {
+            "age": 28,
+            "gamesPlayed": 93,
+            "groundOuts": 102,
+            "airOuts": 100,
+            "runs": 49,
+            "doubles": 19,
+            "triples": 1,
+            "homeRuns": 11,
+            "strikeOuts": 49,
+            "baseOnBalls": 37,
+            "intentionalWalks": 4,
+            "hits": 102,
+            "hitByPitch": 2,
+            "avg": ".292",
+            "atBats": 349,
+            "obp": ".360",
+            "slg": ".447",
+            "ops": ".807",
+            "caughtStealing": 2,
+            "stolenBases": 11,
+            "stolenBasePercentage": ".846",
+            "caughtStealingPercentage": ".154",
+            "groundIntoDoublePlay": 14,
+            "numberOfPitches": 1272,
+            "plateAppearances": 394,
+            "totalBases": 156,
+            "rbi": 59,
+            "leftOnBase": 144,
+            "sacBunts": 0,
+            "sacFlies": 4,
+            "babip": ".311",
+            "groundOutsToAirouts": "1.02",
+            "catchersInterference": 2,
+            "atBatsPerHomeRun": "31.73"
+          },
+          "team": {
+            "id": 109,
+            "name": "Arizona Diamondbacks",
+            "link": "/api/v1/teams/109"
+          },
+          "player": {
+            "id": 647304,
+            "fullName": "Josh Naylor",
+            "link": "/api/v1/people/647304"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        },
+        {
+          "season": "2025",
+          "stat": {
+            "age": 28,
+            "gamesPlayed": 54,
+            "groundOuts": 56,
+            "airOuts": 47,
+            "runs": 32,
+            "doubles": 10,
+            "triples": 0,
+            "homeRuns": 9,
+            "strikeOuts": 34,
+            "baseOnBalls": 11,
+            "intentionalWalks": 0,
+            "hits": 58,
+            "hitByPitch": 2,
+            "avg": ".299",
+            "atBats": 194,
+            "obp": ".341",
+            "slg": ".490",
+            "ops": ".831",
+            "caughtStealing": 0,
+            "stolenBases": 19,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 3,
+            "numberOfPitches": 741,
+            "plateAppearances": 210,
+            "totalBases": 95,
+            "rbi": 33,
+            "leftOnBase": 87,
+            "sacBunts": 0,
+            "sacFlies": 1,
+            "babip": ".322",
+            "groundOutsToAirouts": "1.19",
+            "catchersInterference": 2,
+            "atBatsPerHomeRun": "21.56"
+          },
+          "team": {
+            "id": 136,
+            "name": "Seattle Mariners",
+            "link": "/api/v1/teams/136"
+          },
+          "player": {
+            "id": 647304,
+            "fullName": "Josh Naylor",
+            "link": "/api/v1/people/647304"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

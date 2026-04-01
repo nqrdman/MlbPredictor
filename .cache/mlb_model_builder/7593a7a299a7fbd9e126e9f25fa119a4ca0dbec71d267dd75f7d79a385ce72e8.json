@@ -1,0 +1,334 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "gameLog"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "summary": "4.1 IP, 4 ER, K, 0 BB",
+            "gamesPlayed": 1,
+            "gamesStarted": 1,
+            "flyOuts": 4,
+            "groundOuts": 4,
+            "airOuts": 7,
+            "runs": 4,
+            "doubles": 0,
+            "triples": 1,
+            "homeRuns": 1,
+            "strikeOuts": 1,
+            "baseOnBalls": 0,
+            "intentionalWalks": 0,
+            "hits": 5,
+            "hitByPitch": 2,
+            "avg": ".313",
+            "atBats": 16,
+            "obp": ".368",
+            "slg": ".625",
+            "ops": ".993",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 1,
+            "numberOfPitches": 62,
+            "era": "8.31",
+            "inningsPitched": "4.1",
+            "wins": 0,
+            "losses": 1,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 4,
+            "whip": "1.15",
+            "battersFaced": 19,
+            "outs": 13,
+            "gamesPitched": 1,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 39,
+            "strikePercentage": ".630",
+            "hitBatsmen": 2,
+            "balks": 0,
+            "wildPitches": 0,
+            "pickoffs": 0,
+            "totalBases": 10,
+            "groundOutsToAirouts": "0.57",
+            "winPercentage": ".000",
+            "pitchesPerInning": "14.31",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "-.--",
+            "strikeoutsPer9Inn": "2.08",
+            "walksPer9Inn": "0.00",
+            "hitsPer9Inn": "10.38",
+            "runsScoredPer9": "8.31",
+            "homeRunsPer9": "2.08",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 0,
+            "sacFlies": 1
+          },
+          "team": {
+            "id": 147,
+            "name": "New York Yankees",
+            "link": "/api/v1/teams/147"
+          },
+          "player": {
+            "id": 642216,
+            "fullName": "Allan Winans",
+            "link": "/api/v1/people/642216"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "opponent": {
+            "id": 113,
+            "name": "Cincinnati Reds",
+            "link": "/api/v1/teams/113"
+          },
+          "date": "2025-06-23",
+          "gameType": "R",
+          "isHome": false,
+          "isWin": false,
+          "game": {
+            "gamePk": 777390,
+            "link": "/api/v1.1/game/777390/feed/live",
+            "content": {
+              "link": "/api/v1/game/777390/content"
+            },
+            "gameNumber": 1,
+            "dayNight": "day"
+          }
+        },
+        {
+          "season": "2025",
+          "stat": {
+            "summary": "2.0 IP, 2 ER, 2 K, 2 BB",
+            "gamesPlayed": 1,
+            "gamesStarted": 0,
+            "flyOuts": 3,
+            "groundOuts": 0,
+            "airOuts": 4,
+            "runs": 3,
+            "doubles": 0,
+            "triples": 0,
+            "homeRuns": 0,
+            "strikeOuts": 2,
+            "baseOnBalls": 2,
+            "intentionalWalks": 0,
+            "hits": 3,
+            "hitByPitch": 0,
+            "avg": ".333",
+            "atBats": 8,
+            "obp": ".455",
+            "slg": ".375",
+            "ops": ".830",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 0,
+            "numberOfPitches": 50,
+            "era": "8.53",
+            "inningsPitched": "2.0",
+            "wins": 0,
+            "losses": 0,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 2,
+            "whip": "1.58",
+            "battersFaced": 11,
+            "outs": 6,
+            "gamesPitched": 1,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 33,
+            "strikePercentage": ".660",
+            "hitBatsmen": 0,
+            "balks": 0,
+            "wildPitches": 0,
+            "pickoffs": 0,
+            "totalBases": 3,
+            "groundOutsToAirouts": "0.36",
+            "winPercentage": ".---",
+            "pitchesPerInning": "25.00",
+            "gamesFinished": 1,
+            "strikeoutWalkRatio": "1.00",
+            "strikeoutsPer9Inn": "9.00",
+            "walksPer9Inn": "9.00",
+            "hitsPer9Inn": "13.50",
+            "runsScoredPer9": "13.50",
+            "homeRunsPer9": "0.00",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 0,
+            "sacFlies": 1
+          },
+          "team": {
+            "id": 147,
+            "name": "New York Yankees",
+            "link": "/api/v1/teams/147"
+          },
+          "player": {
+            "id": 642216,
+            "fullName": "Allan Winans",
+            "link": "/api/v1/people/642216"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "opponent": {
+            "id": 133,
+            "name": "Athletics",
+            "link": "/api/v1/teams/133"
+          },
+          "date": "2025-06-28",
+          "gameType": "R",
+          "isHome": true,
+          "isWin": false,
+          "game": {
+            "gamePk": 777326,
+            "link": "/api/v1.1/game/777326/feed/live",
+            "content": {
+              "link": "/api/v1/game/777326/content"
+            },
+            "gameNumber": 1,
+            "dayNight": "day"
+          }
+        },
+        {
+          "season": "2025",
+          "stat": {
+            "summary": "3.0 IP, 3 ER, 3 K, BB",
+            "gamesPlayed": 1,
+            "gamesStarted": 0,
+            "flyOuts": 1,
+            "groundOuts": 6,
+            "airOuts": 1,
+            "runs": 4,
+            "doubles": 2,
+            "triples": 0,
+            "homeRuns": 1,
+            "strikeOuts": 3,
+            "baseOnBalls": 1,
+            "intentionalWalks": 0,
+            "hits": 5,
+            "hitByPitch": 0,
+            "avg": ".333",
+            "atBats": 15,
+            "obp": ".375",
+            "slg": ".667",
+            "ops": "1.042",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 0,
+            "numberOfPitches": 59,
+            "era": "8.68",
+            "inningsPitched": "3.0",
+            "wins": 0,
+            "losses": 0,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 3,
+            "whip": "1.71",
+            "battersFaced": 16,
+            "outs": 9,
+            "gamesPitched": 1,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 39,
+            "strikePercentage": ".660",
+            "hitBatsmen": 0,
+            "balks": 0,
+            "wildPitches": 0,
+            "pickoffs": 0,
+            "totalBases": 10,
+            "groundOutsToAirouts": "0.83",
+            "winPercentage": ".---",
+            "pitchesPerInning": "19.67",
+            "gamesFinished": 1,
+            "strikeoutWalkRatio": "3.00",
+            "strikeoutsPer9Inn": "9.00",
+            "walksPer9Inn": "3.00",
+            "hitsPer9Inn": "15.00",
+            "runsScoredPer9": "12.00",
+            "homeRunsPer9": "3.00",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 0,
+            "sacFlies": 0
+          },
+          "team": {
+            "id": 147,
+            "name": "New York Yankees",
+            "link": "/api/v1/teams/147"
+          },
+          "player": {
+            "id": 642216,
+            "fullName": "Allan Winans",
+            "link": "/api/v1/people/642216"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "opponent": {
+            "id": 143,
+            "name": "Philadelphia Phillies",
+            "link": "/api/v1/teams/143"
+          },
+          "date": "2025-07-26",
+          "gameType": "R",
+          "isHome": true,
+          "isWin": false,
+          "game": {
+            "gamePk": 777001,
+            "link": "/api/v1.1/game/777001/feed/live",
+            "content": {
+              "link": "/api/v1/game/777001/content"
+            },
+            "gameNumber": 1,
+            "dayNight": "day"
+          }
+        }
+      ]
+    }
+  ]
+}

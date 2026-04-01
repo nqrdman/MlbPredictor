@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 680718,
+      "fullName": "Addison Barger",
+      "link": "/api/v1/people/680718",
+      "firstName": "Addison",
+      "lastName": "Barger",
+      "primaryNumber": "47",
+      "birthDate": "1999-11-12",
+      "currentAge": 26,
+      "birthCity": "Bellevue",
+      "birthStateProvince": "WA",
+      "birthCountry": "USA",
+      "height": "5' 11\"",
+      "weight": 210,
+      "active": true,
+      "primaryPosition": {
+        "code": "5",
+        "name": "Third Base",
+        "type": "Infielder",
+        "abbreviation": "3B"
+      },
+      "useName": "Addison",
+      "useLastName": "Barger",
+      "boxscoreName": "Barger",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": false,
+      "draftYear": 2018,
+      "pronunciation": "barge-er",
+      "mlbDebutDate": "2024-04-24",
+      "batSide": {
+        "code": "L",
+        "description": "Left"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Addison Barger",
+      "nameSlug": "addison-barger-680718",
+      "firstLastName": "Addison Barger",
+      "lastFirstName": "Barger, Addison",
+      "lastInitName": "Barger, A",
+      "initLastName": "A Barger",
+      "fullFMLName": "Addison Barger",
+      "fullLFMName": "Barger, Addison ",
+      "strikeZoneTop": 3.175,
+      "strikeZoneBottom": 1.602
+    }
+  ]
+}

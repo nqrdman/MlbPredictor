@@ -1,0 +1,53 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 670912,
+      "fullName": "Johan Oviedo",
+      "link": "/api/v1/people/670912",
+      "firstName": "Johan",
+      "lastName": "Oviedo",
+      "primaryNumber": "29",
+      "birthDate": "1998-03-02",
+      "currentAge": 28,
+      "birthCity": "Havana",
+      "birthCountry": "Cuba",
+      "height": "6' 6\"",
+      "weight": 275,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Johan",
+      "useLastName": "Oviedo",
+      "boxscoreName": "Oviedo",
+      "gender": "M",
+      "nameMatrilineal": "Puig",
+      "isPlayer": true,
+      "isVerified": false,
+      "pronunciation": "YO-hahn oh-vee-YAY-doh",
+      "mlbDebutDate": "2020-08-19",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Johan Oviedo",
+      "nameSlug": "johan-oviedo-670912",
+      "firstLastName": "Johan Oviedo",
+      "lastFirstName": "Oviedo, Johan",
+      "lastInitName": "Oviedo, J",
+      "initLastName": "J Oviedo",
+      "fullFMLName": "Johan Oviedo",
+      "fullLFMName": "Oviedo, Johan",
+      "strikeZoneTop": 3.478,
+      "strikeZoneBottom": 1.755
+    }
+  ]
+}

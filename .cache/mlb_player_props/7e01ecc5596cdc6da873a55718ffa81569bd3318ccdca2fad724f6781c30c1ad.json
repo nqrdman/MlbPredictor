@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 691620,
+      "fullName": "Jeferson Quero",
+      "link": "/api/v1/people/691620",
+      "firstName": "Jeferson",
+      "lastName": "Quero",
+      "primaryNumber": "15",
+      "birthDate": "2002-10-08",
+      "currentAge": 23,
+      "birthCity": "Barquisimeto",
+      "birthCountry": "Venezuela",
+      "height": "6' 0\"",
+      "weight": 203,
+      "active": true,
+      "primaryPosition": {
+        "code": "2",
+        "name": "Catcher",
+        "type": "Catcher",
+        "abbreviation": "C"
+      },
+      "useName": "Jeferson",
+      "useLastName": "Quero",
+      "middleName": "Jose",
+      "boxscoreName": "Quero",
+      "gender": "M",
+      "nameMatrilineal": "Sanchez",
+      "isPlayer": true,
+      "isVerified": true,
+      "pronunciation": "YEFF-err-sun KAY-roh",
+      "mlbDebutDate": "2026-03-29",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Jeferson Quero",
+      "nameSlug": "jeferson-quero-691620",
+      "firstLastName": "Jeferson Quero",
+      "lastFirstName": "Quero, Jeferson",
+      "lastInitName": "Quero, J",
+      "initLastName": "J Quero",
+      "fullFMLName": "Jeferson Jose Quero",
+      "fullLFMName": "Quero, Jeferson Jose",
+      "strikeZoneTop": 3.2,
+      "strikeZoneBottom": 1.61
+    }
+  ]
+}

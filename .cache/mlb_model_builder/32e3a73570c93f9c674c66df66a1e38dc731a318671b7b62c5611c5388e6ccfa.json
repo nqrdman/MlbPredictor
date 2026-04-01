@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 687362,
+      "fullName": "Connor Gillispie",
+      "link": "/api/v1/people/687362",
+      "firstName": "Connor",
+      "lastName": "Gillispie",
+      "birthDate": "1997-11-10",
+      "currentAge": 28,
+      "birthCity": "Earlysville",
+      "birthStateProvince": "VA",
+      "birthCountry": "USA",
+      "height": "5' 11\"",
+      "weight": 185,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Connor",
+      "useLastName": "Gillispie",
+      "middleName": "Brammer",
+      "boxscoreName": "Gillispie",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2019,
+      "pronunciation": "gill-ess-pee",
+      "mlbDebutDate": "2024-08-04",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Connor Gillispie",
+      "nameSlug": "connor-gillispie-687362",
+      "firstLastName": "Connor Gillispie",
+      "lastFirstName": "Gillispie, Connor",
+      "lastInitName": "Gillispie, C",
+      "initLastName": "C Gillispie",
+      "fullFMLName": "Connor Brammer Gillispie",
+      "fullLFMName": "Gillispie, Connor Brammer",
+      "strikeZoneTop": 3.165,
+      "strikeZoneBottom": 1.598
+    }
+  ]
+}

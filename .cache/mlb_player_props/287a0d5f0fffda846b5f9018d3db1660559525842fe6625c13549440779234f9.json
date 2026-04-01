@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 26,
+            "gamesPlayed": 42,
+            "groundOuts": 41,
+            "airOuts": 27,
+            "runs": 9,
+            "doubles": 4,
+            "triples": 0,
+            "homeRuns": 2,
+            "strikeOuts": 17,
+            "baseOnBalls": 10,
+            "intentionalWalks": 0,
+            "hits": 22,
+            "hitByPitch": 1,
+            "avg": ".210",
+            "atBats": 105,
+            "obp": ".282",
+            "slg": ".305",
+            "ops": ".587",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 1,
+            "numberOfPitches": 459,
+            "plateAppearances": 118,
+            "totalBases": 32,
+            "rbi": 13,
+            "leftOnBase": 55,
+            "sacBunts": 1,
+            "sacFlies": 1,
+            "babip": ".230",
+            "groundOutsToAirouts": "1.52",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "52.50"
+          },
+          "team": {
+            "id": 143,
+            "name": "Philadelphia Phillies",
+            "link": "/api/v1/teams/143"
+          },
+          "player": {
+            "id": 665561,
+            "fullName": "Rafael March\u00e1n",
+            "link": "/api/v1/people/665561"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

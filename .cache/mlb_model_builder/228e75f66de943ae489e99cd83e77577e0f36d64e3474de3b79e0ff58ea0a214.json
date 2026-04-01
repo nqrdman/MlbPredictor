@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 686563,
+      "fullName": "Jonathan Cannon",
+      "link": "/api/v1/people/686563",
+      "firstName": "Jonathan",
+      "lastName": "Cannon",
+      "primaryNumber": "48",
+      "birthDate": "2000-07-19",
+      "currentAge": 25,
+      "birthCity": "Columbia",
+      "birthStateProvince": "SC",
+      "birthCountry": "USA",
+      "height": "6' 6\"",
+      "weight": 225,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Jonathan",
+      "useLastName": "Cannon",
+      "middleName": "Patrick",
+      "boxscoreName": "Cannon",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2022,
+      "mlbDebutDate": "2024-04-17",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Jonathan Cannon",
+      "nameSlug": "jonathan-cannon-686563",
+      "firstLastName": "Jonathan Cannon",
+      "lastFirstName": "Cannon, Jonathan",
+      "lastInitName": "Cannon, J",
+      "initLastName": "J Cannon",
+      "fullFMLName": "Jonathan Patrick Cannon",
+      "fullLFMName": "Cannon, Jonathan Patrick",
+      "strikeZoneTop": 3.66,
+      "strikeZoneBottom": 1.68
+    }
+  ]
+}

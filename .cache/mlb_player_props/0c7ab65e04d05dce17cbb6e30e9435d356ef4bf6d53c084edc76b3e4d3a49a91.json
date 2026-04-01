@@ -1,0 +1,187 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "gamesPlayed": 146,
+            "groundOuts": 91,
+            "airOuts": 100,
+            "runs": 61,
+            "doubles": 24,
+            "triples": 1,
+            "homeRuns": 17,
+            "strikeOuts": 136,
+            "baseOnBalls": 39,
+            "intentionalWalks": 0,
+            "hits": 124,
+            "hitByPitch": 11,
+            "avg": ".277",
+            "atBats": 448,
+            "obp": ".347",
+            "slg": ".449",
+            "ops": ".796",
+            "caughtStealing": 7,
+            "stolenBases": 11,
+            "stolenBasePercentage": ".611",
+            "caughtStealingPercentage": ".389",
+            "groundIntoDoublePlay": 5,
+            "numberOfPitches": 1941,
+            "plateAppearances": 501,
+            "totalBases": 201,
+            "rbi": 54,
+            "leftOnBase": 181,
+            "sacBunts": 0,
+            "sacFlies": 3,
+            "babip": ".359",
+            "groundOutsToAirouts": "0.91",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "26.35"
+          },
+          "player": {
+            "id": 664056,
+            "fullName": "Harrison Bader",
+            "link": "/api/v1/people/664056"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R",
+          "numTeams": 2,
+          "numLeagues": 2
+        },
+        {
+          "season": "2025",
+          "stat": {
+            "age": 31,
+            "gamesPlayed": 96,
+            "groundOuts": 62,
+            "airOuts": 60,
+            "runs": 31,
+            "doubles": 13,
+            "triples": 0,
+            "homeRuns": 12,
+            "strikeOuts": 81,
+            "baseOnBalls": 27,
+            "intentionalWalks": 0,
+            "hits": 70,
+            "hitByPitch": 7,
+            "avg": ".258",
+            "atBats": 271,
+            "obp": ".339",
+            "slg": ".439",
+            "ops": ".778",
+            "caughtStealing": 4,
+            "stolenBases": 10,
+            "stolenBasePercentage": ".714",
+            "caughtStealingPercentage": ".286",
+            "groundIntoDoublePlay": 3,
+            "numberOfPitches": 1229,
+            "plateAppearances": 307,
+            "totalBases": 119,
+            "rbi": 38,
+            "leftOnBase": 127,
+            "sacBunts": 0,
+            "sacFlies": 2,
+            "babip": ".322",
+            "groundOutsToAirouts": "1.03",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "22.58"
+          },
+          "team": {
+            "id": 142,
+            "name": "Minnesota Twins",
+            "link": "/api/v1/teams/142"
+          },
+          "player": {
+            "id": 664056,
+            "fullName": "Harrison Bader",
+            "link": "/api/v1/people/664056"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        },
+        {
+          "season": "2025",
+          "stat": {
+            "age": 31,
+            "gamesPlayed": 50,
+            "groundOuts": 29,
+            "airOuts": 40,
+            "runs": 30,
+            "doubles": 11,
+            "triples": 1,
+            "homeRuns": 5,
+            "strikeOuts": 55,
+            "baseOnBalls": 12,
+            "intentionalWalks": 0,
+            "hits": 54,
+            "hitByPitch": 4,
+            "avg": ".305",
+            "atBats": 177,
+            "obp": ".361",
+            "slg": ".463",
+            "ops": ".824",
+            "caughtStealing": 3,
+            "stolenBases": 1,
+            "stolenBasePercentage": ".250",
+            "caughtStealingPercentage": ".750",
+            "groundIntoDoublePlay": 2,
+            "numberOfPitches": 712,
+            "plateAppearances": 194,
+            "totalBases": 82,
+            "rbi": 16,
+            "leftOnBase": 54,
+            "sacBunts": 0,
+            "sacFlies": 1,
+            "babip": ".415",
+            "groundOutsToAirouts": "0.73",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "35.40"
+          },
+          "team": {
+            "id": 143,
+            "name": "Philadelphia Phillies",
+            "link": "/api/v1/teams/143"
+          },
+          "player": {
+            "id": 664056,
+            "fullName": "Harrison Bader",
+            "link": "/api/v1/people/664056"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

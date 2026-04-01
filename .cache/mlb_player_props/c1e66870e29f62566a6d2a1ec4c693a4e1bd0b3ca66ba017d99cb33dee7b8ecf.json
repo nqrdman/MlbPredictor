@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 28,
+            "gamesPlayed": 120,
+            "groundOuts": 140,
+            "airOuts": 115,
+            "runs": 53,
+            "doubles": 18,
+            "triples": 3,
+            "homeRuns": 11,
+            "strikeOuts": 82,
+            "baseOnBalls": 29,
+            "intentionalWalks": 0,
+            "hits": 133,
+            "hitByPitch": 5,
+            "avg": ".287",
+            "atBats": 464,
+            "obp": ".331",
+            "slg": ".409",
+            "ops": ".740",
+            "caughtStealing": 0,
+            "stolenBases": 2,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 16,
+            "numberOfPitches": 1801,
+            "plateAppearances": 504,
+            "totalBases": 190,
+            "rbi": 59,
+            "leftOnBase": 198,
+            "sacBunts": 0,
+            "sacFlies": 6,
+            "babip": ".324",
+            "groundOutsToAirouts": "1.22",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "42.18"
+          },
+          "team": {
+            "id": 143,
+            "name": "Philadelphia Phillies",
+            "link": "/api/v1/teams/143"
+          },
+          "player": {
+            "id": 664761,
+            "fullName": "Alec Bohm",
+            "link": "/api/v1/people/664761"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

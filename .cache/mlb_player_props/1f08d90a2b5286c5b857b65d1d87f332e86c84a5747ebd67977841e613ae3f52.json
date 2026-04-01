@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 25,
+            "gamesPlayed": 135,
+            "groundOuts": 110,
+            "airOuts": 119,
+            "runs": 61,
+            "doubles": 32,
+            "triples": 1,
+            "homeRuns": 21,
+            "strikeOuts": 121,
+            "baseOnBalls": 36,
+            "intentionalWalks": 4,
+            "hits": 112,
+            "hitByPitch": 3,
+            "avg": ".243",
+            "atBats": 460,
+            "obp": ".301",
+            "slg": ".454",
+            "ops": ".755",
+            "caughtStealing": 1,
+            "stolenBases": 4,
+            "stolenBasePercentage": ".800",
+            "caughtStealingPercentage": ".200",
+            "groundIntoDoublePlay": 8,
+            "numberOfPitches": 1955,
+            "plateAppearances": 502,
+            "totalBases": 209,
+            "rbi": 74,
+            "leftOnBase": 214,
+            "sacBunts": 0,
+            "sacFlies": 2,
+            "babip": ".284",
+            "groundOutsToAirouts": "0.92",
+            "catchersInterference": 1,
+            "atBatsPerHomeRun": "21.90"
+          },
+          "team": {
+            "id": 141,
+            "name": "Toronto Blue Jays",
+            "link": "/api/v1/teams/141"
+          },
+          "player": {
+            "id": 680718,
+            "fullName": "Addison Barger",
+            "link": "/api/v1/people/680718"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

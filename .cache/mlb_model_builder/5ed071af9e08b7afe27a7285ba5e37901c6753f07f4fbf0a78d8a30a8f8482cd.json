@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 622503,
+      "fullName": "Nabil Crismatt",
+      "link": "/api/v1/people/622503",
+      "firstName": "Nabil",
+      "lastName": "Crismatt",
+      "primaryNumber": "70",
+      "birthDate": "1994-12-25",
+      "currentAge": 31,
+      "birthCity": "Barranquilla",
+      "birthCountry": "Colombia",
+      "height": "6' 1\"",
+      "weight": 220,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Nabil",
+      "useLastName": "Crismatt",
+      "middleName": "Antonio",
+      "boxscoreName": "Crismatt",
+      "gender": "M",
+      "nameMatrilineal": "Abuchaibe",
+      "isPlayer": true,
+      "isVerified": true,
+      "pronunciation": "nah-BEEL CRIZ-matt",
+      "mlbDebutDate": "2020-08-17",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Nabil Crismatt",
+      "nameSlug": "nabil-crismatt-622503",
+      "firstLastName": "Nabil Crismatt",
+      "lastFirstName": "Crismatt, Nabil",
+      "lastInitName": "Crismatt, N",
+      "initLastName": "N Crismatt",
+      "fullFMLName": "Nabil Antonio Crismatt",
+      "fullLFMName": "Crismatt, Nabil Antonio",
+      "strikeZoneTop": 3.255,
+      "strikeZoneBottom": 1.643
+    }
+  ]
+}

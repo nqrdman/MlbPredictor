@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 29,
+            "gamesPlayed": 160,
+            "groundOuts": 105,
+            "airOuts": 183,
+            "runs": 94,
+            "doubles": 22,
+            "triples": 2,
+            "homeRuns": 30,
+            "strikeOuts": 179,
+            "baseOnBalls": 80,
+            "intentionalWalks": 2,
+            "hits": 133,
+            "hitByPitch": 5,
+            "avg": ".225",
+            "atBats": 591,
+            "obp": ".318",
+            "slg": ".421",
+            "ops": ".739",
+            "caughtStealing": 4,
+            "stolenBases": 12,
+            "stolenBasePercentage": ".750",
+            "caughtStealingPercentage": ".250",
+            "groundIntoDoublePlay": 9,
+            "numberOfPitches": 2797,
+            "plateAppearances": 686,
+            "totalBases": 249,
+            "rbi": 87,
+            "leftOnBase": 253,
+            "sacBunts": 0,
+            "sacFlies": 9,
+            "babip": ".263",
+            "groundOutsToAirouts": "0.57",
+            "catchersInterference": 1,
+            "atBatsPerHomeRun": "19.70"
+          },
+          "team": {
+            "id": 137,
+            "name": "San Francisco Giants",
+            "link": "/api/v1/teams/137"
+          },
+          "player": {
+            "id": 642715,
+            "fullName": "Willy Adames",
+            "link": "/api/v1/people/642715"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

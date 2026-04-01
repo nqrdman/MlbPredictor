@@ -1,0 +1,122 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "gameLog"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "summary": "4.1 IP, 2 ER, 3 K, BB",
+            "gamesPlayed": 1,
+            "gamesStarted": 1,
+            "flyOuts": 4,
+            "groundOuts": 4,
+            "airOuts": 6,
+            "runs": 2,
+            "doubles": 1,
+            "triples": 0,
+            "homeRuns": 1,
+            "strikeOuts": 3,
+            "baseOnBalls": 1,
+            "intentionalWalks": 0,
+            "hits": 8,
+            "hitByPitch": 0,
+            "avg": ".381",
+            "atBats": 21,
+            "obp": ".409",
+            "slg": ".571",
+            "ops": ".980",
+            "caughtStealing": 0,
+            "stolenBases": 1,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 0,
+            "numberOfPitches": 86,
+            "era": "4.15",
+            "inningsPitched": "4.1",
+            "wins": 0,
+            "losses": 0,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 2,
+            "whip": "2.08",
+            "battersFaced": 22,
+            "outs": 13,
+            "gamesPitched": 1,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 53,
+            "strikePercentage": ".620",
+            "hitBatsmen": 0,
+            "balks": 0,
+            "wildPitches": 1,
+            "pickoffs": 0,
+            "totalBases": 12,
+            "groundOutsToAirouts": "0.67",
+            "winPercentage": ".---",
+            "pitchesPerInning": "19.85",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "3.00",
+            "strikeoutsPer9Inn": "6.23",
+            "walksPer9Inn": "2.08",
+            "hitsPer9Inn": "16.62",
+            "runsScoredPer9": "4.15",
+            "homeRunsPer9": "2.08",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 0,
+            "sacFlies": 0
+          },
+          "team": {
+            "id": 108,
+            "name": "Los Angeles Angels",
+            "link": "/api/v1/teams/108"
+          },
+          "player": {
+            "id": 579328,
+            "fullName": "Yusei Kikuchi",
+            "link": "/api/v1/people/579328"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "opponent": {
+            "id": 117,
+            "name": "Houston Astros",
+            "link": "/api/v1/teams/117"
+          },
+          "date": "2026-03-27",
+          "gameType": "R",
+          "isHome": false,
+          "isWin": true,
+          "game": {
+            "gamePk": 824216,
+            "link": "/api/v1.1/game/824216/feed/live",
+            "content": {
+              "link": "/api/v1/game/824216/content"
+            },
+            "gameNumber": 1,
+            "dayNight": "day"
+          }
+        }
+      ]
+    }
+  ]
+}

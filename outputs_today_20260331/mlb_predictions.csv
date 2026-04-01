@@ -1,0 +1,15 @@
+game_pk,game_date_utc,away_team_name,home_team_name,away_probable_pitcher_name,home_probable_pitcher_name,home_win_probability,away_win_probability,predicted_winner,prediction_confidence
+824861,2026-03-31T22:35:00+00:00,Texas Rangers,Baltimore Orioles,Jacob deGrom,Zach Eflin,0.5898,0.4102,Baltimore Orioles,0.5898
+824537,2026-03-31T22:40:00+00:00,Pittsburgh Pirates,Cincinnati Reds,Bubba Chandler,Brandon Williamson,0.6149,0.3851,Cincinnati Reds,0.6149
+823485,2026-03-31T22:40:00+00:00,Washington Nationals,Philadelphia Phillies,PJ Poulin,Andrew Painter,0.1703,0.8297,Washington Nationals,0.8297
+823888,2026-03-31T22:40:00+00:00,Chicago White Sox,Miami Marlins,Erick Fedde,Janson Junk,0.6688,0.3312,Miami Marlins,0.6688
+822836,2026-03-31T23:07:00+00:00,Colorado Rockies,Toronto Blue Jays,Ryan Feltner,Max Scherzer,0.7475,0.2525,Toronto Blue Jays,0.7475
+824942,2026-03-31T23:15:00+00:00,Athletics,Atlanta Braves,Aaron Civale,José Suarez,0.525,0.475,Atlanta Braves,0.525
+824699,2026-03-31T23:40:00+00:00,Los Angeles Angels,Chicago Cubs,José Soriano,Jameson Taillon,0.0248,0.9752,Los Angeles Angels,0.9752
+823807,2026-03-31T23:40:00+00:00,Tampa Bay Rays,Milwaukee Brewers,Shane McClanahan,Brandon Woodruff,0.6403,0.3597,Milwaukee Brewers,0.6403
+823077,2026-03-31T23:45:00+00:00,New York Mets,St. Louis Cardinals,Kodai Senga,Andre Pallante,0.6923,0.3077,St. Louis Cardinals,0.6923
+824212,2026-04-01T00:10:00+00:00,Boston Red Sox,Houston Astros,Brayan Bello,Hunter Brown,0.9815,0.0185,Houston Astros,0.9815
+825107,2026-04-01T01:40:00+00:00,Detroit Tigers,Arizona Diamondbacks,Casey Mize,Brandon Pfaadt,0.2434,0.7566,Detroit Tigers,0.7566
+823322,2026-04-01T01:40:00+00:00,San Francisco Giants,San Diego Padres,Logan Webb,Germán Márquez,0.872,0.128,San Diego Padres,0.872
+823158,2026-04-01T01:40:00+00:00,New York Yankees,Seattle Mariners,Max Fried,Logan Gilbert,0.0625,0.9375,New York Yankees,0.9375
+823969,2026-04-01T02:10:00+00:00,Cleveland Guardians,Los Angeles Dodgers,Tanner Bibee,Shohei Ohtani,0.3363,0.6637,Cleveland Guardians,0.6637

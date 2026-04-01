@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 22,
+            "gamesPlayed": 134,
+            "groundOuts": 104,
+            "airOuts": 98,
+            "runs": 55,
+            "doubles": 21,
+            "triples": 3,
+            "homeRuns": 9,
+            "strikeOuts": 137,
+            "baseOnBalls": 43,
+            "intentionalWalks": 0,
+            "hits": 104,
+            "hitByPitch": 7,
+            "avg": ".236",
+            "atBats": 441,
+            "obp": ".312",
+            "slg": ".358",
+            "ops": ".670",
+            "caughtStealing": 1,
+            "stolenBases": 8,
+            "stolenBasePercentage": ".889",
+            "caughtStealingPercentage": ".111",
+            "groundIntoDoublePlay": 11,
+            "numberOfPitches": 2024,
+            "plateAppearances": 493,
+            "totalBases": 158,
+            "rbi": 51,
+            "leftOnBase": 200,
+            "sacBunts": 0,
+            "sacFlies": 2,
+            "babip": ".320",
+            "groundOutsToAirouts": "1.06",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "49.00"
+          },
+          "team": {
+            "id": 117,
+            "name": "Houston Astros",
+            "link": "/api/v1/teams/117"
+          },
+          "player": {
+            "id": 701358,
+            "fullName": "Cam Smith",
+            "link": "/api/v1/people/701358"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

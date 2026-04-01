@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 28,
+            "gamesPlayed": 118,
+            "groundOuts": 131,
+            "airOuts": 136,
+            "runs": 64,
+            "doubles": 32,
+            "triples": 0,
+            "homeRuns": 10,
+            "strikeOuts": 67,
+            "baseOnBalls": 42,
+            "intentionalWalks": 3,
+            "hits": 132,
+            "hitByPitch": 7,
+            "avg": ".287",
+            "atBats": 460,
+            "obp": ".353",
+            "slg": ".422",
+            "ops": ".775",
+            "caughtStealing": 3,
+            "stolenBases": 3,
+            "stolenBasePercentage": ".500",
+            "caughtStealingPercentage": ".500",
+            "groundIntoDoublePlay": 4,
+            "numberOfPitches": 1923,
+            "plateAppearances": 515,
+            "totalBases": 194,
+            "rbi": 50,
+            "leftOnBase": 162,
+            "sacBunts": 2,
+            "sacFlies": 4,
+            "babip": ".315",
+            "groundOutsToAirouts": "0.96",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "46.00"
+          },
+          "team": {
+            "id": 138,
+            "name": "St. Louis Cardinals",
+            "link": "/api/v1/teams/138"
+          },
+          "player": {
+            "id": 680977,
+            "fullName": "Brendan Donovan",
+            "link": "/api/v1/people/680977"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

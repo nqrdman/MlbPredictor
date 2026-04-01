@@ -1,0 +1,53 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 682847,
+      "fullName": "Luis Ortiz",
+      "link": "/api/v1/people/682847",
+      "firstName": "Luis",
+      "lastName": "Ortiz",
+      "primaryNumber": "45",
+      "birthDate": "1999-01-27",
+      "currentAge": 27,
+      "birthCity": "San Pedro de Macoris",
+      "birthCountry": "Dominican Republic",
+      "height": "6' 2\"",
+      "weight": 235,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Luis",
+      "useLastName": "Ortiz",
+      "middleName": "Leandro",
+      "boxscoreName": "Ortiz",
+      "gender": "M",
+      "nameMatrilineal": "Ribera",
+      "isPlayer": true,
+      "isVerified": true,
+      "mlbDebutDate": "2022-09-13",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Luis Ortiz",
+      "nameSlug": "luis-ortiz-682847",
+      "firstLastName": "Luis Ortiz",
+      "lastFirstName": "Ortiz, Luis",
+      "lastInitName": "Ortiz, L",
+      "initLastName": "L Ortiz",
+      "fullFMLName": "Luis Leandro Ortiz",
+      "fullLFMName": "Ortiz, Luis Leandro",
+      "strikeZoneTop": 3.299,
+      "strikeZoneBottom": 1.665
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "gamesPlayed": 153,
+            "groundOuts": 130,
+            "airOuts": 133,
+            "runs": 64,
+            "doubles": 23,
+            "triples": 3,
+            "homeRuns": 18,
+            "strikeOuts": 159,
+            "baseOnBalls": 62,
+            "intentionalWalks": 2,
+            "hits": 123,
+            "hitByPitch": 2,
+            "avg": ".228",
+            "atBats": 540,
+            "obp": ".307",
+            "slg": ".381",
+            "ops": ".688",
+            "caughtStealing": 0,
+            "stolenBases": 1,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 6,
+            "numberOfPitches": 2607,
+            "plateAppearances": 609,
+            "totalBases": 206,
+            "rbi": 84,
+            "leftOnBase": 232,
+            "sacBunts": 0,
+            "sacFlies": 5,
+            "babip": ".285",
+            "groundOutsToAirouts": "0.98",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "30.00"
+          },
+          "player": {
+            "id": 663993,
+            "fullName": "Nathaniel Lowe",
+            "link": "/api/v1/people/663993"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R",
+          "numTeams": 2,
+          "numLeagues": 2
+        },
+        {
+          "season": "2025",
+          "stat": {
+            "age": 29,
+            "gamesPlayed": 34,
+            "groundOuts": 18,
+            "airOuts": 28,
+            "runs": 14,
+            "doubles": 6,
+            "triples": 1,
+            "homeRuns": 2,
+            "strikeOuts": 29,
+            "baseOnBalls": 15,
+            "intentionalWalks": 2,
+            "hits": 28,
+            "hitByPitch": 1,
+            "avg": ".280",
+            "atBats": 100,
+            "obp": ".370",
+            "slg": ".420",
+            "ops": ".790",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 1,
+            "numberOfPitches": 502,
+            "plateAppearances": 119,
+            "totalBases": 42,
+            "rbi": 16,
+            "leftOnBase": 47,
+            "sacBunts": 0,
+            "sacFlies": 3,
+            "babip": ".361",
+            "groundOutsToAirouts": "0.64",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "50.00"
+          },
+          "team": {
+            "id": 111,
+            "name": "Boston Red Sox",
+            "link": "/api/v1/teams/111"
+          },
+          "player": {
+            "id": 663993,
+            "fullName": "Nathaniel Lowe",
+            "link": "/api/v1/people/663993"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        },
+        {
+          "season": "2025",
+          "stat": {
+            "age": 29,
+            "gamesPlayed": 119,
+            "groundOuts": 112,
+            "airOuts": 105,
+            "runs": 50,
+            "doubles": 17,
+            "triples": 2,
+            "homeRuns": 16,
+            "strikeOuts": 130,
+            "baseOnBalls": 47,
+            "intentionalWalks": 0,
+            "hits": 95,
+            "hitByPitch": 1,
+            "avg": ".216",
+            "atBats": 440,
+            "obp": ".292",
+            "slg": ".373",
+            "ops": ".665",
+            "caughtStealing": 0,
+            "stolenBases": 1,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 5,
+            "numberOfPitches": 2105,
+            "plateAppearances": 490,
+            "totalBases": 164,
+            "rbi": 68,
+            "leftOnBase": 185,
+            "sacBunts": 0,
+            "sacFlies": 2,
+            "babip": ".267",
+            "groundOutsToAirouts": "1.07",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "27.50"
+          },
+          "team": {
+            "id": 120,
+            "name": "Washington Nationals",
+            "link": "/api/v1/teams/120"
+          },
+          "player": {
+            "id": 663993,
+            "fullName": "Nathaniel Lowe",
+            "link": "/api/v1/people/663993"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

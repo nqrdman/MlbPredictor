@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 27,
+            "gamesPlayed": 106,
+            "groundOuts": 64,
+            "airOuts": 85,
+            "runs": 56,
+            "doubles": 22,
+            "triples": 0,
+            "homeRuns": 14,
+            "strikeOuts": 107,
+            "baseOnBalls": 41,
+            "intentionalWalks": 3,
+            "hits": 117,
+            "hitByPitch": 8,
+            "avg": ".316",
+            "atBats": 370,
+            "obp": ".393",
+            "slg": ".489",
+            "ops": ".882",
+            "caughtStealing": 2,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".000",
+            "caughtStealingPercentage": "1.000",
+            "groundIntoDoublePlay": 9,
+            "numberOfPitches": 1717,
+            "plateAppearances": 422,
+            "totalBases": 181,
+            "rbi": 59,
+            "leftOnBase": 154,
+            "sacBunts": 0,
+            "sacFlies": 3,
+            "babip": ".409",
+            "groundOutsToAirouts": "0.75",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "26.43"
+          },
+          "team": {
+            "id": 139,
+            "name": "Tampa Bay Rays",
+            "link": "/api/v1/teams/139"
+          },
+          "player": {
+            "id": 666018,
+            "fullName": "Jonathan Aranda",
+            "link": "/api/v1/people/666018"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

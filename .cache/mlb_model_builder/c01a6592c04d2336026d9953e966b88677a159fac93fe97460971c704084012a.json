@@ -1,0 +1,55 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 542881,
+      "fullName": "Tyler Anderson",
+      "link": "/api/v1/people/542881",
+      "firstName": "Tyler",
+      "lastName": "Anderson",
+      "primaryNumber": "31",
+      "birthDate": "1989-12-30",
+      "currentAge": 36,
+      "birthCity": "Las Vegas",
+      "birthStateProvince": "NV",
+      "birthCountry": "USA",
+      "height": "6' 2\"",
+      "weight": 220,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Tyler",
+      "useLastName": "Anderson",
+      "middleName": "John",
+      "boxscoreName": "Anderson, Ty",
+      "nickName": "Mr. Duck",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2011,
+      "mlbDebutDate": "2016-06-12",
+      "batSide": {
+        "code": "L",
+        "description": "Left"
+      },
+      "pitchHand": {
+        "code": "L",
+        "description": "Left"
+      },
+      "nameFirstLast": "Tyler Anderson",
+      "nameSlug": "tyler-anderson-542881",
+      "firstLastName": "Tyler Anderson",
+      "lastFirstName": "Anderson, Tyler",
+      "lastInitName": "Anderson, T",
+      "initLastName": "T Anderson",
+      "fullFMLName": "Tyler John Anderson",
+      "fullLFMName": "Anderson, Tyler John",
+      "strikeZoneTop": 3.56,
+      "strikeZoneBottom": 1.68
+    }
+  ]
+}

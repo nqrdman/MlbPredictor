@@ -1,0 +1,56 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 664068,
+      "fullName": "Scott Kingery",
+      "link": "/api/v1/people/664068",
+      "firstName": "Scott",
+      "lastName": "Kingery",
+      "primaryNumber": "12",
+      "birthDate": "1994-04-29",
+      "currentAge": 31,
+      "birthCity": "Phoenix",
+      "birthStateProvince": "AZ",
+      "birthCountry": "USA",
+      "height": "5' 9\"",
+      "weight": 180,
+      "active": true,
+      "primaryPosition": {
+        "code": "4",
+        "name": "Second Base",
+        "type": "Infielder",
+        "abbreviation": "2B"
+      },
+      "useName": "Scott",
+      "useLastName": "Kingery",
+      "middleName": "M.",
+      "boxscoreName": "Kingery",
+      "nickName": "Jetpax",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2015,
+      "pronunciation": "KING-urr-ee",
+      "mlbDebutDate": "2018-03-30",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Scott Kingery",
+      "nameSlug": "scott-kingery-664068",
+      "firstLastName": "Scott Kingery",
+      "lastFirstName": "Kingery, Scott",
+      "lastInitName": "Kingery, S",
+      "initLastName": "S Kingery",
+      "fullFMLName": "Scott M. Kingery",
+      "fullLFMName": "Kingery, Scott M.",
+      "strikeZoneTop": 3.082,
+      "strikeZoneBottom": 1.556
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 26,
+            "gamesPlayed": 149,
+            "groundOuts": 132,
+            "airOuts": 162,
+            "runs": 62,
+            "doubles": 18,
+            "triples": 1,
+            "homeRuns": 7,
+            "strikeOuts": 74,
+            "baseOnBalls": 27,
+            "intentionalWalks": 0,
+            "hits": 108,
+            "hitByPitch": 3,
+            "avg": ".230",
+            "atBats": 470,
+            "obp": ".276",
+            "slg": ".317",
+            "ops": ".593",
+            "caughtStealing": 3,
+            "stolenBases": 14,
+            "stolenBasePercentage": ".824",
+            "caughtStealingPercentage": ".176",
+            "groundIntoDoublePlay": 10,
+            "numberOfPitches": 1873,
+            "plateAppearances": 506,
+            "totalBases": 149,
+            "rbi": 45,
+            "leftOnBase": 232,
+            "sacBunts": 6,
+            "sacFlies": 0,
+            "babip": ".260",
+            "groundOutsToAirouts": "0.81",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "67.14"
+          },
+          "team": {
+            "id": 158,
+            "name": "Milwaukee Brewers",
+            "link": "/api/v1/teams/158"
+          },
+          "player": {
+            "id": 687401,
+            "fullName": "Joey Ortiz",
+            "link": "/api/v1/people/687401"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

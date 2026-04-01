@@ -1,0 +1,55 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 605513,
+      "fullName": "Spencer Turnbull",
+      "link": "/api/v1/people/605513",
+      "firstName": "Spencer",
+      "lastName": "Turnbull",
+      "primaryNumber": "56",
+      "birthDate": "1992-09-18",
+      "currentAge": 33,
+      "birthCity": "Demopolis",
+      "birthStateProvince": "AL",
+      "birthCountry": "USA",
+      "height": "6' 3\"",
+      "weight": 210,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Spencer",
+      "useLastName": "Turnbull",
+      "middleName": "Ketcham",
+      "boxscoreName": "Turnbull",
+      "nickName": "Red Bull",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2014,
+      "mlbDebutDate": "2018-09-14",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Spencer Turnbull",
+      "nameSlug": "spencer-turnbull-605513",
+      "firstLastName": "Spencer Turnbull",
+      "lastFirstName": "Turnbull, Spencer",
+      "lastInitName": "Turnbull, S",
+      "initLastName": "S Turnbull",
+      "fullFMLName": "Spencer Ketcham Turnbull",
+      "fullLFMName": "Turnbull, Spencer Ketcham",
+      "strikeZoneTop": 3.344,
+      "strikeZoneBottom": 1.688
+    }
+  ]
+}

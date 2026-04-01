@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 26,
+            "gamesPlayed": 150,
+            "groundOuts": 182,
+            "airOuts": 162,
+            "runs": 73,
+            "doubles": 31,
+            "triples": 12,
+            "homeRuns": 8,
+            "strikeOuts": 71,
+            "baseOnBalls": 47,
+            "intentionalWalks": 0,
+            "hits": 149,
+            "hitByPitch": 6,
+            "avg": ".266",
+            "atBats": 560,
+            "obp": ".327",
+            "slg": ".407",
+            "ops": ".734",
+            "caughtStealing": 3,
+            "stolenBases": 10,
+            "stolenBasePercentage": ".769",
+            "caughtStealingPercentage": ".231",
+            "groundIntoDoublePlay": 2,
+            "numberOfPitches": 2351,
+            "plateAppearances": 617,
+            "totalBases": 228,
+            "rbi": 55,
+            "leftOnBase": 223,
+            "sacBunts": 0,
+            "sacFlies": 4,
+            "babip": ".291",
+            "groundOutsToAirouts": "1.12",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "70.00"
+          },
+          "team": {
+            "id": 137,
+            "name": "San Francisco Giants",
+            "link": "/api/v1/teams/137"
+          },
+          "player": {
+            "id": 808982,
+            "fullName": "Jung Hoo Lee",
+            "link": "/api/v1/people/808982"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

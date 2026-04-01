@@ -1,0 +1,53 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 680977,
+      "fullName": "Brendan Donovan",
+      "link": "/api/v1/people/680977",
+      "firstName": "Brendan",
+      "lastName": "Donovan",
+      "primaryNumber": "33",
+      "birthDate": "1997-01-16",
+      "currentAge": 29,
+      "birthCity": "Wurzberg",
+      "birthCountry": "Germany",
+      "height": "5' 11\"",
+      "weight": 210,
+      "active": true,
+      "primaryPosition": {
+        "code": "4",
+        "name": "Second Base",
+        "type": "Infielder",
+        "abbreviation": "2B"
+      },
+      "useName": "Brendan",
+      "useLastName": "Donovan",
+      "middleName": "Michael",
+      "boxscoreName": "Donovan",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2018,
+      "mlbDebutDate": "2022-04-25",
+      "batSide": {
+        "code": "L",
+        "description": "Left"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Brendan Donovan",
+      "nameSlug": "brendan-donovan-680977",
+      "firstLastName": "Brendan Donovan",
+      "lastFirstName": "Donovan, Brendan",
+      "lastInitName": "Donovan, B",
+      "initLastName": "B Donovan",
+      "fullFMLName": "Brendan Michael Donovan",
+      "fullLFMName": "Donovan, Brendan Michael",
+      "strikeZoneTop": 3.159,
+      "strikeZoneBottom": 1.594
+    }
+  ]
+}

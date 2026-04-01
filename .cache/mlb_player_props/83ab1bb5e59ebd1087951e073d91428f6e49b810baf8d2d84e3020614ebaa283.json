@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 23,
+            "gamesPlayed": 158,
+            "groundOuts": 153,
+            "airOuts": 114,
+            "runs": 75,
+            "doubles": 34,
+            "triples": 1,
+            "homeRuns": 25,
+            "strikeOuts": 141,
+            "baseOnBalls": 55,
+            "intentionalWalks": 2,
+            "hits": 155,
+            "hitByPitch": 6,
+            "avg": ".276",
+            "atBats": 561,
+            "obp": ".346",
+            "slg": ".474",
+            "ops": ".820",
+            "caughtStealing": 3,
+            "stolenBases": 8,
+            "stolenBasePercentage": ".727",
+            "caughtStealingPercentage": ".273",
+            "groundIntoDoublePlay": 18,
+            "numberOfPitches": 2227,
+            "plateAppearances": 624,
+            "totalBases": 266,
+            "rbi": 93,
+            "leftOnBase": 274,
+            "sacBunts": 0,
+            "sacFlies": 2,
+            "babip": ".327",
+            "groundOutsToAirouts": "1.34",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "22.44"
+          },
+          "team": {
+            "id": 133,
+            "name": "Athletics",
+            "link": "/api/v1/teams/133"
+          },
+          "player": {
+            "id": 691016,
+            "fullName": "Tyler Soderstrom",
+            "link": "/api/v1/people/691016"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

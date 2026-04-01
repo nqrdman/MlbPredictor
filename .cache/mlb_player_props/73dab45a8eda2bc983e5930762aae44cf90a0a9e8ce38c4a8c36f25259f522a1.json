@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 31,
+            "gamesPlayed": 157,
+            "groundOuts": 112,
+            "airOuts": 166,
+            "runs": 86,
+            "doubles": 31,
+            "triples": 2,
+            "homeRuns": 36,
+            "strikeOuts": 175,
+            "baseOnBalls": 75,
+            "intentionalWalks": 1,
+            "hits": 132,
+            "hitByPitch": 3,
+            "avg": ".228",
+            "atBats": 579,
+            "obp": ".317",
+            "slg": ".475",
+            "ops": ".792",
+            "caughtStealing": 1,
+            "stolenBases": 4,
+            "stolenBasePercentage": ".800",
+            "caughtStealingPercentage": ".200",
+            "groundIntoDoublePlay": 13,
+            "numberOfPitches": 2788,
+            "plateAppearances": 663,
+            "totalBases": 275,
+            "rbi": 103,
+            "leftOnBase": 279,
+            "sacBunts": 0,
+            "sacFlies": 6,
+            "babip": ".257",
+            "groundOutsToAirouts": "0.67",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "16.08"
+          },
+          "team": {
+            "id": 108,
+            "name": "Los Angeles Angels",
+            "link": "/api/v1/teams/108"
+          },
+          "player": {
+            "id": 621493,
+            "fullName": "Taylor Ward",
+            "link": "/api/v1/people/621493"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

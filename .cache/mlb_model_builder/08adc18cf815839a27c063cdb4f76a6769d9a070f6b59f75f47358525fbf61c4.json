@@ -1,0 +1,55 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 686752,
+      "fullName": "Ryan Pepiot",
+      "link": "/api/v1/people/686752",
+      "firstName": "Ryan",
+      "lastName": "Pepiot",
+      "primaryNumber": "44",
+      "birthDate": "1997-08-21",
+      "currentAge": 28,
+      "birthCity": "Indianapolis",
+      "birthStateProvince": "IN",
+      "birthCountry": "USA",
+      "height": "6' 3\"",
+      "weight": 210,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Ryan",
+      "useLastName": "Pepiot",
+      "middleName": "Michael",
+      "boxscoreName": "Pepiot",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2019,
+      "pronunciation": "PEP-ee-oh",
+      "mlbDebutDate": "2022-05-11",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Ryan Pepiot",
+      "nameSlug": "ryan-pepiot-686752",
+      "firstLastName": "Ryan Pepiot",
+      "lastFirstName": "Pepiot, Ryan",
+      "lastInitName": "Pepiot, R",
+      "initLastName": "R Pepiot",
+      "fullFMLName": "Ryan Michael Pepiot",
+      "fullLFMName": "Pepiot, Ryan Michael",
+      "strikeZoneTop": 3.344,
+      "strikeZoneBottom": 1.688
+    }
+  ]
+}

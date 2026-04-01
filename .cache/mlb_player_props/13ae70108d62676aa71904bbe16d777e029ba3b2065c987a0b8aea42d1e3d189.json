@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 38,
+            "gamesPlayed": 135,
+            "groundOuts": 118,
+            "airOuts": 130,
+            "runs": 51,
+            "doubles": 22,
+            "triples": 0,
+            "homeRuns": 13,
+            "strikeOuts": 118,
+            "baseOnBalls": 67,
+            "intentionalWalks": 5,
+            "hits": 114,
+            "hitByPitch": 2,
+            "avg": ".239",
+            "atBats": 477,
+            "obp": ".333",
+            "slg": ".367",
+            "ops": ".700",
+            "caughtStealing": 1,
+            "stolenBases": 1,
+            "stolenBasePercentage": ".500",
+            "caughtStealingPercentage": ".500",
+            "groundIntoDoublePlay": 12,
+            "numberOfPitches": 2267,
+            "plateAppearances": 551,
+            "totalBases": 175,
+            "rbi": 57,
+            "leftOnBase": 201,
+            "sacBunts": 0,
+            "sacFlies": 3,
+            "babip": ".289",
+            "groundOutsToAirouts": "0.91",
+            "catchersInterference": 2,
+            "atBatsPerHomeRun": "36.69"
+          },
+          "team": {
+            "id": 134,
+            "name": "Pittsburgh Pirates",
+            "link": "/api/v1/teams/134"
+          },
+          "player": {
+            "id": 457705,
+            "fullName": "Andrew McCutchen",
+            "link": "/api/v1/people/457705"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

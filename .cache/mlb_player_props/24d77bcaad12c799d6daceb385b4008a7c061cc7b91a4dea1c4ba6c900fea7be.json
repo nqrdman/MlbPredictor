@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 32,
+            "gamesPlayed": 94,
+            "groundOuts": 95,
+            "airOuts": 86,
+            "runs": 30,
+            "doubles": 20,
+            "triples": 0,
+            "homeRuns": 4,
+            "strikeOuts": 39,
+            "baseOnBalls": 15,
+            "intentionalWalks": 0,
+            "hits": 67,
+            "hitByPitch": 0,
+            "avg": ".238",
+            "atBats": 282,
+            "obp": ".272",
+            "slg": ".351",
+            "ops": ".623",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 9,
+            "numberOfPitches": 1063,
+            "plateAppearances": 302,
+            "totalBases": 99,
+            "rbi": 22,
+            "leftOnBase": 114,
+            "sacBunts": 1,
+            "sacFlies": 4,
+            "babip": ".259",
+            "groundOutsToAirouts": "1.10",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "70.50"
+          },
+          "team": {
+            "id": 113,
+            "name": "Cincinnati Reds",
+            "link": "/api/v1/teams/113"
+          },
+          "player": {
+            "id": 624431,
+            "fullName": "Jose Trevino",
+            "link": "/api/v1/people/624431"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

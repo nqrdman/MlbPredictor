@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 26,
+            "gamesPlayed": 138,
+            "groundOuts": 115,
+            "airOuts": 135,
+            "runs": 74,
+            "doubles": 28,
+            "triples": 4,
+            "homeRuns": 26,
+            "strikeOuts": 100,
+            "baseOnBalls": 50,
+            "intentionalWalks": 0,
+            "hits": 119,
+            "hitByPitch": 9,
+            "avg": ".255",
+            "atBats": 467,
+            "obp": ".337",
+            "slg": ".499",
+            "ops": ".836",
+            "caughtStealing": 2,
+            "stolenBases": 3,
+            "stolenBasePercentage": ".600",
+            "caughtStealingPercentage": ".400",
+            "groundIntoDoublePlay": 18,
+            "numberOfPitches": 2047,
+            "plateAppearances": 530,
+            "totalBases": 233,
+            "rbi": 65,
+            "leftOnBase": 208,
+            "sacBunts": 0,
+            "sacFlies": 2,
+            "babip": ".271",
+            "groundOutsToAirouts": "0.85",
+            "catchersInterference": 2,
+            "atBatsPerHomeRun": "17.96"
+          },
+          "team": {
+            "id": 147,
+            "name": "New York Yankees",
+            "link": "/api/v1/teams/147"
+          },
+          "player": {
+            "id": 700250,
+            "fullName": "Ben Rice",
+            "link": "/api/v1/people/700250"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

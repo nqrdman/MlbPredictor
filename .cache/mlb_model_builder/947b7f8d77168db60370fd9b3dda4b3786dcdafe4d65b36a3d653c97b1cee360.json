@@ -1,0 +1,56 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 448179,
+      "fullName": "Rich Hill",
+      "link": "/api/v1/people/448179",
+      "firstName": "Richard",
+      "lastName": "Hill",
+      "primaryNumber": "53",
+      "birthDate": "1980-03-11",
+      "currentAge": 46,
+      "birthCity": "Boston",
+      "birthStateProvince": "MA",
+      "birthCountry": "USA",
+      "height": "6' 5\"",
+      "weight": 220,
+      "active": false,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Rich",
+      "useLastName": "Hill",
+      "middleName": "Joseph",
+      "boxscoreName": "Hill, R",
+      "nickName": "Field Of Genes",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2002,
+      "lastPlayedDate": "2025-07-28",
+      "mlbDebutDate": "2005-06-15",
+      "batSide": {
+        "code": "L",
+        "description": "Left"
+      },
+      "pitchHand": {
+        "code": "L",
+        "description": "Left"
+      },
+      "nameFirstLast": "Rich Hill",
+      "nameSlug": "rich-hill-448179",
+      "firstLastName": "Rich Hill",
+      "lastFirstName": "Hill, Rich",
+      "lastInitName": "Hill, R",
+      "initLastName": "R Hill",
+      "fullFMLName": "Richard Joseph Hill",
+      "fullLFMName": "Hill, Richard Joseph",
+      "strikeZoneTop": 3.433,
+      "strikeZoneBottom": 1.733
+    }
+  ]
+}

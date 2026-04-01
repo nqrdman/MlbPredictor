@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 21,
+            "gamesPlayed": 71,
+            "groundOuts": 62,
+            "airOuts": 37,
+            "runs": 48,
+            "doubles": 18,
+            "triples": 1,
+            "homeRuns": 8,
+            "strikeOuts": 84,
+            "baseOnBalls": 40,
+            "intentionalWalks": 0,
+            "hits": 75,
+            "hitByPitch": 5,
+            "avg": ".292",
+            "atBats": 257,
+            "obp": ".396",
+            "slg": ".463",
+            "ops": ".859",
+            "caughtStealing": 1,
+            "stolenBases": 4,
+            "stolenBasePercentage": ".800",
+            "caughtStealingPercentage": ".200",
+            "groundIntoDoublePlay": 2,
+            "numberOfPitches": 1283,
+            "plateAppearances": 303,
+            "totalBases": 119,
+            "rbi": 32,
+            "leftOnBase": 105,
+            "sacBunts": 0,
+            "sacFlies": 1,
+            "babip": ".404",
+            "groundOutsToAirouts": "1.68",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "32.12"
+          },
+          "team": {
+            "id": 111,
+            "name": "Boston Red Sox",
+            "link": "/api/v1/teams/111"
+          },
+          "player": {
+            "id": 701350,
+            "fullName": "Roman Anthony",
+            "link": "/api/v1/people/701350"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

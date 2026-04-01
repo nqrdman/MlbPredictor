@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 690916,
+      "fullName": "Richard Fitts",
+      "link": "/api/v1/people/690916",
+      "firstName": "Richard",
+      "lastName": "Fitts",
+      "primaryNumber": "35",
+      "birthDate": "1999-12-17",
+      "currentAge": 26,
+      "birthCity": "Helena",
+      "birthStateProvince": "AL",
+      "birthCountry": "USA",
+      "height": "6' 3\"",
+      "weight": 230,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Richard",
+      "useLastName": "Fitts",
+      "middleName": "Logan",
+      "boxscoreName": "Fitts",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2021,
+      "mlbDebutDate": "2024-09-08",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Richard Fitts",
+      "nameSlug": "richard-fitts-690916",
+      "firstLastName": "Richard Fitts",
+      "lastFirstName": "Fitts, Richard",
+      "lastInitName": "Fitts, R",
+      "initLastName": "R Fitts",
+      "fullFMLName": "Richard Logan Fitts",
+      "fullLFMName": "Fitts, Richard Logan",
+      "strikeZoneTop": 3.344,
+      "strikeZoneBottom": 1.688
+    }
+  ]
+}

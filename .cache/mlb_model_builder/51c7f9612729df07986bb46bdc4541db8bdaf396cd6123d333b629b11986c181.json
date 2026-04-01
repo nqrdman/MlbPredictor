@@ -1,0 +1,53 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 806185,
+      "fullName": "Hayden Birdsong",
+      "link": "/api/v1/people/806185",
+      "firstName": "Hayden",
+      "lastName": "Birdsong",
+      "primaryNumber": "60",
+      "birthDate": "2001-08-30",
+      "currentAge": 24,
+      "birthCity": "Mattoon",
+      "birthStateProvince": "IL",
+      "birthCountry": "USA",
+      "height": "6' 5\"",
+      "weight": 225,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Hayden",
+      "useLastName": "Birdsong",
+      "boxscoreName": "Birdsong",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2022,
+      "mlbDebutDate": "2024-06-26",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Hayden Birdsong",
+      "nameSlug": "hayden-birdsong-806185",
+      "firstLastName": "Hayden Birdsong",
+      "lastFirstName": "Birdsong, Hayden",
+      "lastInitName": "Birdsong, H",
+      "initLastName": "H Birdsong",
+      "fullFMLName": "Hayden Birdsong",
+      "fullLFMName": "Birdsong, Hayden",
+      "strikeZoneTop": 3.433,
+      "strikeZoneBottom": 1.733
+    }
+  ]
+}

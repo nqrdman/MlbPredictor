@@ -1,0 +1,191 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "gamesPlayed": 58,
+            "groundOuts": 33,
+            "airOuts": 57,
+            "runs": 13,
+            "doubles": 6,
+            "triples": 1,
+            "homeRuns": 3,
+            "strikeOuts": 50,
+            "baseOnBalls": 5,
+            "intentionalWalks": 0,
+            "hits": 35,
+            "hitByPitch": 0,
+            "avg": ".205",
+            "atBats": 171,
+            "obp": ".226",
+            "slg": ".304",
+            "ops": ".530",
+            "caughtStealing": 3,
+            "stolenBases": 9,
+            "stolenBasePercentage": ".750",
+            "caughtStealingPercentage": ".250",
+            "groundIntoDoublePlay": 0,
+            "numberOfPitches": 693,
+            "plateAppearances": 180,
+            "totalBases": 52,
+            "rbi": 17,
+            "leftOnBase": 71,
+            "sacBunts": 3,
+            "sacFlies": 1,
+            "babip": ".269",
+            "groundOutsToAirouts": "0.58",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "57.00"
+          },
+          "player": {
+            "id": 665750,
+            "fullName": "Leody Taveras",
+            "link": "/api/v1/people/665750"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R",
+          "numTeams": 2
+        },
+        {
+          "season": "2025",
+          "stat": {
+            "age": 26,
+            "gamesPlayed": 28,
+            "groundOuts": 20,
+            "airOuts": 32,
+            "runs": 6,
+            "doubles": 3,
+            "triples": 0,
+            "homeRuns": 2,
+            "strikeOuts": 27,
+            "baseOnBalls": 3,
+            "intentionalWalks": 0,
+            "hits": 16,
+            "hitByPitch": 0,
+            "avg": ".174",
+            "atBats": 92,
+            "obp": ".198",
+            "slg": ".272",
+            "ops": ".470",
+            "caughtStealing": 2,
+            "stolenBases": 3,
+            "stolenBasePercentage": ".600",
+            "caughtStealingPercentage": ".400",
+            "groundIntoDoublePlay": 0,
+            "numberOfPitches": 387,
+            "plateAppearances": 98,
+            "totalBases": 25,
+            "rbi": 9,
+            "leftOnBase": 43,
+            "sacBunts": 2,
+            "sacFlies": 1,
+            "babip": ".219",
+            "groundOutsToAirouts": "0.63",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "46.00"
+          },
+          "team": {
+            "id": 136,
+            "name": "Seattle Mariners",
+            "link": "/api/v1/teams/136"
+          },
+          "player": {
+            "id": 665750,
+            "fullName": "Leody Taveras",
+            "link": "/api/v1/people/665750"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        },
+        {
+          "season": "2025",
+          "stat": {
+            "age": 26,
+            "gamesPlayed": 30,
+            "groundOuts": 13,
+            "airOuts": 25,
+            "runs": 7,
+            "doubles": 3,
+            "triples": 1,
+            "homeRuns": 1,
+            "strikeOuts": 23,
+            "baseOnBalls": 2,
+            "intentionalWalks": 0,
+            "hits": 19,
+            "hitByPitch": 0,
+            "avg": ".241",
+            "atBats": 79,
+            "obp": ".259",
+            "slg": ".342",
+            "ops": ".601",
+            "caughtStealing": 1,
+            "stolenBases": 6,
+            "stolenBasePercentage": ".857",
+            "caughtStealingPercentage": ".143",
+            "groundIntoDoublePlay": 0,
+            "numberOfPitches": 306,
+            "plateAppearances": 82,
+            "totalBases": 27,
+            "rbi": 8,
+            "leftOnBase": 28,
+            "sacBunts": 1,
+            "sacFlies": 0,
+            "babip": ".327",
+            "groundOutsToAirouts": "0.52",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "79.00"
+          },
+          "team": {
+            "id": 140,
+            "name": "Texas Rangers",
+            "link": "/api/v1/teams/140"
+          },
+          "player": {
+            "id": 665750,
+            "fullName": "Leody Taveras",
+            "link": "/api/v1/people/665750"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

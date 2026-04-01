@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 24,
+            "gamesPlayed": 142,
+            "groundOuts": 82,
+            "airOuts": 148,
+            "runs": 47,
+            "doubles": 19,
+            "triples": 2,
+            "homeRuns": 27,
+            "strikeOuts": 135,
+            "baseOnBalls": 48,
+            "intentionalWalks": 2,
+            "hits": 110,
+            "hitByPitch": 8,
+            "avg": ".234",
+            "atBats": 470,
+            "obp": ".313",
+            "slg": ".455",
+            "ops": ".768",
+            "caughtStealing": 0,
+            "stolenBases": 2,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 7,
+            "numberOfPitches": 2018,
+            "plateAppearances": 531,
+            "totalBases": 214,
+            "rbi": 70,
+            "leftOnBase": 227,
+            "sacBunts": 0,
+            "sacFlies": 5,
+            "babip": ".265",
+            "groundOutsToAirouts": "0.55",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "17.41"
+          },
+          "team": {
+            "id": 114,
+            "name": "Cleveland Guardians",
+            "link": "/api/v1/teams/114"
+          },
+          "player": {
+            "id": 700932,
+            "fullName": "Kyle Manzardo",
+            "link": "/api/v1/people/700932"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

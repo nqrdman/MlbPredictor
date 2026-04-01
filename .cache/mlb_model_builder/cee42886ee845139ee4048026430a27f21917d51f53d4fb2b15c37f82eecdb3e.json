@@ -1,0 +1,55 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 573186,
+      "fullName": "Marcus Stroman",
+      "link": "/api/v1/people/573186",
+      "firstName": "Marcus",
+      "lastName": "Stroman",
+      "primaryNumber": "0",
+      "birthDate": "1991-05-01",
+      "currentAge": 34,
+      "birthCity": "Medford",
+      "birthStateProvince": "NY",
+      "birthCountry": "USA",
+      "height": "5' 7\"",
+      "weight": 180,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Marcus",
+      "useLastName": "Stroman",
+      "middleName": "Earl",
+      "boxscoreName": "Stroman",
+      "nickName": "HDMH",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2012,
+      "mlbDebutDate": "2014-05-04",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Marcus Stroman",
+      "nameSlug": "marcus-stroman-573186",
+      "firstLastName": "Marcus Stroman",
+      "lastFirstName": "Stroman, Marcus",
+      "lastInitName": "Stroman, M",
+      "initLastName": "M Stroman",
+      "fullFMLName": "Marcus Earl Stroman",
+      "fullLFMName": "Stroman, Marcus Earl",
+      "strikeZoneTop": 3.38,
+      "strikeZoneBottom": 1.56
+    }
+  ]
+}

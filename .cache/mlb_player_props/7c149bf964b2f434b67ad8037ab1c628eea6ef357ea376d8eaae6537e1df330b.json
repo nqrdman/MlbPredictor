@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 29,
+            "gamesPlayed": 6,
+            "groundOuts": 4,
+            "airOuts": 5,
+            "runs": 6,
+            "doubles": 2,
+            "triples": 0,
+            "homeRuns": 3,
+            "strikeOuts": 4,
+            "baseOnBalls": 6,
+            "intentionalWalks": 3,
+            "hits": 8,
+            "hitByPitch": 1,
+            "avg": ".381",
+            "atBats": 21,
+            "obp": ".536",
+            "slg": ".905",
+            "ops": "1.441",
+            "caughtStealing": 0,
+            "stolenBases": 1,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 0,
+            "numberOfPitches": 97,
+            "plateAppearances": 28,
+            "totalBases": 19,
+            "rbi": 6,
+            "leftOnBase": 8,
+            "sacBunts": 0,
+            "sacFlies": 0,
+            "babip": ".357",
+            "groundOutsToAirouts": "0.80",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "7.00"
+          },
+          "team": {
+            "id": 117,
+            "name": "Houston Astros",
+            "link": "/api/v1/teams/117"
+          },
+          "player": {
+            "id": 670541,
+            "fullName": "Yordan Alvarez",
+            "link": "/api/v1/people/670541"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

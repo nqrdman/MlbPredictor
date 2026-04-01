@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 32,
+            "gamesPlayed": 132,
+            "groundOuts": 127,
+            "airOuts": 125,
+            "runs": 72,
+            "doubles": 32,
+            "triples": 0,
+            "homeRuns": 27,
+            "strikeOuts": 121,
+            "baseOnBalls": 70,
+            "intentionalWalks": 6,
+            "hits": 131,
+            "hitByPitch": 6,
+            "avg": ".261",
+            "atBats": 501,
+            "obp": ".357",
+            "slg": ".487",
+            "ops": ".844",
+            "caughtStealing": 2,
+            "stolenBases": 12,
+            "stolenBasePercentage": ".857",
+            "caughtStealingPercentage": ".143",
+            "groundIntoDoublePlay": 5,
+            "numberOfPitches": 2172,
+            "plateAppearances": 580,
+            "totalBases": 244,
+            "rbi": 75,
+            "leftOnBase": 222,
+            "sacBunts": 0,
+            "sacFlies": 3,
+            "babip": ".292",
+            "groundOutsToAirouts": "1.02",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "18.56"
+          },
+          "team": {
+            "id": 143,
+            "name": "Philadelphia Phillies",
+            "link": "/api/v1/teams/143"
+          },
+          "player": {
+            "id": 547180,
+            "fullName": "Bryce Harper",
+            "link": "/api/v1/people/547180"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

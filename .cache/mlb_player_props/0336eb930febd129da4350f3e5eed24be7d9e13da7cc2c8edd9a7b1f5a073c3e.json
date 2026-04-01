@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 23,
+            "gamesPlayed": 122,
+            "groundOuts": 149,
+            "airOuts": 119,
+            "runs": 54,
+            "doubles": 15,
+            "triples": 0,
+            "homeRuns": 5,
+            "strikeOuts": 72,
+            "baseOnBalls": 45,
+            "intentionalWalks": 0,
+            "hits": 114,
+            "hitByPitch": 6,
+            "avg": ".253",
+            "atBats": 450,
+            "obp": ".329",
+            "slg": ".320",
+            "ops": ".649",
+            "caughtStealing": 4,
+            "stolenBases": 14,
+            "stolenBasePercentage": ".778",
+            "caughtStealingPercentage": ".222",
+            "groundIntoDoublePlay": 14,
+            "numberOfPitches": 2057,
+            "plateAppearances": 505,
+            "totalBases": 144,
+            "rbi": 23,
+            "leftOnBase": 153,
+            "sacBunts": 3,
+            "sacFlies": 1,
+            "babip": ".291",
+            "groundOutsToAirouts": "1.25",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "90.00"
+          },
+          "team": {
+            "id": 145,
+            "name": "Chicago White Sox",
+            "link": "/api/v1/teams/145"
+          },
+          "player": {
+            "id": 805367,
+            "fullName": "Chase Meidroth",
+            "link": "/api/v1/people/805367"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

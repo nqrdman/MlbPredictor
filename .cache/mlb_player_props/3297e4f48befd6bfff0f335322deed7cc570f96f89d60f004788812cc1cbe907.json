@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 687597,
+      "fullName": "Jordan Beck",
+      "link": "/api/v1/people/687597",
+      "firstName": "Jordan",
+      "lastName": "Beck",
+      "primaryNumber": "27",
+      "birthDate": "2001-04-19",
+      "currentAge": 24,
+      "birthCity": "Hazel Green",
+      "birthStateProvince": "AL",
+      "birthCountry": "USA",
+      "height": "6' 2\"",
+      "weight": 225,
+      "active": true,
+      "primaryPosition": {
+        "code": "7",
+        "name": "Outfielder",
+        "type": "Outfielder",
+        "abbreviation": "LF"
+      },
+      "useName": "Jordan",
+      "useLastName": "Beck",
+      "middleName": "Alexander",
+      "boxscoreName": "Beck",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2022,
+      "mlbDebutDate": "2024-04-30",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Jordan Beck",
+      "nameSlug": "jordan-beck-687597",
+      "firstLastName": "Jordan Beck",
+      "lastFirstName": "Beck, Jordan",
+      "lastInitName": "Beck, J",
+      "initLastName": "J Beck",
+      "fullFMLName": "Jordan Alexander Beck",
+      "fullLFMName": "Beck, Jordan Alexander",
+      "strikeZoneTop": 3.317,
+      "strikeZoneBottom": 1.674
+    }
+  ]
+}

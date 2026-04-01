@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 688138,
+      "fullName": "Logan Evans",
+      "link": "/api/v1/people/688138",
+      "firstName": "Logan",
+      "lastName": "Evans",
+      "primaryNumber": "23",
+      "birthDate": "2001-06-05",
+      "currentAge": 24,
+      "birthCity": "Ann Arbor",
+      "birthStateProvince": "MI",
+      "birthCountry": "USA",
+      "height": "6' 4\"",
+      "weight": 215,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Logan",
+      "useLastName": "Evans",
+      "middleName": "Michael",
+      "boxscoreName": "Evans",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2023,
+      "mlbDebutDate": "2025-04-27",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Logan Evans",
+      "nameSlug": "logan-evans-688138",
+      "firstLastName": "Logan Evans",
+      "lastFirstName": "Evans, Logan",
+      "lastInitName": "Evans, L",
+      "initLastName": "L Evans",
+      "fullFMLName": "Logan Michael Evans",
+      "fullLFMName": "Evans, Logan Michael",
+      "strikeZoneTop": 3.388,
+      "strikeZoneBottom": 1.71
+    }
+  ]
+}

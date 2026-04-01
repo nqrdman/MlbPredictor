@@ -1,0 +1,56 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 621107,
+      "fullName": "Zach Eflin",
+      "link": "/api/v1/people/621107",
+      "firstName": "Zachary",
+      "lastName": "Eflin",
+      "primaryNumber": "24",
+      "birthDate": "1994-04-08",
+      "currentAge": 31,
+      "birthCity": "Orlando",
+      "birthStateProvince": "FL",
+      "birthCountry": "USA",
+      "height": "6' 6\"",
+      "weight": 220,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Zach",
+      "useLastName": "Eflin",
+      "middleName": "Adams",
+      "boxscoreName": "Eflin",
+      "nickName": "Ef",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2012,
+      "pronunciation": "EFF-lin",
+      "mlbDebutDate": "2016-06-14",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Zach Eflin",
+      "nameSlug": "zach-eflin-621107",
+      "firstLastName": "Zach Eflin",
+      "lastFirstName": "Eflin, Zach",
+      "lastInitName": "Eflin, Z",
+      "initLastName": "Z Eflin",
+      "fullFMLName": "Zachary Adams Eflin",
+      "fullLFMName": "Eflin, Zachary Adams",
+      "strikeZoneTop": 3.68,
+      "strikeZoneBottom": 1.7
+    }
+  ]
+}

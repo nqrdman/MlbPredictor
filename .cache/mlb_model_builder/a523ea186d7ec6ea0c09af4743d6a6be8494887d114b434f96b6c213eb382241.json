@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 663795,
+      "fullName": "Justin Hagenman",
+      "link": "/api/v1/people/663795",
+      "firstName": "Justin",
+      "lastName": "Hagenman",
+      "primaryNumber": "47",
+      "birthDate": "1996-10-07",
+      "currentAge": 29,
+      "birthCity": "Voorhees",
+      "birthStateProvince": "NJ",
+      "birthCountry": "USA",
+      "height": "6' 3\"",
+      "weight": 205,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Justin",
+      "useLastName": "Hagenman",
+      "middleName": "Michael",
+      "boxscoreName": "Hagenman",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2018,
+      "mlbDebutDate": "2025-04-16",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Justin Hagenman",
+      "nameSlug": "justin-hagenman-663795",
+      "firstLastName": "Justin Hagenman",
+      "lastFirstName": "Hagenman, Justin",
+      "lastInitName": "Hagenman, J",
+      "initLastName": "J Hagenman",
+      "fullFMLName": "Justin Michael Hagenman",
+      "fullLFMName": "Hagenman, Justin Michael",
+      "strikeZoneTop": 3.344,
+      "strikeZoneBottom": 1.688
+    }
+  ]
+}

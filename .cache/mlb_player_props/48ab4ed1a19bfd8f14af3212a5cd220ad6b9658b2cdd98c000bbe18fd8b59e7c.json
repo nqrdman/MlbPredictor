@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 23,
+            "gamesPlayed": 82,
+            "groundOuts": 57,
+            "airOuts": 67,
+            "runs": 25,
+            "doubles": 17,
+            "triples": 0,
+            "homeRuns": 2,
+            "strikeOuts": 83,
+            "baseOnBalls": 16,
+            "intentionalWalks": 0,
+            "hits": 71,
+            "hitByPitch": 1,
+            "avg": ".258",
+            "atBats": 275,
+            "obp": ".299",
+            "slg": ".342",
+            "ops": ".641",
+            "caughtStealing": 0,
+            "stolenBases": 3,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 5,
+            "numberOfPitches": 1184,
+            "plateAppearances": 295,
+            "totalBases": 94,
+            "rbi": 25,
+            "leftOnBase": 122,
+            "sacBunts": 1,
+            "sacFlies": 2,
+            "babip": ".359",
+            "groundOutsToAirouts": "0.85",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "137.50"
+          },
+          "team": {
+            "id": 138,
+            "name": "St. Louis Cardinals",
+            "link": "/api/v1/teams/138"
+          },
+          "player": {
+            "id": 695336,
+            "fullName": "Thomas Saggese",
+            "link": "/api/v1/people/695336"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

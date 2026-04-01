@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 27,
+            "gamesPlayed": 125,
+            "groundOuts": 137,
+            "airOuts": 116,
+            "runs": 68,
+            "doubles": 30,
+            "triples": 2,
+            "homeRuns": 17,
+            "strikeOuts": 93,
+            "baseOnBalls": 35,
+            "intentionalWalks": 2,
+            "hits": 150,
+            "hitByPitch": 12,
+            "avg": ".304",
+            "atBats": 493,
+            "obp": ".363",
+            "slg": ".477",
+            "ops": ".840",
+            "caughtStealing": 2,
+            "stolenBases": 20,
+            "stolenBasePercentage": ".909",
+            "caughtStealingPercentage": ".091",
+            "groundIntoDoublePlay": 9,
+            "numberOfPitches": 1779,
+            "plateAppearances": 543,
+            "totalBases": 235,
+            "rbi": 62,
+            "leftOnBase": 143,
+            "sacBunts": 1,
+            "sacFlies": 2,
+            "babip": ".345",
+            "groundOutsToAirouts": "1.18",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "29.00"
+          },
+          "team": {
+            "id": 117,
+            "name": "Houston Astros",
+            "link": "/api/v1/teams/117"
+          },
+          "player": {
+            "id": 665161,
+            "fullName": "Jeremy Pe\u00f1a",
+            "link": "/api/v1/people/665161"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

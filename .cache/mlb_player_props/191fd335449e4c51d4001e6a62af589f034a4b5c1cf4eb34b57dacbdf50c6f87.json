@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 25,
+            "gamesPlayed": 5,
+            "groundOuts": 8,
+            "airOuts": 4,
+            "runs": 5,
+            "doubles": 0,
+            "triples": 0,
+            "homeRuns": 3,
+            "strikeOuts": 2,
+            "baseOnBalls": 3,
+            "intentionalWalks": 0,
+            "hits": 5,
+            "hitByPitch": 0,
+            "avg": ".263",
+            "atBats": 19,
+            "obp": ".364",
+            "slg": ".737",
+            "ops": "1.101",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 2,
+            "numberOfPitches": 87,
+            "plateAppearances": 22,
+            "totalBases": 14,
+            "rbi": 3,
+            "leftOnBase": 9,
+            "sacBunts": 0,
+            "sacFlies": 0,
+            "babip": ".143",
+            "groundOutsToAirouts": "2.00",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "6.33"
+          },
+          "team": {
+            "id": 144,
+            "name": "Atlanta Braves",
+            "link": "/api/v1/teams/144"
+          },
+          "player": {
+            "id": 686948,
+            "fullName": "Drake Baldwin",
+            "link": "/api/v1/people/686948"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

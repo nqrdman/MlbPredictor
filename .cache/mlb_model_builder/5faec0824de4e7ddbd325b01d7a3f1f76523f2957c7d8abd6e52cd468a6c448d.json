@@ -1,0 +1,55 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 594902,
+      "fullName": "Ben Lively",
+      "link": "/api/v1/people/594902",
+      "firstName": "Edward",
+      "lastName": "Lively",
+      "primaryNumber": "39",
+      "birthDate": "1992-03-05",
+      "currentAge": 34,
+      "birthCity": "Pensacola",
+      "birthStateProvince": "FL",
+      "birthCountry": "USA",
+      "height": "6' 4\"",
+      "weight": 235,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Ben",
+      "useLastName": "Lively",
+      "middleName": "Bennett",
+      "boxscoreName": "Lively",
+      "nickName": "Bebo",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2013,
+      "mlbDebutDate": "2017-06-03",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Ben Lively",
+      "nameSlug": "ben-lively-594902",
+      "firstLastName": "Ben Lively",
+      "lastFirstName": "Lively, Ben",
+      "lastInitName": "Lively, B",
+      "initLastName": "B Lively",
+      "fullFMLName": "Edward Bennett Lively",
+      "fullLFMName": "Lively, Edward Bennett",
+      "strikeZoneTop": 3.388,
+      "strikeZoneBottom": 1.71
+    }
+  ]
+}

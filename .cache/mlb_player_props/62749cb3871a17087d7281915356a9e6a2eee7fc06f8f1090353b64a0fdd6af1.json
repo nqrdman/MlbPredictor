@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 23,
+            "gamesPlayed": 129,
+            "groundOuts": 107,
+            "airOuts": 162,
+            "runs": 72,
+            "doubles": 27,
+            "triples": 0,
+            "homeRuns": 9,
+            "strikeOuts": 102,
+            "baseOnBalls": 34,
+            "intentionalWalks": 0,
+            "hits": 124,
+            "hitByPitch": 8,
+            "avg": ".253",
+            "atBats": 491,
+            "obp": ".310",
+            "slg": ".363",
+            "ops": ".673",
+            "caughtStealing": 5,
+            "stolenBases": 9,
+            "stolenBasePercentage": ".643",
+            "caughtStealingPercentage": ".357",
+            "groundIntoDoublePlay": 11,
+            "numberOfPitches": 2256,
+            "plateAppearances": 537,
+            "totalBases": 178,
+            "rbi": 51,
+            "leftOnBase": 192,
+            "sacBunts": 2,
+            "sacFlies": 2,
+            "babip": ".301",
+            "groundOutsToAirouts": "0.66",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "54.56"
+          },
+          "team": {
+            "id": 138,
+            "name": "St. Louis Cardinals",
+            "link": "/api/v1/teams/138"
+          },
+          "player": {
+            "id": 691026,
+            "fullName": "Masyn Winn",
+            "link": "/api/v1/people/691026"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 676272,
+      "fullName": "Bobby Miller",
+      "link": "/api/v1/people/676272",
+      "firstName": "Robert",
+      "lastName": "Miller",
+      "primaryNumber": "28",
+      "birthDate": "1999-04-05",
+      "currentAge": 26,
+      "birthCity": "Elk Grove Village",
+      "birthStateProvince": "IL",
+      "birthCountry": "USA",
+      "height": "6' 5\"",
+      "weight": 220,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Bobby",
+      "useLastName": "Miller",
+      "middleName": "Anthony",
+      "boxscoreName": "Miller, B",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": false,
+      "draftYear": 2020,
+      "mlbDebutDate": "2023-05-23",
+      "batSide": {
+        "code": "L",
+        "description": "Left"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Bobby Miller",
+      "nameSlug": "bobby-miller-676272",
+      "firstLastName": "Bobby Miller",
+      "lastFirstName": "Miller, Bobby",
+      "lastInitName": "Miller, B",
+      "initLastName": "B Miller",
+      "fullFMLName": "Robert Anthony Miller",
+      "fullLFMName": "Miller, Robert Anthony",
+      "strikeZoneTop": 3.433,
+      "strikeZoneBottom": 1.733
+    }
+  ]
+}

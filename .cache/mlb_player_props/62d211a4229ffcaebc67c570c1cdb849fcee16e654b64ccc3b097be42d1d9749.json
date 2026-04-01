@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 25,
+            "gamesPlayed": 111,
+            "groundOuts": 46,
+            "airOuts": 101,
+            "runs": 48,
+            "doubles": 14,
+            "triples": 1,
+            "homeRuns": 14,
+            "strikeOuts": 136,
+            "baseOnBalls": 47,
+            "intentionalWalks": 2,
+            "hits": 72,
+            "hitByPitch": 0,
+            "avg": ".205",
+            "atBats": 351,
+            "obp": ".296",
+            "slg": ".370",
+            "ops": ".666",
+            "caughtStealing": 1,
+            "stolenBases": 1,
+            "stolenBasePercentage": ".500",
+            "caughtStealingPercentage": ".500",
+            "groundIntoDoublePlay": 1,
+            "numberOfPitches": 1655,
+            "plateAppearances": 402,
+            "totalBases": 130,
+            "rbi": 46,
+            "leftOnBase": 168,
+            "sacBunts": 0,
+            "sacFlies": 4,
+            "babip": ".283",
+            "groundOutsToAirouts": "0.46",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "25.07"
+          },
+          "team": {
+            "id": 138,
+            "name": "St. Louis Cardinals",
+            "link": "/api/v1/teams/138"
+          },
+          "player": {
+            "id": 669357,
+            "fullName": "Nolan Gorman",
+            "link": "/api/v1/people/669357"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

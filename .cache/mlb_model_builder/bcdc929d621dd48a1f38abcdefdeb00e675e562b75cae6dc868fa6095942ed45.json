@@ -1,0 +1,55 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 664062,
+      "fullName": "Tony Gonsolin",
+      "link": "/api/v1/people/664062",
+      "firstName": "Anthony",
+      "lastName": "Gonsolin",
+      "primaryNumber": "26",
+      "birthDate": "1994-05-14",
+      "currentAge": 31,
+      "birthCity": "Vacaville",
+      "birthStateProvince": "CA",
+      "birthCountry": "USA",
+      "height": "6' 3\"",
+      "weight": 205,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Tony",
+      "useLastName": "Gonsolin",
+      "middleName": "D.",
+      "boxscoreName": "Gonsolin",
+      "nickName": "Goooose",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2016,
+      "mlbDebutDate": "2019-06-26",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Tony Gonsolin",
+      "nameSlug": "tony-gonsolin-664062",
+      "firstLastName": "Tony Gonsolin",
+      "lastFirstName": "Gonsolin, Tony",
+      "lastInitName": "Gonsolin, T",
+      "initLastName": "T Gonsolin",
+      "fullFMLName": "Anthony D. Gonsolin",
+      "fullLFMName": "Gonsolin, Anthony D.",
+      "strikeZoneTop": 3.344,
+      "strikeZoneBottom": 1.688
+    }
+  ]
+}

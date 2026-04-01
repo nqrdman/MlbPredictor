@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 31,
+            "gamesPlayed": 114,
+            "groundOuts": 101,
+            "airOuts": 146,
+            "runs": 64,
+            "doubles": 28,
+            "triples": 0,
+            "homeRuns": 18,
+            "strikeOuts": 70,
+            "baseOnBalls": 51,
+            "intentionalWalks": 3,
+            "hits": 118,
+            "hitByPitch": 9,
+            "avg": ".273",
+            "atBats": 433,
+            "obp": ".360",
+            "slg": ".462",
+            "ops": ".822",
+            "caughtStealing": 1,
+            "stolenBases": 1,
+            "stolenBasePercentage": ".500",
+            "caughtStealingPercentage": ".500",
+            "groundIntoDoublePlay": 12,
+            "numberOfPitches": 1947,
+            "plateAppearances": 495,
+            "totalBases": 200,
+            "rbi": 62,
+            "leftOnBase": 194,
+            "sacBunts": 0,
+            "sacFlies": 2,
+            "babip": ".288",
+            "groundOutsToAirouts": "0.69",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "24.06"
+          },
+          "team": {
+            "id": 111,
+            "name": "Boston Red Sox",
+            "link": "/api/v1/teams/111"
+          },
+          "player": {
+            "id": 608324,
+            "fullName": "Alex Bregman",
+            "link": "/api/v1/people/608324"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

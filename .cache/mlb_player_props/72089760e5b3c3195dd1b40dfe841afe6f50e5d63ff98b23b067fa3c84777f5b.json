@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 26,
+            "gamesPlayed": 126,
+            "groundOuts": 91,
+            "airOuts": 114,
+            "runs": 54,
+            "doubles": 21,
+            "triples": 2,
+            "homeRuns": 13,
+            "strikeOuts": 110,
+            "baseOnBalls": 23,
+            "intentionalWalks": 2,
+            "hits": 121,
+            "hitByPitch": 9,
+            "avg": ".278",
+            "atBats": 435,
+            "obp": ".327",
+            "slg": ".425",
+            "ops": ".752",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 5,
+            "numberOfPitches": 1793,
+            "plateAppearances": 469,
+            "totalBases": 185,
+            "rbi": 57,
+            "leftOnBase": 185,
+            "sacBunts": 0,
+            "sacFlies": 1,
+            "babip": ".345",
+            "groundOutsToAirouts": "0.80",
+            "catchersInterference": 1,
+            "atBatsPerHomeRun": "33.46"
+          },
+          "team": {
+            "id": 116,
+            "name": "Detroit Tigers",
+            "link": "/api/v1/teams/116"
+          },
+          "player": {
+            "id": 693307,
+            "fullName": "Dillon Dingler",
+            "link": "/api/v1/people/693307"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

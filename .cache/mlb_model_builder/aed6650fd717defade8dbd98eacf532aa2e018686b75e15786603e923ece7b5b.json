@@ -1,0 +1,52 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 676961,
+      "fullName": "Caleb Boushley",
+      "link": "/api/v1/people/676961",
+      "firstName": "Caleb",
+      "lastName": "Boushley",
+      "birthDate": "1993-10-01",
+      "currentAge": 32,
+      "birthCity": "Hortonville",
+      "birthStateProvince": "WI",
+      "birthCountry": "USA",
+      "height": "6' 3\"",
+      "weight": 190,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Caleb",
+      "useLastName": "Boushley",
+      "boxscoreName": "Boushley",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": false,
+      "draftYear": 2017,
+      "mlbDebutDate": "2023-09-29",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Caleb Boushley",
+      "nameSlug": "caleb-boushley-676961",
+      "firstLastName": "Caleb Boushley",
+      "lastFirstName": "Boushley, Caleb",
+      "lastInitName": "Boushley, C",
+      "initLastName": "C Boushley",
+      "fullFMLName": "Caleb Boushley",
+      "fullLFMName": "Boushley, Caleb",
+      "strikeZoneTop": 3.344,
+      "strikeZoneBottom": 1.688
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 592836,
+      "fullName": "Taijuan Walker",
+      "link": "/api/v1/people/592836",
+      "firstName": "Taijuan",
+      "lastName": "Walker",
+      "primaryNumber": "99",
+      "birthDate": "1992-08-13",
+      "currentAge": 33,
+      "birthCity": "Shreveport",
+      "birthStateProvince": "LA",
+      "birthCountry": "USA",
+      "height": "6' 4\"",
+      "weight": 235,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Taijuan",
+      "useLastName": "Walker",
+      "middleName": "Emmanuel",
+      "boxscoreName": "Walker, T",
+      "nickName": "Tai Weezy",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2010,
+      "pronunciation": "tie-WAHN",
+      "mlbDebutDate": "2013-08-30",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Taijuan Walker",
+      "nameSlug": "taijuan-walker-592836",
+      "firstLastName": "Taijuan Walker",
+      "lastFirstName": "Walker, Taijuan",
+      "lastInitName": "Walker, T",
+      "initLastName": "T Walker",
+      "fullFMLName": "Taijuan Emmanuel Walker",
+      "fullLFMName": "Walker, Taijuan Emmanuel",
+      "strikeZoneTop": 3.56,
+      "strikeZoneBottom": 1.65
+    }
+  ]
+}

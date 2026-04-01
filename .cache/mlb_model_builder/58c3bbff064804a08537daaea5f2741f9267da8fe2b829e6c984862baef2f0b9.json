@@ -1,0 +1,53 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 669422,
+      "fullName": "Matt Sauer",
+      "link": "/api/v1/people/669422",
+      "firstName": "Matthew",
+      "lastName": "Sauer",
+      "birthDate": "1999-01-21",
+      "currentAge": 27,
+      "birthCity": "Santa Maria",
+      "birthStateProvince": "CA",
+      "birthCountry": "USA",
+      "height": "6' 4\"",
+      "weight": 230,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Matt",
+      "useLastName": "Sauer",
+      "middleName": "David",
+      "boxscoreName": "Sauer",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": false,
+      "draftYear": 2017,
+      "mlbDebutDate": "2024-03-31",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Matt Sauer",
+      "nameSlug": "matt-sauer-669422",
+      "firstLastName": "Matt Sauer",
+      "lastFirstName": "Sauer, Matt",
+      "lastInitName": "Sauer, M",
+      "initLastName": "M Sauer",
+      "fullFMLName": "Matthew David Sauer",
+      "fullLFMName": "Sauer, Matthew David",
+      "strikeZoneTop": 3.388,
+      "strikeZoneBottom": 1.71
+    }
+  ]
+}

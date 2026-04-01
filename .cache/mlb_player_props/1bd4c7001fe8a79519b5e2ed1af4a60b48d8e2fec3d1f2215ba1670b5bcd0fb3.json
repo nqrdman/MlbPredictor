@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 29,
+            "gamesPlayed": 63,
+            "groundOuts": 53,
+            "airOuts": 44,
+            "runs": 16,
+            "doubles": 8,
+            "triples": 0,
+            "homeRuns": 0,
+            "strikeOuts": 42,
+            "baseOnBalls": 16,
+            "intentionalWalks": 0,
+            "hits": 32,
+            "hitByPitch": 1,
+            "avg": ".190",
+            "atBats": 168,
+            "obp": ".262",
+            "slg": ".238",
+            "ops": ".500",
+            "caughtStealing": 1,
+            "stolenBases": 2,
+            "stolenBasePercentage": ".667",
+            "caughtStealingPercentage": ".333",
+            "groundIntoDoublePlay": 7,
+            "numberOfPitches": 745,
+            "plateAppearances": 188,
+            "totalBases": 40,
+            "rbi": 7,
+            "leftOnBase": 89,
+            "sacBunts": 1,
+            "sacFlies": 2,
+            "babip": ".250",
+            "groundOutsToAirouts": "1.20",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "-.--"
+          },
+          "team": {
+            "id": 111,
+            "name": "Boston Red Sox",
+            "link": "/api/v1/teams/111"
+          },
+          "player": {
+            "id": 657136,
+            "fullName": "Connor Wong",
+            "link": "/api/v1/people/657136"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

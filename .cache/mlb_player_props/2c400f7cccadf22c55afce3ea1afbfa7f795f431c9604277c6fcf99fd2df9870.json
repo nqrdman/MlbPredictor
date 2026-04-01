@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 32,
+            "gamesPlayed": 134,
+            "groundOuts": 136,
+            "airOuts": 120,
+            "runs": 65,
+            "doubles": 29,
+            "triples": 1,
+            "homeRuns": 25,
+            "strikeOuts": 134,
+            "baseOnBalls": 26,
+            "intentionalWalks": 0,
+            "hits": 126,
+            "hitByPitch": 3,
+            "avg": ".247",
+            "atBats": 511,
+            "obp": ".284",
+            "slg": ".454",
+            "ops": ".738",
+            "caughtStealing": 2,
+            "stolenBases": 5,
+            "stolenBasePercentage": ".714",
+            "caughtStealingPercentage": ".286",
+            "groundIntoDoublePlay": 13,
+            "numberOfPitches": 2139,
+            "plateAppearances": 546,
+            "totalBases": 232,
+            "rbi": 89,
+            "leftOnBase": 244,
+            "sacBunts": 0,
+            "sacFlies": 5,
+            "babip": ".283",
+            "groundOutsToAirouts": "1.13",
+            "catchersInterference": 1,
+            "atBatsPerHomeRun": "20.44"
+          },
+          "team": {
+            "id": 119,
+            "name": "Los Angeles Dodgers",
+            "link": "/api/v1/teams/119"
+          },
+          "player": {
+            "id": 606192,
+            "fullName": "Teoscar Hern\u00e1ndez",
+            "link": "/api/v1/people/606192"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

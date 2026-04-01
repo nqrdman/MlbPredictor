@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 27,
+            "gamesPlayed": 95,
+            "groundOuts": 72,
+            "airOuts": 66,
+            "runs": 74,
+            "doubles": 12,
+            "triples": 1,
+            "homeRuns": 21,
+            "strikeOuts": 102,
+            "baseOnBalls": 71,
+            "intentionalWalks": 4,
+            "hits": 98,
+            "hitByPitch": 3,
+            "avg": ".290",
+            "atBats": 338,
+            "obp": ".417",
+            "slg": ".518",
+            "ops": ".935",
+            "caughtStealing": 1,
+            "stolenBases": 9,
+            "stolenBasePercentage": ".900",
+            "caughtStealingPercentage": ".100",
+            "groundIntoDoublePlay": 5,
+            "numberOfPitches": 1741,
+            "plateAppearances": 412,
+            "totalBases": 175,
+            "rbi": 42,
+            "leftOnBase": 127,
+            "sacBunts": 0,
+            "sacFlies": 0,
+            "babip": ".358",
+            "groundOutsToAirouts": "1.09",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "16.10"
+          },
+          "team": {
+            "id": 144,
+            "name": "Atlanta Braves",
+            "link": "/api/v1/teams/144"
+          },
+          "player": {
+            "id": 660670,
+            "fullName": "Ronald Acu\u00f1a Jr.",
+            "link": "/api/v1/people/660670"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

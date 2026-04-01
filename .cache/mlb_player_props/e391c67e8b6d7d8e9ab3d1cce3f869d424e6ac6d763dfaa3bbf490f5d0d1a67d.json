@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 26,
+            "gamesPlayed": 115,
+            "groundOuts": 63,
+            "airOuts": 121,
+            "runs": 53,
+            "doubles": 17,
+            "triples": 0,
+            "homeRuns": 22,
+            "strikeOuts": 101,
+            "baseOnBalls": 40,
+            "intentionalWalks": 5,
+            "hits": 92,
+            "hitByPitch": 0,
+            "avg": ".247",
+            "atBats": 373,
+            "obp": ".317",
+            "slg": ".469",
+            "ops": ".786",
+            "caughtStealing": 3,
+            "stolenBases": 6,
+            "stolenBasePercentage": ".667",
+            "caughtStealingPercentage": ".333",
+            "groundIntoDoublePlay": 8,
+            "numberOfPitches": 1600,
+            "plateAppearances": 417,
+            "totalBases": 175,
+            "rbi": 69,
+            "leftOnBase": 179,
+            "sacBunts": 1,
+            "sacFlies": 3,
+            "babip": ".277",
+            "groundOutsToAirouts": "0.52",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "16.96"
+          },
+          "team": {
+            "id": 111,
+            "name": "Boston Red Sox",
+            "link": "/api/v1/teams/111"
+          },
+          "player": {
+            "id": 677800,
+            "fullName": "Wilyer Abreu",
+            "link": "/api/v1/people/677800"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

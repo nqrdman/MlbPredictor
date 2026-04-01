@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 669145,
+      "fullName": "Bruce Zimmermann",
+      "link": "/api/v1/people/669145",
+      "firstName": "Bruce",
+      "lastName": "Zimmermann",
+      "primaryNumber": "54",
+      "birthDate": "1995-02-09",
+      "currentAge": 31,
+      "birthCity": "Baltimore",
+      "birthStateProvince": "MD",
+      "birthCountry": "USA",
+      "height": "6' 3\"",
+      "weight": 236,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Bruce",
+      "useLastName": "Zimmermann",
+      "middleName": "Anthony",
+      "boxscoreName": "Zimmermann",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2017,
+      "mlbDebutDate": "2020-09-17",
+      "batSide": {
+        "code": "L",
+        "description": "Left"
+      },
+      "pitchHand": {
+        "code": "L",
+        "description": "Left"
+      },
+      "nameFirstLast": "Bruce Zimmermann",
+      "nameSlug": "bruce-zimmermann-669145",
+      "firstLastName": "Bruce Zimmermann",
+      "lastFirstName": "Zimmermann, Bruce",
+      "lastInitName": "Zimmermann, B",
+      "initLastName": "B Zimmermann",
+      "fullFMLName": "Bruce Anthony Zimmermann",
+      "fullLFMName": "Zimmermann, Bruce Anthony",
+      "strikeZoneTop": 3.344,
+      "strikeZoneBottom": 1.688
+    }
+  ]
+}

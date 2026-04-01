@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 692216,
+      "fullName": "CJ Kayfus",
+      "link": "/api/v1/people/692216",
+      "firstName": "Collin",
+      "lastName": "Kayfus",
+      "primaryNumber": "2",
+      "birthDate": "2001-10-28",
+      "currentAge": 24,
+      "birthCity": "Boca Raton",
+      "birthStateProvince": "FL",
+      "birthCountry": "USA",
+      "height": "5' 11\"",
+      "weight": 192,
+      "active": true,
+      "primaryPosition": {
+        "code": "3",
+        "name": "First Base",
+        "type": "Infielder",
+        "abbreviation": "1B"
+      },
+      "useName": "CJ",
+      "useLastName": "Kayfus",
+      "middleName": "Joseph",
+      "boxscoreName": "Kayfus",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2023,
+      "mlbDebutDate": "2025-08-02",
+      "batSide": {
+        "code": "L",
+        "description": "Left"
+      },
+      "pitchHand": {
+        "code": "L",
+        "description": "Left"
+      },
+      "nameFirstLast": "CJ Kayfus",
+      "nameSlug": "cj-kayfus-692216",
+      "firstLastName": "CJ Kayfus",
+      "lastFirstName": "Kayfus, CJ",
+      "lastInitName": "Kayfus, C",
+      "initLastName": "C Kayfus",
+      "fullFMLName": "Collin Joseph Kayfus",
+      "fullLFMName": "Kayfus, Collin Joseph",
+      "strikeZoneTop": 3.152,
+      "strikeZoneBottom": 1.591
+    }
+  ]
+}

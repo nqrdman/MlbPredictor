@@ -1,0 +1,122 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "gameLog"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "summary": "4.2 IP, 2 ER, 4 K, 3 BB",
+            "gamesPlayed": 1,
+            "gamesStarted": 1,
+            "flyOuts": 4,
+            "groundOuts": 4,
+            "airOuts": 6,
+            "runs": 3,
+            "doubles": 0,
+            "triples": 0,
+            "homeRuns": 1,
+            "strikeOuts": 4,
+            "baseOnBalls": 3,
+            "intentionalWalks": 0,
+            "hits": 2,
+            "hitByPitch": 0,
+            "avg": ".133",
+            "atBats": 15,
+            "obp": ".263",
+            "slg": ".333",
+            "ops": ".596",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 0,
+            "numberOfPitches": 83,
+            "era": "3.86",
+            "inningsPitched": "4.2",
+            "wins": 0,
+            "losses": 1,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 2,
+            "whip": "1.07",
+            "battersFaced": 19,
+            "outs": 14,
+            "gamesPitched": 1,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 50,
+            "strikePercentage": ".600",
+            "hitBatsmen": 0,
+            "balks": 0,
+            "wildPitches": 0,
+            "pickoffs": 0,
+            "totalBases": 5,
+            "groundOutsToAirouts": "0.67",
+            "winPercentage": ".000",
+            "pitchesPerInning": "17.79",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "1.33",
+            "strikeoutsPer9Inn": "7.71",
+            "walksPer9Inn": "5.79",
+            "hitsPer9Inn": "3.86",
+            "runsScoredPer9": "5.79",
+            "homeRunsPer9": "1.93",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 0,
+            "sacFlies": 1
+          },
+          "team": {
+            "id": 110,
+            "name": "Baltimore Orioles",
+            "link": "/api/v1/teams/110"
+          },
+          "player": {
+            "id": 680694,
+            "fullName": "Kyle Bradish",
+            "link": "/api/v1/people/680694"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "opponent": {
+            "id": 142,
+            "name": "Minnesota Twins",
+            "link": "/api/v1/teams/142"
+          },
+          "date": "2026-03-28",
+          "gameType": "R",
+          "isHome": true,
+          "isWin": false,
+          "game": {
+            "gamePk": 824862,
+            "link": "/api/v1.1/game/824862/feed/live",
+            "content": {
+              "link": "/api/v1/game/824862/content"
+            },
+            "gameNumber": 1,
+            "dayNight": "day"
+          }
+        }
+      ]
+    }
+  ]
+}

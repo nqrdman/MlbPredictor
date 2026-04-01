@@ -1,0 +1,122 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "gameLog"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "summary": "5.0 IP, 2 ER, 3 K, 3 BB",
+            "gamesPlayed": 1,
+            "gamesStarted": 1,
+            "flyOuts": 3,
+            "groundOuts": 6,
+            "airOuts": 5,
+            "runs": 2,
+            "doubles": 1,
+            "triples": 1,
+            "homeRuns": 0,
+            "strikeOuts": 3,
+            "baseOnBalls": 3,
+            "intentionalWalks": 0,
+            "hits": 3,
+            "hitByPitch": 0,
+            "avg": ".176",
+            "atBats": 17,
+            "obp": ".300",
+            "slg": ".353",
+            "ops": ".653",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 1,
+            "numberOfPitches": 84,
+            "era": "3.60",
+            "inningsPitched": "5.0",
+            "wins": 0,
+            "losses": 0,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 2,
+            "whip": "1.20",
+            "battersFaced": 20,
+            "outs": 15,
+            "gamesPitched": 1,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 52,
+            "strikePercentage": ".620",
+            "hitBatsmen": 0,
+            "balks": 0,
+            "wildPitches": 0,
+            "pickoffs": 0,
+            "totalBases": 6,
+            "groundOutsToAirouts": "1.20",
+            "winPercentage": ".---",
+            "pitchesPerInning": "16.80",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "1.00",
+            "strikeoutsPer9Inn": "5.40",
+            "walksPer9Inn": "5.40",
+            "hitsPer9Inn": "5.40",
+            "runsScoredPer9": "3.60",
+            "homeRunsPer9": "0.00",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 0,
+            "sacFlies": 0
+          },
+          "team": {
+            "id": 133,
+            "name": "Athletics",
+            "link": "/api/v1/teams/133"
+          },
+          "player": {
+            "id": 622663,
+            "fullName": "Luis Severino",
+            "link": "/api/v1/people/622663"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "opponent": {
+            "id": 141,
+            "name": "Toronto Blue Jays",
+            "link": "/api/v1/teams/141"
+          },
+          "date": "2026-03-27",
+          "gameType": "R",
+          "isHome": false,
+          "isWin": false,
+          "game": {
+            "gamePk": 822839,
+            "link": "/api/v1.1/game/822839/feed/live",
+            "content": {
+              "link": "/api/v1/game/822839/content"
+            },
+            "gameNumber": 1,
+            "dayNight": "day"
+          }
+        }
+      ]
+    }
+  ]
+}

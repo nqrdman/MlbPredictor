@@ -1,0 +1,55 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 666931,
+      "fullName": "Jared Oliva",
+      "link": "/api/v1/people/666931",
+      "firstName": "Jared",
+      "lastName": "Oliva",
+      "primaryNumber": "56",
+      "birthDate": "1995-11-27",
+      "currentAge": 30,
+      "birthCity": "Santa Clarita",
+      "birthStateProvince": "CA",
+      "birthCountry": "USA",
+      "height": "6' 2\"",
+      "weight": 202,
+      "active": true,
+      "primaryPosition": {
+        "code": "O",
+        "name": "Outfield",
+        "type": "Outfielder",
+        "abbreviation": "OF"
+      },
+      "useName": "Jared",
+      "useLastName": "Oliva",
+      "middleName": "Cole",
+      "boxscoreName": "Oliva",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2017,
+      "pronunciation": "AH-lih-vuh",
+      "mlbDebutDate": "2020-09-21",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Jared Oliva",
+      "nameSlug": "jared-oliva-666931",
+      "firstLastName": "Jared Oliva",
+      "lastFirstName": "Oliva, Jared",
+      "lastInitName": "Oliva, J",
+      "initLastName": "J Oliva",
+      "fullFMLName": "Jared Cole Oliva",
+      "fullLFMName": "Oliva, Jared Cole",
+      "strikeZoneTop": 3.31,
+      "strikeZoneBottom": 1.67
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 663546,
+      "fullName": "Sean Hjelle",
+      "link": "/api/v1/people/663546",
+      "firstName": "Sean",
+      "lastName": "Hjelle",
+      "primaryNumber": "64",
+      "birthDate": "1997-05-07",
+      "currentAge": 28,
+      "birthCity": "Fridley",
+      "birthStateProvince": "MN",
+      "birthCountry": "USA",
+      "height": "6' 11\"",
+      "weight": 247,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Sean",
+      "useLastName": "Hjelle",
+      "middleName": "Anthony",
+      "boxscoreName": "Hjelle",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2018,
+      "pronunciation": "Jelly",
+      "mlbDebutDate": "2022-05-06",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Sean Hjelle",
+      "nameSlug": "sean-hjelle-663546",
+      "firstLastName": "Sean Hjelle",
+      "lastFirstName": "Hjelle, Sean",
+      "lastInitName": "Hjelle, S",
+      "initLastName": "S Hjelle",
+      "fullFMLName": "Sean Anthony Hjelle",
+      "fullLFMName": "Hjelle, Sean Anthony",
+      "strikeZoneTop": 3.656,
+      "strikeZoneBottom": 1.845
+    }
+  ]
+}

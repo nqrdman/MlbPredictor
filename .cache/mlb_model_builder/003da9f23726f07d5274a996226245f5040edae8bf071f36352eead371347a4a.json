@@ -1,0 +1,55 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 674944,
+      "fullName": "Sean Guenther",
+      "link": "/api/v1/people/674944",
+      "firstName": "Sean",
+      "lastName": "Guenther",
+      "primaryNumber": "73",
+      "birthDate": "1995-12-29",
+      "currentAge": 30,
+      "birthCity": "Atlanta",
+      "birthStateProvince": "GA",
+      "birthCountry": "USA",
+      "height": "5' 11\"",
+      "weight": 194,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Sean",
+      "useLastName": "Guenther",
+      "middleName": "McManus",
+      "boxscoreName": "Guenther",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2017,
+      "pronunciation": "GUN-ther",
+      "mlbDebutDate": "2021-08-04",
+      "batSide": {
+        "code": "L",
+        "description": "Left"
+      },
+      "pitchHand": {
+        "code": "L",
+        "description": "Left"
+      },
+      "nameFirstLast": "Sean Guenther",
+      "nameSlug": "sean-guenther-674944",
+      "firstLastName": "Sean Guenther",
+      "lastFirstName": "Guenther, Sean",
+      "lastInitName": "Guenther, S",
+      "initLastName": "S Guenther",
+      "fullFMLName": "Sean McManus Guenther",
+      "fullLFMName": "Guenther, Sean McManus",
+      "strikeZoneTop": 3.165,
+      "strikeZoneBottom": 1.598
+    }
+  ]
+}

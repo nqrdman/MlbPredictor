@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 29,
+            "gamesPlayed": 106,
+            "groundOuts": 78,
+            "airOuts": 81,
+            "runs": 29,
+            "doubles": 10,
+            "triples": 0,
+            "homeRuns": 6,
+            "strikeOuts": 77,
+            "baseOnBalls": 23,
+            "intentionalWalks": 0,
+            "hits": 72,
+            "hitByPitch": 2,
+            "avg": ".235",
+            "atBats": 307,
+            "obp": ".291",
+            "slg": ".326",
+            "ops": ".617",
+            "caughtStealing": 5,
+            "stolenBases": 18,
+            "stolenBasePercentage": ".783",
+            "caughtStealingPercentage": ".217",
+            "groundIntoDoublePlay": 12,
+            "numberOfPitches": 1241,
+            "plateAppearances": 333,
+            "totalBases": 100,
+            "rbi": 31,
+            "leftOnBase": 143,
+            "sacBunts": 0,
+            "sacFlies": 1,
+            "babip": ".293",
+            "groundOutsToAirouts": "0.96",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "51.17"
+          },
+          "team": {
+            "id": 146,
+            "name": "Miami Marlins",
+            "link": "/api/v1/teams/146"
+          },
+          "player": {
+            "id": 667472,
+            "fullName": "Dane Myers",
+            "link": "/api/v1/people/667472"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

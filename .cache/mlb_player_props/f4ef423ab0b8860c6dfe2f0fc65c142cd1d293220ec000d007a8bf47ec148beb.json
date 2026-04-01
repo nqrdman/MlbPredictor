@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 33,
+            "gamesPlayed": 38,
+            "groundOuts": 46,
+            "airOuts": 25,
+            "runs": 12,
+            "doubles": 2,
+            "triples": 1,
+            "homeRuns": 3,
+            "strikeOuts": 15,
+            "baseOnBalls": 2,
+            "intentionalWalks": 0,
+            "hits": 31,
+            "hitByPitch": 2,
+            "avg": ".270",
+            "atBats": 115,
+            "obp": ".292",
+            "slg": ".383",
+            "ops": ".675",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 3,
+            "numberOfPitches": 429,
+            "plateAppearances": 121,
+            "totalBases": 44,
+            "rbi": 19,
+            "leftOnBase": 51,
+            "sacBunts": 1,
+            "sacFlies": 1,
+            "babip": ".286",
+            "groundOutsToAirouts": "1.84",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "38.33"
+          },
+          "team": {
+            "id": 109,
+            "name": "Arizona Diamondbacks",
+            "link": "/api/v1/teams/109"
+          },
+          "player": {
+            "id": 545121,
+            "fullName": "Ildemaro Vargas",
+            "link": "/api/v1/people/545121"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

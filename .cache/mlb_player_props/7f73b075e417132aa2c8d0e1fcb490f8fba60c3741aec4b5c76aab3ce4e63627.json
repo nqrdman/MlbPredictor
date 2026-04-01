@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 641584,
+      "fullName": "Jake Fraley",
+      "link": "/api/v1/people/641584",
+      "firstName": "Jake",
+      "lastName": "Fraley",
+      "primaryNumber": "17",
+      "birthDate": "1995-05-25",
+      "currentAge": 30,
+      "birthCity": "Frederick",
+      "birthStateProvince": "MD",
+      "birthCountry": "USA",
+      "height": "5' 11\"",
+      "weight": 206,
+      "active": true,
+      "primaryPosition": {
+        "code": "9",
+        "name": "Outfielder",
+        "type": "Outfielder",
+        "abbreviation": "RF"
+      },
+      "useName": "Jake",
+      "useLastName": "Fraley",
+      "middleName": "Arnold",
+      "boxscoreName": "Fraley",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2016,
+      "mlbDebutDate": "2019-08-21",
+      "batSide": {
+        "code": "L",
+        "description": "Left"
+      },
+      "pitchHand": {
+        "code": "L",
+        "description": "Left"
+      },
+      "nameFirstLast": "Jake Fraley",
+      "nameSlug": "jake-fraley-641584",
+      "firstLastName": "Jake Fraley",
+      "lastFirstName": "Fraley, Jake",
+      "lastInitName": "Fraley, J",
+      "initLastName": "J Fraley",
+      "fullFMLName": "Jake Arnold Fraley",
+      "fullLFMName": "Fraley, Jake Arnold",
+      "strikeZoneTop": 3.17,
+      "strikeZoneBottom": 1.6
+    }
+  ]
+}

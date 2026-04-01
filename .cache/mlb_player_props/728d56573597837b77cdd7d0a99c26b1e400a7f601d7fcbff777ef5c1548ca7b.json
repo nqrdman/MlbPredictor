@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 24,
+            "gamesPlayed": 60,
+            "groundOuts": 54,
+            "airOuts": 32,
+            "runs": 22,
+            "doubles": 9,
+            "triples": 3,
+            "homeRuns": 1,
+            "strikeOuts": 61,
+            "baseOnBalls": 10,
+            "intentionalWalks": 0,
+            "hits": 45,
+            "hitByPitch": 5,
+            "avg": ".241",
+            "atBats": 187,
+            "obp": ".296",
+            "slg": ".337",
+            "ops": ".633",
+            "caughtStealing": 1,
+            "stolenBases": 3,
+            "stolenBasePercentage": ".750",
+            "caughtStealingPercentage": ".250",
+            "groundIntoDoublePlay": 7,
+            "numberOfPitches": 773,
+            "plateAppearances": 207,
+            "totalBases": 63,
+            "rbi": 18,
+            "leftOnBase": 85,
+            "sacBunts": 4,
+            "sacFlies": 1,
+            "babip": ".349",
+            "groundOutsToAirouts": "1.69",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "187.00"
+          },
+          "team": {
+            "id": 115,
+            "name": "Colorado Rockies",
+            "link": "/api/v1/teams/115"
+          },
+          "player": {
+            "id": 690022,
+            "fullName": "Ryan Ritter",
+            "link": "/api/v1/people/690022"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 24,
+            "gamesPlayed": 152,
+            "groundOuts": 137,
+            "airOuts": 122,
+            "runs": 83,
+            "doubles": 30,
+            "triples": 2,
+            "homeRuns": 21,
+            "strikeOuts": 179,
+            "baseOnBalls": 59,
+            "intentionalWalks": 0,
+            "hits": 133,
+            "hitByPitch": 0,
+            "avg": ".234",
+            "atBats": 569,
+            "obp": ".306",
+            "slg": ".404",
+            "ops": ".710",
+            "caughtStealing": 7,
+            "stolenBases": 22,
+            "stolenBasePercentage": ".759",
+            "caughtStealingPercentage": ".241",
+            "groundIntoDoublePlay": 7,
+            "numberOfPitches": 2517,
+            "plateAppearances": 630,
+            "totalBases": 230,
+            "rbi": 63,
+            "leftOnBase": 235,
+            "sacBunts": 2,
+            "sacFlies": 0,
+            "babip": ".304",
+            "groundOutsToAirouts": "1.12",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "27.10"
+          },
+          "team": {
+            "id": 133,
+            "name": "Athletics",
+            "link": "/api/v1/teams/133"
+          },
+          "player": {
+            "id": 671732,
+            "fullName": "Lawrence Butler",
+            "link": "/api/v1/people/671732"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 467793,
+      "fullName": "Carlos Santana",
+      "link": "/api/v1/people/467793",
+      "firstName": "Carlos",
+      "lastName": "Santana",
+      "primaryNumber": "41",
+      "birthDate": "1986-04-08",
+      "currentAge": 39,
+      "birthCity": "Santo Domingo",
+      "birthCountry": "Dominican Republic",
+      "height": "5' 10\"",
+      "weight": 210,
+      "active": true,
+      "primaryPosition": {
+        "code": "3",
+        "name": "First Base",
+        "type": "Infielder",
+        "abbreviation": "1B"
+      },
+      "useName": "Carlos",
+      "useLastName": "Santana",
+      "boxscoreName": "Santana, C",
+      "nickName": "Slamtana",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "mlbDebutDate": "2010-06-11",
+      "batSide": {
+        "code": "S",
+        "description": "Switch"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Carlos Santana",
+      "nameSlug": "carlos-santana-467793",
+      "firstLastName": "Carlos Santana",
+      "lastFirstName": "Santana, Carlos",
+      "lastInitName": "Santana, C",
+      "initLastName": "C Santana",
+      "fullFMLName": "Carlos Santana",
+      "fullLFMName": "Santana, Carlos",
+      "strikeZoneTop": 3.109,
+      "strikeZoneBottom": 1.569
+    }
+  ]
+}

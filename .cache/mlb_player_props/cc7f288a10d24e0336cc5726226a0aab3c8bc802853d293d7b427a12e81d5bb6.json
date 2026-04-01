@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 23,
+            "gamesPlayed": 126,
+            "groundOuts": 93,
+            "airOuts": 121,
+            "runs": 57,
+            "doubles": 21,
+            "triples": 3,
+            "homeRuns": 13,
+            "strikeOuts": 94,
+            "baseOnBalls": 38,
+            "intentionalWalks": 0,
+            "hits": 89,
+            "hitByPitch": 2,
+            "avg": ".226",
+            "atBats": 393,
+            "obp": ".295",
+            "slg": ".394",
+            "ops": ".689",
+            "caughtStealing": 5,
+            "stolenBases": 17,
+            "stolenBasePercentage": ".773",
+            "caughtStealingPercentage": ".227",
+            "groundIntoDoublePlay": 2,
+            "numberOfPitches": 1720,
+            "plateAppearances": 437,
+            "totalBases": 155,
+            "rbi": 44,
+            "leftOnBase": 169,
+            "sacBunts": 0,
+            "sacFlies": 4,
+            "babip": ".262",
+            "groundOutsToAirouts": "0.77",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "30.23"
+          },
+          "team": {
+            "id": 112,
+            "name": "Chicago Cubs",
+            "link": "/api/v1/teams/112"
+          },
+          "player": {
+            "id": 807713,
+            "fullName": "Matt Shaw",
+            "link": "/api/v1/people/807713"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

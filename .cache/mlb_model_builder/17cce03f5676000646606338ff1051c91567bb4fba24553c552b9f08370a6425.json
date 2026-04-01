@@ -1,0 +1,53 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 593423,
+      "fullName": "Frankie Montas",
+      "link": "/api/v1/people/593423",
+      "firstName": "Francelis",
+      "lastName": "Montas",
+      "primaryNumber": "47",
+      "birthDate": "1993-03-21",
+      "currentAge": 33,
+      "birthCity": "Sainagua",
+      "birthCountry": "Dominican Republic",
+      "height": "6' 2\"",
+      "weight": 255,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Frankie",
+      "useLastName": "Montas",
+      "boxscoreName": "Montas",
+      "gender": "M",
+      "nameMatrilineal": "Luna",
+      "isPlayer": true,
+      "isVerified": true,
+      "pronunciation": "MOAN-toss",
+      "mlbDebutDate": "2015-09-02",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Frankie Montas",
+      "nameSlug": "frankie-montas-593423",
+      "firstLastName": "Frankie Montas",
+      "lastFirstName": "Montas, Frankie",
+      "lastInitName": "Montas, F",
+      "initLastName": "F Montas",
+      "fullFMLName": "Francelis Montas",
+      "fullLFMName": "Montas, Francelis",
+      "strikeZoneTop": 3.299,
+      "strikeZoneBottom": 1.665
+    }
+  ]
+}

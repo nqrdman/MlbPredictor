@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 25,
+            "gamesPlayed": 92,
+            "groundOuts": 71,
+            "airOuts": 64,
+            "runs": 36,
+            "doubles": 14,
+            "triples": 0,
+            "homeRuns": 16,
+            "strikeOuts": 128,
+            "baseOnBalls": 27,
+            "intentionalWalks": 1,
+            "hits": 64,
+            "hitByPitch": 6,
+            "avg": ".196",
+            "atBats": 327,
+            "obp": ".269",
+            "slg": ".385",
+            "ops": ".654",
+            "caughtStealing": 0,
+            "stolenBases": 14,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 5,
+            "numberOfPitches": 1486,
+            "plateAppearances": 360,
+            "totalBases": 126,
+            "rbi": 40,
+            "leftOnBase": 142,
+            "sacBunts": 0,
+            "sacFlies": 0,
+            "babip": ".262",
+            "groundOutsToAirouts": "1.11",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "20.44"
+          },
+          "team": {
+            "id": 110,
+            "name": "Baltimore Orioles",
+            "link": "/api/v1/teams/110"
+          },
+          "player": {
+            "id": 681297,
+            "fullName": "Colton Cowser",
+            "link": "/api/v1/people/681297"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

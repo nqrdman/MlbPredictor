@@ -1,0 +1,228 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "gameLog"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "summary": "3.0 IP, 6 ER, 7 K, BB",
+            "gamesPlayed": 1,
+            "gamesStarted": 1,
+            "flyOuts": 1,
+            "groundOuts": 1,
+            "airOuts": 1,
+            "runs": 6,
+            "doubles": 1,
+            "triples": 0,
+            "homeRuns": 2,
+            "strikeOuts": 7,
+            "baseOnBalls": 1,
+            "intentionalWalks": 0,
+            "hits": 8,
+            "hitByPitch": 0,
+            "avg": ".471",
+            "atBats": 17,
+            "obp": ".500",
+            "slg": ".882",
+            "ops": "1.382",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 0,
+            "numberOfPitches": 84,
+            "era": "18.00",
+            "inningsPitched": "3.0",
+            "wins": 0,
+            "losses": 0,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 6,
+            "whip": "3.00",
+            "battersFaced": 18,
+            "outs": 9,
+            "gamesPitched": 1,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 53,
+            "strikePercentage": ".630",
+            "hitBatsmen": 0,
+            "balks": 0,
+            "wildPitches": 0,
+            "pickoffs": 0,
+            "totalBases": 15,
+            "groundOutsToAirouts": "1.00",
+            "winPercentage": ".---",
+            "pitchesPerInning": "28.00",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "7.00",
+            "strikeoutsPer9Inn": "21.00",
+            "walksPer9Inn": "3.00",
+            "hitsPer9Inn": "24.00",
+            "runsScoredPer9": "18.00",
+            "homeRunsPer9": "6.00",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 0,
+            "sacFlies": 0
+          },
+          "team": {
+            "id": 119,
+            "name": "Los Angeles Dodgers",
+            "link": "/api/v1/teams/119"
+          },
+          "player": {
+            "id": 676272,
+            "fullName": "Bobby Miller",
+            "link": "/api/v1/people/676272"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "opponent": {
+            "id": 115,
+            "name": "Colorado Rockies",
+            "link": "/api/v1/teams/115"
+          },
+          "date": "2025-04-16",
+          "gameType": "R",
+          "isHome": true,
+          "isWin": true,
+          "game": {
+            "gamePk": 778287,
+            "link": "/api/v1.1/game/778287/feed/live",
+            "content": {
+              "link": "/api/v1/game/778287/content"
+            },
+            "gameNumber": 1,
+            "dayNight": "day"
+          }
+        },
+        {
+          "season": "2025",
+          "stat": {
+            "summary": "2.0 IP, ER, 0 K, BB",
+            "gamesPlayed": 1,
+            "gamesStarted": 0,
+            "flyOuts": 2,
+            "groundOuts": 3,
+            "airOuts": 2,
+            "runs": 1,
+            "doubles": 1,
+            "triples": 0,
+            "homeRuns": 0,
+            "strikeOuts": 0,
+            "baseOnBalls": 1,
+            "intentionalWalks": 1,
+            "hits": 3,
+            "hitByPitch": 1,
+            "avg": ".440",
+            "atBats": 8,
+            "obp": ".500",
+            "slg": ".500",
+            "ops": "1.000",
+            "caughtStealing": 1,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".000",
+            "caughtStealingPercentage": "1.000",
+            "groundIntoDoublePlay": 0,
+            "numberOfPitches": 32,
+            "era": "12.60",
+            "inningsPitched": "2.0",
+            "wins": 0,
+            "losses": 0,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 1,
+            "whip": "2.60",
+            "battersFaced": 10,
+            "outs": 6,
+            "gamesPitched": 1,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 20,
+            "strikePercentage": ".630",
+            "hitBatsmen": 1,
+            "balks": 0,
+            "wildPitches": 0,
+            "pickoffs": 0,
+            "totalBases": 4,
+            "groundOutsToAirouts": "1.33",
+            "winPercentage": ".---",
+            "pitchesPerInning": "16.00",
+            "gamesFinished": 1,
+            "strikeoutWalkRatio": "0.00",
+            "strikeoutsPer9Inn": "0.00",
+            "walksPer9Inn": "4.50",
+            "hitsPer9Inn": "13.50",
+            "runsScoredPer9": "4.50",
+            "homeRunsPer9": "0.00",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 0,
+            "sacFlies": 0
+          },
+          "team": {
+            "id": 119,
+            "name": "Los Angeles Dodgers",
+            "link": "/api/v1/teams/119"
+          },
+          "player": {
+            "id": 676272,
+            "fullName": "Bobby Miller",
+            "link": "/api/v1/people/676272"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "opponent": {
+            "id": 121,
+            "name": "New York Mets",
+            "link": "/api/v1/teams/121"
+          },
+          "date": "2025-05-24",
+          "gameType": "R",
+          "isHome": false,
+          "isWin": false,
+          "game": {
+            "gamePk": 777789,
+            "link": "/api/v1.1/game/777789/feed/live",
+            "content": {
+              "link": "/api/v1/game/777789/content"
+            },
+            "gameNumber": 1,
+            "dayNight": "day"
+          }
+        }
+      ]
+    }
+  ]
+}

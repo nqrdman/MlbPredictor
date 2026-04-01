@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 694462,
+      "fullName": "Hurston Waldrep",
+      "link": "/api/v1/people/694462",
+      "firstName": "Hurston",
+      "lastName": "Waldrep",
+      "primaryNumber": "64",
+      "birthDate": "2002-03-01",
+      "currentAge": 24,
+      "birthCity": "Cairo",
+      "birthStateProvince": "GA",
+      "birthCountry": "USA",
+      "height": "6' 2\"",
+      "weight": 210,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Hurston",
+      "useLastName": "Waldrep",
+      "middleName": "Wayne",
+      "boxscoreName": "Waldrep",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2023,
+      "mlbDebutDate": "2024-06-09",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Hurston Waldrep",
+      "nameSlug": "hurston-waldrep-694462",
+      "firstLastName": "Hurston Waldrep",
+      "lastFirstName": "Waldrep, Hurston",
+      "lastInitName": "Waldrep, H",
+      "initLastName": "H Waldrep",
+      "fullFMLName": "Hurston Wayne Waldrep",
+      "fullLFMName": "Waldrep, Hurston Wayne",
+      "strikeZoneTop": 3.299,
+      "strikeZoneBottom": 1.665
+    }
+  ]
+}

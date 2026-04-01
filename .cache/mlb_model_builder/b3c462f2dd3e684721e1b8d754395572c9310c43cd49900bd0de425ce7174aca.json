@@ -1,0 +1,55 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 687134,
+      "fullName": "Bradley Blalock",
+      "link": "/api/v1/people/687134",
+      "firstName": "Bradley",
+      "lastName": "Blalock",
+      "primaryNumber": "31",
+      "birthDate": "2000-12-25",
+      "currentAge": 25,
+      "birthCity": "Conyers",
+      "birthStateProvince": "GA",
+      "birthCountry": "USA",
+      "height": "6' 2\"",
+      "weight": 213,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Bradley",
+      "useLastName": "Blalock",
+      "middleName": "Christopher",
+      "boxscoreName": "Blalock",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2019,
+      "pronunciation": "BLAY-lock",
+      "mlbDebutDate": "2024-06-20",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Bradley Blalock",
+      "nameSlug": "bradley-blalock-687134",
+      "firstLastName": "Bradley Blalock",
+      "lastFirstName": "Blalock, Bradley",
+      "lastInitName": "Blalock, B",
+      "initLastName": "B Blalock",
+      "fullFMLName": "Bradley Christopher Blalock",
+      "fullLFMName": "Blalock, Bradley Christopher",
+      "strikeZoneTop": 3.299,
+      "strikeZoneBottom": 1.665
+    }
+  ]
+}

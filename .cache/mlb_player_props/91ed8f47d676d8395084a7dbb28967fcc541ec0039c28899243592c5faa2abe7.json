@@ -1,0 +1,187 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "gamesPlayed": 132,
+            "groundOuts": 98,
+            "airOuts": 104,
+            "runs": 72,
+            "doubles": 26,
+            "triples": 2,
+            "homeRuns": 24,
+            "strikeOuts": 119,
+            "baseOnBalls": 35,
+            "intentionalWalks": 1,
+            "hits": 124,
+            "hitByPitch": 8,
+            "avg": ".281",
+            "atBats": 441,
+            "obp": ".342",
+            "slg": ".512",
+            "ops": ".854",
+            "caughtStealing": 4,
+            "stolenBases": 7,
+            "stolenBasePercentage": ".636",
+            "caughtStealingPercentage": ".364",
+            "groundIntoDoublePlay": 10,
+            "numberOfPitches": 2002,
+            "plateAppearances": 488,
+            "totalBases": 226,
+            "rbi": 76,
+            "leftOnBase": 202,
+            "sacBunts": 0,
+            "sacFlies": 4,
+            "babip": ".331",
+            "groundOutsToAirouts": "0.94",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "18.38"
+          },
+          "player": {
+            "id": 657656,
+            "fullName": "Ram\u00f3n Laureano",
+            "link": "/api/v1/people/657656"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R",
+          "numTeams": 2,
+          "numLeagues": 2
+        },
+        {
+          "season": "2025",
+          "stat": {
+            "age": 30,
+            "gamesPlayed": 82,
+            "groundOuts": 55,
+            "airOuts": 60,
+            "runs": 45,
+            "doubles": 17,
+            "triples": 0,
+            "homeRuns": 15,
+            "strikeOuts": 72,
+            "baseOnBalls": 22,
+            "intentionalWalks": 1,
+            "hits": 75,
+            "hitByPitch": 6,
+            "avg": ".290",
+            "atBats": 259,
+            "obp": ".355",
+            "slg": ".529",
+            "ops": ".884",
+            "caughtStealing": 3,
+            "stolenBases": 4,
+            "stolenBasePercentage": ".571",
+            "caughtStealingPercentage": ".429",
+            "groundIntoDoublePlay": 6,
+            "numberOfPitches": 1208,
+            "plateAppearances": 290,
+            "totalBases": 137,
+            "rbi": 46,
+            "leftOnBase": 131,
+            "sacBunts": 0,
+            "sacFlies": 3,
+            "babip": ".343",
+            "groundOutsToAirouts": "0.92",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "17.27"
+          },
+          "team": {
+            "id": 110,
+            "name": "Baltimore Orioles",
+            "link": "/api/v1/teams/110"
+          },
+          "player": {
+            "id": 657656,
+            "fullName": "Ram\u00f3n Laureano",
+            "link": "/api/v1/people/657656"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        },
+        {
+          "season": "2025",
+          "stat": {
+            "age": 30,
+            "gamesPlayed": 50,
+            "groundOuts": 43,
+            "airOuts": 44,
+            "runs": 27,
+            "doubles": 9,
+            "triples": 2,
+            "homeRuns": 9,
+            "strikeOuts": 47,
+            "baseOnBalls": 13,
+            "intentionalWalks": 0,
+            "hits": 49,
+            "hitByPitch": 2,
+            "avg": ".269",
+            "atBats": 182,
+            "obp": ".323",
+            "slg": ".489",
+            "ops": ".812",
+            "caughtStealing": 1,
+            "stolenBases": 3,
+            "stolenBasePercentage": ".750",
+            "caughtStealingPercentage": ".250",
+            "groundIntoDoublePlay": 4,
+            "numberOfPitches": 794,
+            "plateAppearances": 198,
+            "totalBases": 89,
+            "rbi": 30,
+            "leftOnBase": 71,
+            "sacBunts": 0,
+            "sacFlies": 1,
+            "babip": ".315",
+            "groundOutsToAirouts": "0.98",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "20.22"
+          },
+          "team": {
+            "id": 135,
+            "name": "San Diego Padres",
+            "link": "/api/v1/teams/135"
+          },
+          "player": {
+            "id": 657656,
+            "fullName": "Ram\u00f3n Laureano",
+            "link": "/api/v1/people/657656"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

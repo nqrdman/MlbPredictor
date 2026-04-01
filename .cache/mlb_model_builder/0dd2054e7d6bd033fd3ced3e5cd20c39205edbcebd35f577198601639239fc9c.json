@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 680684,
+      "fullName": "Gunnar Hoglund",
+      "link": "/api/v1/people/680684",
+      "firstName": "Gunnar",
+      "lastName": "Hoglund",
+      "primaryNumber": "53",
+      "birthDate": "1999-12-17",
+      "currentAge": 26,
+      "birthCity": "Dunedin",
+      "birthStateProvince": "FL",
+      "birthCountry": "USA",
+      "height": "6' 4\"",
+      "weight": 220,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Gunnar",
+      "useLastName": "Hoglund",
+      "middleName": "Thomas",
+      "boxscoreName": "Hoglund",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2021,
+      "mlbDebutDate": "2025-05-02",
+      "batSide": {
+        "code": "L",
+        "description": "Left"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Gunnar Hoglund",
+      "nameSlug": "gunnar-hoglund-680684",
+      "firstLastName": "Gunnar Hoglund",
+      "lastFirstName": "Hoglund, Gunnar",
+      "lastInitName": "Hoglund, G",
+      "initLastName": "G Hoglund",
+      "fullFMLName": "Gunnar Thomas Hoglund",
+      "fullLFMName": "Hoglund, Gunnar Thomas",
+      "strikeZoneTop": 3.549,
+      "strikeZoneBottom": 1.627
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 682989,
+      "fullName": "Victor Mederos",
+      "link": "/api/v1/people/682989",
+      "firstName": "Victor",
+      "lastName": "Mederos",
+      "primaryNumber": "58",
+      "birthDate": "2001-06-08",
+      "currentAge": 24,
+      "birthCity": "Santa Clara",
+      "birthCountry": "Cuba",
+      "height": "6' 2\"",
+      "weight": 222,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Victor",
+      "useLastName": "Mederos",
+      "boxscoreName": "Mederos",
+      "gender": "M",
+      "nameMatrilineal": "Martos",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2022,
+      "mlbDebutDate": "2023-06-30",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Victor Mederos",
+      "nameSlug": "victor-mederos-682989",
+      "firstLastName": "Victor Mederos",
+      "lastFirstName": "Mederos, Victor",
+      "lastInitName": "Mederos, V",
+      "initLastName": "V Mederos",
+      "fullFMLName": "Victor Mederos",
+      "fullLFMName": "Mederos, Victor",
+      "strikeZoneTop": 3.299,
+      "strikeZoneBottom": 1.665
+    }
+  ]
+}

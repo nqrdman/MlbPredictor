@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 672582,
+      "fullName": "Angel Zerpa",
+      "link": "/api/v1/people/672582",
+      "firstName": "Angel",
+      "lastName": "Zerpa",
+      "primaryNumber": "61",
+      "birthDate": "1999-09-27",
+      "currentAge": 26,
+      "birthCity": "Valle de la Pascua",
+      "birthCountry": "Venezuela",
+      "height": "6' 0\"",
+      "weight": 237,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Angel",
+      "useLastName": "Zerpa",
+      "middleName": "David",
+      "boxscoreName": "Zerpa",
+      "gender": "M",
+      "nameMatrilineal": "Palacios",
+      "isPlayer": true,
+      "isVerified": true,
+      "pronunciation": "AHN-hel SAIR-pah",
+      "mlbDebutDate": "2021-09-30",
+      "batSide": {
+        "code": "L",
+        "description": "Left"
+      },
+      "pitchHand": {
+        "code": "L",
+        "description": "Left"
+      },
+      "nameFirstLast": "Angel Zerpa",
+      "nameSlug": "angel-zerpa-672582",
+      "firstLastName": "Angel Zerpa",
+      "lastFirstName": "Zerpa, Angel",
+      "lastInitName": "Zerpa, A",
+      "initLastName": "A Zerpa",
+      "fullFMLName": "Angel David Zerpa",
+      "fullLFMName": "Zerpa, Angel David",
+      "strikeZoneTop": 3.21,
+      "strikeZoneBottom": 1.62
+    }
+  ]
+}

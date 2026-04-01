@@ -1,0 +1,52 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 622379,
+      "fullName": "Luis F. Castillo",
+      "link": "/api/v1/people/622379",
+      "firstName": "Luis",
+      "lastName": "Castillo",
+      "birthDate": "1995-03-10",
+      "currentAge": 31,
+      "birthCity": "Fantino",
+      "birthCountry": "Dominican Republic",
+      "height": "6' 3\"",
+      "weight": 212,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Luis F.",
+      "useLastName": "Castillo",
+      "middleName": "Felipe",
+      "boxscoreName": "Castillo, L.F.",
+      "gender": "M",
+      "nameMatrilineal": "Peralta",
+      "isPlayer": true,
+      "isVerified": false,
+      "mlbDebutDate": "2022-08-06",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Luis F. Castillo",
+      "nameSlug": "luis-f-castillo-622379",
+      "firstLastName": "Luis F. Castillo",
+      "lastFirstName": "Castillo, Luis F.",
+      "lastInitName": "Castillo, L.F.",
+      "initLastName": "L.F. Castillo",
+      "fullFMLName": "Luis Felipe Castillo",
+      "fullLFMName": "Castillo, Luis Felipe",
+      "strikeZoneTop": 3.344,
+      "strikeZoneBottom": 1.688
+    }
+  ]
+}

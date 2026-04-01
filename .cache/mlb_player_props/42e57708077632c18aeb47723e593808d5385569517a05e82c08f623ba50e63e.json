@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 663697,
+      "fullName": "Jonathan India",
+      "link": "/api/v1/people/663697",
+      "firstName": "Jonathan",
+      "lastName": "India",
+      "primaryNumber": "6",
+      "birthDate": "1996-12-15",
+      "currentAge": 29,
+      "birthCity": "Ft. Lauderdale",
+      "birthStateProvince": "FL",
+      "birthCountry": "USA",
+      "height": "5' 10\"",
+      "weight": 200,
+      "active": true,
+      "primaryPosition": {
+        "code": "4",
+        "name": "Second Base",
+        "type": "Infielder",
+        "abbreviation": "2B"
+      },
+      "useName": "Jonathan",
+      "useLastName": "India",
+      "middleName": "Joseph",
+      "boxscoreName": "India",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2018,
+      "mlbDebutDate": "2021-04-01",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Jonathan India",
+      "nameSlug": "jonathan-india-663697",
+      "firstLastName": "Jonathan India",
+      "lastFirstName": "India, Jonathan",
+      "lastInitName": "India, J",
+      "initLastName": "J India",
+      "fullFMLName": "Jonathan Joseph India",
+      "fullLFMName": "India, Jonathan Joseph",
+      "strikeZoneTop": 3.138,
+      "strikeZoneBottom": 1.584
+    }
+  ]
+}

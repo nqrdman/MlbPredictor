@@ -1,0 +1,55 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 666310,
+      "fullName": "Bo Naylor",
+      "link": "/api/v1/people/666310",
+      "firstName": "Noah",
+      "lastName": "Naylor",
+      "primaryNumber": "23",
+      "birthDate": "2000-02-21",
+      "currentAge": 26,
+      "birthCity": "Mississauga",
+      "birthStateProvince": "ON",
+      "birthCountry": "Canada",
+      "height": "5' 9\"",
+      "weight": 205,
+      "active": true,
+      "primaryPosition": {
+        "code": "2",
+        "name": "Catcher",
+        "type": "Catcher",
+        "abbreviation": "C"
+      },
+      "useName": "Bo",
+      "useLastName": "Naylor",
+      "middleName": "Gibson",
+      "boxscoreName": "Naylor, B",
+      "nickName": "Bo",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2018,
+      "mlbDebutDate": "2022-10-01",
+      "batSide": {
+        "code": "L",
+        "description": "Left"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Bo Naylor",
+      "nameSlug": "bo-naylor-666310",
+      "firstLastName": "Bo Naylor",
+      "lastFirstName": "Naylor, Bo",
+      "lastInitName": "Naylor, B",
+      "initLastName": "B Naylor",
+      "fullFMLName": "Noah Gibson Naylor",
+      "fullLFMName": "Naylor, Noah Gibson",
+      "strikeZoneTop": 3.089,
+      "strikeZoneBottom": 1.559
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 27,
+            "gamesPlayed": 130,
+            "groundOuts": 91,
+            "airOuts": 96,
+            "runs": 56,
+            "doubles": 22,
+            "triples": 3,
+            "homeRuns": 9,
+            "strikeOuts": 93,
+            "baseOnBalls": 57,
+            "intentionalWalks": 0,
+            "hits": 98,
+            "hitByPitch": 6,
+            "avg": ".263",
+            "atBats": 372,
+            "obp": ".368",
+            "slg": ".411",
+            "ops": ".779",
+            "caughtStealing": 7,
+            "stolenBases": 16,
+            "stolenBasePercentage": ".696",
+            "caughtStealingPercentage": ".304",
+            "groundIntoDoublePlay": 8,
+            "numberOfPitches": 1792,
+            "plateAppearances": 441,
+            "totalBases": 153,
+            "rbi": 54,
+            "leftOnBase": 164,
+            "sacBunts": 3,
+            "sacFlies": 3,
+            "babip": ".326",
+            "groundOutsToAirouts": "0.95",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "41.33"
+          },
+          "team": {
+            "id": 158,
+            "name": "Milwaukee Brewers",
+            "link": "/api/v1/teams/158"
+          },
+          "player": {
+            "id": 686555,
+            "fullName": "Isaac Collins",
+            "link": "/api/v1/people/686555"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

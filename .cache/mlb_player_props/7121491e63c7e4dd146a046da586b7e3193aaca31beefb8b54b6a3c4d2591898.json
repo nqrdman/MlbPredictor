@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 34,
+            "gamesPlayed": 127,
+            "groundOuts": 101,
+            "airOuts": 177,
+            "runs": 62,
+            "doubles": 16,
+            "triples": 1,
+            "homeRuns": 15,
+            "strikeOuts": 93,
+            "baseOnBalls": 50,
+            "intentionalWalks": 0,
+            "hits": 108,
+            "hitByPitch": 5,
+            "avg": ".230",
+            "atBats": 470,
+            "obp": ".305",
+            "slg": ".364",
+            "ops": ".669",
+            "caughtStealing": 1,
+            "stolenBases": 11,
+            "stolenBasePercentage": ".917",
+            "caughtStealingPercentage": ".083",
+            "groundIntoDoublePlay": 8,
+            "numberOfPitches": 2075,
+            "plateAppearances": 534,
+            "totalBases": 171,
+            "rbi": 62,
+            "leftOnBase": 198,
+            "sacBunts": 0,
+            "sacFlies": 9,
+            "babip": ".251",
+            "groundOutsToAirouts": "0.57",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "31.33"
+          },
+          "team": {
+            "id": 140,
+            "name": "Texas Rangers",
+            "link": "/api/v1/teams/140"
+          },
+          "player": {
+            "id": 543760,
+            "fullName": "Marcus Semien",
+            "link": "/api/v1/people/543760"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

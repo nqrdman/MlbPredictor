@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 31,
+            "gamesPlayed": 5,
+            "groundOuts": 3,
+            "airOuts": 5,
+            "runs": 4,
+            "doubles": 0,
+            "triples": 0,
+            "homeRuns": 1,
+            "strikeOuts": 4,
+            "baseOnBalls": 2,
+            "intentionalWalks": 0,
+            "hits": 2,
+            "hitByPitch": 1,
+            "avg": ".143",
+            "atBats": 14,
+            "obp": ".294",
+            "slg": ".357",
+            "ops": ".651",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 0,
+            "numberOfPitches": 59,
+            "plateAppearances": 17,
+            "totalBases": 5,
+            "rbi": 3,
+            "leftOnBase": 7,
+            "sacBunts": 0,
+            "sacFlies": 0,
+            "babip": ".111",
+            "groundOutsToAirouts": "0.60",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "14.00"
+          },
+          "team": {
+            "id": 110,
+            "name": "Baltimore Orioles",
+            "link": "/api/v1/teams/110"
+          },
+          "player": {
+            "id": 641933,
+            "fullName": "Tyler O'Neill",
+            "link": "/api/v1/people/641933"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

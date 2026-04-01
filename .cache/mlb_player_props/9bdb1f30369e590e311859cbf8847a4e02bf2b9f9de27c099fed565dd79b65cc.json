@@ -1,0 +1,122 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "gameLog"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "summary": "4.1 IP, 2 ER, 2 K, 2 BB",
+            "gamesPlayed": 1,
+            "gamesStarted": 1,
+            "flyOuts": 3,
+            "groundOuts": 5,
+            "airOuts": 6,
+            "runs": 2,
+            "doubles": 2,
+            "triples": 0,
+            "homeRuns": 0,
+            "strikeOuts": 2,
+            "baseOnBalls": 2,
+            "intentionalWalks": 0,
+            "hits": 5,
+            "hitByPitch": 1,
+            "avg": ".278",
+            "atBats": 18,
+            "obp": ".381",
+            "slg": ".389",
+            "ops": ".770",
+            "caughtStealing": 0,
+            "stolenBases": 1,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 0,
+            "numberOfPitches": 81,
+            "era": "4.15",
+            "inningsPitched": "4.1",
+            "wins": 0,
+            "losses": 1,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 2,
+            "whip": "1.62",
+            "battersFaced": 21,
+            "outs": 13,
+            "gamesPitched": 1,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 53,
+            "strikePercentage": ".650",
+            "hitBatsmen": 1,
+            "balks": 0,
+            "wildPitches": 0,
+            "pickoffs": 0,
+            "totalBases": 7,
+            "groundOutsToAirouts": "0.83",
+            "winPercentage": ".000",
+            "pitchesPerInning": "18.69",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "1.00",
+            "strikeoutsPer9Inn": "4.15",
+            "walksPer9Inn": "4.15",
+            "hitsPer9Inn": "10.38",
+            "runsScoredPer9": "4.15",
+            "homeRunsPer9": "0.00",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 0,
+            "sacFlies": 0
+          },
+          "team": {
+            "id": 115,
+            "name": "Colorado Rockies",
+            "link": "/api/v1/teams/115"
+          },
+          "player": {
+            "id": 607536,
+            "fullName": "Kyle Freeland",
+            "link": "/api/v1/people/607536"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "opponent": {
+            "id": 146,
+            "name": "Miami Marlins",
+            "link": "/api/v1/teams/146"
+          },
+          "date": "2026-03-27",
+          "gameType": "R",
+          "isHome": false,
+          "isWin": false,
+          "game": {
+            "gamePk": 823893,
+            "link": "/api/v1.1/game/823893/feed/live",
+            "content": {
+              "link": "/api/v1/game/823893/content"
+            },
+            "gameNumber": 1,
+            "dayNight": "day"
+          }
+        }
+      ]
+    }
+  ]
+}

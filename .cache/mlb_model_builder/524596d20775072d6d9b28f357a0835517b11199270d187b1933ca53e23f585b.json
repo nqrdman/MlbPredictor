@@ -1,0 +1,55 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 686730,
+      "fullName": "Carson Spiers",
+      "link": "/api/v1/people/686730",
+      "firstName": "William",
+      "lastName": "Spiers",
+      "primaryNumber": "68",
+      "birthDate": "1997-11-11",
+      "currentAge": 28,
+      "birthCity": "Greenville",
+      "birthStateProvince": "SC",
+      "birthCountry": "USA",
+      "height": "6' 3\"",
+      "weight": 205,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Carson",
+      "useLastName": "Spiers",
+      "middleName": "Carson",
+      "boxscoreName": "Spiers",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2020,
+      "pronunciation": "spires",
+      "mlbDebutDate": "2023-09-03",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Carson Spiers",
+      "nameSlug": "carson-spiers-686730",
+      "firstLastName": "Carson Spiers",
+      "lastFirstName": "Spiers, Carson",
+      "lastInitName": "Spiers, C",
+      "initLastName": "C Spiers",
+      "fullFMLName": "William Carson Spiers",
+      "fullLFMName": "Spiers, William Carson",
+      "strikeZoneTop": 3.344,
+      "strikeZoneBottom": 1.688
+    }
+  ]
+}

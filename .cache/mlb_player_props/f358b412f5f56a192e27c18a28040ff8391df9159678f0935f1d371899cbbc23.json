@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 27,
+            "gamesPlayed": 133,
+            "groundOuts": 82,
+            "airOuts": 88,
+            "runs": 59,
+            "doubles": 25,
+            "triples": 2,
+            "homeRuns": 11,
+            "strikeOuts": 110,
+            "baseOnBalls": 38,
+            "intentionalWalks": 1,
+            "hits": 106,
+            "hitByPitch": 0,
+            "avg": ".280",
+            "atBats": 379,
+            "obp": ".342",
+            "slg": ".443",
+            "ops": ".785",
+            "caughtStealing": 1,
+            "stolenBases": 7,
+            "stolenBasePercentage": ".875",
+            "caughtStealingPercentage": ".125",
+            "groundIntoDoublePlay": 2,
+            "numberOfPitches": 1657,
+            "plateAppearances": 425,
+            "totalBases": 168,
+            "rbi": 43,
+            "leftOnBase": 167,
+            "sacBunts": 3,
+            "sacFlies": 4,
+            "babip": ".363",
+            "groundOutsToAirouts": "0.93",
+            "catchersInterference": 1,
+            "atBatsPerHomeRun": "34.46"
+          },
+          "team": {
+            "id": 143,
+            "name": "Philadelphia Phillies",
+            "link": "/api/v1/teams/143"
+          },
+          "player": {
+            "id": 669016,
+            "fullName": "Brandon Marsh",
+            "link": "/api/v1/people/669016"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

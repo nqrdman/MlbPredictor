@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 695549,
+      "fullName": "Jackson Jobe",
+      "link": "/api/v1/people/695549",
+      "firstName": "Jackson",
+      "lastName": "Jobe",
+      "primaryNumber": "21",
+      "birthDate": "2002-07-30",
+      "currentAge": 23,
+      "birthCity": "Irving",
+      "birthStateProvince": "TX",
+      "birthCountry": "USA",
+      "height": "6' 2\"",
+      "weight": 190,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Jackson",
+      "useLastName": "Jobe",
+      "middleName": "William",
+      "boxscoreName": "Jobe",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2021,
+      "mlbDebutDate": "2024-09-25",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Jackson Jobe",
+      "nameSlug": "jackson-jobe-695549",
+      "firstLastName": "Jackson Jobe",
+      "lastFirstName": "Jobe, Jackson",
+      "lastInitName": "Jobe, J",
+      "initLastName": "J Jobe",
+      "fullFMLName": "Jackson William Jobe",
+      "fullLFMName": "Jobe, Jackson William",
+      "strikeZoneTop": 3.467,
+      "strikeZoneBottom": 1.589
+    }
+  ]
+}

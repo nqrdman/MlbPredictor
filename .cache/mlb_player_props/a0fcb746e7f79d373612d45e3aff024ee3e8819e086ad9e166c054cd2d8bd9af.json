@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 26,
+            "gamesPlayed": 155,
+            "groundOuts": 160,
+            "airOuts": 148,
+            "runs": 111,
+            "doubles": 27,
+            "triples": 2,
+            "homeRuns": 25,
+            "strikeOuts": 129,
+            "baseOnBalls": 89,
+            "intentionalWalks": 7,
+            "hits": 159,
+            "hitByPitch": 6,
+            "avg": ".268",
+            "atBats": 594,
+            "obp": ".368",
+            "slg": ".446",
+            "ops": ".814",
+            "caughtStealing": 7,
+            "stolenBases": 32,
+            "stolenBasePercentage": ".821",
+            "caughtStealingPercentage": ".179",
+            "groundIntoDoublePlay": 6,
+            "numberOfPitches": 2636,
+            "plateAppearances": 691,
+            "totalBases": 265,
+            "rbi": 71,
+            "leftOnBase": 168,
+            "sacBunts": 0,
+            "sacFlies": 2,
+            "babip": ".303",
+            "groundOutsToAirouts": "1.08",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "23.76"
+          },
+          "team": {
+            "id": 135,
+            "name": "San Diego Padres",
+            "link": "/api/v1/teams/135"
+          },
+          "player": {
+            "id": 665487,
+            "fullName": "Fernando Tatis Jr.",
+            "link": "/api/v1/people/665487"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 29,
+            "gamesPlayed": 103,
+            "groundOuts": 86,
+            "airOuts": 92,
+            "runs": 60,
+            "doubles": 16,
+            "triples": 5,
+            "homeRuns": 15,
+            "strikeOuts": 107,
+            "baseOnBalls": 29,
+            "intentionalWalks": 2,
+            "hits": 101,
+            "hitByPitch": 1,
+            "avg": ".266",
+            "atBats": 380,
+            "obp": ".315",
+            "slg": ".453",
+            "ops": ".768",
+            "caughtStealing": 0,
+            "stolenBases": 7,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 9,
+            "numberOfPitches": 1559,
+            "plateAppearances": 416,
+            "totalBases": 172,
+            "rbi": 64,
+            "leftOnBase": 168,
+            "sacBunts": 0,
+            "sacFlies": 6,
+            "babip": ".326",
+            "groundOutsToAirouts": "0.93",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "25.33"
+          },
+          "team": {
+            "id": 113,
+            "name": "Cincinnati Reds",
+            "link": "/api/v1/teams/113"
+          },
+          "player": {
+            "id": 669720,
+            "fullName": "Austin Hays",
+            "link": "/api/v1/people/669720"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

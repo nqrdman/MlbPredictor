@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 671212,
+      "fullName": "Joe Boyle",
+      "link": "/api/v1/people/671212",
+      "firstName": "Joseph",
+      "lastName": "Boyle",
+      "primaryNumber": "36",
+      "birthDate": "1999-08-14",
+      "currentAge": 26,
+      "birthCity": "Philadelphia",
+      "birthStateProvince": "PA",
+      "birthCountry": "USA",
+      "height": "6' 8\"",
+      "weight": 250,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Joe",
+      "useLastName": "Boyle",
+      "middleName": "Patrick",
+      "boxscoreName": "Boyle",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": false,
+      "draftYear": 2020,
+      "mlbDebutDate": "2023-09-17",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Joe Boyle",
+      "nameSlug": "joe-boyle-671212",
+      "firstLastName": "Joe Boyle",
+      "lastFirstName": "Boyle, Joe",
+      "lastInitName": "Boyle, J",
+      "initLastName": "J Boyle",
+      "fullFMLName": "Joseph Patrick Boyle",
+      "fullLFMName": "Boyle, Joseph Patrick",
+      "strikeZoneTop": 3.567,
+      "strikeZoneBottom": 1.8
+    }
+  ]
+}

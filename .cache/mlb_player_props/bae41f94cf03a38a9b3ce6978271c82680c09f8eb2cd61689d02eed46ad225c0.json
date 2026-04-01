@@ -1,0 +1,122 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "gameLog"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "summary": "6.0 IP, 0 ER, 7 K, 4 BB",
+            "gamesPlayed": 1,
+            "gamesStarted": 1,
+            "flyOuts": 1,
+            "groundOuts": 8,
+            "airOuts": 3,
+            "runs": 0,
+            "doubles": 1,
+            "triples": 0,
+            "homeRuns": 0,
+            "strikeOuts": 7,
+            "baseOnBalls": 4,
+            "intentionalWalks": 1,
+            "hits": 2,
+            "hitByPitch": 0,
+            "avg": ".100",
+            "atBats": 20,
+            "obp": ".250",
+            "slg": ".150",
+            "ops": ".400",
+            "caughtStealing": 0,
+            "stolenBases": 1,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 0,
+            "numberOfPitches": 91,
+            "era": "0.00",
+            "inningsPitched": "6.0",
+            "wins": 1,
+            "losses": 0,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 0,
+            "whip": "1.00",
+            "battersFaced": 24,
+            "outs": 18,
+            "gamesPitched": 1,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 60,
+            "strikePercentage": ".660",
+            "hitBatsmen": 0,
+            "balks": 0,
+            "wildPitches": 0,
+            "pickoffs": 0,
+            "totalBases": 3,
+            "groundOutsToAirouts": "2.67",
+            "winPercentage": "1.000",
+            "pitchesPerInning": "15.17",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "1.75",
+            "strikeoutsPer9Inn": "10.50",
+            "walksPer9Inn": "6.00",
+            "hitsPer9Inn": "3.00",
+            "runsScoredPer9": "0.00",
+            "homeRunsPer9": "0.00",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 0,
+            "sacFlies": 0
+          },
+          "team": {
+            "id": 108,
+            "name": "Los Angeles Angels",
+            "link": "/api/v1/teams/108"
+          },
+          "player": {
+            "id": 667755,
+            "fullName": "Jos\u00e9 Soriano",
+            "link": "/api/v1/people/667755"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "opponent": {
+            "id": 117,
+            "name": "Houston Astros",
+            "link": "/api/v1/teams/117"
+          },
+          "date": "2026-03-26",
+          "gameType": "R",
+          "isHome": false,
+          "isWin": true,
+          "game": {
+            "gamePk": 824218,
+            "link": "/api/v1.1/game/824218/feed/live",
+            "content": {
+              "link": "/api/v1/game/824218/content"
+            },
+            "gameNumber": 1,
+            "dayNight": "day"
+          }
+        }
+      ]
+    }
+  ]
+}

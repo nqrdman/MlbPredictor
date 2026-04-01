@@ -1,0 +1,122 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "gameLog"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "summary": "4.0 IP, 3 ER, 5 K, 2 BB",
+            "gamesPlayed": 1,
+            "gamesStarted": 1,
+            "flyOuts": 1,
+            "groundOuts": 4,
+            "airOuts": 3,
+            "runs": 3,
+            "doubles": 1,
+            "triples": 0,
+            "homeRuns": 1,
+            "strikeOuts": 5,
+            "baseOnBalls": 2,
+            "intentionalWalks": 0,
+            "hits": 5,
+            "hitByPitch": 1,
+            "avg": ".294",
+            "atBats": 17,
+            "obp": ".400",
+            "slg": ".529",
+            "ops": ".929",
+            "caughtStealing": 0,
+            "stolenBases": 1,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 0,
+            "numberOfPitches": 74,
+            "era": "6.75",
+            "inningsPitched": "4.0",
+            "wins": 0,
+            "losses": 0,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 3,
+            "whip": "1.75",
+            "battersFaced": 20,
+            "outs": 12,
+            "gamesPitched": 1,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 40,
+            "strikePercentage": ".540",
+            "hitBatsmen": 1,
+            "balks": 0,
+            "wildPitches": 1,
+            "pickoffs": 0,
+            "totalBases": 9,
+            "groundOutsToAirouts": "1.33",
+            "winPercentage": ".---",
+            "pitchesPerInning": "18.50",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "2.50",
+            "strikeoutsPer9Inn": "11.25",
+            "walksPer9Inn": "4.50",
+            "hitsPer9Inn": "11.25",
+            "runsScoredPer9": "6.75",
+            "homeRunsPer9": "2.25",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 0,
+            "sacFlies": 0
+          },
+          "team": {
+            "id": 113,
+            "name": "Cincinnati Reds",
+            "link": "/api/v1/teams/113"
+          },
+          "player": {
+            "id": 663903,
+            "fullName": "Brady Singer",
+            "link": "/api/v1/people/663903"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "opponent": {
+            "id": 111,
+            "name": "Boston Red Sox",
+            "link": "/api/v1/teams/111"
+          },
+          "date": "2026-03-28",
+          "gameType": "R",
+          "isHome": true,
+          "isWin": true,
+          "game": {
+            "gamePk": 824540,
+            "link": "/api/v1.1/game/824540/feed/live",
+            "content": {
+              "link": "/api/v1/game/824540/content"
+            },
+            "gameNumber": 1,
+            "dayNight": "day"
+          }
+        }
+      ]
+    }
+  ]
+}

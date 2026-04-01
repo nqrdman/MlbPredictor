@@ -1,0 +1,55 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 665152,
+      "fullName": "Dean Kremer",
+      "link": "/api/v1/people/665152",
+      "firstName": "Dean",
+      "lastName": "Kremer",
+      "primaryNumber": "64",
+      "birthDate": "1996-01-07",
+      "currentAge": 30,
+      "birthCity": "Stockton",
+      "birthStateProvince": "CA",
+      "birthCountry": "USA",
+      "height": "6' 2\"",
+      "weight": 210,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Dean",
+      "useLastName": "Kremer",
+      "middleName": "Junior",
+      "boxscoreName": "Kremer",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2016,
+      "pronunciation": "KRAY-mur",
+      "mlbDebutDate": "2020-09-06",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Dean Kremer",
+      "nameSlug": "dean-kremer-665152",
+      "firstLastName": "Dean Kremer",
+      "lastFirstName": "Kremer, Dean",
+      "lastInitName": "Kremer, D",
+      "initLastName": "D Kremer",
+      "fullFMLName": "Dean Junior Kremer",
+      "fullLFMName": "Kremer, Dean Junior",
+      "strikeZoneTop": 3.299,
+      "strikeZoneBottom": 1.665
+    }
+  ]
+}

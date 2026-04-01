@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 690022,
+      "fullName": "Ryan Ritter",
+      "link": "/api/v1/people/690022",
+      "firstName": "Ryan",
+      "lastName": "Ritter",
+      "primaryNumber": "8",
+      "birthDate": "2000-11-10",
+      "currentAge": 25,
+      "birthCity": "Evergreen Park",
+      "birthStateProvince": "IL",
+      "birthCountry": "USA",
+      "height": "6' 1\"",
+      "weight": 200,
+      "active": true,
+      "primaryPosition": {
+        "code": "6",
+        "name": "Shortstop",
+        "type": "Infielder",
+        "abbreviation": "SS"
+      },
+      "useName": "Ryan",
+      "useLastName": "Ritter",
+      "middleName": "Michael",
+      "boxscoreName": "Ritter",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2022,
+      "mlbDebutDate": "2025-06-06",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Ryan Ritter",
+      "nameSlug": "ryan-ritter-690022",
+      "firstLastName": "Ryan Ritter",
+      "lastFirstName": "Ritter, Ryan",
+      "lastInitName": "Ritter, R",
+      "initLastName": "R Ritter",
+      "fullFMLName": "Ryan Michael Ritter",
+      "fullLFMName": "Ritter, Ryan Michael",
+      "strikeZoneTop": 3.25,
+      "strikeZoneBottom": 1.64
+    }
+  ]
+}

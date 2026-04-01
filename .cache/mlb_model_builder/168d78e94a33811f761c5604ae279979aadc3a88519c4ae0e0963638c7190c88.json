@@ -1,0 +1,55 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 641482,
+      "fullName": "Nestor Cortes",
+      "link": "/api/v1/people/641482",
+      "firstName": "Nestor",
+      "lastName": "Cortes",
+      "primaryNumber": "65",
+      "birthDate": "1994-12-10",
+      "currentAge": 31,
+      "birthCity": "Surgidero de Batabano",
+      "birthCountry": "Cuba",
+      "height": "5' 10\"",
+      "weight": 225,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Nestor",
+      "useLastName": "Cortes",
+      "boxscoreName": "Cortes",
+      "nickName": "Hialeah Kid",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": false,
+      "draftYear": 2013,
+      "mlbDebutDate": "2018-03-31",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "L",
+        "description": "Left"
+      },
+      "nameFirstLast": "Nestor Cortes",
+      "nameTitle": "Jr.",
+      "nameSuffix": "Jr.",
+      "nameSlug": "nestor-cortes-641482",
+      "firstLastName": "Nestor Cortes",
+      "lastFirstName": "Cortes, Nestor",
+      "lastInitName": "Cortes, N",
+      "initLastName": "N Cortes",
+      "fullFMLName": "Nestor  Cortes",
+      "fullLFMName": "Cortes, Nestor",
+      "strikeZoneTop": 3.121,
+      "strikeZoneBottom": 1.575
+    }
+  ]
+}

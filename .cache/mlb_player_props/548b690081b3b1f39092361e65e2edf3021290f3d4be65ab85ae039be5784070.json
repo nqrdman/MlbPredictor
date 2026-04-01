@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 24,
+            "gamesPlayed": 6,
+            "groundOuts": 7,
+            "airOuts": 7,
+            "runs": 3,
+            "doubles": 0,
+            "triples": 0,
+            "homeRuns": 2,
+            "strikeOuts": 4,
+            "baseOnBalls": 4,
+            "intentionalWalks": 0,
+            "hits": 7,
+            "hitByPitch": 0,
+            "avg": ".280",
+            "atBats": 25,
+            "obp": ".379",
+            "slg": ".520",
+            "ops": ".899",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 2,
+            "numberOfPitches": 125,
+            "plateAppearances": 29,
+            "totalBases": 13,
+            "rbi": 5,
+            "leftOnBase": 14,
+            "sacBunts": 0,
+            "sacFlies": 0,
+            "babip": ".263",
+            "groundOutsToAirouts": "1.00",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "12.50"
+          },
+          "team": {
+            "id": 108,
+            "name": "Los Angeles Angels",
+            "link": "/api/v1/teams/108"
+          },
+          "player": {
+            "id": 694384,
+            "fullName": "Nolan Schanuel",
+            "link": "/api/v1/people/694384"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

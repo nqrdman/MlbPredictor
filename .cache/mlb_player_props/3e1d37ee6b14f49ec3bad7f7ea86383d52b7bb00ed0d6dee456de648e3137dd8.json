@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 26,
+            "gamesPlayed": 156,
+            "groundOuts": 179,
+            "airOuts": 148,
+            "runs": 96,
+            "doubles": 34,
+            "triples": 0,
+            "homeRuns": 23,
+            "strikeOuts": 94,
+            "baseOnBalls": 81,
+            "intentionalWalks": 8,
+            "hits": 172,
+            "hitByPitch": 6,
+            "avg": ".292",
+            "atBats": 589,
+            "obp": ".381",
+            "slg": ".467",
+            "ops": ".848",
+            "caughtStealing": 3,
+            "stolenBases": 6,
+            "stolenBasePercentage": ".667",
+            "caughtStealingPercentage": ".333",
+            "groundIntoDoublePlay": 17,
+            "numberOfPitches": 2502,
+            "plateAppearances": 680,
+            "totalBases": 275,
+            "rbi": 84,
+            "leftOnBase": 227,
+            "sacBunts": 0,
+            "sacFlies": 4,
+            "babip": ".313",
+            "groundOutsToAirouts": "1.21",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "25.61"
+          },
+          "team": {
+            "id": 141,
+            "name": "Toronto Blue Jays",
+            "link": "/api/v1/teams/141"
+          },
+          "player": {
+            "id": 665489,
+            "fullName": "Vladimir Guerrero Jr.",
+            "link": "/api/v1/people/665489"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

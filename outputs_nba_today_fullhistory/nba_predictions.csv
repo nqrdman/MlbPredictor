@@ -1,0 +1,3 @@
+game_id,game_date_utc,away_team_name,home_team_name,market_home_spread,market_total,home_win_probability,away_win_probability,predicted_winner,prediction_confidence
+401810946,2026-03-30T23:00:00+00:00,Philadelphia 76ers,Miami Heat,2.5,246.5,0.6001,0.3999,Miami Heat,0.6001
+401810947,2026-03-30T23:30:00+00:00,Boston Celtics,Atlanta Hawks,-1.5,222.5,0.3808,0.6192,Boston Celtics,0.6192

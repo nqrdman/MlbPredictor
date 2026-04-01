@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 30,
+            "gamesPlayed": 162,
+            "groundOuts": 135,
+            "airOuts": 166,
+            "runs": 87,
+            "doubles": 41,
+            "triples": 1,
+            "homeRuns": 38,
+            "strikeOuts": 162,
+            "baseOnBalls": 61,
+            "intentionalWalks": 5,
+            "hits": 170,
+            "hitByPitch": 15,
+            "avg": ".272",
+            "atBats": 624,
+            "obp": ".347",
+            "slg": ".524",
+            "ops": ".871",
+            "caughtStealing": 2,
+            "stolenBases": 1,
+            "stolenBasePercentage": ".333",
+            "caughtStealingPercentage": ".667",
+            "groundIntoDoublePlay": 23,
+            "numberOfPitches": 2807,
+            "plateAppearances": 709,
+            "totalBases": 327,
+            "rbi": 126,
+            "leftOnBase": 295,
+            "sacBunts": 0,
+            "sacFlies": 9,
+            "babip": ".305",
+            "groundOutsToAirouts": "0.81",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "16.42"
+          },
+          "team": {
+            "id": 121,
+            "name": "New York Mets",
+            "link": "/api/v1/teams/121"
+          },
+          "player": {
+            "id": 624413,
+            "fullName": "Pete Alonso",
+            "link": "/api/v1/people/624413"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

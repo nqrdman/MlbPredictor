@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 27,
+            "gamesPlayed": 90,
+            "groundOuts": 93,
+            "airOuts": 103,
+            "runs": 37,
+            "doubles": 16,
+            "triples": 2,
+            "homeRuns": 9,
+            "strikeOuts": 57,
+            "baseOnBalls": 40,
+            "intentionalWalks": 0,
+            "hits": 71,
+            "hitByPitch": 1,
+            "avg": ".220",
+            "atBats": 322,
+            "obp": ".307",
+            "slg": ".366",
+            "ops": ".673",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 8,
+            "numberOfPitches": 1491,
+            "plateAppearances": 365,
+            "totalBases": 118,
+            "rbi": 29,
+            "leftOnBase": 130,
+            "sacBunts": 0,
+            "sacFlies": 2,
+            "babip": ".240",
+            "groundOutsToAirouts": "0.90",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "35.78"
+          },
+          "team": {
+            "id": 110,
+            "name": "Baltimore Orioles",
+            "link": "/api/v1/teams/110"
+          },
+          "player": {
+            "id": 668939,
+            "fullName": "Adley Rutschman",
+            "link": "/api/v1/people/668939"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

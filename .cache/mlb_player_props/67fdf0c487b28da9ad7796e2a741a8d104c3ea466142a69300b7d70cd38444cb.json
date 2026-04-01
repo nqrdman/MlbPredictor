@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 24,
+            "gamesPlayed": 27,
+            "groundOuts": 20,
+            "airOuts": 11,
+            "runs": 9,
+            "doubles": 1,
+            "triples": 0,
+            "homeRuns": 1,
+            "strikeOuts": 18,
+            "baseOnBalls": 3,
+            "intentionalWalks": 0,
+            "hits": 10,
+            "hitByPitch": 3,
+            "avg": ".179",
+            "atBats": 56,
+            "obp": ".254",
+            "slg": ".250",
+            "ops": ".504",
+            "caughtStealing": 0,
+            "stolenBases": 1,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 0,
+            "numberOfPitches": 257,
+            "plateAppearances": 65,
+            "totalBases": 14,
+            "rbi": 8,
+            "leftOnBase": 31,
+            "sacBunts": 2,
+            "sacFlies": 1,
+            "babip": ".237",
+            "groundOutsToAirouts": "1.82",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "56.00"
+          },
+          "team": {
+            "id": 138,
+            "name": "St. Louis Cardinals",
+            "link": "/api/v1/teams/138"
+          },
+          "player": {
+            "id": 701675,
+            "fullName": "Nathan Church",
+            "link": "/api/v1/people/701675"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

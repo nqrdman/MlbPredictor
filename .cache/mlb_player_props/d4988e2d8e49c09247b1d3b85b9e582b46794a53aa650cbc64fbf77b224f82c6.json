@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 35,
+            "gamesPlayed": 42,
+            "groundOuts": 34,
+            "airOuts": 26,
+            "runs": 18,
+            "doubles": 6,
+            "triples": 0,
+            "homeRuns": 5,
+            "strikeOuts": 33,
+            "baseOnBalls": 8,
+            "intentionalWalks": 0,
+            "hits": 32,
+            "hitByPitch": 4,
+            "avg": ".260",
+            "atBats": 123,
+            "obp": ".324",
+            "slg": ".431",
+            "ops": ".755",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 3,
+            "numberOfPitches": 507,
+            "plateAppearances": 137,
+            "totalBases": 53,
+            "rbi": 17,
+            "leftOnBase": 47,
+            "sacBunts": 1,
+            "sacFlies": 1,
+            "babip": ".314",
+            "groundOutsToAirouts": "1.31",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "24.60"
+          },
+          "team": {
+            "id": 109,
+            "name": "Arizona Diamondbacks",
+            "link": "/api/v1/teams/109"
+          },
+          "player": {
+            "id": 543510,
+            "fullName": "James McCann",
+            "link": "/api/v1/people/543510"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "gameLog"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "summary": "4.0 IP, 3 ER, 5 K, BB",
+            "gamesPlayed": 1,
+            "gamesStarted": 1,
+            "flyOuts": 3,
+            "groundOuts": 4,
+            "airOuts": 3,
+            "runs": 4,
+            "doubles": 2,
+            "triples": 0,
+            "homeRuns": 0,
+            "strikeOuts": 5,
+            "baseOnBalls": 1,
+            "intentionalWalks": 0,
+            "hits": 7,
+            "hitByPitch": 0,
+            "avg": ".368",
+            "atBats": 19,
+            "obp": ".400",
+            "slg": ".474",
+            "ops": ".874",
+            "caughtStealing": 0,
+            "stolenBases": 3,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 0,
+            "numberOfPitches": 91,
+            "era": "6.75",
+            "inningsPitched": "4.0",
+            "wins": 0,
+            "losses": 1,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 3,
+            "whip": "2.00",
+            "battersFaced": 20,
+            "outs": 12,
+            "gamesPitched": 1,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 59,
+            "strikePercentage": ".650",
+            "hitBatsmen": 0,
+            "balks": 0,
+            "wildPitches": 0,
+            "pickoffs": 0,
+            "totalBases": 9,
+            "groundOutsToAirouts": "1.33",
+            "winPercentage": ".000",
+            "pitchesPerInning": "22.75",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "5.00",
+            "strikeoutsPer9Inn": "11.25",
+            "walksPer9Inn": "2.25",
+            "hitsPer9Inn": "15.75",
+            "runsScoredPer9": "9.00",
+            "homeRunsPer9": "0.00",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 0,
+            "sacFlies": 0
+          },
+          "team": {
+            "id": 145,
+            "name": "Chicago White Sox",
+            "link": "/api/v1/teams/145"
+          },
+          "player": {
+            "id": 680732,
+            "fullName": "Sean Burke",
+            "link": "/api/v1/people/680732"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "opponent": {
+            "id": 158,
+            "name": "Milwaukee Brewers",
+            "link": "/api/v1/teams/158"
+          },
+          "date": "2026-03-28",
+          "gameType": "R",
+          "isHome": false,
+          "isWin": false,
+          "game": {
+            "gamePk": 823811,
+            "link": "/api/v1.1/game/823811/feed/live",
+            "content": {
+              "link": "/api/v1/game/823811/content"
+            },
+            "gameNumber": 1,
+            "dayNight": "day"
+          }
+        }
+      ]
+    }
+  ]
+}

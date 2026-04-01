@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 25,
+            "gamesPlayed": 120,
+            "groundOuts": 115,
+            "airOuts": 79,
+            "runs": 34,
+            "doubles": 10,
+            "triples": 1,
+            "homeRuns": 2,
+            "strikeOuts": 65,
+            "baseOnBalls": 27,
+            "intentionalWalks": 0,
+            "hits": 75,
+            "hitByPitch": 3,
+            "avg": ".231",
+            "atBats": 324,
+            "obp": ".296",
+            "slg": ".287",
+            "ops": ".583",
+            "caughtStealing": 11,
+            "stolenBases": 15,
+            "stolenBasePercentage": ".577",
+            "caughtStealingPercentage": ".423",
+            "groundIntoDoublePlay": 7,
+            "numberOfPitches": 1367,
+            "plateAppearances": 364,
+            "totalBases": 93,
+            "rbi": 31,
+            "leftOnBase": 135,
+            "sacBunts": 9,
+            "sacFlies": 1,
+            "babip": ".283",
+            "groundOutsToAirouts": "1.46",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "162.00"
+          },
+          "team": {
+            "id": 120,
+            "name": "Washington Nationals",
+            "link": "/api/v1/teams/120"
+          },
+          "player": {
+            "id": 696285,
+            "fullName": "Jacob Young",
+            "link": "/api/v1/people/696285"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

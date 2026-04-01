@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 30,
+            "gamesPlayed": 40,
+            "groundOuts": 28,
+            "airOuts": 27,
+            "runs": 5,
+            "doubles": 5,
+            "triples": 0,
+            "homeRuns": 2,
+            "strikeOuts": 14,
+            "baseOnBalls": 11,
+            "intentionalWalks": 0,
+            "hits": 17,
+            "hitByPitch": 1,
+            "avg": ".202",
+            "atBats": 84,
+            "obp": ".296",
+            "slg": ".333",
+            "ops": ".629",
+            "caughtStealing": 0,
+            "stolenBases": 1,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 1,
+            "numberOfPitches": 395,
+            "plateAppearances": 98,
+            "totalBases": 28,
+            "rbi": 11,
+            "leftOnBase": 34,
+            "sacBunts": 0,
+            "sacFlies": 2,
+            "babip": ".214",
+            "groundOutsToAirouts": "1.04",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "42.00"
+          },
+          "team": {
+            "id": 147,
+            "name": "New York Yankees",
+            "link": "/api/v1/teams/147"
+          },
+          "player": {
+            "id": 641555,
+            "fullName": "J.C. Escarra",
+            "link": "/api/v1/people/641555"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

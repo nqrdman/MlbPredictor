@@ -1,0 +1,52 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 660730,
+      "fullName": "Elvin Rodr\u00edguez",
+      "link": "/api/v1/people/660730",
+      "firstName": "Elvin",
+      "lastName": "Rodr\u00edguez",
+      "birthDate": "1998-03-31",
+      "currentAge": 28,
+      "birthCity": "San Cristobal",
+      "birthCountry": "Dominican Republic",
+      "height": "6' 4\"",
+      "weight": 214,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Elvin",
+      "useLastName": "Rodr\u00edguez",
+      "middleName": "Miguel",
+      "boxscoreName": "Rodr\u00edguez",
+      "gender": "M",
+      "nameMatrilineal": "Batista",
+      "isPlayer": true,
+      "isVerified": false,
+      "mlbDebutDate": "2022-04-10",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Elvin Rodr\u00edguez",
+      "nameSlug": "elvin-rodriguez-660730",
+      "firstLastName": "Elvin Rodr\u00edguez",
+      "lastFirstName": "Rodr\u00edguez, Elvin",
+      "lastInitName": "Rodr\u00edguez, E",
+      "initLastName": "E Rodr\u00edguez",
+      "fullFMLName": "Elvin Miguel Rodr\u00edguez",
+      "fullLFMName": "Rodr\u00edguez, Elvin Miguel",
+      "strikeZoneTop": 3.388,
+      "strikeZoneBottom": 1.71
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 30,
+            "gamesPlayed": 154,
+            "groundOuts": 155,
+            "airOuts": 118,
+            "runs": 68,
+            "doubles": 38,
+            "triples": 3,
+            "homeRuns": 16,
+            "strikeOuts": 173,
+            "baseOnBalls": 57,
+            "intentionalWalks": 1,
+            "hits": 144,
+            "hitByPitch": 7,
+            "avg": ".245",
+            "atBats": 587,
+            "obp": ".318",
+            "slg": ".402",
+            "ops": ".720",
+            "caughtStealing": 2,
+            "stolenBases": 3,
+            "stolenBasePercentage": ".600",
+            "caughtStealingPercentage": ".400",
+            "groundIntoDoublePlay": 15,
+            "numberOfPitches": 2631,
+            "plateAppearances": 654,
+            "totalBases": 236,
+            "rbi": 73,
+            "leftOnBase": 249,
+            "sacBunts": 0,
+            "sacFlies": 3,
+            "babip": ".319",
+            "groundOutsToAirouts": "1.31",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "36.69"
+          },
+          "team": {
+            "id": 134,
+            "name": "Pittsburgh Pirates",
+            "link": "/api/v1/teams/134"
+          },
+          "player": {
+            "id": 668804,
+            "fullName": "Bryan Reynolds",
+            "link": "/api/v1/people/668804"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

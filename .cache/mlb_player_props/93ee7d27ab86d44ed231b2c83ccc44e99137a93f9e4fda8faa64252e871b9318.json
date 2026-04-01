@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 28,
+            "gamesPlayed": 135,
+            "groundOuts": 119,
+            "airOuts": 97,
+            "runs": 42,
+            "doubles": 16,
+            "triples": 4,
+            "homeRuns": 4,
+            "strikeOuts": 74,
+            "baseOnBalls": 23,
+            "intentionalWalks": 0,
+            "hits": 94,
+            "hitByPitch": 2,
+            "avg": ".255",
+            "atBats": 368,
+            "obp": ".301",
+            "slg": ".353",
+            "ops": ".654",
+            "caughtStealing": 5,
+            "stolenBases": 4,
+            "stolenBasePercentage": ".444",
+            "caughtStealingPercentage": ".556",
+            "groundIntoDoublePlay": 7,
+            "numberOfPitches": 1470,
+            "plateAppearances": 409,
+            "totalBases": 130,
+            "rbi": 33,
+            "leftOnBase": 151,
+            "sacBunts": 13,
+            "sacFlies": 3,
+            "babip": ".307",
+            "groundOutsToAirouts": "1.23",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "92.00"
+          },
+          "team": {
+            "id": 118,
+            "name": "Kansas City Royals",
+            "link": "/api/v1/teams/118"
+          },
+          "player": {
+            "id": 664728,
+            "fullName": "Kyle Isbel",
+            "link": "/api/v1/people/664728"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

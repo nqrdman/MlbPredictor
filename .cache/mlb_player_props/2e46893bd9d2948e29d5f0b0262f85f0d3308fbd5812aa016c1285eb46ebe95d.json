@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 25,
+            "gamesPlayed": 88,
+            "groundOuts": 68,
+            "airOuts": 78,
+            "runs": 42,
+            "doubles": 17,
+            "triples": 1,
+            "homeRuns": 8,
+            "strikeOuts": 90,
+            "baseOnBalls": 18,
+            "intentionalWalks": 0,
+            "hits": 78,
+            "hitByPitch": 5,
+            "avg": ".251",
+            "atBats": 311,
+            "obp": ".300",
+            "slg": ".389",
+            "ops": ".689",
+            "caughtStealing": 2,
+            "stolenBases": 8,
+            "stolenBasePercentage": ".800",
+            "caughtStealingPercentage": ".200",
+            "groundIntoDoublePlay": 3,
+            "numberOfPitches": 1245,
+            "plateAppearances": 337,
+            "totalBases": 121,
+            "rbi": 34,
+            "leftOnBase": 137,
+            "sacBunts": 0,
+            "sacFlies": 3,
+            "babip": ".324",
+            "groundOutsToAirouts": "0.87",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "38.88"
+          },
+          "team": {
+            "id": 146,
+            "name": "Miami Marlins",
+            "link": "/api/v1/teams/146"
+          },
+          "player": {
+            "id": 681393,
+            "fullName": "Connor Norby",
+            "link": "/api/v1/people/681393"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

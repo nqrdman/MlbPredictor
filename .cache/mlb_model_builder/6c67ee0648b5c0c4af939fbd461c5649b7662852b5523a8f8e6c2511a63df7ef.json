@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 657006,
+      "fullName": "Justin Steele",
+      "link": "/api/v1/people/657006",
+      "firstName": "Justin",
+      "lastName": "Steele",
+      "primaryNumber": "35",
+      "birthDate": "1995-07-11",
+      "currentAge": 30,
+      "birthCity": "Lucedale",
+      "birthStateProvince": "MS",
+      "birthCountry": "USA",
+      "height": "6' 2\"",
+      "weight": 205,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Justin",
+      "useLastName": "Steele",
+      "middleName": "Carl",
+      "boxscoreName": "Steele",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2014,
+      "mlbDebutDate": "2021-04-12",
+      "batSide": {
+        "code": "L",
+        "description": "Left"
+      },
+      "pitchHand": {
+        "code": "L",
+        "description": "Left"
+      },
+      "nameFirstLast": "Justin Steele",
+      "nameSlug": "justin-steele-657006",
+      "firstLastName": "Justin Steele",
+      "lastFirstName": "Steele, Justin",
+      "lastInitName": "Steele, J",
+      "initLastName": "J Steele",
+      "fullFMLName": "Justin Carl Steele",
+      "fullLFMName": "Steele, Justin Carl",
+      "strikeZoneTop": 3.299,
+      "strikeZoneBottom": 1.665
+    }
+  ]
+}

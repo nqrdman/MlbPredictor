@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 666214,
+      "fullName": "Joey Wentz",
+      "link": "/api/v1/people/666214",
+      "firstName": "Joseph",
+      "lastName": "Wentz",
+      "primaryNumber": "33",
+      "birthDate": "1997-10-06",
+      "currentAge": 28,
+      "birthCity": "Lawrence",
+      "birthStateProvince": "KS",
+      "birthCountry": "USA",
+      "height": "6' 5\"",
+      "weight": 220,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Joey",
+      "useLastName": "Wentz",
+      "middleName": "Barrett",
+      "boxscoreName": "Wentz",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2016,
+      "mlbDebutDate": "2022-05-11",
+      "batSide": {
+        "code": "L",
+        "description": "Left"
+      },
+      "pitchHand": {
+        "code": "L",
+        "description": "Left"
+      },
+      "nameFirstLast": "Joey Wentz",
+      "nameSlug": "joey-wentz-666214",
+      "firstLastName": "Joey Wentz",
+      "lastFirstName": "Wentz, Joey",
+      "lastInitName": "Wentz, J",
+      "initLastName": "J Wentz",
+      "fullFMLName": "Joseph Barrett Wentz",
+      "fullLFMName": "Wentz, Joseph Barrett",
+      "strikeZoneTop": 3.433,
+      "strikeZoneBottom": 1.733
+    }
+  ]
+}

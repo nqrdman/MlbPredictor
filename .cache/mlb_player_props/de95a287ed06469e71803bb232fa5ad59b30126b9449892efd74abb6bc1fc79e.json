@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 32,
+            "gamesPlayed": 162,
+            "groundOuts": 114,
+            "airOuts": 149,
+            "runs": 111,
+            "doubles": 23,
+            "triples": 2,
+            "homeRuns": 56,
+            "strikeOuts": 197,
+            "baseOnBalls": 108,
+            "intentionalWalks": 6,
+            "hits": 145,
+            "hitByPitch": 11,
+            "avg": ".240",
+            "atBats": 604,
+            "obp": ".365",
+            "slg": ".563",
+            "ops": ".928",
+            "caughtStealing": 2,
+            "stolenBases": 10,
+            "stolenBasePercentage": ".833",
+            "caughtStealingPercentage": ".167",
+            "groundIntoDoublePlay": 4,
+            "numberOfPitches": 3059,
+            "plateAppearances": 724,
+            "totalBases": 340,
+            "rbi": 132,
+            "leftOnBase": 284,
+            "sacBunts": 0,
+            "sacFlies": 1,
+            "babip": ".253",
+            "groundOutsToAirouts": "0.77",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "10.79"
+          },
+          "team": {
+            "id": 143,
+            "name": "Philadelphia Phillies",
+            "link": "/api/v1/teams/143"
+          },
+          "player": {
+            "id": 656941,
+            "fullName": "Kyle Schwarber",
+            "link": "/api/v1/people/656941"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

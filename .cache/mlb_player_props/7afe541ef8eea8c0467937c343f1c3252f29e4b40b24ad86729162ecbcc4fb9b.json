@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 28,
+            "gamesPlayed": 32,
+            "groundOuts": 29,
+            "airOuts": 27,
+            "runs": 12,
+            "doubles": 4,
+            "triples": 1,
+            "homeRuns": 1,
+            "strikeOuts": 26,
+            "baseOnBalls": 3,
+            "intentionalWalks": 0,
+            "hits": 26,
+            "hitByPitch": 3,
+            "avg": ".245",
+            "atBats": 106,
+            "obp": ".281",
+            "slg": ".330",
+            "ops": ".611",
+            "caughtStealing": 2,
+            "stolenBases": 6,
+            "stolenBasePercentage": ".750",
+            "caughtStealingPercentage": ".250",
+            "groundIntoDoublePlay": 3,
+            "numberOfPitches": 375,
+            "plateAppearances": 114,
+            "totalBases": 35,
+            "rbi": 9,
+            "leftOnBase": 44,
+            "sacBunts": 0,
+            "sacFlies": 2,
+            "babip": ".309",
+            "groundOutsToAirouts": "1.07",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "106.00"
+          },
+          "team": {
+            "id": 136,
+            "name": "Seattle Mariners",
+            "link": "/api/v1/teams/136"
+          },
+          "player": {
+            "id": 645302,
+            "fullName": "Victor Robles",
+            "link": "/api/v1/people/645302"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

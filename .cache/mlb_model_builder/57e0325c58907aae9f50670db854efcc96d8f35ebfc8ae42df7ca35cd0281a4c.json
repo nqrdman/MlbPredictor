@@ -1,0 +1,53 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 641672,
+      "fullName": "Thomas Hatch",
+      "link": "/api/v1/people/641672",
+      "firstName": "Thomas",
+      "lastName": "Hatch",
+      "primaryNumber": "59",
+      "birthDate": "1994-09-29",
+      "currentAge": 31,
+      "birthCity": "Tulsa",
+      "birthStateProvince": "OK",
+      "birthCountry": "USA",
+      "height": "6' 1\"",
+      "weight": 195,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Thomas",
+      "useLastName": "Hatch",
+      "boxscoreName": "Hatch",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": false,
+      "draftYear": 2016,
+      "mlbDebutDate": "2020-07-26",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Thomas Hatch",
+      "nameSlug": "thomas-hatch-641672",
+      "firstLastName": "Thomas Hatch",
+      "lastFirstName": "Hatch, Thomas",
+      "lastInitName": "Hatch, T",
+      "initLastName": "T Hatch",
+      "fullFMLName": "Thomas Hatch",
+      "fullLFMName": "Hatch, Thomas",
+      "strikeZoneTop": 3.255,
+      "strikeZoneBottom": 1.643
+    }
+  ]
+}

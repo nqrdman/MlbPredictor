@@ -1,0 +1,53 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 657585,
+      "fullName": "Reed Garrett",
+      "link": "/api/v1/people/657585",
+      "firstName": "Reed",
+      "lastName": "Garrett",
+      "primaryNumber": "75",
+      "birthDate": "1993-01-02",
+      "currentAge": 33,
+      "birthCity": "Henrico",
+      "birthStateProvince": "VA",
+      "birthCountry": "USA",
+      "height": "6' 2\"",
+      "weight": 195,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Reed",
+      "useLastName": "Garrett",
+      "boxscoreName": "Garrett, R",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2014,
+      "mlbDebutDate": "2019-03-29",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Reed Garrett",
+      "nameSlug": "reed-garrett-657585",
+      "firstLastName": "Reed Garrett",
+      "lastFirstName": "Garrett, Reed",
+      "lastInitName": "Garrett, R",
+      "initLastName": "R Garrett",
+      "fullFMLName": "Reed Garrett",
+      "fullLFMName": "Garrett, Reed",
+      "strikeZoneTop": 3.299,
+      "strikeZoneBottom": 1.665
+    }
+  ]
+}

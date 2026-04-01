@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 33,
+            "gamesPlayed": 150,
+            "groundOuts": 174,
+            "airOuts": 82,
+            "runs": 88,
+            "doubles": 21,
+            "triples": 0,
+            "homeRuns": 29,
+            "strikeOuts": 167,
+            "baseOnBalls": 64,
+            "intentionalWalks": 6,
+            "hits": 151,
+            "hitByPitch": 6,
+            "avg": ".264",
+            "atBats": 573,
+            "obp": ".343",
+            "slg": ".452",
+            "ops": ".795",
+            "caughtStealing": 6,
+            "stolenBases": 16,
+            "stolenBasePercentage": ".727",
+            "caughtStealingPercentage": ".273",
+            "groundIntoDoublePlay": 6,
+            "numberOfPitches": 2601,
+            "plateAppearances": 644,
+            "totalBases": 259,
+            "rbi": 103,
+            "leftOnBase": 250,
+            "sacBunts": 0,
+            "sacFlies": 1,
+            "babip": ".323",
+            "groundOutsToAirouts": "2.12",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "19.76"
+          },
+          "team": {
+            "id": 158,
+            "name": "Milwaukee Brewers",
+            "link": "/api/v1/teams/158"
+          },
+          "player": {
+            "id": 592885,
+            "fullName": "Christian Yelich",
+            "link": "/api/v1/people/592885"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "gamesPlayed": 159,
+            "groundOuts": 100,
+            "airOuts": 165,
+            "runs": 91,
+            "doubles": 28,
+            "triples": 0,
+            "homeRuns": 49,
+            "strikeOuts": 196,
+            "baseOnBalls": 46,
+            "intentionalWalks": 2,
+            "hits": 134,
+            "hitByPitch": 16,
+            "avg": ".228",
+            "atBats": 588,
+            "obp": ".298",
+            "slg": ".526",
+            "ops": ".824",
+            "caughtStealing": 1,
+            "stolenBases": 4,
+            "stolenBasePercentage": ".800",
+            "caughtStealingPercentage": ".200",
+            "groundIntoDoublePlay": 11,
+            "numberOfPitches": 2606,
+            "plateAppearances": 657,
+            "totalBases": 309,
+            "rbi": 118,
+            "leftOnBase": 267,
+            "sacBunts": 0,
+            "sacFlies": 7,
+            "babip": ".243",
+            "groundOutsToAirouts": "0.61",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "12.00"
+          },
+          "player": {
+            "id": 553993,
+            "fullName": "Eugenio Su\u00e1rez",
+            "link": "/api/v1/people/553993"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R",
+          "numTeams": 2,
+          "numLeagues": 2
+        },
+        {
+          "season": "2025",
+          "stat": {
+            "age": 33,
+            "gamesPlayed": 106,
+            "groundOuts": 66,
+            "airOuts": 114,
+            "runs": 64,
+            "doubles": 19,
+            "triples": 0,
+            "homeRuns": 36,
+            "strikeOuts": 117,
+            "baseOnBalls": 29,
+            "intentionalWalks": 1,
+            "hits": 96,
+            "hitByPitch": 15,
+            "avg": ".248",
+            "atBats": 387,
+            "obp": ".320",
+            "slg": ".576",
+            "ops": ".896",
+            "caughtStealing": 0,
+            "stolenBases": 1,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 7,
+            "numberOfPitches": 1707,
+            "plateAppearances": 437,
+            "totalBases": 223,
+            "rbi": 87,
+            "leftOnBase": 176,
+            "sacBunts": 0,
+            "sacFlies": 6,
+            "babip": ".250",
+            "groundOutsToAirouts": "0.58",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "10.75"
+          },
+          "team": {
+            "id": 109,
+            "name": "Arizona Diamondbacks",
+            "link": "/api/v1/teams/109"
+          },
+          "player": {
+            "id": 553993,
+            "fullName": "Eugenio Su\u00e1rez",
+            "link": "/api/v1/people/553993"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        },
+        {
+          "season": "2025",
+          "stat": {
+            "age": 33,
+            "gamesPlayed": 53,
+            "groundOuts": 34,
+            "airOuts": 51,
+            "runs": 27,
+            "doubles": 9,
+            "triples": 0,
+            "homeRuns": 13,
+            "strikeOuts": 79,
+            "baseOnBalls": 17,
+            "intentionalWalks": 1,
+            "hits": 38,
+            "hitByPitch": 1,
+            "avg": ".189",
+            "atBats": 201,
+            "obp": ".255",
+            "slg": ".428",
+            "ops": ".683",
+            "caughtStealing": 1,
+            "stolenBases": 3,
+            "stolenBasePercentage": ".750",
+            "caughtStealingPercentage": ".250",
+            "groundIntoDoublePlay": 4,
+            "numberOfPitches": 899,
+            "plateAppearances": 220,
+            "totalBases": 86,
+            "rbi": 31,
+            "leftOnBase": 91,
+            "sacBunts": 0,
+            "sacFlies": 1,
+            "babip": ".227",
+            "groundOutsToAirouts": "0.67",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "15.46"
+          },
+          "team": {
+            "id": 136,
+            "name": "Seattle Mariners",
+            "link": "/api/v1/teams/136"
+          },
+          "player": {
+            "id": 553993,
+            "fullName": "Eugenio Su\u00e1rez",
+            "link": "/api/v1/people/553993"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

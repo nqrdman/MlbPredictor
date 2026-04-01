@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 25,
+            "gamesPlayed": 156,
+            "groundOuts": 132,
+            "airOuts": 141,
+            "runs": 97,
+            "doubles": 28,
+            "triples": 2,
+            "homeRuns": 18,
+            "strikeOuts": 150,
+            "baseOnBalls": 66,
+            "intentionalWalks": 1,
+            "hits": 168,
+            "hitByPitch": 2,
+            "avg": ".288",
+            "atBats": 584,
+            "obp": ".359",
+            "slg": ".435",
+            "ops": ".794",
+            "caughtStealing": 8,
+            "stolenBases": 24,
+            "stolenBasePercentage": ".750",
+            "caughtStealingPercentage": ".250",
+            "groundIntoDoublePlay": 3,
+            "numberOfPitches": 2772,
+            "plateAppearances": 659,
+            "totalBases": 254,
+            "rbi": 81,
+            "leftOnBase": 214,
+            "sacBunts": 2,
+            "sacFlies": 5,
+            "babip": ".356",
+            "groundOutsToAirouts": "0.94",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "32.44"
+          },
+          "team": {
+            "id": 158,
+            "name": "Milwaukee Brewers",
+            "link": "/api/v1/teams/158"
+          },
+          "player": {
+            "id": 668930,
+            "fullName": "Brice Turang",
+            "link": "/api/v1/people/668930"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

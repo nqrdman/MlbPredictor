@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 32,
+            "gamesPlayed": 30,
+            "groundOuts": 21,
+            "airOuts": 23,
+            "runs": 13,
+            "doubles": 2,
+            "triples": 0,
+            "homeRuns": 5,
+            "strikeOuts": 27,
+            "baseOnBalls": 4,
+            "intentionalWalks": 0,
+            "hits": 21,
+            "hitByPitch": 5,
+            "avg": ".231",
+            "atBats": 91,
+            "obp": ".297",
+            "slg": ".418",
+            "ops": ".715",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 2,
+            "numberOfPitches": 415,
+            "plateAppearances": 101,
+            "totalBases": 38,
+            "rbi": 24,
+            "leftOnBase": 28,
+            "sacBunts": 0,
+            "sacFlies": 1,
+            "babip": ".267",
+            "groundOutsToAirouts": "0.91",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "18.20"
+          },
+          "team": {
+            "id": 110,
+            "name": "Baltimore Orioles",
+            "link": "/api/v1/teams/110"
+          },
+          "player": {
+            "id": 596142,
+            "fullName": "Gary S\u00e1nchez",
+            "link": "/api/v1/people/596142"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

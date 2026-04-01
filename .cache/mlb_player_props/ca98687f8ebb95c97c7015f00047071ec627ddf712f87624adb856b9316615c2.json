@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 30,
+            "gamesPlayed": 124,
+            "groundOuts": 106,
+            "airOuts": 122,
+            "runs": 38,
+            "doubles": 14,
+            "triples": 0,
+            "homeRuns": 11,
+            "strikeOuts": 88,
+            "baseOnBalls": 32,
+            "intentionalWalks": 0,
+            "hits": 84,
+            "hitByPitch": 1,
+            "avg": ".213",
+            "atBats": 395,
+            "obp": ".271",
+            "slg": ".332",
+            "ops": ".603",
+            "caughtStealing": 0,
+            "stolenBases": 3,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 10,
+            "numberOfPitches": 1704,
+            "plateAppearances": 433,
+            "totalBases": 131,
+            "rbi": 43,
+            "leftOnBase": 152,
+            "sacBunts": 1,
+            "sacFlies": 4,
+            "babip": ".243",
+            "groundOutsToAirouts": "0.87",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "35.91"
+          },
+          "team": {
+            "id": 140,
+            "name": "Texas Rangers",
+            "link": "/api/v1/teams/140"
+          },
+          "player": {
+            "id": 641680,
+            "fullName": "Jonah Heim",
+            "link": "/api/v1/people/641680"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

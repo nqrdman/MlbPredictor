@@ -1,0 +1,56 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 571760,
+      "fullName": "Andrew Heaney",
+      "link": "/api/v1/people/571760",
+      "firstName": "Andrew",
+      "lastName": "Heaney",
+      "primaryNumber": "33",
+      "birthDate": "1991-06-05",
+      "currentAge": 34,
+      "birthCity": "Oklahoma City",
+      "birthStateProvince": "OK",
+      "birthCountry": "USA",
+      "height": "6' 2\"",
+      "weight": 200,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Andrew",
+      "useLastName": "Heaney",
+      "middleName": "M.",
+      "boxscoreName": "Heaney",
+      "nickName": "Heandog",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2012,
+      "pronunciation": "HEE-nee",
+      "mlbDebutDate": "2014-06-19",
+      "batSide": {
+        "code": "L",
+        "description": "Left"
+      },
+      "pitchHand": {
+        "code": "L",
+        "description": "Left"
+      },
+      "nameFirstLast": "Andrew Heaney",
+      "nameSlug": "andrew-heaney-571760",
+      "firstLastName": "Andrew Heaney",
+      "lastFirstName": "Heaney, Andrew",
+      "lastInitName": "Heaney, A",
+      "initLastName": "A Heaney",
+      "fullFMLName": "Andrew M. Heaney",
+      "fullLFMName": "Heaney, Andrew M.",
+      "strikeZoneTop": 3.299,
+      "strikeZoneBottom": 1.665
+    }
+  ]
+}

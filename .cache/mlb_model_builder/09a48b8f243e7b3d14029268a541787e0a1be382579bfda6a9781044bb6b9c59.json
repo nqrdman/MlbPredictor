@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 669308,
+      "fullName": "Sean Reynolds",
+      "link": "/api/v1/people/669308",
+      "firstName": "Sean",
+      "lastName": "Reynolds",
+      "primaryNumber": "25",
+      "birthDate": "1998-04-19",
+      "currentAge": 27,
+      "birthCity": "Lafayette",
+      "birthStateProvince": "CO",
+      "birthCountry": "USA",
+      "height": "6' 8\"",
+      "weight": 250,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Sean",
+      "useLastName": "Reynolds",
+      "middleName": "William",
+      "boxscoreName": "Reynolds",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": false,
+      "draftYear": 2016,
+      "mlbDebutDate": "2024-07-14",
+      "batSide": {
+        "code": "L",
+        "description": "Left"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Sean Reynolds",
+      "nameSlug": "sean-reynolds-669308",
+      "firstLastName": "Sean Reynolds",
+      "lastFirstName": "Reynolds, Sean",
+      "lastInitName": "Reynolds, S",
+      "initLastName": "S Reynolds",
+      "fullFMLName": "Sean William Reynolds",
+      "fullLFMName": "Reynolds, Sean William",
+      "strikeZoneTop": 3.76,
+      "strikeZoneBottom": 1.75
+    }
+  ]
+}

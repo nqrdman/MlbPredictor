@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 30,
+            "gamesPlayed": 45,
+            "groundOuts": 38,
+            "airOuts": 41,
+            "runs": 17,
+            "doubles": 2,
+            "triples": 0,
+            "homeRuns": 9,
+            "strikeOuts": 27,
+            "baseOnBalls": 4,
+            "intentionalWalks": 0,
+            "hits": 30,
+            "hitByPitch": 0,
+            "avg": ".226",
+            "atBats": 133,
+            "obp": ".245",
+            "slg": ".444",
+            "ops": ".689",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 3,
+            "numberOfPitches": 503,
+            "plateAppearances": 140,
+            "totalBases": 59,
+            "rbi": 24,
+            "leftOnBase": 62,
+            "sacBunts": 1,
+            "sacFlies": 2,
+            "babip": ".212",
+            "groundOutsToAirouts": "0.93",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "14.78"
+          },
+          "team": {
+            "id": 112,
+            "name": "Chicago Cubs",
+            "link": "/api/v1/teams/112"
+          },
+          "player": {
+            "id": 624512,
+            "fullName": "Reese McGuire",
+            "link": "/api/v1/people/624512"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

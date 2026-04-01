@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 30,
+            "gamesPlayed": 43,
+            "groundOuts": 17,
+            "airOuts": 18,
+            "runs": 9,
+            "doubles": 4,
+            "triples": 0,
+            "homeRuns": 1,
+            "strikeOuts": 30,
+            "baseOnBalls": 4,
+            "intentionalWalks": 0,
+            "hits": 14,
+            "hitByPitch": 0,
+            "avg": ".177",
+            "atBats": 79,
+            "obp": ".217",
+            "slg": ".266",
+            "ops": ".483",
+            "caughtStealing": 2,
+            "stolenBases": 15,
+            "stolenBasePercentage": ".882",
+            "caughtStealingPercentage": ".118",
+            "groundIntoDoublePlay": 1,
+            "numberOfPitches": 336,
+            "plateAppearances": 83,
+            "totalBases": 21,
+            "rbi": 3,
+            "leftOnBase": 46,
+            "sacBunts": 0,
+            "sacFlies": 0,
+            "babip": ".271",
+            "groundOutsToAirouts": "0.94",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "79.00"
+          },
+          "team": {
+            "id": 110,
+            "name": "Baltimore Orioles",
+            "link": "/api/v1/teams/110"
+          },
+          "player": {
+            "id": 622761,
+            "fullName": "Jorge Mateo",
+            "link": "/api/v1/people/622761"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

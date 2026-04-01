@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 26,
+            "gamesPlayed": 102,
+            "groundOuts": 73,
+            "airOuts": 135,
+            "runs": 53,
+            "doubles": 15,
+            "triples": 1,
+            "homeRuns": 20,
+            "strikeOuts": 76,
+            "baseOnBalls": 50,
+            "intentionalWalks": 0,
+            "hits": 96,
+            "hitByPitch": 8,
+            "avg": ".254",
+            "atBats": 378,
+            "obp": ".352",
+            "slg": ".458",
+            "ops": ".810",
+            "caughtStealing": 1,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".000",
+            "caughtStealingPercentage": "1.000",
+            "groundIntoDoublePlay": 10,
+            "numberOfPitches": 1943,
+            "plateAppearances": 438,
+            "totalBases": 173,
+            "rbi": 53,
+            "leftOnBase": 158,
+            "sacBunts": 0,
+            "sacFlies": 2,
+            "babip": ".268",
+            "groundOutsToAirouts": "0.54",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "18.90"
+          },
+          "team": {
+            "id": 117,
+            "name": "Houston Astros",
+            "link": "/api/v1/teams/117"
+          },
+          "player": {
+            "id": 670623,
+            "fullName": "Isaac Paredes",
+            "link": "/api/v1/people/670623"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

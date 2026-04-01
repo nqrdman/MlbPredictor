@@ -1,0 +1,53 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 680735,
+      "fullName": "Austin Cox",
+      "link": "/api/v1/people/680735",
+      "firstName": "Austin",
+      "lastName": "Cox",
+      "primaryNumber": "68",
+      "birthDate": "1997-03-28",
+      "currentAge": 29,
+      "birthCity": "Macon",
+      "birthStateProvince": "GA",
+      "birthCountry": "USA",
+      "height": "6' 4\"",
+      "weight": 235,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Austin",
+      "useLastName": "Cox",
+      "boxscoreName": "Cox",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": false,
+      "draftYear": 2018,
+      "mlbDebutDate": "2023-05-04",
+      "batSide": {
+        "code": "L",
+        "description": "Left"
+      },
+      "pitchHand": {
+        "code": "L",
+        "description": "Left"
+      },
+      "nameFirstLast": "Austin Cox",
+      "nameSlug": "austin-cox-680735",
+      "firstLastName": "Austin Cox",
+      "lastFirstName": "Cox, Austin",
+      "lastInitName": "Cox, A",
+      "initLastName": "A Cox",
+      "fullFMLName": "Austin  Cox",
+      "fullLFMName": "Cox, Austin ",
+      "strikeZoneTop": 3.388,
+      "strikeZoneBottom": 1.71
+    }
+  ]
+}

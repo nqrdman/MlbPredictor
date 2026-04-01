@@ -1,0 +1,191 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "gamesPlayed": 67,
+            "groundOuts": 44,
+            "airOuts": 28,
+            "runs": 17,
+            "doubles": 7,
+            "triples": 1,
+            "homeRuns": 0,
+            "strikeOuts": 36,
+            "baseOnBalls": 8,
+            "intentionalWalks": 0,
+            "hits": 31,
+            "hitByPitch": 1,
+            "avg": ".231",
+            "atBats": 134,
+            "obp": ".276",
+            "slg": ".299",
+            "ops": ".575",
+            "caughtStealing": 1,
+            "stolenBases": 10,
+            "stolenBasePercentage": ".909",
+            "caughtStealingPercentage": ".091",
+            "groundIntoDoublePlay": 2,
+            "numberOfPitches": 578,
+            "plateAppearances": 148,
+            "totalBases": 40,
+            "rbi": 11,
+            "leftOnBase": 61,
+            "sacBunts": 3,
+            "sacFlies": 2,
+            "babip": ".310",
+            "groundOutsToAirouts": "1.57",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "-.--"
+          },
+          "player": {
+            "id": 663604,
+            "fullName": "Brandon Lockridge",
+            "link": "/api/v1/people/663604"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R",
+          "numTeams": 2
+        },
+        {
+          "season": "2025",
+          "stat": {
+            "age": 28,
+            "gamesPlayed": 47,
+            "groundOuts": 31,
+            "airOuts": 16,
+            "runs": 9,
+            "doubles": 4,
+            "triples": 0,
+            "homeRuns": 0,
+            "strikeOuts": 24,
+            "baseOnBalls": 4,
+            "intentionalWalks": 0,
+            "hits": 19,
+            "hitByPitch": 1,
+            "avg": ".216",
+            "atBats": 88,
+            "obp": ".258",
+            "slg": ".261",
+            "ops": ".519",
+            "caughtStealing": 1,
+            "stolenBases": 8,
+            "stolenBasePercentage": ".889",
+            "caughtStealingPercentage": ".111",
+            "groundIntoDoublePlay": 2,
+            "numberOfPitches": 346,
+            "plateAppearances": 95,
+            "totalBases": 23,
+            "rbi": 5,
+            "leftOnBase": 38,
+            "sacBunts": 2,
+            "sacFlies": 0,
+            "babip": ".297",
+            "groundOutsToAirouts": "1.94",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "-.--"
+          },
+          "team": {
+            "id": 135,
+            "name": "San Diego Padres",
+            "link": "/api/v1/teams/135"
+          },
+          "player": {
+            "id": 663604,
+            "fullName": "Brandon Lockridge",
+            "link": "/api/v1/people/663604"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        },
+        {
+          "season": "2025",
+          "stat": {
+            "age": 28,
+            "gamesPlayed": 20,
+            "groundOuts": 13,
+            "airOuts": 12,
+            "runs": 8,
+            "doubles": 3,
+            "triples": 1,
+            "homeRuns": 0,
+            "strikeOuts": 12,
+            "baseOnBalls": 4,
+            "intentionalWalks": 0,
+            "hits": 12,
+            "hitByPitch": 0,
+            "avg": ".261",
+            "atBats": 46,
+            "obp": ".308",
+            "slg": ".370",
+            "ops": ".678",
+            "caughtStealing": 0,
+            "stolenBases": 2,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 0,
+            "numberOfPitches": 232,
+            "plateAppearances": 53,
+            "totalBases": 17,
+            "rbi": 6,
+            "leftOnBase": 23,
+            "sacBunts": 1,
+            "sacFlies": 2,
+            "babip": ".333",
+            "groundOutsToAirouts": "1.08",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "-.--"
+          },
+          "team": {
+            "id": 158,
+            "name": "Milwaukee Brewers",
+            "link": "/api/v1/teams/158"
+          },
+          "player": {
+            "id": 663604,
+            "fullName": "Brandon Lockridge",
+            "link": "/api/v1/people/663604"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

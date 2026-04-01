@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 26,
+            "gamesPlayed": 135,
+            "groundOuts": 100,
+            "airOuts": 101,
+            "runs": 32,
+            "doubles": 11,
+            "triples": 0,
+            "homeRuns": 0,
+            "strikeOuts": 99,
+            "baseOnBalls": 31,
+            "intentionalWalks": 0,
+            "hits": 82,
+            "hitByPitch": 3,
+            "avg": ".221",
+            "atBats": 371,
+            "obp": ".284",
+            "slg": ".251",
+            "ops": ".535",
+            "caughtStealing": 7,
+            "stolenBases": 8,
+            "stolenBasePercentage": ".533",
+            "caughtStealingPercentage": ".467",
+            "groundIntoDoublePlay": 8,
+            "numberOfPitches": 1582,
+            "plateAppearances": 416,
+            "totalBases": 93,
+            "rbi": 22,
+            "leftOnBase": 162,
+            "sacBunts": 8,
+            "sacFlies": 3,
+            "babip": ".298",
+            "groundOutsToAirouts": "0.99",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "-.--"
+          },
+          "team": {
+            "id": 144,
+            "name": "Atlanta Braves",
+            "link": "/api/v1/teams/144"
+          },
+          "player": {
+            "id": 669397,
+            "fullName": "Nick Allen",
+            "link": "/api/v1/people/669397"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

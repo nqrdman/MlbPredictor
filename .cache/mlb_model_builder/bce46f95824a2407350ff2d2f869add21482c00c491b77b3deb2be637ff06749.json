@@ -1,0 +1,55 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 664074,
+      "fullName": "Cody Ponce",
+      "link": "/api/v1/people/664074",
+      "firstName": "Cody",
+      "lastName": "Ponce",
+      "primaryNumber": "66",
+      "birthDate": "1994-04-25",
+      "currentAge": 31,
+      "birthCity": "Pomona",
+      "birthStateProvince": "CA",
+      "birthCountry": "USA",
+      "height": "6' 6\"",
+      "weight": 255,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Cody",
+      "useLastName": "Ponce",
+      "middleName": "Joe",
+      "boxscoreName": "Ponce",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2015,
+      "pronunciation": "ponts",
+      "mlbDebutDate": "2020-08-02",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Cody Ponce",
+      "nameSlug": "cody-ponce-664074",
+      "firstLastName": "Cody Ponce",
+      "lastFirstName": "Ponce, Cody",
+      "lastInitName": "Ponce, C",
+      "initLastName": "C Ponce",
+      "fullFMLName": "Cody Joe Ponce",
+      "fullLFMName": "Ponce, Cody Joe",
+      "strikeZoneTop": 3.478,
+      "strikeZoneBottom": 1.755
+    }
+  ]
+}

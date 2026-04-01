@@ -1,0 +1,16 @@
+game_pk,game_date_utc,away_team_name,home_team_name,away_probable_pitcher_name,home_probable_pitcher_name,home_win_probability,away_win_probability,predicted_winner,prediction_confidence
+824135,2026-03-30T20:10:00+00:00,Minnesota Twins,Kansas City Royals,Simeon Woods Richardson,Kris Bubic,0.5822,0.4178,Kansas City Royals,0.5822
+824863,2026-03-30T22:35:00+00:00,Texas Rangers,Baltimore Orioles,Jack Leiter,Chris Bassitt,0.5417,0.4583,Baltimore Orioles,0.5417
+824539,2026-03-30T22:40:00+00:00,Pittsburgh Pirates,Cincinnati Reds,Braxton Ashcraft,Chase Burns,0.6458,0.3542,Cincinnati Reds,0.6458
+823484,2026-03-30T22:40:00+00:00,Washington Nationals,Philadelphia Phillies,Foster Griffin,Taijuan Walker,0.517,0.483,Philadelphia Phillies,0.517
+823890,2026-03-30T22:40:00+00:00,Chicago White Sox,Miami Marlins,Davis Martin,Chris Paddack,0.6813,0.3187,Miami Marlins,0.6813
+822834,2026-03-30T23:07:00+00:00,Colorado Rockies,Toronto Blue Jays,Tomoyuki Sugano,Cody Ponce,0.739,0.261,Toronto Blue Jays,0.739
+824943,2026-03-30T23:15:00+00:00,Athletics,Atlanta Braves,Jacob Lopez,Bryce Elder,0.5179,0.4821,Atlanta Braves,0.5179
+824702,2026-03-30T23:40:00+00:00,Los Angeles Angels,Chicago Cubs,Ryan Johnson,Edward Cabrera,0.4248,0.5752,Los Angeles Angels,0.5752
+823809,2026-03-30T23:40:00+00:00,Tampa Bay Rays,Milwaukee Brewers,Nick Martinez,Kyle Harrison,0.697,0.303,Milwaukee Brewers,0.697
+823080,2026-03-30T23:45:00+00:00,New York Mets,St. Louis Cardinals,Clay Holmes,Kyle Leahy,0.6325,0.3675,St. Louis Cardinals,0.6325
+824214,2026-03-31T00:10:00+00:00,Boston Red Sox,Houston Astros,Ranger Suarez,Lance McCullers Jr.,0.6474,0.3526,Houston Astros,0.6474
+823320,2026-03-31T01:40:00+00:00,San Francisco Giants,San Diego Padres,Landen Roupp,Walker Buehler,0.7114,0.2886,San Diego Padres,0.7114
+823159,2026-03-31T01:40:00+00:00,New York Yankees,Seattle Mariners,Ryan Weathers,Luis Castillo,0.5412,0.4588,Seattle Mariners,0.5412
+825108,2026-03-31T02:10:00+00:00,Detroit Tigers,Arizona Diamondbacks,Justin Verlander,Michael Soroka,0.2722,0.7278,Detroit Tigers,0.7278
+823972,2026-03-31T02:10:00+00:00,Cleveland Guardians,Los Angeles Dodgers,Parker Messick,Roki Sasaki,0.5488,0.4512,Los Angeles Dodgers,0.5488

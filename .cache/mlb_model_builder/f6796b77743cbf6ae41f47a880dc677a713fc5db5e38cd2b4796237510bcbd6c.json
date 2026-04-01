@@ -1,0 +1,122 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "gameLog"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "summary": "5.0 IP, 2 ER, 7 K, BB",
+            "gamesPlayed": 1,
+            "gamesStarted": 1,
+            "flyOuts": 2,
+            "groundOuts": 2,
+            "airOuts": 7,
+            "runs": 2,
+            "doubles": 0,
+            "triples": 0,
+            "homeRuns": 2,
+            "strikeOuts": 7,
+            "baseOnBalls": 1,
+            "intentionalWalks": 0,
+            "hits": 3,
+            "hitByPitch": 0,
+            "avg": ".158",
+            "atBats": 19,
+            "obp": ".200",
+            "slg": ".474",
+            "ops": ".674",
+            "caughtStealing": 0,
+            "stolenBases": 1,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 0,
+            "numberOfPitches": 93,
+            "era": "3.60",
+            "inningsPitched": "5.0",
+            "wins": 1,
+            "losses": 0,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 2,
+            "whip": "0.80",
+            "battersFaced": 20,
+            "outs": 15,
+            "gamesPitched": 1,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 58,
+            "strikePercentage": ".620",
+            "hitBatsmen": 0,
+            "balks": 0,
+            "wildPitches": 0,
+            "pickoffs": 0,
+            "totalBases": 9,
+            "groundOutsToAirouts": "0.29",
+            "winPercentage": "1.000",
+            "pitchesPerInning": "18.60",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "7.00",
+            "strikeoutsPer9Inn": "12.60",
+            "walksPer9Inn": "1.80",
+            "hitsPer9Inn": "5.40",
+            "runsScoredPer9": "3.60",
+            "homeRunsPer9": "3.60",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 0,
+            "sacFlies": 0
+          },
+          "team": {
+            "id": 120,
+            "name": "Washington Nationals",
+            "link": "/api/v1/teams/120"
+          },
+          "player": {
+            "id": 663623,
+            "fullName": "Jake Irvin",
+            "link": "/api/v1/people/663623"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "opponent": {
+            "id": 112,
+            "name": "Chicago Cubs",
+            "link": "/api/v1/teams/112"
+          },
+          "date": "2026-03-29",
+          "gameType": "R",
+          "isHome": false,
+          "isWin": true,
+          "game": {
+            "gamePk": 824700,
+            "link": "/api/v1.1/game/824700/feed/live",
+            "content": {
+              "link": "/api/v1/game/824700/content"
+            },
+            "gameNumber": 1,
+            "dayNight": "day"
+          }
+        }
+      ]
+    }
+  ]
+}

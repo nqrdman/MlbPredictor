@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 36,
+            "gamesPlayed": 69,
+            "groundOuts": 45,
+            "airOuts": 53,
+            "runs": 16,
+            "doubles": 13,
+            "triples": 0,
+            "homeRuns": 6,
+            "strikeOuts": 74,
+            "baseOnBalls": 13,
+            "intentionalWalks": 0,
+            "hits": 42,
+            "hitByPitch": 4,
+            "avg": ".197",
+            "atBats": 213,
+            "obp": ".255",
+            "slg": ".343",
+            "ops": ".598",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 5,
+            "numberOfPitches": 873,
+            "plateAppearances": 231,
+            "totalBases": 73,
+            "rbi": 21,
+            "leftOnBase": 92,
+            "sacBunts": 0,
+            "sacFlies": 1,
+            "babip": ".269",
+            "groundOutsToAirouts": "0.85",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "35.50"
+          },
+          "team": {
+            "id": 108,
+            "name": "Los Angeles Angels",
+            "link": "/api/v1/teams/108"
+          },
+          "player": {
+            "id": 518595,
+            "fullName": "Travis d'Arnaud",
+            "link": "/api/v1/people/518595"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

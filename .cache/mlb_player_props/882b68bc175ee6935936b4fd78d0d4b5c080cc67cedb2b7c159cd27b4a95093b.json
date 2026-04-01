@@ -1,0 +1,55 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 663647,
+      "fullName": "Ke'Bryan Hayes",
+      "link": "/api/v1/people/663647",
+      "firstName": "Ke'Bryan",
+      "lastName": "Hayes",
+      "primaryNumber": "3",
+      "birthDate": "1997-01-28",
+      "currentAge": 29,
+      "birthCity": "Tomball",
+      "birthStateProvince": "TX",
+      "birthCountry": "USA",
+      "height": "5' 11\"",
+      "weight": 215,
+      "active": true,
+      "primaryPosition": {
+        "code": "5",
+        "name": "Third Base",
+        "type": "Infielder",
+        "abbreviation": "3B"
+      },
+      "useName": "Ke'Bryan",
+      "useLastName": "Hayes",
+      "middleName": "Kobe",
+      "boxscoreName": "Hayes",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2015,
+      "pronunciation": "KEY-bryan",
+      "mlbDebutDate": "2020-09-01",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Ke'Bryan Hayes",
+      "nameSlug": "ke-bryan-hayes-663647",
+      "firstLastName": "Ke'Bryan Hayes",
+      "lastFirstName": "Hayes, Ke'Bryan",
+      "lastInitName": "Hayes, K",
+      "initLastName": "K Hayes",
+      "fullFMLName": "Ke'Bryan Kobe Hayes",
+      "fullLFMName": "Hayes, Ke'Bryan Kobe",
+      "strikeZoneTop": 3.166,
+      "strikeZoneBottom": 1.598
+    }
+  ]
+}

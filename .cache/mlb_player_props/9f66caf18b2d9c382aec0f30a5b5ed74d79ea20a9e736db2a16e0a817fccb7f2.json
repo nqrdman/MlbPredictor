@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 28,
+            "gamesPlayed": 159,
+            "groundOuts": 79,
+            "airOuts": 185,
+            "runs": 110,
+            "doubles": 24,
+            "triples": 0,
+            "homeRuns": 60,
+            "strikeOuts": 188,
+            "baseOnBalls": 97,
+            "intentionalWalks": 17,
+            "hits": 147,
+            "hitByPitch": 9,
+            "avg": ".247",
+            "atBats": 596,
+            "obp": ".359",
+            "slg": ".589",
+            "ops": ".948",
+            "caughtStealing": 4,
+            "stolenBases": 14,
+            "stolenBasePercentage": ".778",
+            "caughtStealingPercentage": ".222",
+            "groundIntoDoublePlay": 6,
+            "numberOfPitches": 2833,
+            "plateAppearances": 705,
+            "totalBases": 351,
+            "rbi": 125,
+            "leftOnBase": 243,
+            "sacBunts": 0,
+            "sacFlies": 3,
+            "babip": ".248",
+            "groundOutsToAirouts": "0.43",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "9.93"
+          },
+          "team": {
+            "id": 136,
+            "name": "Seattle Mariners",
+            "link": "/api/v1/teams/136"
+          },
+          "player": {
+            "id": 663728,
+            "fullName": "Cal Raleigh",
+            "link": "/api/v1/people/663728"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

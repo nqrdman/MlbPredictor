@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 35,
+            "gamesPlayed": 94,
+            "groundOuts": 68,
+            "airOuts": 92,
+            "runs": 33,
+            "doubles": 14,
+            "triples": 1,
+            "homeRuns": 11,
+            "strikeOuts": 72,
+            "baseOnBalls": 20,
+            "intentionalWalks": 0,
+            "hits": 73,
+            "hitByPitch": 2,
+            "avg": ".241",
+            "atBats": 303,
+            "obp": ".291",
+            "slg": ".403",
+            "ops": ".694",
+            "caughtStealing": 1,
+            "stolenBases": 3,
+            "stolenBasePercentage": ".750",
+            "caughtStealingPercentage": ".250",
+            "groundIntoDoublePlay": 5,
+            "numberOfPitches": 1279,
+            "plateAppearances": 327,
+            "totalBases": 122,
+            "rbi": 47,
+            "leftOnBase": 120,
+            "sacBunts": 0,
+            "sacFlies": 2,
+            "babip": ".279",
+            "groundOutsToAirouts": "0.74",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "27.54"
+          },
+          "team": {
+            "id": 140,
+            "name": "Texas Rangers",
+            "link": "/api/v1/teams/140"
+          },
+          "player": {
+            "id": 543309,
+            "fullName": "Kyle Higashioka",
+            "link": "/api/v1/people/543309"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 32,
+            "gamesPlayed": 128,
+            "groundOuts": 96,
+            "airOuts": 131,
+            "runs": 76,
+            "doubles": 23,
+            "triples": 2,
+            "homeRuns": 21,
+            "strikeOuts": 126,
+            "baseOnBalls": 71,
+            "intentionalWalks": 1,
+            "hits": 105,
+            "hitByPitch": 6,
+            "avg": ".231",
+            "atBats": 454,
+            "obp": ".340",
+            "slg": ".430",
+            "ops": ".770",
+            "caughtStealing": 4,
+            "stolenBases": 9,
+            "stolenBasePercentage": ".692",
+            "caughtStealingPercentage": ".308",
+            "groundIntoDoublePlay": 8,
+            "numberOfPitches": 2209,
+            "plateAppearances": 535,
+            "totalBases": 195,
+            "rbi": 61,
+            "leftOnBase": 215,
+            "sacBunts": 0,
+            "sacFlies": 4,
+            "babip": ".270",
+            "groundOutsToAirouts": "0.73",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "21.62"
+          },
+          "team": {
+            "id": 137,
+            "name": "San Francisco Giants",
+            "link": "/api/v1/teams/137"
+          },
+          "player": {
+            "id": 656305,
+            "fullName": "Matt Chapman",
+            "link": "/api/v1/people/656305"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

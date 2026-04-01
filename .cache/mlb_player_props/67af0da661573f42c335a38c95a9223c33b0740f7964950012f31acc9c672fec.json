@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 31,
+            "gamesPlayed": 135,
+            "groundOuts": 101,
+            "airOuts": 119,
+            "runs": 61,
+            "doubles": 20,
+            "triples": 1,
+            "homeRuns": 11,
+            "strikeOuts": 107,
+            "baseOnBalls": 69,
+            "intentionalWalks": 1,
+            "hits": 103,
+            "hitByPitch": 15,
+            "avg": ".246",
+            "atBats": 419,
+            "obp": ".367",
+            "slg": ".377",
+            "ops": ".744",
+            "caughtStealing": 3,
+            "stolenBases": 3,
+            "stolenBasePercentage": ".500",
+            "caughtStealingPercentage": ".500",
+            "groundIntoDoublePlay": 4,
+            "numberOfPitches": 2184,
+            "plateAppearances": 515,
+            "totalBases": 158,
+            "rbi": 59,
+            "leftOnBase": 189,
+            "sacBunts": 4,
+            "sacFlies": 7,
+            "babip": ".299",
+            "groundOutsToAirouts": "0.85",
+            "catchersInterference": 1,
+            "atBatsPerHomeRun": "38.09"
+          },
+          "team": {
+            "id": 135,
+            "name": "San Diego Padres",
+            "link": "/api/v1/teams/135"
+          },
+          "player": {
+            "id": 630105,
+            "fullName": "Jake Cronenworth",
+            "link": "/api/v1/people/630105"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 30,
+            "gamesPlayed": 134,
+            "groundOuts": 107,
+            "airOuts": 127,
+            "runs": 79,
+            "doubles": 19,
+            "triples": 0,
+            "homeRuns": 31,
+            "strikeOuts": 149,
+            "baseOnBalls": 38,
+            "intentionalWalks": 1,
+            "hits": 130,
+            "hitByPitch": 2,
+            "avg": ".256",
+            "atBats": 507,
+            "obp": ".307",
+            "slg": ".477",
+            "ops": ".784",
+            "caughtStealing": 2,
+            "stolenBases": 3,
+            "stolenBasePercentage": ".600",
+            "caughtStealingPercentage": ".400",
+            "groundIntoDoublePlay": 6,
+            "numberOfPitches": 2146,
+            "plateAppearances": 553,
+            "totalBases": 242,
+            "rbi": 83,
+            "leftOnBase": 201,
+            "sacBunts": 0,
+            "sacFlies": 6,
+            "babip": ".297",
+            "groundOutsToAirouts": "0.84",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "16.36"
+          },
+          "team": {
+            "id": 139,
+            "name": "Tampa Bay Rays",
+            "link": "/api/v1/teams/139"
+          },
+          "player": {
+            "id": 664040,
+            "fullName": "Brandon Lowe",
+            "link": "/api/v1/people/664040"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 689017,
+      "fullName": "Landon Knack",
+      "link": "/api/v1/people/689017",
+      "firstName": "Landon",
+      "lastName": "Knack",
+      "primaryNumber": "96",
+      "birthDate": "1997-07-15",
+      "currentAge": 28,
+      "birthCity": "Johnson City",
+      "birthStateProvince": "TN",
+      "birthCountry": "USA",
+      "height": "6' 2\"",
+      "weight": 220,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Landon",
+      "useLastName": "Knack",
+      "middleName": "Dakota",
+      "boxscoreName": "Knack",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2020,
+      "pronunciation": "nak",
+      "mlbDebutDate": "2024-04-17",
+      "batSide": {
+        "code": "L",
+        "description": "Left"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Landon Knack",
+      "nameSlug": "landon-knack-689017",
+      "firstLastName": "Landon Knack",
+      "lastFirstName": "Knack, Landon",
+      "lastInitName": "Knack, L",
+      "initLastName": "L Knack",
+      "fullFMLName": "Landon Dakota Knack",
+      "fullLFMName": "Knack, Landon Dakota",
+      "strikeZoneTop": 3.299,
+      "strikeZoneBottom": 1.665
+    }
+  ]
+}

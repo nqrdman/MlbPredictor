@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 663604,
+      "fullName": "Brandon Lockridge",
+      "link": "/api/v1/people/663604",
+      "firstName": "Brandon",
+      "lastName": "Lockridge",
+      "primaryNumber": "20",
+      "birthDate": "1997-03-14",
+      "currentAge": 29,
+      "birthCity": "Pensacola",
+      "birthStateProvince": "FL",
+      "birthCountry": "USA",
+      "height": "6' 0\"",
+      "weight": 197,
+      "active": true,
+      "primaryPosition": {
+        "code": "7",
+        "name": "Outfielder",
+        "type": "Outfielder",
+        "abbreviation": "LF"
+      },
+      "useName": "Brandon",
+      "useLastName": "Lockridge",
+      "middleName": "Marcus",
+      "boxscoreName": "Lockridge",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2018,
+      "mlbDebutDate": "2024-09-13",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Brandon Lockridge",
+      "nameSlug": "brandon-lockridge-663604",
+      "firstLastName": "Brandon Lockridge",
+      "lastFirstName": "Lockridge, Brandon",
+      "lastInitName": "Lockridge, B",
+      "initLastName": "B Lockridge",
+      "fullFMLName": "Brandon Marcus Lockridge",
+      "fullLFMName": "Lockridge, Brandon Marcus",
+      "strikeZoneTop": 3.23,
+      "strikeZoneBottom": 1.63
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 664238,
+      "fullName": "Dylan Moore",
+      "link": "/api/v1/people/664238",
+      "firstName": "Dylan",
+      "lastName": "Moore",
+      "primaryNumber": "25",
+      "birthDate": "1992-08-02",
+      "currentAge": 33,
+      "birthCity": "Yorba Linda",
+      "birthStateProvince": "CA",
+      "birthCountry": "USA",
+      "height": "6' 1\"",
+      "weight": 205,
+      "active": true,
+      "primaryPosition": {
+        "code": "4",
+        "name": "Second Base",
+        "type": "Infielder",
+        "abbreviation": "2B"
+      },
+      "useName": "Dylan",
+      "useLastName": "Moore",
+      "middleName": "Scott",
+      "boxscoreName": "Moore, D",
+      "nickName": "D Mo",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2015,
+      "mlbDebutDate": "2019-03-20",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Dylan Moore",
+      "nameSlug": "dylan-moore-664238",
+      "firstLastName": "Dylan Moore",
+      "lastFirstName": "Moore, Dylan",
+      "lastInitName": "Moore, D",
+      "initLastName": "D Moore",
+      "fullFMLName": "Dylan Scott Moore",
+      "fullLFMName": "Moore, Dylan Scott",
+      "strikeZoneTop": 3.238,
+      "strikeZoneBottom": 1.634
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 36,
+            "gamesPlayed": 98,
+            "groundOuts": 83,
+            "airOuts": 68,
+            "runs": 37,
+            "doubles": 14,
+            "triples": 0,
+            "homeRuns": 9,
+            "strikeOuts": 68,
+            "baseOnBalls": 22,
+            "intentionalWalks": 0,
+            "hits": 79,
+            "hitByPitch": 9,
+            "avg": ".270",
+            "atBats": 293,
+            "obp": ".335",
+            "slg": ".410",
+            "ops": ".745",
+            "caughtStealing": 2,
+            "stolenBases": 7,
+            "stolenBasePercentage": ".778",
+            "caughtStealingPercentage": ".222",
+            "groundIntoDoublePlay": 7,
+            "numberOfPitches": 1255,
+            "plateAppearances": 329,
+            "totalBases": 120,
+            "rbi": 34,
+            "leftOnBase": 124,
+            "sacBunts": 1,
+            "sacFlies": 4,
+            "babip": ".318",
+            "groundOutsToAirouts": "1.22",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "32.56"
+          },
+          "team": {
+            "id": 121,
+            "name": "New York Mets",
+            "link": "/api/v1/teams/121"
+          },
+          "player": {
+            "id": 516782,
+            "fullName": "Starling Marte",
+            "link": "/api/v1/people/516782"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

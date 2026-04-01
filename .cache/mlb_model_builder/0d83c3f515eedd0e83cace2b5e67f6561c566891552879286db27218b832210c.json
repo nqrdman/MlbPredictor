@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 663465,
+      "fullName": "Kolby Allard",
+      "link": "/api/v1/people/663465",
+      "firstName": "Kolby",
+      "lastName": "Allard",
+      "primaryNumber": "49",
+      "birthDate": "1997-08-13",
+      "currentAge": 28,
+      "birthCity": "Anaheim",
+      "birthStateProvince": "CA",
+      "birthCountry": "USA",
+      "height": "6' 1\"",
+      "weight": 195,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Kolby",
+      "useLastName": "Allard",
+      "middleName": "Kenneth",
+      "boxscoreName": "Allard",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2015,
+      "mlbDebutDate": "2018-07-31",
+      "batSide": {
+        "code": "L",
+        "description": "Left"
+      },
+      "pitchHand": {
+        "code": "L",
+        "description": "Left"
+      },
+      "nameFirstLast": "Kolby Allard",
+      "nameSlug": "kolby-allard-663465",
+      "firstLastName": "Kolby Allard",
+      "lastFirstName": "Allard, Kolby",
+      "lastInitName": "Allard, K",
+      "initLastName": "K Allard",
+      "fullFMLName": "Kolby Kenneth Allard",
+      "fullLFMName": "Allard, Kolby Kenneth",
+      "strikeZoneTop": 3.255,
+      "strikeZoneBottom": 1.643
+    }
+  ]
+}

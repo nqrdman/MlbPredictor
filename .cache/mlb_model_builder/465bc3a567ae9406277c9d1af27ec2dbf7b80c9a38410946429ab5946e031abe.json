@@ -1,0 +1,55 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 543101,
+      "fullName": "Anthony DeSclafani",
+      "link": "/api/v1/people/543101",
+      "firstName": "Anthony",
+      "lastName": "DeSclafani",
+      "primaryNumber": "21",
+      "birthDate": "1990-04-18",
+      "currentAge": 35,
+      "birthCity": "Freehold",
+      "birthStateProvince": "NJ",
+      "birthCountry": "USA",
+      "height": "6' 2\"",
+      "weight": 195,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Anthony",
+      "useLastName": "DeSclafani",
+      "middleName": "J.",
+      "boxscoreName": "DeSclafani",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2011,
+      "pronunciation": "DEE-scla-fah-nee",
+      "mlbDebutDate": "2014-05-14",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Anthony DeSclafani",
+      "nameSlug": "anthony-desclafani-543101",
+      "firstLastName": "Anthony DeSclafani",
+      "lastFirstName": "DeSclafani, Anthony",
+      "lastInitName": "DeSclafani, A",
+      "initLastName": "A DeSclafani",
+      "fullFMLName": "Anthony J. DeSclafani",
+      "fullLFMName": "DeSclafani, Anthony J.",
+      "strikeZoneTop": 3.58,
+      "strikeZoneBottom": 1.72
+    }
+  ]
+}

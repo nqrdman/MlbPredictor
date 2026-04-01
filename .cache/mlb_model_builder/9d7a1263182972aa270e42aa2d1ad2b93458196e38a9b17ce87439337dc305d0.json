@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 668881,
+      "fullName": "Hunter Greene",
+      "link": "/api/v1/people/668881",
+      "firstName": "Christian",
+      "lastName": "Greene",
+      "primaryNumber": "21",
+      "birthDate": "1999-08-06",
+      "currentAge": 26,
+      "birthCity": "Los Angeles",
+      "birthStateProvince": "CA",
+      "birthCountry": "USA",
+      "height": "6' 5\"",
+      "weight": 242,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Hunter",
+      "useLastName": "Greene",
+      "middleName": "Hunter",
+      "boxscoreName": "Greene, H",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": false,
+      "draftYear": 2017,
+      "mlbDebutDate": "2022-04-10",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Hunter Greene",
+      "nameSlug": "hunter-greene-668881",
+      "firstLastName": "Hunter Greene",
+      "lastFirstName": "Greene, Hunter",
+      "lastInitName": "Greene, H",
+      "initLastName": "H Greene",
+      "fullFMLName": "Christian Hunter Greene",
+      "fullLFMName": "Greene, Christian Hunter",
+      "strikeZoneTop": 3.433,
+      "strikeZoneBottom": 1.733
+    }
+  ]
+}

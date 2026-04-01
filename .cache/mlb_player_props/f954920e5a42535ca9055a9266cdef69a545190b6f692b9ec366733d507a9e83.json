@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 27,
+            "gamesPlayed": 110,
+            "groundOuts": 83,
+            "airOuts": 106,
+            "runs": 52,
+            "doubles": 12,
+            "triples": 0,
+            "homeRuns": 14,
+            "strikeOuts": 112,
+            "baseOnBalls": 40,
+            "intentionalWalks": 3,
+            "hits": 85,
+            "hitByPitch": 2,
+            "avg": ".223",
+            "atBats": 382,
+            "obp": ".297",
+            "slg": ".364",
+            "ops": ".661",
+            "caughtStealing": 8,
+            "stolenBases": 33,
+            "stolenBasePercentage": ".805",
+            "caughtStealingPercentage": ".195",
+            "groundIntoDoublePlay": 8,
+            "numberOfPitches": 1524,
+            "plateAppearances": 431,
+            "totalBases": 139,
+            "rbi": 53,
+            "leftOnBase": 175,
+            "sacBunts": 1,
+            "sacFlies": 3,
+            "babip": ".274",
+            "groundOutsToAirouts": "0.78",
+            "catchersInterference": 3,
+            "atBatsPerHomeRun": "27.29"
+          },
+          "team": {
+            "id": 145,
+            "name": "Chicago White Sox",
+            "link": "/api/v1/teams/145"
+          },
+          "player": {
+            "id": 673357,
+            "fullName": "Luis Robert Jr.",
+            "link": "/api/v1/people/673357"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

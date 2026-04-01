@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 641154,
+      "fullName": "Pablo L\u00f3pez",
+      "link": "/api/v1/people/641154",
+      "firstName": "Pablo",
+      "lastName": "L\u00f3pez",
+      "primaryNumber": "49",
+      "birthDate": "1996-03-07",
+      "currentAge": 30,
+      "birthCity": "Cabimas",
+      "birthCountry": "Venezuela",
+      "height": "6' 4\"",
+      "weight": 225,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Pablo",
+      "useLastName": "L\u00f3pez",
+      "middleName": "Jose",
+      "boxscoreName": "L\u00f3pez, P",
+      "nickName": "Pache",
+      "gender": "M",
+      "nameMatrilineal": "Serra",
+      "isPlayer": true,
+      "isVerified": true,
+      "mlbDebutDate": "2018-06-30",
+      "batSide": {
+        "code": "L",
+        "description": "Left"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Pablo L\u00f3pez",
+      "nameSlug": "pablo-lopez-641154",
+      "firstLastName": "Pablo L\u00f3pez",
+      "lastFirstName": "L\u00f3pez, Pablo",
+      "lastInitName": "L\u00f3pez, P",
+      "initLastName": "P L\u00f3pez",
+      "fullFMLName": "Pablo Jose L\u00f3pez",
+      "fullLFMName": "L\u00f3pez, Pablo Jose",
+      "strikeZoneTop": 3.66,
+      "strikeZoneBottom": 1.72
+    }
+  ]
+}

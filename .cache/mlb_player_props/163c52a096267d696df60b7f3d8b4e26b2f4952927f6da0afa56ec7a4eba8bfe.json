@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 30,
+            "gamesPlayed": 150,
+            "groundOuts": 120,
+            "airOuts": 165,
+            "runs": 87,
+            "doubles": 32,
+            "triples": 0,
+            "homeRuns": 23,
+            "strikeOuts": 151,
+            "baseOnBalls": 87,
+            "intentionalWalks": 2,
+            "hits": 138,
+            "hitByPitch": 2,
+            "avg": ".243",
+            "atBats": 569,
+            "obp": ".342",
+            "slg": ".420",
+            "ops": ".762",
+            "caughtStealing": 3,
+            "stolenBases": 6,
+            "stolenBasePercentage": ".667",
+            "caughtStealingPercentage": ".333",
+            "groundIntoDoublePlay": 8,
+            "numberOfPitches": 2717,
+            "plateAppearances": 663,
+            "totalBases": 239,
+            "rbi": 79,
+            "leftOnBase": 207,
+            "sacBunts": 0,
+            "sacFlies": 5,
+            "babip": ".288",
+            "groundOutsToAirouts": "0.73",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "24.74"
+          },
+          "team": {
+            "id": 112,
+            "name": "Chicago Cubs",
+            "link": "/api/v1/teams/112"
+          },
+          "player": {
+            "id": 664023,
+            "fullName": "Ian Happ",
+            "link": "/api/v1/people/664023"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

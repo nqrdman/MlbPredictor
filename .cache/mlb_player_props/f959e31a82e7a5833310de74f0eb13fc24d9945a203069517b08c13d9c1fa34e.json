@@ -1,0 +1,187 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "gamesPlayed": 144,
+            "groundOuts": 117,
+            "airOuts": 119,
+            "runs": 67,
+            "doubles": 21,
+            "triples": 1,
+            "homeRuns": 17,
+            "strikeOuts": 109,
+            "baseOnBalls": 58,
+            "intentionalWalks": 4,
+            "hits": 133,
+            "hitByPitch": 8,
+            "avg": ".281",
+            "atBats": 474,
+            "obp": ".366",
+            "slg": ".437",
+            "ops": ".803",
+            "caughtStealing": 1,
+            "stolenBases": 3,
+            "stolenBasePercentage": ".750",
+            "caughtStealingPercentage": ".250",
+            "groundIntoDoublePlay": 11,
+            "numberOfPitches": 2173,
+            "plateAppearances": 544,
+            "totalBases": 207,
+            "rbi": 63,
+            "leftOnBase": 207,
+            "sacBunts": 0,
+            "sacFlies": 4,
+            "babip": ".330",
+            "groundOutsToAirouts": "0.98",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "27.88"
+          },
+          "player": {
+            "id": 656811,
+            "fullName": "Ryan O'Hearn",
+            "link": "/api/v1/people/656811"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R",
+          "numTeams": 2,
+          "numLeagues": 2
+        },
+        {
+          "season": "2025",
+          "stat": {
+            "age": 31,
+            "gamesPlayed": 94,
+            "groundOuts": 82,
+            "airOuts": 81,
+            "runs": 45,
+            "doubles": 15,
+            "triples": 1,
+            "homeRuns": 13,
+            "strikeOuts": 63,
+            "baseOnBalls": 42,
+            "intentionalWalks": 3,
+            "hits": 88,
+            "hitByPitch": 5,
+            "avg": ".283",
+            "atBats": 311,
+            "obp": ".374",
+            "slg": ".463",
+            "ops": ".837",
+            "caughtStealing": 1,
+            "stolenBases": 3,
+            "stolenBasePercentage": ".750",
+            "caughtStealingPercentage": ".250",
+            "groundIntoDoublePlay": 10,
+            "numberOfPitches": 1404,
+            "plateAppearances": 361,
+            "totalBases": 144,
+            "rbi": 43,
+            "leftOnBase": 146,
+            "sacBunts": 0,
+            "sacFlies": 3,
+            "babip": ".315",
+            "groundOutsToAirouts": "1.01",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "23.92"
+          },
+          "team": {
+            "id": 110,
+            "name": "Baltimore Orioles",
+            "link": "/api/v1/teams/110"
+          },
+          "player": {
+            "id": 656811,
+            "fullName": "Ryan O'Hearn",
+            "link": "/api/v1/people/656811"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        },
+        {
+          "season": "2025",
+          "stat": {
+            "age": 31,
+            "gamesPlayed": 50,
+            "groundOuts": 35,
+            "airOuts": 38,
+            "runs": 22,
+            "doubles": 6,
+            "triples": 0,
+            "homeRuns": 4,
+            "strikeOuts": 46,
+            "baseOnBalls": 16,
+            "intentionalWalks": 1,
+            "hits": 45,
+            "hitByPitch": 3,
+            "avg": ".276",
+            "atBats": 163,
+            "obp": ".350",
+            "slg": ".387",
+            "ops": ".737",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 1,
+            "numberOfPitches": 769,
+            "plateAppearances": 183,
+            "totalBases": 63,
+            "rbi": 20,
+            "leftOnBase": 61,
+            "sacBunts": 0,
+            "sacFlies": 1,
+            "babip": ".360",
+            "groundOutsToAirouts": "0.92",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "40.75"
+          },
+          "team": {
+            "id": 135,
+            "name": "San Diego Padres",
+            "link": "/api/v1/teams/135"
+          },
+          "player": {
+            "id": 656811,
+            "fullName": "Ryan O'Hearn",
+            "link": "/api/v1/people/656811"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

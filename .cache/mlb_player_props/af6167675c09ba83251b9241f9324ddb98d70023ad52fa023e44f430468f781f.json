@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 25,
+            "gamesPlayed": 147,
+            "groundOuts": 96,
+            "airOuts": 142,
+            "runs": 73,
+            "doubles": 18,
+            "triples": 0,
+            "homeRuns": 15,
+            "strikeOuts": 167,
+            "baseOnBalls": 55,
+            "intentionalWalks": 0,
+            "hits": 112,
+            "hitByPitch": 5,
+            "avg": ".220",
+            "atBats": 510,
+            "obp": ".300",
+            "slg": ".343",
+            "ops": ".643",
+            "caughtStealing": 2,
+            "stolenBases": 18,
+            "stolenBasePercentage": ".900",
+            "caughtStealingPercentage": ".100",
+            "groundIntoDoublePlay": 8,
+            "numberOfPitches": 2365,
+            "plateAppearances": 577,
+            "totalBases": 175,
+            "rbi": 50,
+            "leftOnBase": 228,
+            "sacBunts": 3,
+            "sacFlies": 4,
+            "babip": ".292",
+            "groundOutsToAirouts": "0.68",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "34.00"
+          },
+          "team": {
+            "id": 113,
+            "name": "Cincinnati Reds",
+            "link": "/api/v1/teams/113"
+          },
+          "player": {
+            "id": 680574,
+            "fullName": "Matt McLain",
+            "link": "/api/v1/people/680574"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 28,
+            "gamesPlayed": 67,
+            "groundOuts": 45,
+            "airOuts": 57,
+            "runs": 16,
+            "doubles": 8,
+            "triples": 0,
+            "homeRuns": 5,
+            "strikeOuts": 22,
+            "baseOnBalls": 7,
+            "intentionalWalks": 0,
+            "hits": 37,
+            "hitByPitch": 0,
+            "avg": ".231",
+            "atBats": 160,
+            "obp": ".262",
+            "slg": ".375",
+            "ops": ".637",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 4,
+            "numberOfPitches": 591,
+            "plateAppearances": 168,
+            "totalBases": 60,
+            "rbi": 19,
+            "leftOnBase": 70,
+            "sacBunts": 0,
+            "sacFlies": 1,
+            "babip": ".239",
+            "groundOutsToAirouts": "0.79",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "32.00"
+          },
+          "team": {
+            "id": 138,
+            "name": "St. Louis Cardinals",
+            "link": "/api/v1/teams/138"
+          },
+          "player": {
+            "id": 650968,
+            "fullName": "Yohel Pozo",
+            "link": "/api/v1/people/650968"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

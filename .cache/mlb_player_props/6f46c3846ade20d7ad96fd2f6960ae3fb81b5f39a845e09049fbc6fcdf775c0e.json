@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 35,
+            "gamesPlayed": 155,
+            "groundOuts": 149,
+            "airOuts": 181,
+            "runs": 80,
+            "doubles": 24,
+            "triples": 1,
+            "homeRuns": 26,
+            "strikeOuts": 109,
+            "baseOnBalls": 55,
+            "intentionalWalks": 5,
+            "hits": 156,
+            "hitByPitch": 4,
+            "avg": ".265",
+            "atBats": 588,
+            "obp": ".329",
+            "slg": ".442",
+            "ops": ".771",
+            "caughtStealing": 6,
+            "stolenBases": 10,
+            "stolenBasePercentage": ".625",
+            "caughtStealingPercentage": ".375",
+            "groundIntoDoublePlay": 20,
+            "numberOfPitches": 2314,
+            "plateAppearances": 654,
+            "totalBases": 260,
+            "rbi": 77,
+            "leftOnBase": 271,
+            "sacBunts": 1,
+            "sacFlies": 6,
+            "babip": ".283",
+            "groundOutsToAirouts": "0.82",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "22.62"
+          },
+          "team": {
+            "id": 117,
+            "name": "Houston Astros",
+            "link": "/api/v1/teams/117"
+          },
+          "player": {
+            "id": 514888,
+            "fullName": "Jose Altuve",
+            "link": "/api/v1/people/514888"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

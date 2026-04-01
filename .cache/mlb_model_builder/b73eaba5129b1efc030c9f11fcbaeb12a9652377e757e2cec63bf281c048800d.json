@@ -1,0 +1,55 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 642216,
+      "fullName": "Allan Winans",
+      "link": "/api/v1/people/642216",
+      "firstName": "Allan",
+      "lastName": "Winans",
+      "primaryNumber": "62",
+      "birthDate": "1995-08-10",
+      "currentAge": 30,
+      "birthCity": "Bakersfield",
+      "birthStateProvince": "CA",
+      "birthCountry": "USA",
+      "height": "6' 2\"",
+      "weight": 180,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Allan",
+      "useLastName": "Winans",
+      "middleName": "Lee",
+      "boxscoreName": "Winans",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": false,
+      "draftYear": 2018,
+      "pronunciation": "WHY-nans",
+      "mlbDebutDate": "2023-07-22",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Allan Winans",
+      "nameSlug": "allan-winans-642216",
+      "firstLastName": "Allan Winans",
+      "lastFirstName": "Winans, Allan",
+      "lastInitName": "Winans, A",
+      "initLastName": "A Winans",
+      "fullFMLName": "Allan Lee Winans",
+      "fullLFMName": "Winans, Allan Lee",
+      "strikeZoneTop": 3.299,
+      "strikeZoneBottom": 1.665
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 35,
+            "gamesPlayed": 147,
+            "groundOuts": 128,
+            "airOuts": 141,
+            "runs": 81,
+            "doubles": 39,
+            "triples": 2,
+            "homeRuns": 24,
+            "strikeOuts": 128,
+            "baseOnBalls": 60,
+            "intentionalWalks": 7,
+            "hits": 164,
+            "hitByPitch": 6,
+            "avg": ".295",
+            "atBats": 556,
+            "obp": ".367",
+            "slg": ".502",
+            "ops": ".869",
+            "caughtStealing": 2,
+            "stolenBases": 6,
+            "stolenBasePercentage": ".750",
+            "caughtStealingPercentage": ".250",
+            "groundIntoDoublePlay": 13,
+            "numberOfPitches": 2382,
+            "plateAppearances": 627,
+            "totalBases": 279,
+            "rbi": 90,
+            "leftOnBase": 220,
+            "sacBunts": 0,
+            "sacFlies": 5,
+            "babip": ".342",
+            "groundOutsToAirouts": "0.91",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "23.17"
+          },
+          "team": {
+            "id": 119,
+            "name": "Los Angeles Dodgers",
+            "link": "/api/v1/teams/119"
+          },
+          "player": {
+            "id": 518692,
+            "fullName": "Freddie Freeman",
+            "link": "/api/v1/people/518692"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

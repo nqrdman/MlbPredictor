@@ -1,0 +1,53 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 701581,
+      "fullName": "David Festa",
+      "link": "/api/v1/people/701581",
+      "firstName": "David",
+      "lastName": "Festa",
+      "primaryNumber": "58",
+      "birthDate": "2000-03-08",
+      "currentAge": 26,
+      "birthCity": "Verona",
+      "birthStateProvince": "NJ",
+      "birthCountry": "USA",
+      "height": "6' 6\"",
+      "weight": 185,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "David",
+      "useLastName": "Festa",
+      "boxscoreName": "Festa, D",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2021,
+      "mlbDebutDate": "2024-06-27",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "David Festa",
+      "nameSlug": "david-festa-701581",
+      "firstLastName": "David Festa",
+      "lastFirstName": "Festa, David",
+      "lastInitName": "Festa, D",
+      "initLastName": "D Festa",
+      "fullFMLName": "David  Festa",
+      "fullLFMName": "Festa, David",
+      "strikeZoneTop": 3.478,
+      "strikeZoneBottom": 1.755
+    }
+  ]
+}

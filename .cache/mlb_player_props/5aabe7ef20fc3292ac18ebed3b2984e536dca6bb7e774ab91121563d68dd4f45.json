@@ -1,0 +1,55 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 602104,
+      "fullName": "Ram\u00f3n Ur\u00edas",
+      "link": "/api/v1/people/602104",
+      "firstName": "Ram\u00f3n",
+      "lastName": "Ur\u00edas",
+      "primaryNumber": "29",
+      "birthDate": "1994-06-03",
+      "currentAge": 31,
+      "birthCity": "Magdalena de Kino",
+      "birthStateProvince": "SO",
+      "birthCountry": "Mexico",
+      "height": "5' 9\"",
+      "weight": 185,
+      "active": true,
+      "primaryPosition": {
+        "code": "5",
+        "name": "Third Base",
+        "type": "Infielder",
+        "abbreviation": "3B"
+      },
+      "useName": "Ram\u00f3n",
+      "useLastName": "Ur\u00edas",
+      "middleName": "Francisco",
+      "boxscoreName": "Ur\u00edas, R",
+      "gender": "M",
+      "nameMatrilineal": "Figueroa",
+      "isPlayer": true,
+      "isVerified": true,
+      "pronunciation": "oo-REE-ahs",
+      "mlbDebutDate": "2020-08-20",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Ram\u00f3n Ur\u00edas",
+      "nameSlug": "ramon-urias-602104",
+      "firstLastName": "Ram\u00f3n Ur\u00edas",
+      "lastFirstName": "Ur\u00edas, Ram\u00f3n",
+      "lastInitName": "Ur\u00edas, R",
+      "initLastName": "R Ur\u00edas",
+      "fullFMLName": "Ram\u00f3n Francisco Ur\u00edas",
+      "fullLFMName": "Ur\u00edas, Ram\u00f3n Francisco",
+      "strikeZoneTop": 3.098,
+      "strikeZoneBottom": 1.563
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 26,
+            "gamesPlayed": 143,
+            "groundOuts": 174,
+            "airOuts": 157,
+            "runs": 66,
+            "doubles": 21,
+            "triples": 0,
+            "homeRuns": 15,
+            "strikeOuts": 82,
+            "baseOnBalls": 44,
+            "intentionalWalks": 2,
+            "hits": 134,
+            "hitByPitch": 3,
+            "avg": ".246",
+            "atBats": 544,
+            "obp": ".305",
+            "slg": ".368",
+            "ops": ".673",
+            "caughtStealing": 6,
+            "stolenBases": 15,
+            "stolenBasePercentage": ".714",
+            "caughtStealingPercentage": ".286",
+            "groundIntoDoublePlay": 9,
+            "numberOfPitches": 2129,
+            "plateAppearances": 594,
+            "totalBases": 200,
+            "rbi": 77,
+            "leftOnBase": 228,
+            "sacBunts": 0,
+            "sacFlies": 3,
+            "babip": ".264",
+            "groundOutsToAirouts": "1.11",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "36.27"
+          },
+          "team": {
+            "id": 146,
+            "name": "Miami Marlins",
+            "link": "/api/v1/teams/146"
+          },
+          "player": {
+            "id": 672640,
+            "fullName": "Otto Lopez",
+            "link": "/api/v1/people/672640"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

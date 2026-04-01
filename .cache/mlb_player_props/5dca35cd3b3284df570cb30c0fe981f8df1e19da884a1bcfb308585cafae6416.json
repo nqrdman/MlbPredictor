@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 26,
+            "gamesPlayed": 95,
+            "groundOuts": 58,
+            "airOuts": 101,
+            "runs": 34,
+            "doubles": 15,
+            "triples": 0,
+            "homeRuns": 12,
+            "strikeOuts": 83,
+            "baseOnBalls": 27,
+            "intentionalWalks": 1,
+            "hits": 74,
+            "hitByPitch": 5,
+            "avg": ".237",
+            "atBats": 312,
+            "obp": ".305",
+            "slg": ".401",
+            "ops": ".706",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 6,
+            "numberOfPitches": 1330,
+            "plateAppearances": 348,
+            "totalBases": 125,
+            "rbi": 40,
+            "leftOnBase": 149,
+            "sacBunts": 1,
+            "sacFlies": 3,
+            "babip": ".282",
+            "groundOutsToAirouts": "0.57",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "26.00"
+          },
+          "team": {
+            "id": 137,
+            "name": "San Francisco Giants",
+            "link": "/api/v1/teams/137"
+          },
+          "player": {
+            "id": 669477,
+            "fullName": "Casey Schmitt",
+            "link": "/api/v1/people/669477"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

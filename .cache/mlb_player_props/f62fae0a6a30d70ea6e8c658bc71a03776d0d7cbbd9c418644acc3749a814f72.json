@@ -1,0 +1,191 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "gamesPlayed": 106,
+            "groundOuts": 36,
+            "airOuts": 60,
+            "runs": 35,
+            "doubles": 5,
+            "triples": 0,
+            "homeRuns": 11,
+            "strikeOuts": 82,
+            "baseOnBalls": 20,
+            "intentionalWalks": 0,
+            "hits": 44,
+            "hitByPitch": 1,
+            "avg": ".201",
+            "atBats": 219,
+            "obp": ".267",
+            "slg": ".374",
+            "ops": ".641",
+            "caughtStealing": 5,
+            "stolenBases": 14,
+            "stolenBasePercentage": ".737",
+            "caughtStealingPercentage": ".263",
+            "groundIntoDoublePlay": 1,
+            "numberOfPitches": 1010,
+            "plateAppearances": 243,
+            "totalBases": 82,
+            "rbi": 25,
+            "leftOnBase": 101,
+            "sacBunts": 0,
+            "sacFlies": 3,
+            "babip": ".256",
+            "groundOutsToAirouts": "0.60",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "19.91"
+          },
+          "player": {
+            "id": 664238,
+            "fullName": "Dylan Moore",
+            "link": "/api/v1/people/664238"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R",
+          "numTeams": 2
+        },
+        {
+          "season": "2025",
+          "stat": {
+            "age": 32,
+            "gamesPlayed": 88,
+            "groundOuts": 30,
+            "airOuts": 51,
+            "runs": 29,
+            "doubles": 5,
+            "triples": 0,
+            "homeRuns": 9,
+            "strikeOuts": 76,
+            "baseOnBalls": 19,
+            "intentionalWalks": 0,
+            "hits": 37,
+            "hitByPitch": 0,
+            "avg": ".193",
+            "atBats": 192,
+            "obp": ".263",
+            "slg": ".359",
+            "ops": ".622",
+            "caughtStealing": 4,
+            "stolenBases": 12,
+            "stolenBasePercentage": ".750",
+            "caughtStealingPercentage": ".250",
+            "groundIntoDoublePlay": 1,
+            "numberOfPitches": 888,
+            "plateAppearances": 213,
+            "totalBases": 69,
+            "rbi": 19,
+            "leftOnBase": 91,
+            "sacBunts": 0,
+            "sacFlies": 2,
+            "babip": ".257",
+            "groundOutsToAirouts": "0.59",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "21.33"
+          },
+          "team": {
+            "id": 136,
+            "name": "Seattle Mariners",
+            "link": "/api/v1/teams/136"
+          },
+          "player": {
+            "id": 664238,
+            "fullName": "Dylan Moore",
+            "link": "/api/v1/people/664238"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        },
+        {
+          "season": "2025",
+          "stat": {
+            "age": 32,
+            "gamesPlayed": 18,
+            "groundOuts": 6,
+            "airOuts": 9,
+            "runs": 6,
+            "doubles": 0,
+            "triples": 0,
+            "homeRuns": 2,
+            "strikeOuts": 6,
+            "baseOnBalls": 1,
+            "intentionalWalks": 0,
+            "hits": 7,
+            "hitByPitch": 1,
+            "avg": ".259",
+            "atBats": 27,
+            "obp": ".300",
+            "slg": ".481",
+            "ops": ".781",
+            "caughtStealing": 1,
+            "stolenBases": 2,
+            "stolenBasePercentage": ".667",
+            "caughtStealingPercentage": ".333",
+            "groundIntoDoublePlay": 0,
+            "numberOfPitches": 122,
+            "plateAppearances": 30,
+            "totalBases": 13,
+            "rbi": 6,
+            "leftOnBase": 10,
+            "sacBunts": 0,
+            "sacFlies": 1,
+            "babip": ".250",
+            "groundOutsToAirouts": "0.67",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "13.50"
+          },
+          "team": {
+            "id": 140,
+            "name": "Texas Rangers",
+            "link": "/api/v1/teams/140"
+          },
+          "player": {
+            "id": 664238,
+            "fullName": "Dylan Moore",
+            "link": "/api/v1/people/664238"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

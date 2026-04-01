@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 30,
+            "gamesPlayed": 49,
+            "groundOuts": 34,
+            "airOuts": 30,
+            "runs": 14,
+            "doubles": 5,
+            "triples": 2,
+            "homeRuns": 3,
+            "strikeOuts": 39,
+            "baseOnBalls": 15,
+            "intentionalWalks": 0,
+            "hits": 23,
+            "hitByPitch": 1,
+            "avg": ".187",
+            "atBats": 123,
+            "obp": ".277",
+            "slg": ".333",
+            "ops": ".610",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 3,
+            "numberOfPitches": 570,
+            "plateAppearances": 142,
+            "totalBases": 41,
+            "rbi": 19,
+            "leftOnBase": 46,
+            "sacBunts": 1,
+            "sacFlies": 2,
+            "babip": ".241",
+            "groundOutsToAirouts": "1.13",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "41.00"
+          },
+          "team": {
+            "id": 116,
+            "name": "Detroit Tigers",
+            "link": "/api/v1/teams/116"
+          },
+          "player": {
+            "id": 668670,
+            "fullName": "Jake Rogers",
+            "link": "/api/v1/people/668670"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

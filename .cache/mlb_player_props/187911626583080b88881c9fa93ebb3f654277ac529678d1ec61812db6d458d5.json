@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 28,
+            "gamesPlayed": 145,
+            "groundOuts": 130,
+            "airOuts": 172,
+            "runs": 79,
+            "doubles": 22,
+            "triples": 0,
+            "homeRuns": 16,
+            "strikeOuts": 101,
+            "baseOnBalls": 85,
+            "intentionalWalks": 0,
+            "hits": 136,
+            "hitByPitch": 4,
+            "avg": ".256",
+            "atBats": 532,
+            "obp": ".358",
+            "slg": ".387",
+            "ops": ".745",
+            "caughtStealing": 1,
+            "stolenBases": 4,
+            "stolenBasePercentage": ".800",
+            "caughtStealingPercentage": ".200",
+            "groundIntoDoublePlay": 11,
+            "numberOfPitches": 2652,
+            "plateAppearances": 628,
+            "totalBases": 206,
+            "rbi": 74,
+            "leftOnBase": 179,
+            "sacBunts": 0,
+            "sacFlies": 7,
+            "babip": ".284",
+            "groundOutsToAirouts": "0.76",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "33.25"
+          },
+          "team": {
+            "id": 116,
+            "name": "Detroit Tigers",
+            "link": "/api/v1/teams/116"
+          },
+          "player": {
+            "id": 650402,
+            "fullName": "Gleyber Torres",
+            "link": "/api/v1/people/650402"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

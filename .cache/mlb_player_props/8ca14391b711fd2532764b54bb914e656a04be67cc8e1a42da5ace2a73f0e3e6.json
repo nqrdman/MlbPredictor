@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 25,
+            "gamesPlayed": 129,
+            "groundOuts": 101,
+            "airOuts": 79,
+            "runs": 44,
+            "doubles": 25,
+            "triples": 2,
+            "homeRuns": 11,
+            "strikeOuts": 162,
+            "baseOnBalls": 27,
+            "intentionalWalks": 1,
+            "hits": 95,
+            "hitByPitch": 7,
+            "avg": ".220",
+            "atBats": 432,
+            "obp": ".274",
+            "slg": ".363",
+            "ops": ".637",
+            "caughtStealing": 4,
+            "stolenBases": 8,
+            "stolenBasePercentage": ".667",
+            "caughtStealingPercentage": ".333",
+            "groundIntoDoublePlay": 8,
+            "numberOfPitches": 1792,
+            "plateAppearances": 471,
+            "totalBases": 157,
+            "rbi": 54,
+            "leftOnBase": 168,
+            "sacBunts": 1,
+            "sacFlies": 4,
+            "babip": ".319",
+            "groundOutsToAirouts": "1.28",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "39.27"
+          },
+          "team": {
+            "id": 114,
+            "name": "Cleveland Guardians",
+            "link": "/api/v1/teams/114"
+          },
+          "player": {
+            "id": 672356,
+            "fullName": "Gabriel Arias",
+            "link": "/api/v1/people/672356"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

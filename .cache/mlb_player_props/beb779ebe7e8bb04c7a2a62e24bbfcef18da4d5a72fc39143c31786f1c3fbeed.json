@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 27,
+            "gamesPlayed": 4,
+            "groundOuts": 2,
+            "airOuts": 3,
+            "runs": 3,
+            "doubles": 0,
+            "triples": 0,
+            "homeRuns": 2,
+            "strikeOuts": 5,
+            "baseOnBalls": 1,
+            "intentionalWalks": 0,
+            "hits": 2,
+            "hitByPitch": 1,
+            "avg": ".167",
+            "atBats": 12,
+            "obp": ".286",
+            "slg": ".667",
+            "ops": ".953",
+            "caughtStealing": 0,
+            "stolenBases": 1,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 1,
+            "numberOfPitches": 48,
+            "plateAppearances": 14,
+            "totalBases": 8,
+            "rbi": 3,
+            "leftOnBase": 9,
+            "sacBunts": 0,
+            "sacFlies": 0,
+            "babip": ".000",
+            "groundOutsToAirouts": "0.67",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "6.00"
+          },
+          "team": {
+            "id": 142,
+            "name": "Minnesota Twins",
+            "link": "/api/v1/teams/142"
+          },
+          "player": {
+            "id": 668904,
+            "fullName": "Royce Lewis",
+            "link": "/api/v1/people/668904"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

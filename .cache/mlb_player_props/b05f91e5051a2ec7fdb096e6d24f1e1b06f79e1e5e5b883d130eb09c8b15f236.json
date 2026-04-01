@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 25,
+            "gamesPlayed": 157,
+            "groundOuts": 147,
+            "airOuts": 162,
+            "runs": 85,
+            "doubles": 24,
+            "triples": 1,
+            "homeRuns": 21,
+            "strikeOuts": 158,
+            "baseOnBalls": 52,
+            "intentionalWalks": 2,
+            "hits": 159,
+            "hitByPitch": 17,
+            "avg": ".256",
+            "atBats": 620,
+            "obp": ".328",
+            "slg": ".400",
+            "ops": ".728",
+            "caughtStealing": 4,
+            "stolenBases": 6,
+            "stolenBasePercentage": ".600",
+            "caughtStealingPercentage": ".400",
+            "groundIntoDoublePlay": 16,
+            "numberOfPitches": 2653,
+            "plateAppearances": 695,
+            "totalBases": 248,
+            "rbi": 69,
+            "leftOnBase": 247,
+            "sacBunts": 0,
+            "sacFlies": 6,
+            "babip": ".309",
+            "groundOutsToAirouts": "0.91",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "29.52"
+          },
+          "team": {
+            "id": 137,
+            "name": "San Francisco Giants",
+            "link": "/api/v1/teams/137"
+          },
+          "player": {
+            "id": 671218,
+            "fullName": "Heliot Ramos",
+            "link": "/api/v1/people/671218"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

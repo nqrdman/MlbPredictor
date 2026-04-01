@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 682641,
+      "fullName": "Luis Matos",
+      "link": "/api/v1/people/682641",
+      "firstName": "Luis",
+      "lastName": "Matos",
+      "primaryNumber": "21",
+      "birthDate": "2002-01-28",
+      "currentAge": 24,
+      "birthCity": "Valera",
+      "birthCountry": "Venezuela",
+      "height": "5' 11\"",
+      "weight": 205,
+      "active": true,
+      "primaryPosition": {
+        "code": "9",
+        "name": "Outfielder",
+        "type": "Outfielder",
+        "abbreviation": "RF"
+      },
+      "useName": "Luis",
+      "useLastName": "Matos",
+      "middleName": "Eduardo",
+      "boxscoreName": "Matos",
+      "gender": "M",
+      "nameMatrilineal": "Cubillan",
+      "isPlayer": true,
+      "isVerified": true,
+      "pronunciation": "MAH-tose",
+      "mlbDebutDate": "2023-06-14",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Luis Matos",
+      "nameSlug": "luis-matos-682641",
+      "firstLastName": "Luis Matos",
+      "lastFirstName": "Matos, Luis",
+      "lastInitName": "Matos, L",
+      "initLastName": "L Matos",
+      "fullFMLName": "Luis Eduardo Matos",
+      "fullLFMName": "Matos, Luis Eduardo",
+      "strikeZoneTop": 3.17,
+      "strikeZoneBottom": 1.6
+    }
+  ]
+}

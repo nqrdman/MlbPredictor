@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 26,
+            "gamesPlayed": 50,
+            "groundOuts": 50,
+            "airOuts": 33,
+            "runs": 22,
+            "doubles": 8,
+            "triples": 1,
+            "homeRuns": 1,
+            "strikeOuts": 31,
+            "baseOnBalls": 22,
+            "intentionalWalks": 0,
+            "hits": 44,
+            "hitByPitch": 1,
+            "avg": ".282",
+            "atBats": 156,
+            "obp": ".374",
+            "slg": ".365",
+            "ops": ".739",
+            "caughtStealing": 4,
+            "stolenBases": 11,
+            "stolenBasePercentage": ".733",
+            "caughtStealingPercentage": ".267",
+            "groundIntoDoublePlay": 6,
+            "numberOfPitches": 749,
+            "plateAppearances": 181,
+            "totalBases": 57,
+            "rbi": 7,
+            "leftOnBase": 67,
+            "sacBunts": 2,
+            "sacFlies": 0,
+            "babip": ".347",
+            "groundOutsToAirouts": "1.52",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "156.00"
+          },
+          "team": {
+            "id": 142,
+            "name": "Minnesota Twins",
+            "link": "/api/v1/teams/142"
+          },
+          "player": {
+            "id": 668885,
+            "fullName": "Austin Martin",
+            "link": "/api/v1/people/668885"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

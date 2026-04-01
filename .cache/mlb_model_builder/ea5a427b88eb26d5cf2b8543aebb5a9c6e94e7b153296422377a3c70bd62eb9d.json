@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 701487,
+      "fullName": "Pierson Ohl",
+      "link": "/api/v1/people/701487",
+      "firstName": "Pierson",
+      "lastName": "Ohl",
+      "primaryNumber": "40",
+      "birthDate": "1999-09-10",
+      "currentAge": 26,
+      "birthCity": "Moorpark",
+      "birthStateProvince": "CA",
+      "birthCountry": "USA",
+      "height": "6' 1\"",
+      "weight": 180,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Pierson",
+      "useLastName": "Ohl",
+      "middleName": "Blaine",
+      "boxscoreName": "Ohl",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2021,
+      "mlbDebutDate": "2025-07-29",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Pierson Ohl",
+      "nameSlug": "pierson-ohl-701487",
+      "firstLastName": "Pierson Ohl",
+      "lastFirstName": "Ohl, Pierson",
+      "lastInitName": "Ohl, P",
+      "initLastName": "P Ohl",
+      "fullFMLName": "Pierson Blaine Ohl",
+      "fullLFMName": "Ohl, Pierson Blaine",
+      "strikeZoneTop": 3.255,
+      "strikeZoneBottom": 1.643
+    }
+  ]
+}

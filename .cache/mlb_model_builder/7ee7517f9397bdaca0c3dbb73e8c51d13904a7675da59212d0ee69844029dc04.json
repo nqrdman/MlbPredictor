@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 669713,
+      "fullName": "Hayden Wesneski",
+      "link": "/api/v1/people/669713",
+      "firstName": "Hayden",
+      "lastName": "Wesneski",
+      "primaryNumber": "39",
+      "birthDate": "1997-12-05",
+      "currentAge": 28,
+      "birthCity": "Houston",
+      "birthStateProvince": "TX",
+      "birthCountry": "USA",
+      "height": "6' 3\"",
+      "weight": 210,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Hayden",
+      "useLastName": "Wesneski",
+      "middleName": "Gregory",
+      "boxscoreName": "Wesneski",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2019,
+      "mlbDebutDate": "2022-09-06",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Hayden Wesneski",
+      "nameSlug": "hayden-wesneski-669713",
+      "firstLastName": "Hayden Wesneski",
+      "lastFirstName": "Wesneski, Hayden",
+      "lastInitName": "Wesneski, H",
+      "initLastName": "H Wesneski",
+      "fullFMLName": "Hayden Gregory Wesneski",
+      "fullLFMName": "Wesneski, Hayden Gregory",
+      "strikeZoneTop": 3.344,
+      "strikeZoneBottom": 1.688
+    }
+  ]
+}

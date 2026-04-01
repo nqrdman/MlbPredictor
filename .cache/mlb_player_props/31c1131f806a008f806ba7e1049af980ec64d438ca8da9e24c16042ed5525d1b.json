@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 29,
+            "gamesPlayed": 89,
+            "groundOuts": 67,
+            "airOuts": 58,
+            "runs": 30,
+            "doubles": 12,
+            "triples": 1,
+            "homeRuns": 11,
+            "strikeOuts": 56,
+            "baseOnBalls": 10,
+            "intentionalWalks": 0,
+            "hits": 67,
+            "hitByPitch": 2,
+            "avg": ".276",
+            "atBats": 243,
+            "obp": ".307",
+            "slg": ".469",
+            "ops": ".776",
+            "caughtStealing": 1,
+            "stolenBases": 1,
+            "stolenBasePercentage": ".500",
+            "caughtStealingPercentage": ".500",
+            "groundIntoDoublePlay": 7,
+            "numberOfPitches": 942,
+            "plateAppearances": 261,
+            "totalBases": 114,
+            "rbi": 39,
+            "leftOnBase": 92,
+            "sacBunts": 3,
+            "sacFlies": 2,
+            "babip": ".315",
+            "groundOutsToAirouts": "1.16",
+            "catchersInterference": 1,
+            "atBatsPerHomeRun": "22.09"
+          },
+          "team": {
+            "id": 143,
+            "name": "Philadelphia Phillies",
+            "link": "/api/v1/teams/143"
+          },
+          "player": {
+            "id": 624641,
+            "fullName": "Edmundo Sosa",
+            "link": "/api/v1/people/624641"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

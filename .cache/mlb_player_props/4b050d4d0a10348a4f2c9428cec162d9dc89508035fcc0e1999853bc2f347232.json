@@ -1,0 +1,187 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "gamesPlayed": 134,
+            "groundOuts": 104,
+            "airOuts": 128,
+            "runs": 43,
+            "doubles": 20,
+            "triples": 0,
+            "homeRuns": 7,
+            "strikeOuts": 81,
+            "baseOnBalls": 26,
+            "intentionalWalks": 2,
+            "hits": 112,
+            "hitByPitch": 8,
+            "avg": ".267",
+            "atBats": 419,
+            "obp": ".319",
+            "slg": ".365",
+            "ops": ".684",
+            "caughtStealing": 6,
+            "stolenBases": 8,
+            "stolenBasePercentage": ".571",
+            "caughtStealingPercentage": ".429",
+            "groundIntoDoublePlay": 8,
+            "numberOfPitches": 1841,
+            "plateAppearances": 459,
+            "totalBases": 153,
+            "rbi": 44,
+            "leftOnBase": 142,
+            "sacBunts": 1,
+            "sacFlies": 5,
+            "babip": ".313",
+            "groundOutsToAirouts": "0.81",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "59.86"
+          },
+          "player": {
+            "id": 624428,
+            "fullName": "Adam Frazier",
+            "link": "/api/v1/people/624428"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R",
+          "numTeams": 2,
+          "numLeagues": 2
+        },
+        {
+          "season": "2025",
+          "stat": {
+            "age": 33,
+            "gamesPlayed": 56,
+            "groundOuts": 40,
+            "airOuts": 58,
+            "runs": 21,
+            "doubles": 10,
+            "triples": 0,
+            "homeRuns": 4,
+            "strikeOuts": 36,
+            "baseOnBalls": 9,
+            "intentionalWalks": 0,
+            "hits": 52,
+            "hitByPitch": 2,
+            "avg": ".283",
+            "atBats": 184,
+            "obp": ".320",
+            "slg": ".402",
+            "ops": ".722",
+            "caughtStealing": 1,
+            "stolenBases": 1,
+            "stolenBasePercentage": ".500",
+            "caughtStealingPercentage": ".500",
+            "groundIntoDoublePlay": 0,
+            "numberOfPitches": 810,
+            "plateAppearances": 197,
+            "totalBases": 74,
+            "rbi": 23,
+            "leftOnBase": 64,
+            "sacBunts": 0,
+            "sacFlies": 2,
+            "babip": ".329",
+            "groundOutsToAirouts": "0.69",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "46.00"
+          },
+          "team": {
+            "id": 118,
+            "name": "Kansas City Royals",
+            "link": "/api/v1/teams/118"
+          },
+          "player": {
+            "id": 624428,
+            "fullName": "Adam Frazier",
+            "link": "/api/v1/people/624428"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        },
+        {
+          "season": "2025",
+          "stat": {
+            "age": 33,
+            "gamesPlayed": 78,
+            "groundOuts": 64,
+            "airOuts": 70,
+            "runs": 22,
+            "doubles": 10,
+            "triples": 0,
+            "homeRuns": 3,
+            "strikeOuts": 45,
+            "baseOnBalls": 17,
+            "intentionalWalks": 2,
+            "hits": 60,
+            "hitByPitch": 6,
+            "avg": ".255",
+            "atBats": 235,
+            "obp": ".318",
+            "slg": ".336",
+            "ops": ".654",
+            "caughtStealing": 5,
+            "stolenBases": 7,
+            "stolenBasePercentage": ".583",
+            "caughtStealingPercentage": ".417",
+            "groundIntoDoublePlay": 8,
+            "numberOfPitches": 1031,
+            "plateAppearances": 262,
+            "totalBases": 79,
+            "rbi": 21,
+            "leftOnBase": 78,
+            "sacBunts": 1,
+            "sacFlies": 3,
+            "babip": ".300",
+            "groundOutsToAirouts": "0.91",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "78.33"
+          },
+          "team": {
+            "id": 134,
+            "name": "Pittsburgh Pirates",
+            "link": "/api/v1/teams/134"
+          },
+          "player": {
+            "id": 624428,
+            "fullName": "Adam Frazier",
+            "link": "/api/v1/people/624428"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

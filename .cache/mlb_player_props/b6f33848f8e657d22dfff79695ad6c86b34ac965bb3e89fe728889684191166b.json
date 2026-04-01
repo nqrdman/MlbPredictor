@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 27,
+            "gamesPlayed": 82,
+            "groundOuts": 55,
+            "airOuts": 59,
+            "runs": 30,
+            "doubles": 11,
+            "triples": 0,
+            "homeRuns": 11,
+            "strikeOuts": 59,
+            "baseOnBalls": 20,
+            "intentionalWalks": 0,
+            "hits": 73,
+            "hitByPitch": 3,
+            "avg": ".300",
+            "atBats": 243,
+            "obp": ".358",
+            "slg": ".481",
+            "ops": ".839",
+            "caughtStealing": 1,
+            "stolenBases": 3,
+            "stolenBasePercentage": ".750",
+            "caughtStealingPercentage": ".250",
+            "groundIntoDoublePlay": 6,
+            "numberOfPitches": 1028,
+            "plateAppearances": 269,
+            "totalBases": 117,
+            "rbi": 32,
+            "leftOnBase": 92,
+            "sacBunts": 0,
+            "sacFlies": 2,
+            "babip": ".354",
+            "groundOutsToAirouts": "0.93",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "22.09"
+          },
+          "team": {
+            "id": 136,
+            "name": "Seattle Mariners",
+            "link": "/api/v1/teams/136"
+          },
+          "player": {
+            "id": 686527,
+            "fullName": "Dominic Canzone",
+            "link": "/api/v1/people/686527"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

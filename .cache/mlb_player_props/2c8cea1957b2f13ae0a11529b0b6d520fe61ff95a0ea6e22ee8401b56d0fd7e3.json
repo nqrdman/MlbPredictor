@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 35,
+            "gamesPlayed": 77,
+            "groundOuts": 34,
+            "airOuts": 52,
+            "runs": 36,
+            "doubles": 8,
+            "triples": 0,
+            "homeRuns": 24,
+            "strikeOuts": 96,
+            "baseOnBalls": 29,
+            "intentionalWalks": 3,
+            "hits": 68,
+            "hitByPitch": 1,
+            "avg": ".273",
+            "atBats": 249,
+            "obp": ".350",
+            "slg": ".594",
+            "ops": ".944",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 5,
+            "numberOfPitches": 1214,
+            "plateAppearances": 281,
+            "totalBases": 148,
+            "rbi": 66,
+            "leftOnBase": 121,
+            "sacBunts": 0,
+            "sacFlies": 1,
+            "babip": ".338",
+            "groundOutsToAirouts": "0.65",
+            "catchersInterference": 1,
+            "atBatsPerHomeRun": "10.38"
+          },
+          "team": {
+            "id": 147,
+            "name": "New York Yankees",
+            "link": "/api/v1/teams/147"
+          },
+          "player": {
+            "id": 519317,
+            "fullName": "Giancarlo Stanton",
+            "link": "/api/v1/people/519317"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

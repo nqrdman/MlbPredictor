@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 25,
+            "gamesPlayed": 160,
+            "groundOuts": 168,
+            "airOuts": 181,
+            "runs": 81,
+            "doubles": 39,
+            "triples": 5,
+            "homeRuns": 16,
+            "strikeOuts": 84,
+            "baseOnBalls": 62,
+            "intentionalWalks": 0,
+            "hits": 170,
+            "hitByPitch": 1,
+            "avg": ".286",
+            "atBats": 595,
+            "obp": ".351",
+            "slg": ".449",
+            "ops": ".800",
+            "caughtStealing": 9,
+            "stolenBases": 23,
+            "stolenBasePercentage": ".719",
+            "caughtStealingPercentage": ".281",
+            "groundIntoDoublePlay": 14,
+            "numberOfPitches": 2519,
+            "plateAppearances": 666,
+            "totalBases": 267,
+            "rbi": 74,
+            "leftOnBase": 247,
+            "sacBunts": 3,
+            "sacFlies": 5,
+            "babip": ".308",
+            "groundOutsToAirouts": "0.93",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "37.19"
+          },
+          "team": {
+            "id": 118,
+            "name": "Kansas City Royals",
+            "link": "/api/v1/teams/118"
+          },
+          "player": {
+            "id": 672580,
+            "fullName": "Maikel Garcia",
+            "link": "/api/v1/people/672580"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

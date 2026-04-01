@@ -1,0 +1,55 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 623167,
+      "fullName": "Chris Flexen",
+      "link": "/api/v1/people/623167",
+      "firstName": "Christopher",
+      "lastName": "Flexen",
+      "primaryNumber": "77",
+      "birthDate": "1994-07-01",
+      "currentAge": 31,
+      "birthCity": "Newark",
+      "birthStateProvince": "CA",
+      "birthCountry": "USA",
+      "height": "6' 3\"",
+      "weight": 220,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Chris",
+      "useLastName": "Flexen",
+      "middleName": "John",
+      "boxscoreName": "Flexen",
+      "nickName": "Big Baby",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2012,
+      "mlbDebutDate": "2017-07-27",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Chris Flexen",
+      "nameSlug": "chris-flexen-623167",
+      "firstLastName": "Chris Flexen",
+      "lastFirstName": "Flexen, Chris",
+      "lastInitName": "Flexen, C",
+      "initLastName": "C Flexen",
+      "fullFMLName": "Christopher John Flexen",
+      "fullLFMName": "Flexen, Christopher John",
+      "strikeZoneTop": 3.344,
+      "strikeZoneBottom": 1.688
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 24,
+            "gamesPlayed": 154,
+            "groundOuts": 161,
+            "airOuts": 126,
+            "runs": 85,
+            "doubles": 34,
+            "triples": 5,
+            "homeRuns": 17,
+            "strikeOuts": 137,
+            "baseOnBalls": 62,
+            "intentionalWalks": 6,
+            "hits": 158,
+            "hitByPitch": 7,
+            "avg": ".274",
+            "atBats": 577,
+            "obp": ".349",
+            "slg": ".438",
+            "ops": ".787",
+            "caughtStealing": 5,
+            "stolenBases": 30,
+            "stolenBasePercentage": ".857",
+            "caughtStealingPercentage": ".143",
+            "groundIntoDoublePlay": 7,
+            "numberOfPitches": 2506,
+            "plateAppearances": 651,
+            "totalBases": 253,
+            "rbi": 68,
+            "leftOnBase": 195,
+            "sacBunts": 0,
+            "sacFlies": 5,
+            "babip": ".329",
+            "groundOutsToAirouts": "1.28",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "33.94"
+          },
+          "team": {
+            "id": 110,
+            "name": "Baltimore Orioles",
+            "link": "/api/v1/teams/110"
+          },
+          "player": {
+            "id": 683002,
+            "fullName": "Gunnar Henderson",
+            "link": "/api/v1/people/683002"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

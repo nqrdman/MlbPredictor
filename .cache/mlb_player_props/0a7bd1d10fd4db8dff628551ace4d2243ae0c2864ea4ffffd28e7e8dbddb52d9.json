@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 20,
+            "gamesPlayed": 31,
+            "groundOuts": 36,
+            "airOuts": 25,
+            "runs": 10,
+            "doubles": 6,
+            "triples": 0,
+            "homeRuns": 4,
+            "strikeOuts": 30,
+            "baseOnBalls": 6,
+            "intentionalWalks": 0,
+            "hits": 18,
+            "hitByPitch": 3,
+            "avg": ".165",
+            "atBats": 109,
+            "obp": ".229",
+            "slg": ".330",
+            "ops": ".559",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 4,
+            "numberOfPitches": 443,
+            "plateAppearances": 118,
+            "totalBases": 36,
+            "rbi": 15,
+            "leftOnBase": 49,
+            "sacBunts": 0,
+            "sacFlies": 0,
+            "babip": ".187",
+            "groundOutsToAirouts": "1.44",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "27.25"
+          },
+          "team": {
+            "id": 110,
+            "name": "Baltimore Orioles",
+            "link": "/api/v1/teams/110"
+          },
+          "player": {
+            "id": 694212,
+            "fullName": "Samuel Basallo",
+            "link": "/api/v1/people/694212"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

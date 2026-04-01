@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 29,
+            "gamesPlayed": 23,
+            "groundOuts": 6,
+            "airOuts": 14,
+            "runs": 5,
+            "doubles": 1,
+            "triples": 0,
+            "homeRuns": 4,
+            "strikeOuts": 16,
+            "baseOnBalls": 2,
+            "intentionalWalks": 0,
+            "hits": 8,
+            "hitByPitch": 1,
+            "avg": ".186",
+            "atBats": 43,
+            "obp": ".234",
+            "slg": ".488",
+            "ops": ".722",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 1,
+            "numberOfPitches": 192,
+            "plateAppearances": 47,
+            "totalBases": 21,
+            "rbi": 6,
+            "leftOnBase": 15,
+            "sacBunts": 0,
+            "sacFlies": 1,
+            "babip": ".167",
+            "groundOutsToAirouts": "0.43",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "10.75"
+          },
+          "team": {
+            "id": 121,
+            "name": "New York Mets",
+            "link": "/api/v1/teams/121"
+          },
+          "player": {
+            "id": 676724,
+            "fullName": "Jared Young",
+            "link": "/api/v1/people/676724"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

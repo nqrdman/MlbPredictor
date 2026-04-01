@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 30,
+            "gamesPlayed": 144,
+            "groundOuts": 116,
+            "airOuts": 114,
+            "runs": 68,
+            "doubles": 23,
+            "triples": 11,
+            "homeRuns": 12,
+            "strikeOuts": 111,
+            "baseOnBalls": 46,
+            "intentionalWalks": 1,
+            "hits": 117,
+            "hitByPitch": 7,
+            "avg": ".259",
+            "atBats": 452,
+            "obp": ".333",
+            "slg": ".438",
+            "ops": ".771",
+            "caughtStealing": 5,
+            "stolenBases": 19,
+            "stolenBasePercentage": ".792",
+            "caughtStealingPercentage": ".208",
+            "groundIntoDoublePlay": 6,
+            "numberOfPitches": 2035,
+            "plateAppearances": 511,
+            "totalBases": 198,
+            "rbi": 49,
+            "leftOnBase": 203,
+            "sacBunts": 1,
+            "sacFlies": 5,
+            "babip": ".314",
+            "groundOutsToAirouts": "1.02",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "37.67"
+          },
+          "team": {
+            "id": 116,
+            "name": "Detroit Tigers",
+            "link": "/api/v1/teams/116"
+          },
+          "player": {
+            "id": 656716,
+            "fullName": "Zach McKinstry",
+            "link": "/api/v1/people/656716"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

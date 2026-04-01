@@ -1,0 +1,56 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 519317,
+      "fullName": "Giancarlo Stanton",
+      "link": "/api/v1/people/519317",
+      "firstName": "Giancarlo",
+      "lastName": "Stanton",
+      "primaryNumber": "27",
+      "birthDate": "1989-11-08",
+      "currentAge": 36,
+      "birthCity": "Panorama",
+      "birthStateProvince": "CA",
+      "birthCountry": "USA",
+      "height": "6' 5\"",
+      "weight": 245,
+      "active": true,
+      "primaryPosition": {
+        "code": "10",
+        "name": "Designated Hitter",
+        "type": "Hitter",
+        "abbreviation": "DH"
+      },
+      "useName": "Giancarlo",
+      "useLastName": "Stanton",
+      "middleName": "Cruz-Michael",
+      "boxscoreName": "Stanton",
+      "nickName": "Parmigiancarlo",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2007,
+      "pronunciation": "Zhon-car-lo",
+      "mlbDebutDate": "2010-06-08",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Giancarlo Stanton",
+      "nameSlug": "giancarlo-stanton-519317",
+      "firstLastName": "Giancarlo Stanton",
+      "lastFirstName": "Stanton, Giancarlo",
+      "lastInitName": "Stanton, G",
+      "initLastName": "G Stanton",
+      "fullFMLName": "Giancarlo Cruz-Michael Stanton",
+      "fullLFMName": "Stanton, Giancarlo Cruz-Michael",
+      "strikeZoneTop": 3.432,
+      "strikeZoneBottom": 1.732
+    }
+  ]
+}

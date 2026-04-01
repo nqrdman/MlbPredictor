@@ -1,0 +1,56 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 543294,
+      "fullName": "Kyle Hendricks",
+      "link": "/api/v1/people/543294",
+      "firstName": "Kyle",
+      "lastName": "Hendricks",
+      "primaryNumber": "28",
+      "birthDate": "1989-12-07",
+      "currentAge": 36,
+      "birthCity": "Newport Beach",
+      "birthStateProvince": "CA",
+      "birthCountry": "USA",
+      "height": "6' 3\"",
+      "weight": 190,
+      "active": false,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Kyle",
+      "useLastName": "Hendricks",
+      "middleName": "Christian",
+      "boxscoreName": "Hendricks",
+      "nickName": "Hendo",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2011,
+      "lastPlayedDate": "2025-09-26",
+      "mlbDebutDate": "2014-07-10",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Kyle Hendricks",
+      "nameSlug": "kyle-hendricks-543294",
+      "firstLastName": "Kyle Hendricks",
+      "lastFirstName": "Hendricks, Kyle",
+      "lastInitName": "Hendricks, K",
+      "initLastName": "K Hendricks",
+      "fullFMLName": "Kyle Christian Hendricks",
+      "fullLFMName": "Hendricks, Kyle Christian",
+      "strikeZoneTop": 3.24,
+      "strikeZoneBottom": 1.5
+    }
+  ]
+}

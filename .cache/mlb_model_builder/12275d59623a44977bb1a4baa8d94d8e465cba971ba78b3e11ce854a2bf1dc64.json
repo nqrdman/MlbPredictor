@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 685326,
+      "fullName": "McCade Brown",
+      "link": "/api/v1/people/685326",
+      "firstName": "McCade",
+      "lastName": "Brown",
+      "primaryNumber": "51",
+      "birthDate": "2000-08-15",
+      "currentAge": 25,
+      "birthCity": "Normal",
+      "birthStateProvince": "IL",
+      "birthCountry": "USA",
+      "height": "6' 6\"",
+      "weight": 225,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "McCade",
+      "useLastName": "Brown",
+      "middleName": "David",
+      "boxscoreName": "Brown, M",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2021,
+      "mlbDebutDate": "2025-08-24",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "McCade Brown",
+      "nameSlug": "mccade-brown-685326",
+      "firstLastName": "McCade Brown",
+      "lastFirstName": "Brown, McCade",
+      "lastInitName": "Brown, M",
+      "initLastName": "M Brown",
+      "fullFMLName": "McCade David Brown",
+      "fullLFMName": "Brown, McCade David",
+      "strikeZoneTop": 3.66,
+      "strikeZoneBottom": 1.68
+    }
+  ]
+}

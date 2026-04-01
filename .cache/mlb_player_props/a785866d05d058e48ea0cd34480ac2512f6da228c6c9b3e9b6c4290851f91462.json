@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 23,
+            "gamesPlayed": 125,
+            "groundOuts": 179,
+            "airOuts": 120,
+            "runs": 62,
+            "doubles": 26,
+            "triples": 0,
+            "homeRuns": 13,
+            "strikeOuts": 39,
+            "baseOnBalls": 27,
+            "intentionalWalks": 1,
+            "hits": 151,
+            "hitByPitch": 7,
+            "avg": ".311",
+            "atBats": 486,
+            "obp": ".355",
+            "slg": ".444",
+            "ops": ".799",
+            "caughtStealing": 2,
+            "stolenBases": 5,
+            "stolenBasePercentage": ".714",
+            "caughtStealingPercentage": ".286",
+            "groundIntoDoublePlay": 16,
+            "numberOfPitches": 1735,
+            "plateAppearances": 523,
+            "totalBases": 216,
+            "rbi": 63,
+            "leftOnBase": 178,
+            "sacBunts": 2,
+            "sacFlies": 1,
+            "babip": ".317",
+            "groundOutsToAirouts": "1.49",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "37.38"
+          },
+          "team": {
+            "id": 133,
+            "name": "Athletics",
+            "link": "/api/v1/teams/133"
+          },
+          "player": {
+            "id": 805779,
+            "fullName": "Jacob Wilson",
+            "link": "/api/v1/people/805779"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

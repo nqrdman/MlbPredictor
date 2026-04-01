@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 32,
+            "gamesPlayed": 150,
+            "groundOuts": 136,
+            "airOuts": 243,
+            "runs": 95,
+            "doubles": 23,
+            "triples": 2,
+            "homeRuns": 20,
+            "strikeOuts": 68,
+            "baseOnBalls": 61,
+            "intentionalWalks": 2,
+            "hits": 152,
+            "hitByPitch": 3,
+            "avg": ".258",
+            "atBats": 589,
+            "obp": ".326",
+            "slg": ".406",
+            "ops": ".732",
+            "caughtStealing": 2,
+            "stolenBases": 8,
+            "stolenBasePercentage": ".800",
+            "caughtStealingPercentage": ".200",
+            "groundIntoDoublePlay": 15,
+            "numberOfPitches": 2460,
+            "plateAppearances": 663,
+            "totalBases": 239,
+            "rbi": 82,
+            "leftOnBase": 235,
+            "sacBunts": 0,
+            "sacFlies": 10,
+            "babip": ".258",
+            "groundOutsToAirouts": "0.56",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "29.45"
+          },
+          "team": {
+            "id": 119,
+            "name": "Los Angeles Dodgers",
+            "link": "/api/v1/teams/119"
+          },
+          "player": {
+            "id": 605141,
+            "fullName": "Mookie Betts",
+            "link": "/api/v1/people/605141"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

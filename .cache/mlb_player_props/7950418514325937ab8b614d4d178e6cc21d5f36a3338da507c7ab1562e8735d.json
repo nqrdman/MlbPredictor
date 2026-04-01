@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 21,
+            "gamesPlayed": 20,
+            "groundOuts": 17,
+            "airOuts": 13,
+            "runs": 12,
+            "doubles": 6,
+            "triples": 0,
+            "homeRuns": 3,
+            "strikeOuts": 12,
+            "baseOnBalls": 9,
+            "intentionalWalks": 0,
+            "hits": 18,
+            "hitByPitch": 0,
+            "avg": ".300",
+            "atBats": 60,
+            "obp": ".391",
+            "slg": ".550",
+            "ops": ".941",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 1,
+            "numberOfPitches": 293,
+            "plateAppearances": 69,
+            "totalBases": 33,
+            "rbi": 13,
+            "leftOnBase": 26,
+            "sacBunts": 0,
+            "sacFlies": 0,
+            "babip": ".333",
+            "groundOutsToAirouts": "1.31",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "20.00"
+          },
+          "team": {
+            "id": 118,
+            "name": "Kansas City Royals",
+            "link": "/api/v1/teams/118"
+          },
+          "player": {
+            "id": 695600,
+            "fullName": "Carter Jensen",
+            "link": "/api/v1/people/695600"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

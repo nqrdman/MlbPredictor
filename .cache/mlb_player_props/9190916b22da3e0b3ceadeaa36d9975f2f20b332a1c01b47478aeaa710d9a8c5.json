@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 23,
+            "gamesPlayed": 29,
+            "groundOuts": 13,
+            "airOuts": 21,
+            "runs": 10,
+            "doubles": 2,
+            "triples": 1,
+            "homeRuns": 2,
+            "strikeOuts": 35,
+            "baseOnBalls": 11,
+            "intentionalWalks": 0,
+            "hits": 16,
+            "hitByPitch": 1,
+            "avg": ".190",
+            "atBats": 84,
+            "obp": ".292",
+            "slg": ".310",
+            "ops": ".602",
+            "caughtStealing": 0,
+            "stolenBases": 1,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 3,
+            "numberOfPitches": 429,
+            "plateAppearances": 97,
+            "totalBases": 26,
+            "rbi": 6,
+            "leftOnBase": 41,
+            "sacBunts": 1,
+            "sacFlies": 0,
+            "babip": ".298",
+            "groundOutsToAirouts": "0.62",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "42.00"
+          },
+          "team": {
+            "id": 119,
+            "name": "Los Angeles Dodgers",
+            "link": "/api/v1/teams/119"
+          },
+          "player": {
+            "id": 690976,
+            "fullName": "Alex Freeland",
+            "link": "/api/v1/people/690976"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

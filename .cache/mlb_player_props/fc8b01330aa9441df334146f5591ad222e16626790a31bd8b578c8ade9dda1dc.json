@@ -1,0 +1,57 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 686894,
+      "fullName": "Joey Wiemer",
+      "link": "/api/v1/people/686894",
+      "firstName": "Joseph",
+      "lastName": "Wiemer",
+      "primaryNumber": "21",
+      "birthDate": "1999-02-11",
+      "currentAge": 27,
+      "birthCity": "Sylvania",
+      "birthStateProvince": "OH",
+      "birthCountry": "USA",
+      "height": "6' 4\"",
+      "weight": 226,
+      "active": true,
+      "primaryPosition": {
+        "code": "7",
+        "name": "Outfielder",
+        "type": "Outfielder",
+        "abbreviation": "LF"
+      },
+      "useName": "Joey",
+      "useLastName": "Wiemer",
+      "middleName": "Daryl",
+      "boxscoreName": "Wiemer",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2020,
+      "pronunciation": "wee-mur",
+      "mlbDebutDate": "2023-04-01",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Joey Wiemer",
+      "nameTitle": "Jr.",
+      "nameSuffix": "Jr.",
+      "nameSlug": "joey-wiemer-686894",
+      "firstLastName": "Joey Wiemer",
+      "lastFirstName": "Wiemer, Joey",
+      "lastInitName": "Wiemer, J",
+      "initLastName": "J Wiemer",
+      "fullFMLName": "Joseph Daryl Wiemer",
+      "fullLFMName": "Wiemer, Joseph Daryl",
+      "strikeZoneTop": 3.383,
+      "strikeZoneBottom": 1.707
+    }
+  ]
+}

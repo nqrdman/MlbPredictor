@@ -1,0 +1,53 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 628451,
+      "fullName": "Andy Ib\u00e1\u00f1ez",
+      "link": "/api/v1/people/628451",
+      "firstName": "Andy",
+      "lastName": "Ib\u00e1\u00f1ez",
+      "primaryNumber": "77",
+      "birthDate": "1993-04-03",
+      "currentAge": 32,
+      "birthCity": "Havana",
+      "birthCountry": "Cuba",
+      "height": "5' 10\"",
+      "weight": 205,
+      "active": true,
+      "primaryPosition": {
+        "code": "5",
+        "name": "Third Base",
+        "type": "Infielder",
+        "abbreviation": "3B"
+      },
+      "useName": "Andy",
+      "useLastName": "Ib\u00e1\u00f1ez",
+      "boxscoreName": "Ib\u00e1\u00f1ez",
+      "gender": "M",
+      "nameMatrilineal": "Velazquez",
+      "isPlayer": true,
+      "isVerified": true,
+      "pronunciation": "ee-BAHN-yez",
+      "mlbDebutDate": "2021-05-04",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Andy Ib\u00e1\u00f1ez",
+      "nameSlug": "andy-ibanez-628451",
+      "firstLastName": "Andy Ib\u00e1\u00f1ez",
+      "lastFirstName": "Ib\u00e1\u00f1ez, Andy",
+      "lastInitName": "Ib\u00e1\u00f1ez, A",
+      "initLastName": "A Ib\u00e1\u00f1ez",
+      "fullFMLName": "Andy Ib\u00e1\u00f1ez",
+      "fullLFMName": "Ib\u00e1\u00f1ez, Andy",
+      "strikeZoneTop": 3.128,
+      "strikeZoneBottom": 1.579
+    }
+  ]
+}

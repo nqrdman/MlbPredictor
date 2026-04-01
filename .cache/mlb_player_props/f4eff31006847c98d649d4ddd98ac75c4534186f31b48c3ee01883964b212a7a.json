@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 23,
+            "gamesPlayed": 162,
+            "groundOuts": 166,
+            "airOuts": 117,
+            "runs": 102,
+            "doubles": 31,
+            "triples": 7,
+            "homeRuns": 22,
+            "strikeOuts": 181,
+            "baseOnBalls": 67,
+            "intentionalWalks": 10,
+            "hits": 166,
+            "hitByPitch": 2,
+            "avg": ".264",
+            "atBats": 629,
+            "obp": ".336",
+            "slg": ".440",
+            "ops": ".776",
+            "caughtStealing": 8,
+            "stolenBases": 37,
+            "stolenBasePercentage": ".822",
+            "caughtStealingPercentage": ".178",
+            "groundIntoDoublePlay": 14,
+            "numberOfPitches": 2678,
+            "plateAppearances": 699,
+            "totalBases": 277,
+            "rbi": 86,
+            "leftOnBase": 272,
+            "sacBunts": 0,
+            "sacFlies": 1,
+            "babip": ".337",
+            "groundOutsToAirouts": "1.42",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "28.59"
+          },
+          "team": {
+            "id": 113,
+            "name": "Cincinnati Reds",
+            "link": "/api/v1/teams/113"
+          },
+          "player": {
+            "id": 682829,
+            "fullName": "Elly De La Cruz",
+            "link": "/api/v1/people/682829"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 656731,
+      "fullName": "Tylor Megill",
+      "link": "/api/v1/people/656731",
+      "firstName": "Tylor",
+      "lastName": "Megill",
+      "primaryNumber": "58",
+      "birthDate": "1995-07-28",
+      "currentAge": 30,
+      "birthCity": "Long Beach",
+      "birthStateProvince": "CA",
+      "birthCountry": "USA",
+      "height": "6' 7\"",
+      "weight": 230,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Tylor",
+      "useLastName": "Megill",
+      "middleName": "J.",
+      "boxscoreName": "Megill",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2018,
+      "pronunciation": "Tie-lore",
+      "mlbDebutDate": "2021-06-23",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Tylor Megill",
+      "nameSlug": "tylor-megill-656731",
+      "firstLastName": "Tylor Megill",
+      "lastFirstName": "Megill, Tylor",
+      "lastInitName": "Megill, T",
+      "initLastName": "T Megill",
+      "fullFMLName": "Tylor J. Megill",
+      "fullLFMName": "Megill, Tylor J.",
+      "strikeZoneTop": 3.59,
+      "strikeZoneBottom": 1.7
+    }
+  ]
+}

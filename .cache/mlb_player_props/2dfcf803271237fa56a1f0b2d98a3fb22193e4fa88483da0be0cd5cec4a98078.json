@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 28,
+            "gamesPlayed": 68,
+            "groundOuts": 19,
+            "airOuts": 41,
+            "runs": 19,
+            "doubles": 9,
+            "triples": 0,
+            "homeRuns": 4,
+            "strikeOuts": 32,
+            "baseOnBalls": 7,
+            "intentionalWalks": 0,
+            "hits": 34,
+            "hitByPitch": 2,
+            "avg": ".270",
+            "atBats": 126,
+            "obp": ".319",
+            "slg": ".437",
+            "ops": ".756",
+            "caughtStealing": 1,
+            "stolenBases": 2,
+            "stolenBasePercentage": ".667",
+            "caughtStealingPercentage": ".333",
+            "groundIntoDoublePlay": 1,
+            "numberOfPitches": 558,
+            "plateAppearances": 135,
+            "totalBases": 55,
+            "rbi": 16,
+            "leftOnBase": 54,
+            "sacBunts": 0,
+            "sacFlies": 0,
+            "babip": ".333",
+            "groundOutsToAirouts": "0.46",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "31.50"
+          },
+          "team": {
+            "id": 158,
+            "name": "Milwaukee Brewers",
+            "link": "/api/v1/teams/158"
+          },
+          "player": {
+            "id": 655316,
+            "fullName": "Andruw Monasterio",
+            "link": "/api/v1/people/655316"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

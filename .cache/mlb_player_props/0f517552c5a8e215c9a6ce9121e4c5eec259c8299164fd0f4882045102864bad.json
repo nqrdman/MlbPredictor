@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 25,
+            "gamesPlayed": 139,
+            "groundOuts": 164,
+            "airOuts": 156,
+            "runs": 75,
+            "doubles": 20,
+            "triples": 5,
+            "homeRuns": 3,
+            "strikeOuts": 88,
+            "baseOnBalls": 49,
+            "intentionalWalks": 2,
+            "hits": 159,
+            "hitByPitch": 3,
+            "avg": ".283",
+            "atBats": 561,
+            "obp": ".343",
+            "slg": ".353",
+            "ops": ".696",
+            "caughtStealing": 7,
+            "stolenBases": 27,
+            "stolenBasePercentage": ".794",
+            "caughtStealingPercentage": ".206",
+            "groundIntoDoublePlay": 6,
+            "numberOfPitches": 2250,
+            "plateAppearances": 619,
+            "totalBases": 198,
+            "rbi": 43,
+            "leftOnBase": 157,
+            "sacBunts": 3,
+            "sacFlies": 3,
+            "babip": ".330",
+            "groundOutsToAirouts": "1.05",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "187.00"
+          },
+          "team": {
+            "id": 146,
+            "name": "Miami Marlins",
+            "link": "/api/v1/teams/146"
+          },
+          "player": {
+            "id": 669364,
+            "fullName": "Xavier Edwards",
+            "link": "/api/v1/people/669364"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

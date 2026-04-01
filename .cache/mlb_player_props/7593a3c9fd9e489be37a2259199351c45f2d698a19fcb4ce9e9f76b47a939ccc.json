@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 23,
+            "gamesPlayed": 76,
+            "groundOuts": 61,
+            "airOuts": 49,
+            "runs": 32,
+            "doubles": 12,
+            "triples": 1,
+            "homeRuns": 11,
+            "strikeOuts": 73,
+            "baseOnBalls": 27,
+            "intentionalWalks": 0,
+            "hits": 63,
+            "hitByPitch": 4,
+            "avg": ".256",
+            "atBats": 246,
+            "obp": ".339",
+            "slg": ".447",
+            "ops": ".786",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 6,
+            "numberOfPitches": 1123,
+            "plateAppearances": 277,
+            "totalBases": 110,
+            "rbi": 32,
+            "leftOnBase": 105,
+            "sacBunts": 0,
+            "sacFlies": 0,
+            "babip": ".321",
+            "groundOutsToAirouts": "1.24",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "22.36"
+          },
+          "team": {
+            "id": 121,
+            "name": "New York Mets",
+            "link": "/api/v1/teams/121"
+          },
+          "player": {
+            "id": 682626,
+            "fullName": "Francisco Alvarez",
+            "link": "/api/v1/people/682626"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

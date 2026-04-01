@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 663624,
+      "fullName": "Ryan Mountcastle",
+      "link": "/api/v1/people/663624",
+      "firstName": "Ryan",
+      "lastName": "Mountcastle",
+      "primaryNumber": "6",
+      "birthDate": "1997-02-18",
+      "currentAge": 29,
+      "birthCity": "Winter Springs",
+      "birthStateProvince": "FL",
+      "birthCountry": "USA",
+      "height": "6' 3\"",
+      "weight": 230,
+      "active": true,
+      "primaryPosition": {
+        "code": "3",
+        "name": "First Base",
+        "type": "Infielder",
+        "abbreviation": "1B"
+      },
+      "useName": "Ryan",
+      "useLastName": "Mountcastle",
+      "middleName": "Lee",
+      "boxscoreName": "Mountcastle",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2015,
+      "mlbDebutDate": "2020-08-21",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Ryan Mountcastle",
+      "nameSlug": "ryan-mountcastle-663624",
+      "firstLastName": "Ryan Mountcastle",
+      "lastFirstName": "Mountcastle, Ryan",
+      "lastInitName": "Mountcastle, R",
+      "initLastName": "R Mountcastle",
+      "fullFMLName": "Ryan Lee Mountcastle",
+      "fullLFMName": "Mountcastle, Ryan Lee",
+      "strikeZoneTop": 3.36,
+      "strikeZoneBottom": 1.7
+    }
+  ]
+}

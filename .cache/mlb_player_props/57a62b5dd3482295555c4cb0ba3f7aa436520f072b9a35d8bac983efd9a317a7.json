@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 27,
+            "gamesPlayed": 91,
+            "groundOuts": 44,
+            "airOuts": 54,
+            "runs": 27,
+            "doubles": 4,
+            "triples": 1,
+            "homeRuns": 6,
+            "strikeOuts": 47,
+            "baseOnBalls": 13,
+            "intentionalWalks": 0,
+            "hits": 35,
+            "hitByPitch": 1,
+            "avg": ".198",
+            "atBats": 177,
+            "obp": ".257",
+            "slg": ".333",
+            "ops": ".590",
+            "caughtStealing": 6,
+            "stolenBases": 22,
+            "stolenBasePercentage": ".786",
+            "caughtStealingPercentage": ".214",
+            "groundIntoDoublePlay": 3,
+            "numberOfPitches": 742,
+            "plateAppearances": 194,
+            "totalBases": 59,
+            "rbi": 19,
+            "leftOnBase": 82,
+            "sacBunts": 3,
+            "sacFlies": 0,
+            "babip": ".234",
+            "groundOutsToAirouts": "0.81",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "29.50"
+          },
+          "team": {
+            "id": 111,
+            "name": "Boston Red Sox",
+            "link": "/api/v1/teams/111"
+          },
+          "player": {
+            "id": 666152,
+            "fullName": "David Hamilton",
+            "link": "/api/v1/people/666152"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

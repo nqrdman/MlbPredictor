@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 24,
+            "gamesPlayed": 144,
+            "groundOuts": 141,
+            "airOuts": 169,
+            "runs": 92,
+            "doubles": 35,
+            "triples": 5,
+            "homeRuns": 19,
+            "strikeOuts": 125,
+            "baseOnBalls": 37,
+            "intentionalWalks": 1,
+            "hits": 149,
+            "hitByPitch": 14,
+            "avg": ".257",
+            "atBats": 580,
+            "obp": ".315",
+            "slg": ".433",
+            "ops": ".748",
+            "caughtStealing": 3,
+            "stolenBases": 31,
+            "stolenBasePercentage": ".912",
+            "caughtStealingPercentage": ".088",
+            "groundIntoDoublePlay": 5,
+            "numberOfPitches": 2320,
+            "plateAppearances": 635,
+            "totalBases": 251,
+            "rbi": 60,
+            "leftOnBase": 191,
+            "sacBunts": 1,
+            "sacFlies": 3,
+            "babip": ".296",
+            "groundOutsToAirouts": "0.83",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "30.53"
+          },
+          "team": {
+            "id": 120,
+            "name": "Washington Nationals",
+            "link": "/api/v1/teams/120"
+          },
+          "player": {
+            "id": 682928,
+            "fullName": "CJ Abrams",
+            "link": "/api/v1/people/682928"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

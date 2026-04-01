@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 28,
+            "gamesPlayed": 102,
+            "groundOuts": 69,
+            "airOuts": 112,
+            "runs": 54,
+            "doubles": 20,
+            "triples": 1,
+            "homeRuns": 16,
+            "strikeOuts": 128,
+            "baseOnBalls": 27,
+            "intentionalWalks": 1,
+            "hits": 108,
+            "hitByPitch": 3,
+            "avg": ".260",
+            "atBats": 416,
+            "obp": ".309",
+            "slg": ".428",
+            "ops": ".737",
+            "caughtStealing": 1,
+            "stolenBases": 2,
+            "stolenBasePercentage": ".667",
+            "caughtStealingPercentage": ".333",
+            "groundIntoDoublePlay": 9,
+            "numberOfPitches": 1791,
+            "plateAppearances": 447,
+            "totalBases": 178,
+            "rbi": 54,
+            "leftOnBase": 187,
+            "sacBunts": 0,
+            "sacFlies": 1,
+            "babip": ".337",
+            "groundOutsToAirouts": "0.62",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "26.00"
+          },
+          "team": {
+            "id": 144,
+            "name": "Atlanta Braves",
+            "link": "/api/v1/teams/144"
+          },
+          "player": {
+            "id": 663586,
+            "fullName": "Austin Riley",
+            "link": "/api/v1/people/663586"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

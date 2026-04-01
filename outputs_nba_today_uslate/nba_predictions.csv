@@ -1,0 +1,11 @@
+game_id,game_date_utc,away_team_name,home_team_name,market_home_spread,market_total,home_win_probability,away_win_probability,predicted_winner,prediction_confidence
+401810946,2026-03-30T23:00:00+00:00,Philadelphia 76ers,Miami Heat,2.5,246.5,0.6001,0.3999,Miami Heat,0.6001
+401810947,2026-03-30T23:30:00+00:00,Boston Celtics,Atlanta Hawks,-1.5,222.5,0.3808,0.6192,Boston Celtics,0.6192
+401810948,2026-03-31T00:00:00+00:00,Phoenix Suns,Memphis Grizzlies,13.5,229.5,0.1284,0.8716,Phoenix Suns,0.8716
+401810949,2026-03-31T00:00:00+00:00,Chicago Bulls,San Antonio Spurs,-17.5,242.5,0.9985,0.0015,San Antonio Spurs,0.9985
+401810950,2026-03-31T00:30:00+00:00,Minnesota Timberwolves,Dallas Mavericks,6.5,235.5,0.1276,0.8724,Minnesota Timberwolves,0.8724
+401810951,2026-03-31T01:00:00+00:00,Cleveland Cavaliers,Utah Jazz,17.5,243.5,0.1119,0.8881,Cleveland Cavaliers,0.8881
+401810952,2026-03-31T01:30:00+00:00,Detroit Pistons,Oklahoma City Thunder,-12.5,219.5,0.736,0.264,Oklahoma City Thunder,0.736
+401810953,2026-03-31T02:00:00+00:00,Washington Wizards,Los Angeles Lakers,-15.5,235.5,0.9936,0.0064,Los Angeles Lakers,0.9936
+401810954,2026-03-31T23:00:00+00:00,Phoenix Suns,Orlando Magic,,,0.3365,0.6635,Phoenix Suns,0.6635
+401810955,2026-03-31T23:30:00+00:00,Charlotte Hornets,Brooklyn Nets,,,0.061,0.939,Charlotte Hornets,0.939

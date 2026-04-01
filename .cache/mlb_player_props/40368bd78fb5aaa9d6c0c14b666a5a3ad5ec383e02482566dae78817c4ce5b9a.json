@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 32,
+            "gamesPlayed": 70,
+            "groundOuts": 35,
+            "airOuts": 58,
+            "runs": 13,
+            "doubles": 3,
+            "triples": 0,
+            "homeRuns": 5,
+            "strikeOuts": 43,
+            "baseOnBalls": 18,
+            "intentionalWalks": 0,
+            "hits": 25,
+            "hitByPitch": 1,
+            "avg": ".161",
+            "atBats": 155,
+            "obp": ".250",
+            "slg": ".277",
+            "ops": ".527",
+            "caughtStealing": 2,
+            "stolenBases": 1,
+            "stolenBasePercentage": ".333",
+            "caughtStealingPercentage": ".667",
+            "groundIntoDoublePlay": 2,
+            "numberOfPitches": 696,
+            "plateAppearances": 180,
+            "totalBases": 43,
+            "rbi": 10,
+            "leftOnBase": 69,
+            "sacBunts": 4,
+            "sacFlies": 2,
+            "babip": ".183",
+            "groundOutsToAirouts": "0.60",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "31.00"
+          },
+          "team": {
+            "id": 114,
+            "name": "Cleveland Guardians",
+            "link": "/api/v1/teams/114"
+          },
+          "player": {
+            "id": 595978,
+            "fullName": "Austin Hedges",
+            "link": "/api/v1/people/595978"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

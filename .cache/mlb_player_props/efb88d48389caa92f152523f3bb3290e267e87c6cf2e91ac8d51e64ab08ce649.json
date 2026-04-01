@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 28,
+            "gamesPlayed": 131,
+            "groundOuts": 96,
+            "airOuts": 90,
+            "runs": 48,
+            "doubles": 18,
+            "triples": 1,
+            "homeRuns": 12,
+            "strikeOuts": 117,
+            "baseOnBalls": 38,
+            "intentionalWalks": 1,
+            "hits": 78,
+            "hitByPitch": 3,
+            "avg": ".206",
+            "atBats": 379,
+            "obp": ".283",
+            "slg": ".354",
+            "ops": ".637",
+            "caughtStealing": 3,
+            "stolenBases": 9,
+            "stolenBasePercentage": ".750",
+            "caughtStealingPercentage": ".250",
+            "groundIntoDoublePlay": 4,
+            "numberOfPitches": 1668,
+            "plateAppearances": 422,
+            "totalBases": 134,
+            "rbi": 41,
+            "leftOnBase": 151,
+            "sacBunts": 1,
+            "sacFlies": 1,
+            "babip": ".263",
+            "groundOutsToAirouts": "1.07",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "31.58"
+          },
+          "team": {
+            "id": 114,
+            "name": "Cleveland Guardians",
+            "link": "/api/v1/teams/114"
+          },
+          "player": {
+            "id": 682177,
+            "fullName": "Daniel Schneemann",
+            "link": "/api/v1/people/682177"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

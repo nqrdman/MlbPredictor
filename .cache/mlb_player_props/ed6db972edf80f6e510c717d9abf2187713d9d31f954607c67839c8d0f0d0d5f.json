@@ -1,0 +1,53 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 683766,
+      "fullName": "Christian Koss",
+      "link": "/api/v1/people/683766",
+      "firstName": "Christian",
+      "lastName": "Koss",
+      "primaryNumber": "50",
+      "birthDate": "1998-01-27",
+      "currentAge": 28,
+      "birthCity": "Riverside",
+      "birthStateProvince": "CA",
+      "birthCountry": "USA",
+      "height": "6' 1\"",
+      "weight": 185,
+      "active": true,
+      "primaryPosition": {
+        "code": "4",
+        "name": "Second Base",
+        "type": "Infielder",
+        "abbreviation": "2B"
+      },
+      "useName": "Christian",
+      "useLastName": "Koss",
+      "boxscoreName": "Koss",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2019,
+      "mlbDebutDate": "2025-04-01",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Christian Koss",
+      "nameSlug": "christian-koss-683766",
+      "firstLastName": "Christian Koss",
+      "lastFirstName": "Koss, Christian",
+      "lastInitName": "Koss, C",
+      "initLastName": "C Koss",
+      "fullFMLName": "Christian Koss",
+      "fullLFMName": "Koss, Christian ",
+      "strikeZoneTop": 3.25,
+      "strikeZoneBottom": 1.64
+    }
+  ]
+}

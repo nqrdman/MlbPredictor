@@ -1,0 +1,53 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 677950,
+      "fullName": "Alek Thomas",
+      "link": "/api/v1/people/677950",
+      "firstName": "Alek",
+      "lastName": "Thomas",
+      "primaryNumber": "5",
+      "birthDate": "2000-04-28",
+      "currentAge": 25,
+      "birthCity": "Chicago",
+      "birthStateProvince": "IL",
+      "birthCountry": "USA",
+      "height": "5' 9\"",
+      "weight": 175,
+      "active": true,
+      "primaryPosition": {
+        "code": "8",
+        "name": "Outfielder",
+        "type": "Outfielder",
+        "abbreviation": "CF"
+      },
+      "useName": "Alek",
+      "useLastName": "Thomas",
+      "boxscoreName": "Thomas, A",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": false,
+      "draftYear": 2018,
+      "mlbDebutDate": "2022-05-08",
+      "batSide": {
+        "code": "L",
+        "description": "Left"
+      },
+      "pitchHand": {
+        "code": "L",
+        "description": "Left"
+      },
+      "nameFirstLast": "Alek Thomas",
+      "nameSlug": "alek-thomas-677950",
+      "firstLastName": "Alek Thomas",
+      "lastFirstName": "Thomas, Alek",
+      "lastInitName": "Thomas, A",
+      "initLastName": "A Thomas",
+      "fullFMLName": "Alek  Thomas",
+      "fullLFMName": "Thomas, Alek",
+      "strikeZoneTop": 3.073,
+      "strikeZoneBottom": 1.551
+    }
+  ]
+}

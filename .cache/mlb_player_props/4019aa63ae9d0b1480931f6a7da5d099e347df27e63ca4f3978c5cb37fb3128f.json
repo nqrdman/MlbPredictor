@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 24,
+            "gamesPlayed": 128,
+            "groundOuts": 96,
+            "airOuts": 133,
+            "runs": 82,
+            "doubles": 29,
+            "triples": 1,
+            "homeRuns": 26,
+            "strikeOuts": 149,
+            "baseOnBalls": 33,
+            "intentionalWalks": 6,
+            "hits": 129,
+            "hitByPitch": 14,
+            "avg": ".257",
+            "atBats": 502,
+            "obp": ".319",
+            "slg": ".474",
+            "ops": ".793",
+            "caughtStealing": 9,
+            "stolenBases": 26,
+            "stolenBasePercentage": ".743",
+            "caughtStealingPercentage": ".257",
+            "groundIntoDoublePlay": 5,
+            "numberOfPitches": 2171,
+            "plateAppearances": 554,
+            "totalBases": 238,
+            "rbi": 62,
+            "leftOnBase": 141,
+            "sacBunts": 2,
+            "sacFlies": 3,
+            "babip": ".312",
+            "groundOutsToAirouts": "0.72",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "19.31"
+          },
+          "team": {
+            "id": 108,
+            "name": "Los Angeles Angels",
+            "link": "/api/v1/teams/108"
+          },
+          "player": {
+            "id": 687263,
+            "fullName": "Zach Neto",
+            "link": "/api/v1/people/687263"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

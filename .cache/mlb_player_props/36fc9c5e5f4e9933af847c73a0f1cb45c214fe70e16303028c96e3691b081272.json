@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 22,
+            "gamesPlayed": 44,
+            "groundOuts": 36,
+            "airOuts": 22,
+            "runs": 20,
+            "doubles": 8,
+            "triples": 1,
+            "homeRuns": 4,
+            "strikeOuts": 41,
+            "baseOnBalls": 8,
+            "intentionalWalks": 0,
+            "hits": 29,
+            "hitByPitch": 0,
+            "avg": ".228",
+            "atBats": 127,
+            "obp": ".272",
+            "slg": ".402",
+            "ops": ".674",
+            "caughtStealing": 2,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".000",
+            "caughtStealingPercentage": "1.000",
+            "groundIntoDoublePlay": 2,
+            "numberOfPitches": 510,
+            "plateAppearances": 136,
+            "totalBases": 51,
+            "rbi": 10,
+            "leftOnBase": 60,
+            "sacBunts": 0,
+            "sacFlies": 1,
+            "babip": ".301",
+            "groundOutsToAirouts": "1.64",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "31.75"
+          },
+          "team": {
+            "id": 111,
+            "name": "Boston Red Sox",
+            "link": "/api/v1/teams/111"
+          },
+          "player": {
+            "id": 691785,
+            "fullName": "Marcelo Mayer",
+            "link": "/api/v1/people/691785"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

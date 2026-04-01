@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 30,
+            "gamesPlayed": 162,
+            "groundOuts": 132,
+            "airOuts": 177,
+            "runs": 92,
+            "doubles": 40,
+            "triples": 3,
+            "homeRuns": 30,
+            "strikeOuts": 155,
+            "baseOnBalls": 65,
+            "intentionalWalks": 4,
+            "hits": 164,
+            "hitByPitch": 5,
+            "avg": ".262",
+            "atBats": 626,
+            "obp": ".335",
+            "slg": ".479",
+            "ops": ".814",
+            "caughtStealing": 1,
+            "stolenBases": 6,
+            "stolenBasePercentage": ".857",
+            "caughtStealingPercentage": ".143",
+            "groundIntoDoublePlay": 13,
+            "numberOfPitches": 2575,
+            "plateAppearances": 699,
+            "totalBases": 300,
+            "rbi": 89,
+            "leftOnBase": 260,
+            "sacBunts": 0,
+            "sacFlies": 2,
+            "babip": ".302",
+            "groundOutsToAirouts": "0.75",
+            "catchersInterference": 1,
+            "atBatsPerHomeRun": "20.87"
+          },
+          "team": {
+            "id": 133,
+            "name": "Athletics",
+            "link": "/api/v1/teams/133"
+          },
+          "player": {
+            "id": 667670,
+            "fullName": "Brent Rooker",
+            "link": "/api/v1/people/667670"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

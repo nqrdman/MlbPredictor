@@ -1,0 +1,53 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 678009,
+      "fullName": "Parker Meadows",
+      "link": "/api/v1/people/678009",
+      "firstName": "Parker",
+      "lastName": "Meadows",
+      "primaryNumber": "22",
+      "birthDate": "1999-11-02",
+      "currentAge": 26,
+      "birthCity": "Atlanta",
+      "birthStateProvince": "GA",
+      "birthCountry": "USA",
+      "height": "6' 5\"",
+      "weight": 205,
+      "active": true,
+      "primaryPosition": {
+        "code": "8",
+        "name": "Outfielder",
+        "type": "Outfielder",
+        "abbreviation": "CF"
+      },
+      "useName": "Parker",
+      "useLastName": "Meadows",
+      "boxscoreName": "Meadows, P",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": false,
+      "draftYear": 2018,
+      "mlbDebutDate": "2023-08-21",
+      "batSide": {
+        "code": "L",
+        "description": "Left"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Parker Meadows",
+      "nameSlug": "parker-meadows-678009",
+      "firstLastName": "Parker Meadows",
+      "lastFirstName": "Meadows, Parker",
+      "lastInitName": "Meadows, P",
+      "initLastName": "P Meadows",
+      "fullFMLName": "Parker  Meadows",
+      "fullLFMName": "Meadows, Parker",
+      "strikeZoneTop": 3.427,
+      "strikeZoneBottom": 1.73
+    }
+  ]
+}

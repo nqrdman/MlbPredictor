@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 30,
+            "gamesPlayed": 135,
+            "groundOuts": 125,
+            "airOuts": 114,
+            "runs": 55,
+            "doubles": 19,
+            "triples": 2,
+            "homeRuns": 12,
+            "strikeOuts": 60,
+            "baseOnBalls": 38,
+            "intentionalWalks": 2,
+            "hits": 99,
+            "hitByPitch": 2,
+            "avg": ".255",
+            "atBats": 388,
+            "obp": ".323",
+            "slg": ".407",
+            "ops": ".730",
+            "caughtStealing": 4,
+            "stolenBases": 2,
+            "stolenBasePercentage": ".333",
+            "caughtStealingPercentage": ".667",
+            "groundIntoDoublePlay": 12,
+            "numberOfPitches": 1662,
+            "plateAppearances": 438,
+            "totalBases": 158,
+            "rbi": 65,
+            "leftOnBase": 162,
+            "sacBunts": 7,
+            "sacFlies": 3,
+            "babip": ".273",
+            "groundOutsToAirouts": "1.10",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "32.33"
+          },
+          "team": {
+            "id": 141,
+            "name": "Toronto Blue Jays",
+            "link": "/api/v1/teams/141"
+          },
+          "player": {
+            "id": 664770,
+            "fullName": "Nathan Lukes",
+            "link": "/api/v1/people/664770"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

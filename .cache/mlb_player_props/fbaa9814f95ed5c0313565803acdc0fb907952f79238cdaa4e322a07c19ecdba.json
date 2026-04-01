@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2026",
+          "stat": {
+            "age": 29,
+            "gamesPlayed": 5,
+            "groundOuts": 5,
+            "airOuts": 5,
+            "runs": 2,
+            "doubles": 1,
+            "triples": 1,
+            "homeRuns": 0,
+            "strikeOuts": 3,
+            "baseOnBalls": 2,
+            "intentionalWalks": 0,
+            "hits": 4,
+            "hitByPitch": 0,
+            "avg": ".235",
+            "atBats": 17,
+            "obp": ".316",
+            "slg": ".412",
+            "ops": ".728",
+            "caughtStealing": 0,
+            "stolenBases": 1,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 0,
+            "numberOfPitches": 81,
+            "plateAppearances": 19,
+            "totalBases": 7,
+            "rbi": 2,
+            "leftOnBase": 5,
+            "sacBunts": 0,
+            "sacFlies": 0,
+            "babip": ".286",
+            "groundOutsToAirouts": "1.00",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "-.--"
+          },
+          "team": {
+            "id": 147,
+            "name": "New York Yankees",
+            "link": "/api/v1/teams/147"
+          },
+          "player": {
+            "id": 663757,
+            "fullName": "Trent Grisham",
+            "link": "/api/v1/people/663757"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

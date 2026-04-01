@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 23,
+            "gamesPlayed": 95,
+            "groundOuts": 76,
+            "airOuts": 103,
+            "runs": 44,
+            "doubles": 18,
+            "triples": 4,
+            "homeRuns": 9,
+            "strikeOuts": 98,
+            "baseOnBalls": 21,
+            "intentionalWalks": 0,
+            "hits": 91,
+            "hitByPitch": 1,
+            "avg": ".253",
+            "atBats": 360,
+            "obp": ".294",
+            "slg": ".400",
+            "ops": ".694",
+            "caughtStealing": 3,
+            "stolenBases": 5,
+            "stolenBasePercentage": ".625",
+            "caughtStealingPercentage": ".375",
+            "groundIntoDoublePlay": 2,
+            "numberOfPitches": 1469,
+            "plateAppearances": 390,
+            "totalBases": 144,
+            "rbi": 33,
+            "leftOnBase": 118,
+            "sacBunts": 6,
+            "sacFlies": 2,
+            "babip": ".322",
+            "groundOutsToAirouts": "0.74",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "40.00"
+          },
+          "team": {
+            "id": 115,
+            "name": "Colorado Rockies",
+            "link": "/api/v1/teams/115"
+          },
+          "player": {
+            "id": 678662,
+            "fullName": "Ezequiel Tovar",
+            "link": "/api/v1/people/678662"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

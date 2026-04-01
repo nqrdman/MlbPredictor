@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 29,
+            "gamesPlayed": 39,
+            "groundOuts": 22,
+            "airOuts": 41,
+            "runs": 10,
+            "doubles": 2,
+            "triples": 0,
+            "homeRuns": 4,
+            "strikeOuts": 44,
+            "baseOnBalls": 14,
+            "intentionalWalks": 0,
+            "hits": 20,
+            "hitByPitch": 1,
+            "avg": ".160",
+            "atBats": 125,
+            "obp": ".246",
+            "slg": ".272",
+            "ops": ".518",
+            "caughtStealing": 1,
+            "stolenBases": 4,
+            "stolenBasePercentage": ".800",
+            "caughtStealingPercentage": ".200",
+            "groundIntoDoublePlay": 4,
+            "numberOfPitches": 556,
+            "plateAppearances": 142,
+            "totalBases": 34,
+            "rbi": 11,
+            "leftOnBase": 61,
+            "sacBunts": 0,
+            "sacFlies": 2,
+            "babip": ".203",
+            "groundOutsToAirouts": "0.54",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "31.25"
+          },
+          "team": {
+            "id": 114,
+            "name": "Cleveland Guardians",
+            "link": "/api/v1/teams/114"
+          },
+          "player": {
+            "id": 657041,
+            "fullName": "Lane Thomas",
+            "link": "/api/v1/people/657041"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

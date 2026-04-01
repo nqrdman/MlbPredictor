@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 32,
+            "gamesPlayed": 136,
+            "groundOuts": 126,
+            "airOuts": 151,
+            "runs": 63,
+            "doubles": 30,
+            "triples": 0,
+            "homeRuns": 11,
+            "strikeOuts": 94,
+            "baseOnBalls": 48,
+            "intentionalWalks": 3,
+            "hits": 129,
+            "hitByPitch": 4,
+            "avg": ".263",
+            "atBats": 491,
+            "obp": ".328",
+            "slg": ".391",
+            "ops": ".719",
+            "caughtStealing": 2,
+            "stolenBases": 20,
+            "stolenBasePercentage": ".909",
+            "caughtStealingPercentage": ".091",
+            "groundIntoDoublePlay": 12,
+            "numberOfPitches": 2100,
+            "plateAppearances": 552,
+            "totalBases": 192,
+            "rbi": 53,
+            "leftOnBase": 234,
+            "sacBunts": 1,
+            "sacFlies": 8,
+            "babip": ".299",
+            "groundOutsToAirouts": "0.83",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "44.64"
+          },
+          "team": {
+            "id": 135,
+            "name": "San Diego Padres",
+            "link": "/api/v1/teams/135"
+          },
+          "player": {
+            "id": 593428,
+            "fullName": "Xander Bogaerts",
+            "link": "/api/v1/people/593428"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

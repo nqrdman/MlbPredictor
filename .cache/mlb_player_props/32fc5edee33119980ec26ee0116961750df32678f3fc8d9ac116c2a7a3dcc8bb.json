@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 21,
+            "gamesPlayed": 20,
+            "groundOuts": 21,
+            "airOuts": 7,
+            "runs": 12,
+            "doubles": 2,
+            "triples": 1,
+            "homeRuns": 2,
+            "strikeOuts": 12,
+            "baseOnBalls": 9,
+            "intentionalWalks": 1,
+            "hits": 17,
+            "hitByPitch": 0,
+            "avg": ".298",
+            "atBats": 57,
+            "obp": ".394",
+            "slg": ".474",
+            "ops": ".868",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 2,
+            "numberOfPitches": 249,
+            "plateAppearances": 66,
+            "totalBases": 27,
+            "rbi": 11,
+            "leftOnBase": 27,
+            "sacBunts": 0,
+            "sacFlies": 0,
+            "babip": ".349",
+            "groundOutsToAirouts": "3.00",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "28.50"
+          },
+          "team": {
+            "id": 112,
+            "name": "Chicago Cubs",
+            "link": "/api/v1/teams/112"
+          },
+          "player": {
+            "id": 694208,
+            "fullName": "Mois\u00e9s Ballesteros",
+            "link": "/api/v1/people/694208"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

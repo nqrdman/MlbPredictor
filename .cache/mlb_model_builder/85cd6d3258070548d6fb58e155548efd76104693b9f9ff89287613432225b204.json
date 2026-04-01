@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 676508,
+      "fullName": "Ben Casparius",
+      "link": "/api/v1/people/676508",
+      "firstName": "Benjamin",
+      "lastName": "Casparius",
+      "primaryNumber": "78",
+      "birthDate": "1999-02-11",
+      "currentAge": 27,
+      "birthCity": "Westport",
+      "birthStateProvince": "CT",
+      "birthCountry": "USA",
+      "height": "6' 2\"",
+      "weight": 215,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Ben",
+      "useLastName": "Casparius",
+      "middleName": "Keith",
+      "boxscoreName": "Casparius",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2021,
+      "mlbDebutDate": "2024-08-31",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Ben Casparius",
+      "nameSlug": "ben-casparius-676508",
+      "firstLastName": "Ben Casparius",
+      "lastFirstName": "Casparius, Ben",
+      "lastInitName": "Casparius, B",
+      "initLastName": "B Casparius",
+      "fullFMLName": "Benjamin Keith Casparius",
+      "fullLFMName": "Casparius, Benjamin Keith",
+      "strikeZoneTop": 3.299,
+      "strikeZoneBottom": 1.665
+    }
+  ]
+}

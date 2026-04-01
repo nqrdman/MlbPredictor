@@ -1,0 +1,55 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 621244,
+      "fullName": "Jos\u00e9 Berr\u00edos",
+      "link": "/api/v1/people/621244",
+      "firstName": "Jos\u00e9",
+      "lastName": "Berr\u00edos",
+      "primaryNumber": "17",
+      "birthDate": "1994-05-27",
+      "currentAge": 31,
+      "birthCity": "Bayamon",
+      "birthCountry": "Puerto Rico",
+      "height": "6' 0\"",
+      "weight": 205,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Jos\u00e9",
+      "useLastName": "Berr\u00edos",
+      "middleName": "Orlando",
+      "boxscoreName": "Berr\u00edos",
+      "nickName": "La Makina",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2012,
+      "pronunciation": "beh-REE-ohs",
+      "mlbDebutDate": "2016-04-27",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Jos\u00e9 Berr\u00edos",
+      "nameSlug": "jose-berrios-621244",
+      "firstLastName": "Jos\u00e9 Berr\u00edos",
+      "lastFirstName": "Berr\u00edos, Jos\u00e9",
+      "lastInitName": "Berr\u00edos, J",
+      "initLastName": "J Berr\u00edos",
+      "fullFMLName": "Jos\u00e9 Orlando Berr\u00edos",
+      "fullLFMName": "Berr\u00edos, Jos\u00e9 Orlando",
+      "strikeZoneTop": 3.21,
+      "strikeZoneBottom": 1.62
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 624512,
+      "fullName": "Reese McGuire",
+      "link": "/api/v1/people/624512",
+      "firstName": "Reese",
+      "lastName": "McGuire",
+      "primaryNumber": "30",
+      "birthDate": "1995-03-02",
+      "currentAge": 31,
+      "birthCity": "Seattle",
+      "birthStateProvince": "WA",
+      "birthCountry": "USA",
+      "height": "6' 0\"",
+      "weight": 230,
+      "active": true,
+      "primaryPosition": {
+        "code": "2",
+        "name": "Catcher",
+        "type": "Catcher",
+        "abbreviation": "C"
+      },
+      "useName": "Reese",
+      "useLastName": "McGuire",
+      "middleName": "Jackson",
+      "boxscoreName": "McGuire",
+      "nickName": "Pieces",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2013,
+      "mlbDebutDate": "2018-09-06",
+      "batSide": {
+        "code": "L",
+        "description": "Left"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Reese McGuire",
+      "nameSlug": "reese-mcguire-624512",
+      "firstLastName": "Reese McGuire",
+      "lastFirstName": "McGuire, Reese",
+      "lastInitName": "McGuire, R",
+      "initLastName": "R McGuire",
+      "fullFMLName": "Reese Jackson McGuire",
+      "fullLFMName": "McGuire, Reese Jackson",
+      "strikeZoneTop": 3.22,
+      "strikeZoneBottom": 1.62
+    }
+  ]
+}

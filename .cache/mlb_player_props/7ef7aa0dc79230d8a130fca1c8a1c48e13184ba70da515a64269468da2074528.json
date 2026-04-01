@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 24,
+            "gamesPlayed": 157,
+            "groundOuts": 118,
+            "airOuts": 131,
+            "runs": 84,
+            "doubles": 31,
+            "triples": 1,
+            "homeRuns": 36,
+            "strikeOuts": 201,
+            "baseOnBalls": 46,
+            "intentionalWalks": 1,
+            "hits": 155,
+            "hitByPitch": 4,
+            "avg": ".258",
+            "atBats": 600,
+            "obp": ".313",
+            "slg": ".493",
+            "ops": ".806",
+            "caughtStealing": 1,
+            "stolenBases": 2,
+            "stolenBasePercentage": ".667",
+            "caughtStealingPercentage": ".333",
+            "groundIntoDoublePlay": 14,
+            "numberOfPitches": 2706,
+            "plateAppearances": 655,
+            "totalBases": 296,
+            "rbi": 111,
+            "leftOnBase": 285,
+            "sacBunts": 0,
+            "sacFlies": 5,
+            "babip": ".323",
+            "groundOutsToAirouts": "0.90",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "16.67"
+          },
+          "team": {
+            "id": 116,
+            "name": "Detroit Tigers",
+            "link": "/api/v1/teams/116"
+          },
+          "player": {
+            "id": 682985,
+            "fullName": "Riley Greene",
+            "link": "/api/v1/people/682985"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 26,
+            "gamesPlayed": 82,
+            "groundOuts": 26,
+            "airOuts": 59,
+            "runs": 33,
+            "doubles": 5,
+            "triples": 0,
+            "homeRuns": 11,
+            "strikeOuts": 60,
+            "baseOnBalls": 36,
+            "intentionalWalks": 0,
+            "hits": 44,
+            "hitByPitch": 2,
+            "avg": ".234",
+            "atBats": 188,
+            "obp": ".361",
+            "slg": ".436",
+            "ops": ".797",
+            "caughtStealing": 1,
+            "stolenBases": 3,
+            "stolenBasePercentage": ".750",
+            "caughtStealingPercentage": ".250",
+            "groundIntoDoublePlay": 4,
+            "numberOfPitches": 1012,
+            "plateAppearances": 227,
+            "totalBases": 82,
+            "rbi": 31,
+            "leftOnBase": 78,
+            "sacBunts": 0,
+            "sacFlies": 1,
+            "babip": ".280",
+            "groundOutsToAirouts": "0.44",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "17.09"
+          },
+          "team": {
+            "id": 141,
+            "name": "Toronto Blue Jays",
+            "link": "/api/v1/teams/141"
+          },
+          "player": {
+            "id": 676914,
+            "fullName": "Davis Schneider",
+            "link": "/api/v1/people/676914"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

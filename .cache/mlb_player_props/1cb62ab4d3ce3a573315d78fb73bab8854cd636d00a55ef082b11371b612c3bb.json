@@ -1,0 +1,53 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 670242,
+      "fullName": "Matt Wallner",
+      "link": "/api/v1/people/670242",
+      "firstName": "Matthew",
+      "lastName": "Wallner",
+      "primaryNumber": "38",
+      "birthDate": "1997-12-12",
+      "currentAge": 28,
+      "birthCity": "Forest Lake",
+      "birthStateProvince": "MN",
+      "birthCountry": "USA",
+      "height": "6' 4\"",
+      "weight": 220,
+      "active": true,
+      "primaryPosition": {
+        "code": "9",
+        "name": "Outfielder",
+        "type": "Outfielder",
+        "abbreviation": "RF"
+      },
+      "useName": "Matt",
+      "useLastName": "Wallner",
+      "boxscoreName": "Wallner",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2019,
+      "mlbDebutDate": "2022-09-17",
+      "batSide": {
+        "code": "L",
+        "description": "Left"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Matt Wallner",
+      "nameSlug": "matt-wallner-670242",
+      "firstLastName": "Matt Wallner",
+      "lastFirstName": "Wallner, Matt",
+      "lastInitName": "Wallner, M",
+      "initLastName": "M Wallner",
+      "fullFMLName": "Matthew Wallner",
+      "fullLFMName": "Wallner, Matthew",
+      "strikeZoneTop": 3.395,
+      "strikeZoneBottom": 1.713
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 27,
+            "gamesPlayed": 155,
+            "groundOuts": 111,
+            "airOuts": 139,
+            "runs": 78,
+            "doubles": 25,
+            "triples": 5,
+            "homeRuns": 34,
+            "strikeOuts": 139,
+            "baseOnBalls": 56,
+            "intentionalWalks": 2,
+            "hits": 137,
+            "hitByPitch": 10,
+            "avg": ".261",
+            "atBats": 524,
+            "obp": ".343",
+            "slg": ".523",
+            "ops": ".866",
+            "caughtStealing": 0,
+            "stolenBases": 4,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 2,
+            "numberOfPitches": 2324,
+            "plateAppearances": 592,
+            "totalBases": 274,
+            "rbi": 90,
+            "leftOnBase": 191,
+            "sacBunts": 0,
+            "sacFlies": 2,
+            "babip": ".292",
+            "groundOutsToAirouts": "0.80",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "15.41"
+          },
+          "team": {
+            "id": 112,
+            "name": "Chicago Cubs",
+            "link": "/api/v1/teams/112"
+          },
+          "player": {
+            "id": 683737,
+            "fullName": "Michael Busch",
+            "link": "/api/v1/people/683737"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

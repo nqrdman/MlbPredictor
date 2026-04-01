@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 25,
+            "gamesPlayed": 48,
+            "groundOuts": 39,
+            "airOuts": 34,
+            "runs": 20,
+            "doubles": 10,
+            "triples": 2,
+            "homeRuns": 5,
+            "strikeOuts": 50,
+            "baseOnBalls": 11,
+            "intentionalWalks": 0,
+            "hits": 47,
+            "hitByPitch": 2,
+            "avg": ".276",
+            "atBats": 170,
+            "obp": ".328",
+            "slg": ".447",
+            "ops": ".775",
+            "caughtStealing": 2,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".000",
+            "caughtStealingPercentage": "1.000",
+            "groundIntoDoublePlay": 6,
+            "numberOfPitches": 706,
+            "plateAppearances": 183,
+            "totalBases": 76,
+            "rbi": 21,
+            "leftOnBase": 72,
+            "sacBunts": 0,
+            "sacFlies": 0,
+            "babip": ".365",
+            "groundOutsToAirouts": "1.15",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "34.00"
+          },
+          "team": {
+            "id": 110,
+            "name": "Baltimore Orioles",
+            "link": "/api/v1/teams/110"
+          },
+          "player": {
+            "id": 669236,
+            "fullName": "Jeremiah Jackson",
+            "link": "/api/v1/people/669236"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

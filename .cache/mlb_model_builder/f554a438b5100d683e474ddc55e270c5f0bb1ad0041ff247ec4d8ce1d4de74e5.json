@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 687830,
+      "fullName": "Sawyer Gipson-Long",
+      "link": "/api/v1/people/687830",
+      "firstName": "Alec",
+      "lastName": "Gipson-Long",
+      "primaryNumber": "66",
+      "birthDate": "1997-12-12",
+      "currentAge": 28,
+      "birthCity": "Lithia Springs",
+      "birthStateProvince": "GA",
+      "birthCountry": "USA",
+      "height": "6' 4\"",
+      "weight": 225,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Sawyer",
+      "useLastName": "Gipson-Long",
+      "middleName": "Sawyer",
+      "boxscoreName": "Gipson-Long",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2019,
+      "mlbDebutDate": "2023-09-10",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Sawyer Gipson-Long",
+      "nameSlug": "sawyer-gipson-long-687830",
+      "firstLastName": "Sawyer Gipson-Long",
+      "lastFirstName": "Gipson-Long, Sawyer",
+      "lastInitName": "Gipson-Long, S",
+      "initLastName": "S Gipson-Long",
+      "fullFMLName": "Alec Sawyer Gipson-Long",
+      "fullLFMName": "Gipson-Long, Alec Sawyer",
+      "strikeZoneTop": 3.388,
+      "strikeZoneBottom": 1.71
+    }
+  ]
+}

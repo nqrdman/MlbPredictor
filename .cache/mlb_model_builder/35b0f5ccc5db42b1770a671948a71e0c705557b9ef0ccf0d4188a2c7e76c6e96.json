@@ -1,0 +1,53 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 700363,
+      "fullName": "AJ Smith-Shawver",
+      "link": "/api/v1/people/700363",
+      "firstName": "AJ",
+      "lastName": "Smith-Shawver",
+      "primaryNumber": "32",
+      "birthDate": "2002-11-20",
+      "currentAge": 23,
+      "birthCity": "Fort Worth",
+      "birthStateProvince": "TX",
+      "birthCountry": "USA",
+      "height": "6' 3\"",
+      "weight": 205,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "AJ",
+      "useLastName": "Smith-Shawver",
+      "boxscoreName": "Smith-Shawver",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2021,
+      "mlbDebutDate": "2023-06-04",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "AJ Smith-Shawver",
+      "nameSlug": "aj-smith-shawver-700363",
+      "firstLastName": "AJ Smith-Shawver",
+      "lastFirstName": "Smith-Shawver, AJ",
+      "lastInitName": "Smith-Shawver, A",
+      "initLastName": "A Smith-Shawver",
+      "fullFMLName": "AJ  Smith-Shawver",
+      "fullLFMName": "Smith-Shawver, AJ",
+      "strikeZoneTop": 3.344,
+      "strikeZoneBottom": 1.688
+    }
+  ]
+}

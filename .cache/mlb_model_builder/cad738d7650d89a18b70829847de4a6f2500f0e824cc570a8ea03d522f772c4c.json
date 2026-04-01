@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 678024,
+      "fullName": "Mike Vasil",
+      "link": "/api/v1/people/678024",
+      "firstName": "Michael",
+      "lastName": "Vasil",
+      "primaryNumber": "61",
+      "birthDate": "2000-03-19",
+      "currentAge": 26,
+      "birthCity": "Boston",
+      "birthStateProvince": "MA",
+      "birthCountry": "USA",
+      "height": "6' 5\"",
+      "weight": 225,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Mike",
+      "useLastName": "Vasil",
+      "boxscoreName": "Vasil",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2021,
+      "pronunciation": "VASS-uhl",
+      "mlbDebutDate": "2025-03-31",
+      "batSide": {
+        "code": "L",
+        "description": "Left"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Mike Vasil",
+      "nameSlug": "mike-vasil-678024",
+      "firstLastName": "Mike Vasil",
+      "lastFirstName": "Vasil, Mike",
+      "lastInitName": "Vasil, M",
+      "initLastName": "M Vasil",
+      "fullFMLName": "Michael  Vasil",
+      "fullLFMName": "Vasil, Michael",
+      "strikeZoneTop": 3.55,
+      "strikeZoneBottom": 1.63
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 26,
+            "gamesPlayed": 41,
+            "groundOuts": 20,
+            "airOuts": 18,
+            "runs": 12,
+            "doubles": 4,
+            "triples": 0,
+            "homeRuns": 4,
+            "strikeOuts": 27,
+            "baseOnBalls": 4,
+            "intentionalWalks": 0,
+            "hits": 32,
+            "hitByPitch": 3,
+            "avg": ".333",
+            "atBats": 96,
+            "obp": ".379",
+            "slg": ".500",
+            "ops": ".879",
+            "caughtStealing": 2,
+            "stolenBases": 1,
+            "stolenBasePercentage": ".333",
+            "caughtStealingPercentage": ".667",
+            "groundIntoDoublePlay": 2,
+            "numberOfPitches": 376,
+            "plateAppearances": 104,
+            "totalBases": 48,
+            "rbi": 14,
+            "leftOnBase": 34,
+            "sacBunts": 1,
+            "sacFlies": 0,
+            "babip": ".431",
+            "groundOutsToAirouts": "1.11",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "24.00"
+          },
+          "team": {
+            "id": 141,
+            "name": "Toronto Blue Jays",
+            "link": "/api/v1/teams/141"
+          },
+          "player": {
+            "id": 694388,
+            "fullName": "Joey Loperfido",
+            "link": "/api/v1/people/694388"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

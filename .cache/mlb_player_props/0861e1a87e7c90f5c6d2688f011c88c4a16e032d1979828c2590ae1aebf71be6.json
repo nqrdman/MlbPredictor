@@ -1,0 +1,55 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 543510,
+      "fullName": "James McCann",
+      "link": "/api/v1/people/543510",
+      "firstName": "James",
+      "lastName": "McCann",
+      "primaryNumber": "8",
+      "birthDate": "1990-06-13",
+      "currentAge": 35,
+      "birthCity": "Santa Barbara",
+      "birthStateProvince": "CA",
+      "birthCountry": "USA",
+      "height": "6' 2\"",
+      "weight": 235,
+      "active": true,
+      "primaryPosition": {
+        "code": "2",
+        "name": "Catcher",
+        "type": "Catcher",
+        "abbreviation": "C"
+      },
+      "useName": "James",
+      "useLastName": "McCann",
+      "middleName": "Thomas",
+      "boxscoreName": "McCann",
+      "nickName": "McCannon",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2011,
+      "mlbDebutDate": "2014-09-01",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "James McCann",
+      "nameSlug": "james-mccann-543510",
+      "firstLastName": "James McCann",
+      "lastFirstName": "McCann, James",
+      "lastInitName": "McCann, J",
+      "initLastName": "J McCann",
+      "fullFMLName": "James Thomas McCann",
+      "fullLFMName": "McCann, James Thomas",
+      "strikeZoneTop": 3.281,
+      "strikeZoneBottom": 1.656
+    }
+  ]
+}

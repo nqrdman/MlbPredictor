@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 22,
+            "gamesPlayed": 120,
+            "groundOuts": 97,
+            "airOuts": 107,
+            "runs": 40,
+            "doubles": 22,
+            "triples": 4,
+            "homeRuns": 6,
+            "strikeOuts": 41,
+            "baseOnBalls": 19,
+            "intentionalWalks": 0,
+            "hits": 76,
+            "hitByPitch": 2,
+            "avg": ".243",
+            "atBats": 313,
+            "obp": ".287",
+            "slg": ".396",
+            "ops": ".683",
+            "caughtStealing": 5,
+            "stolenBases": 6,
+            "stolenBasePercentage": ".545",
+            "caughtStealingPercentage": ".455",
+            "groundIntoDoublePlay": 2,
+            "numberOfPitches": 1218,
+            "plateAppearances": 342,
+            "totalBases": 124,
+            "rbi": 38,
+            "leftOnBase": 128,
+            "sacBunts": 4,
+            "sacFlies": 4,
+            "babip": ".259",
+            "groundOutsToAirouts": "0.91",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "52.17"
+          },
+          "team": {
+            "id": 146,
+            "name": "Miami Marlins",
+            "link": "/api/v1/teams/146"
+          },
+          "player": {
+            "id": 691594,
+            "fullName": "Javier Sanoja",
+            "link": "/api/v1/people/691594"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

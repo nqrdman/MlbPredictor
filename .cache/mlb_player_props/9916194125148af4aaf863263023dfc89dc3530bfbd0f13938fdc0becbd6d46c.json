@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 701350,
+      "fullName": "Roman Anthony",
+      "link": "/api/v1/people/701350",
+      "firstName": "Roman",
+      "lastName": "Anthony",
+      "primaryNumber": "19",
+      "birthDate": "2004-05-13",
+      "currentAge": 21,
+      "birthCity": "West Palm Beach",
+      "birthStateProvince": "FL",
+      "birthCountry": "USA",
+      "height": "6' 3\"",
+      "weight": 200,
+      "active": true,
+      "primaryPosition": {
+        "code": "9",
+        "name": "Outfielder",
+        "type": "Outfielder",
+        "abbreviation": "RF"
+      },
+      "useName": "Roman",
+      "useLastName": "Anthony",
+      "middleName": "Joseph",
+      "boxscoreName": "Anthony",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2022,
+      "mlbDebutDate": "2025-06-09",
+      "batSide": {
+        "code": "L",
+        "description": "Left"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Roman Anthony",
+      "nameSlug": "roman-anthony-701350",
+      "firstLastName": "Roman Anthony",
+      "lastFirstName": "Anthony, Roman",
+      "lastInitName": "Anthony, R",
+      "initLastName": "R Anthony",
+      "fullFMLName": "Roman Joseph Anthony",
+      "fullLFMName": "Anthony, Roman Joseph",
+      "strikeZoneTop": 3.326,
+      "strikeZoneBottom": 1.679
+    }
+  ]
+}

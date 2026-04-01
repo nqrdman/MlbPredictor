@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 25,
+            "gamesPlayed": 136,
+            "groundOuts": 134,
+            "airOuts": 154,
+            "runs": 60,
+            "doubles": 25,
+            "triples": 0,
+            "homeRuns": 11,
+            "strikeOuts": 50,
+            "baseOnBalls": 30,
+            "intentionalWalks": 0,
+            "hits": 114,
+            "hitByPitch": 24,
+            "avg": ".256",
+            "atBats": 445,
+            "obp": ".334",
+            "slg": ".387",
+            "ops": ".721",
+            "caughtStealing": 6,
+            "stolenBases": 18,
+            "stolenBasePercentage": ".750",
+            "caughtStealingPercentage": ".250",
+            "groundIntoDoublePlay": 10,
+            "numberOfPitches": 1838,
+            "plateAppearances": 506,
+            "totalBases": 172,
+            "rbi": 53,
+            "leftOnBase": 200,
+            "sacBunts": 3,
+            "sacFlies": 4,
+            "babip": ".265",
+            "groundOutsToAirouts": "0.87",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "40.46"
+          },
+          "team": {
+            "id": 158,
+            "name": "Milwaukee Brewers",
+            "link": "/api/v1/teams/158"
+          },
+          "player": {
+            "id": 702332,
+            "fullName": "Caleb Durbin",
+            "link": "/api/v1/people/702332"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

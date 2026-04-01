@@ -1,0 +1,55 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 571657,
+      "fullName": "Kyle Farmer",
+      "link": "/api/v1/people/571657",
+      "firstName": "James",
+      "lastName": "Farmer",
+      "primaryNumber": "15",
+      "birthDate": "1990-08-17",
+      "currentAge": 35,
+      "birthCity": "Atlanta",
+      "birthStateProvince": "GA",
+      "birthCountry": "USA",
+      "height": "5' 11\"",
+      "weight": 205,
+      "active": true,
+      "primaryPosition": {
+        "code": "4",
+        "name": "Second Base",
+        "type": "Infielder",
+        "abbreviation": "2B"
+      },
+      "useName": "Kyle",
+      "useLastName": "Farmer",
+      "middleName": "Kyle",
+      "boxscoreName": "Farmer, K",
+      "nickName": "Farm Dawg",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2013,
+      "mlbDebutDate": "2017-07-30",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Kyle Farmer",
+      "nameSlug": "kyle-farmer-571657",
+      "firstLastName": "Kyle Farmer",
+      "lastFirstName": "Farmer, Kyle",
+      "lastInitName": "Farmer, K",
+      "initLastName": "K Farmer",
+      "fullFMLName": "James Kyle Farmer",
+      "fullLFMName": "Farmer, James Kyle",
+      "strikeZoneTop": 3.167,
+      "strikeZoneBottom": 1.598
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 605280,
+      "fullName": "Clay Holmes",
+      "link": "/api/v1/people/605280",
+      "firstName": "Clayton",
+      "lastName": "Holmes",
+      "primaryNumber": "35",
+      "birthDate": "1993-03-27",
+      "currentAge": 33,
+      "birthCity": "Dothan",
+      "birthStateProvince": "AL",
+      "birthCountry": "USA",
+      "height": "6' 5\"",
+      "weight": 245,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Clay",
+      "useLastName": "Holmes",
+      "middleName": "Walter",
+      "boxscoreName": "Holmes, C",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2011,
+      "mlbDebutDate": "2018-04-06",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Clay Holmes",
+      "nameSlug": "clay-holmes-605280",
+      "firstLastName": "Clay Holmes",
+      "lastFirstName": "Holmes, Clay",
+      "lastInitName": "Holmes, C",
+      "initLastName": "C Holmes",
+      "fullFMLName": "Clayton Walter Holmes",
+      "fullLFMName": "Holmes, Clayton Walter",
+      "strikeZoneTop": 3.433,
+      "strikeZoneBottom": 1.733
+    }
+  ]
+}

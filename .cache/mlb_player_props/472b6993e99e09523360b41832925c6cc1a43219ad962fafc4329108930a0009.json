@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 27,
+            "gamesPlayed": 139,
+            "groundOuts": 171,
+            "airOuts": 142,
+            "runs": 78,
+            "doubles": 44,
+            "triples": 1,
+            "homeRuns": 18,
+            "strikeOuts": 91,
+            "baseOnBalls": 40,
+            "intentionalWalks": 2,
+            "hits": 181,
+            "hitByPitch": 3,
+            "avg": ".311",
+            "atBats": 582,
+            "obp": ".357",
+            "slg": ".483",
+            "ops": ".840",
+            "caughtStealing": 3,
+            "stolenBases": 4,
+            "stolenBasePercentage": ".571",
+            "caughtStealingPercentage": ".429",
+            "groundIntoDoublePlay": 17,
+            "numberOfPitches": 2308,
+            "plateAppearances": 628,
+            "totalBases": 281,
+            "rbi": 94,
+            "leftOnBase": 214,
+            "sacBunts": 0,
+            "sacFlies": 3,
+            "babip": ".342",
+            "groundOutsToAirouts": "1.20",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "32.33"
+          },
+          "team": {
+            "id": 141,
+            "name": "Toronto Blue Jays",
+            "link": "/api/v1/teams/141"
+          },
+          "player": {
+            "id": 666182,
+            "fullName": "Bo Bichette",
+            "link": "/api/v1/people/666182"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 34,
+            "gamesPlayed": 134,
+            "groundOuts": 124,
+            "airOuts": 123,
+            "runs": 57,
+            "doubles": 26,
+            "triples": 1,
+            "homeRuns": 12,
+            "strikeOuts": 129,
+            "baseOnBalls": 35,
+            "intentionalWalks": 1,
+            "hits": 129,
+            "hitByPitch": 9,
+            "avg": ".257",
+            "atBats": 502,
+            "obp": ".315",
+            "slg": ".384",
+            "ops": ".699",
+            "caughtStealing": 2,
+            "stolenBases": 8,
+            "stolenBasePercentage": ".800",
+            "caughtStealingPercentage": ".200",
+            "groundIntoDoublePlay": 13,
+            "numberOfPitches": 2196,
+            "plateAppearances": 550,
+            "totalBases": 193,
+            "rbi": 52,
+            "leftOnBase": 207,
+            "sacBunts": 0,
+            "sacFlies": 3,
+            "babip": ".321",
+            "groundOutsToAirouts": "1.01",
+            "catchersInterference": 1,
+            "atBatsPerHomeRun": "41.83"
+          },
+          "team": {
+            "id": 143,
+            "name": "Philadelphia Phillies",
+            "link": "/api/v1/teams/143"
+          },
+          "player": {
+            "id": 592663,
+            "fullName": "J.T. Realmuto",
+            "link": "/api/v1/people/592663"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

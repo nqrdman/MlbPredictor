@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 25,
+            "gamesPlayed": 119,
+            "groundOuts": 89,
+            "airOuts": 107,
+            "runs": 35,
+            "doubles": 8,
+            "triples": 1,
+            "homeRuns": 19,
+            "strikeOuts": 139,
+            "baseOnBalls": 24,
+            "intentionalWalks": 0,
+            "hits": 90,
+            "hitByPitch": 2,
+            "avg": ".213",
+            "atBats": 423,
+            "obp": ".258",
+            "slg": ".371",
+            "ops": ".629",
+            "caughtStealing": 1,
+            "stolenBases": 2,
+            "stolenBasePercentage": ".667",
+            "caughtStealingPercentage": ".333",
+            "groundIntoDoublePlay": 12,
+            "numberOfPitches": 1758,
+            "plateAppearances": 451,
+            "totalBases": 157,
+            "rbi": 43,
+            "leftOnBase": 195,
+            "sacBunts": 1,
+            "sacFlies": 1,
+            "babip": ".267",
+            "groundOutsToAirouts": "0.83",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "22.26"
+          },
+          "team": {
+            "id": 108,
+            "name": "Los Angeles Angels",
+            "link": "/api/v1/teams/108"
+          },
+          "player": {
+            "id": 681351,
+            "fullName": "Logan O'Hoppe",
+            "link": "/api/v1/people/681351"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

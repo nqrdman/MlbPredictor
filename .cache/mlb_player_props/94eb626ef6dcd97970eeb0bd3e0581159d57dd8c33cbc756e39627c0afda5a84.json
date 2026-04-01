@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 26,
+            "gamesPlayed": 112,
+            "groundOuts": 87,
+            "airOuts": 90,
+            "runs": 38,
+            "doubles": 15,
+            "triples": 0,
+            "homeRuns": 11,
+            "strikeOuts": 107,
+            "baseOnBalls": 19,
+            "intentionalWalks": 1,
+            "hits": 83,
+            "hitByPitch": 3,
+            "avg": ".230",
+            "atBats": 361,
+            "obp": ".272",
+            "slg": ".363",
+            "ops": ".635",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 9,
+            "numberOfPitches": 1486,
+            "plateAppearances": 389,
+            "totalBases": 131,
+            "rbi": 45,
+            "leftOnBase": 179,
+            "sacBunts": 3,
+            "sacFlies": 3,
+            "babip": ".293",
+            "groundOutsToAirouts": "0.97",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "32.82"
+          },
+          "team": {
+            "id": 138,
+            "name": "St. Louis Cardinals",
+            "link": "/api/v1/teams/138"
+          },
+          "player": {
+            "id": 686780,
+            "fullName": "Pedro Pag\u00e9s",
+            "link": "/api/v1/people/686780"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

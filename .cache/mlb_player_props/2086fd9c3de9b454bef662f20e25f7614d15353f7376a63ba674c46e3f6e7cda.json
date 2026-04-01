@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 24,
+            "gamesPlayed": 124,
+            "groundOuts": 131,
+            "airOuts": 95,
+            "runs": 56,
+            "doubles": 18,
+            "triples": 2,
+            "homeRuns": 19,
+            "strikeOuts": 68,
+            "baseOnBalls": 38,
+            "intentionalWalks": 0,
+            "hits": 111,
+            "hitByPitch": 3,
+            "avg": ".274",
+            "atBats": 405,
+            "obp": ".341",
+            "slg": ".469",
+            "ops": ".810",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 9,
+            "numberOfPitches": 1750,
+            "plateAppearances": 446,
+            "totalBases": 190,
+            "rbi": 80,
+            "leftOnBase": 176,
+            "sacBunts": 0,
+            "sacFlies": 0,
+            "babip": ".289",
+            "groundOutsToAirouts": "1.38",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "21.32"
+          },
+          "team": {
+            "id": 144,
+            "name": "Atlanta Braves",
+            "link": "/api/v1/teams/144"
+          },
+          "player": {
+            "id": 686948,
+            "fullName": "Drake Baldwin",
+            "link": "/api/v1/people/686948"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

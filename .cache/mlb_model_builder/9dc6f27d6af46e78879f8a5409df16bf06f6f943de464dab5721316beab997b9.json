@@ -1,0 +1,55 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 605483,
+      "fullName": "Blake Snell",
+      "link": "/api/v1/people/605483",
+      "firstName": "Blake",
+      "lastName": "Snell",
+      "primaryNumber": "7",
+      "birthDate": "1992-12-04",
+      "currentAge": 33,
+      "birthCity": "Seattle",
+      "birthStateProvince": "WA",
+      "birthCountry": "USA",
+      "height": "6' 4\"",
+      "weight": 225,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Blake",
+      "useLastName": "Snell",
+      "middleName": "Ashton",
+      "boxscoreName": "Snell",
+      "nickName": "Zilla",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2011,
+      "mlbDebutDate": "2016-04-23",
+      "batSide": {
+        "code": "L",
+        "description": "Left"
+      },
+      "pitchHand": {
+        "code": "L",
+        "description": "Left"
+      },
+      "nameFirstLast": "Blake Snell",
+      "nameSlug": "blake-snell-605483",
+      "firstLastName": "Blake Snell",
+      "lastFirstName": "Snell, Blake",
+      "lastInitName": "Snell, B",
+      "initLastName": "B Snell",
+      "fullFMLName": "Blake Ashton Snell",
+      "fullLFMName": "Snell, Blake Ashton",
+      "strikeZoneTop": 3.77,
+      "strikeZoneBottom": 1.74
+    }
+  ]
+}

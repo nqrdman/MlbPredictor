@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 29,
+            "gamesPlayed": 55,
+            "groundOuts": 22,
+            "airOuts": 12,
+            "runs": 9,
+            "doubles": 4,
+            "triples": 0,
+            "homeRuns": 1,
+            "strikeOuts": 19,
+            "baseOnBalls": 3,
+            "intentionalWalks": 0,
+            "hits": 26,
+            "hitByPitch": 2,
+            "avg": ".342",
+            "atBats": 76,
+            "obp": ".383",
+            "slg": ".434",
+            "ops": ".817",
+            "caughtStealing": 1,
+            "stolenBases": 4,
+            "stolenBasePercentage": ".800",
+            "caughtStealingPercentage": ".200",
+            "groundIntoDoublePlay": 1,
+            "numberOfPitches": 287,
+            "plateAppearances": 84,
+            "totalBases": 33,
+            "rbi": 8,
+            "leftOnBase": 27,
+            "sacBunts": 3,
+            "sacFlies": 0,
+            "babip": ".446",
+            "groundOutsToAirouts": "1.83",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "76.00"
+          },
+          "team": {
+            "id": 135,
+            "name": "San Diego Padres",
+            "link": "/api/v1/teams/135"
+          },
+          "player": {
+            "id": 669369,
+            "fullName": "Bryce Johnson",
+            "link": "/api/v1/people/669369"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

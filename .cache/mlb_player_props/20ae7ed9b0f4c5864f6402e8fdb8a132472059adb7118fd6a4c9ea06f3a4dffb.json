@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 26,
+            "gamesPlayed": 160,
+            "groundOuts": 156,
+            "airOuts": 139,
+            "runs": 120,
+            "doubles": 20,
+            "triples": 1,
+            "homeRuns": 43,
+            "strikeOuts": 137,
+            "baseOnBalls": 127,
+            "intentionalWalks": 13,
+            "hits": 152,
+            "hitByPitch": 3,
+            "avg": ".263",
+            "atBats": 577,
+            "obp": ".396",
+            "slg": ".525",
+            "ops": ".921",
+            "caughtStealing": 4,
+            "stolenBases": 38,
+            "stolenBasePercentage": ".905",
+            "caughtStealingPercentage": ".095",
+            "groundIntoDoublePlay": 17,
+            "numberOfPitches": 2968,
+            "plateAppearances": 715,
+            "totalBases": 303,
+            "rbi": 105,
+            "leftOnBase": 248,
+            "sacBunts": 1,
+            "sacFlies": 6,
+            "babip": ".270",
+            "groundOutsToAirouts": "1.12",
+            "catchersInterference": 1,
+            "atBatsPerHomeRun": "13.42"
+          },
+          "team": {
+            "id": 121,
+            "name": "New York Mets",
+            "link": "/api/v1/teams/121"
+          },
+          "player": {
+            "id": 665742,
+            "fullName": "Juan Soto",
+            "link": "/api/v1/people/665742"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

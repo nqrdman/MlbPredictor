@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 26,
+            "gamesPlayed": 50,
+            "groundOuts": 33,
+            "airOuts": 33,
+            "runs": 12,
+            "doubles": 7,
+            "triples": 2,
+            "homeRuns": 1,
+            "strikeOuts": 47,
+            "baseOnBalls": 5,
+            "intentionalWalks": 0,
+            "hits": 28,
+            "hitByPitch": 4,
+            "avg": ".203",
+            "atBats": 138,
+            "obp": ".248",
+            "slg": ".304",
+            "ops": ".552",
+            "caughtStealing": 1,
+            "stolenBases": 7,
+            "stolenBasePercentage": ".875",
+            "caughtStealingPercentage": ".125",
+            "groundIntoDoublePlay": 2,
+            "numberOfPitches": 521,
+            "plateAppearances": 150,
+            "totalBases": 42,
+            "rbi": 7,
+            "leftOnBase": 46,
+            "sacBunts": 1,
+            "sacFlies": 2,
+            "babip": ".293",
+            "groundOutsToAirouts": "1.00",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "138.00"
+          },
+          "team": {
+            "id": 108,
+            "name": "Los Angeles Angels",
+            "link": "/api/v1/teams/108"
+          },
+          "player": {
+            "id": 669326,
+            "fullName": "Bryce Teodosio",
+            "link": "/api/v1/people/669326"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

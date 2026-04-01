@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 24,
+            "gamesPlayed": 39,
+            "groundOuts": 26,
+            "airOuts": 19,
+            "runs": 13,
+            "doubles": 2,
+            "triples": 0,
+            "homeRuns": 4,
+            "strikeOuts": 20,
+            "baseOnBalls": 8,
+            "intentionalWalks": 0,
+            "hits": 19,
+            "hitByPitch": 0,
+            "avg": ".232",
+            "atBats": 82,
+            "obp": ".297",
+            "slg": ".402",
+            "ops": ".699",
+            "caughtStealing": 1,
+            "stolenBases": 9,
+            "stolenBasePercentage": ".900",
+            "caughtStealingPercentage": ".100",
+            "groundIntoDoublePlay": 1,
+            "numberOfPitches": 417,
+            "plateAppearances": 92,
+            "totalBases": 33,
+            "rbi": 13,
+            "leftOnBase": 35,
+            "sacBunts": 1,
+            "sacFlies": 1,
+            "babip": ".254",
+            "groundOutsToAirouts": "1.37",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "20.50"
+          },
+          "team": {
+            "id": 120,
+            "name": "Washington Nationals",
+            "link": "/api/v1/teams/120"
+          },
+          "player": {
+            "id": 683083,
+            "fullName": "Nasim Nu\u00f1ez",
+            "link": "/api/v1/people/683083"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

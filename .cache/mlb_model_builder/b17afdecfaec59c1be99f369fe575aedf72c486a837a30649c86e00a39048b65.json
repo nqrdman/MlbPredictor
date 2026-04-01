@@ -1,0 +1,55 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 656557,
+      "fullName": "Tanner Houck",
+      "link": "/api/v1/people/656557",
+      "firstName": "Tanner",
+      "lastName": "Houck",
+      "primaryNumber": "89",
+      "birthDate": "1996-06-29",
+      "currentAge": 29,
+      "birthCity": "St. Louis",
+      "birthStateProvince": "MO",
+      "birthCountry": "USA",
+      "height": "6' 5\"",
+      "weight": 226,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Tanner",
+      "useLastName": "Houck",
+      "middleName": "Lee",
+      "boxscoreName": "Houck",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2017,
+      "pronunciation": "HOW + k",
+      "mlbDebutDate": "2020-09-15",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Tanner Houck",
+      "nameSlug": "tanner-houck-656557",
+      "firstLastName": "Tanner Houck",
+      "lastFirstName": "Houck, Tanner",
+      "lastInitName": "Houck, T",
+      "initLastName": "T Houck",
+      "fullFMLName": "Tanner Lee Houck",
+      "fullLFMName": "Houck, Tanner Lee",
+      "strikeZoneTop": 3.433,
+      "strikeZoneBottom": 1.733
+    }
+  ]
+}

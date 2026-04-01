@@ -1,0 +1,53 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 665625,
+      "fullName": "Elvis Peguero",
+      "link": "/api/v1/people/665625",
+      "firstName": "Elvis",
+      "lastName": "Peguero",
+      "birthDate": "1997-03-20",
+      "currentAge": 29,
+      "birthCity": "Cotui",
+      "birthCountry": "Dominican Republic",
+      "height": "6' 4\"",
+      "weight": 238,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Elvis",
+      "useLastName": "Peguero",
+      "middleName": "Antonio",
+      "boxscoreName": "Peguero, E",
+      "gender": "M",
+      "nameMatrilineal": "Reyes",
+      "isPlayer": true,
+      "isVerified": true,
+      "pronunciation": "peh-GEHR-oh",
+      "mlbDebutDate": "2021-08-26",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Elvis Peguero",
+      "nameSlug": "elvis-peguero-665625",
+      "firstLastName": "Elvis Peguero",
+      "lastFirstName": "Peguero, Elvis",
+      "lastInitName": "Peguero, E",
+      "initLastName": "E Peguero",
+      "fullFMLName": "Elvis Antonio Peguero",
+      "fullLFMName": "Peguero, Elvis Antonio",
+      "strikeZoneTop": 3.388,
+      "strikeZoneBottom": 1.71
+    }
+  ]
+}

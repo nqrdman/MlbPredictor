@@ -1,0 +1,55 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 673357,
+      "fullName": "Luis Robert Jr.",
+      "link": "/api/v1/people/673357",
+      "firstName": "Luis",
+      "lastName": "Robert",
+      "primaryNumber": "88",
+      "birthDate": "1997-08-03",
+      "currentAge": 28,
+      "birthCity": "Ciego de Avila",
+      "birthCountry": "Cuba",
+      "height": "6' 2\"",
+      "weight": 225,
+      "active": true,
+      "primaryPosition": {
+        "code": "8",
+        "name": "Outfielder",
+        "type": "Outfielder",
+        "abbreviation": "CF"
+      },
+      "useName": "Luis",
+      "useLastName": "Robert Jr.",
+      "boxscoreName": "Robert Jr.",
+      "gender": "M",
+      "nameMatrilineal": "Moirant",
+      "isPlayer": true,
+      "isVerified": true,
+      "pronunciation": "RAH-bert",
+      "mlbDebutDate": "2020-07-24",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Luis Robert Jr.",
+      "nameTitle": "Jr.",
+      "nameSuffix": "Jr.",
+      "nameSlug": "luis-robert-jr-673357",
+      "firstLastName": "Luis Robert Jr.",
+      "lastFirstName": "Robert Jr., Luis",
+      "lastInitName": "Robert Jr., L",
+      "initLastName": "L Robert Jr.",
+      "fullFMLName": "Luis Robert Jr.",
+      "fullLFMName": "Robert Jr., Luis",
+      "strikeZoneTop": 3.31,
+      "strikeZoneBottom": 1.671
+    }
+  ]
+}

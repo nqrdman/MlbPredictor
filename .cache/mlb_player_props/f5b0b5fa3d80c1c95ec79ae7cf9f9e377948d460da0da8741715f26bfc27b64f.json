@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 26,
+            "gamesPlayed": 143,
+            "groundOuts": 162,
+            "airOuts": 149,
+            "runs": 56,
+            "doubles": 25,
+            "triples": 1,
+            "homeRuns": 20,
+            "strikeOuts": 95,
+            "baseOnBalls": 20,
+            "intentionalWalks": 2,
+            "hits": 139,
+            "hitByPitch": 2,
+            "avg": ".256",
+            "atBats": 542,
+            "obp": ".284",
+            "slg": ".417",
+            "ops": ".701",
+            "caughtStealing": 1,
+            "stolenBases": 1,
+            "stolenBasePercentage": ".500",
+            "caughtStealingPercentage": ".500",
+            "groundIntoDoublePlay": 13,
+            "numberOfPitches": 1871,
+            "plateAppearances": 567,
+            "totalBases": 226,
+            "rbi": 70,
+            "leftOnBase": 251,
+            "sacBunts": 0,
+            "sacFlies": 3,
+            "babip": ".277",
+            "groundOutsToAirouts": "1.09",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "27.10"
+          },
+          "team": {
+            "id": 117,
+            "name": "Houston Astros",
+            "link": "/api/v1/teams/117"
+          },
+          "player": {
+            "id": 673237,
+            "fullName": "Yainer Diaz",
+            "link": "/api/v1/people/673237"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

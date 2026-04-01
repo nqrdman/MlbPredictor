@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 33,
+            "gamesPlayed": 147,
+            "groundOuts": 126,
+            "airOuts": 157,
+            "runs": 72,
+            "doubles": 27,
+            "triples": 2,
+            "homeRuns": 17,
+            "strikeOuts": 133,
+            "baseOnBalls": 32,
+            "intentionalWalks": 0,
+            "hits": 137,
+            "hitByPitch": 4,
+            "avg": ".250",
+            "atBats": 547,
+            "obp": ".294",
+            "slg": ".400",
+            "ops": ".694",
+            "caughtStealing": 0,
+            "stolenBases": 4,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 13,
+            "numberOfPitches": 2166,
+            "plateAppearances": 589,
+            "totalBases": 219,
+            "rbi": 72,
+            "leftOnBase": 267,
+            "sacBunts": 0,
+            "sacFlies": 6,
+            "babip": ".298",
+            "groundOutsToAirouts": "0.80",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "32.18"
+          },
+          "team": {
+            "id": 143,
+            "name": "Philadelphia Phillies",
+            "link": "/api/v1/teams/143"
+          },
+          "player": {
+            "id": 592206,
+            "fullName": "Nick Castellanos",
+            "link": "/api/v1/people/592206"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

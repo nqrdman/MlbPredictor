@@ -1,0 +1,55 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 682990,
+      "fullName": "Quinn Priester",
+      "link": "/api/v1/people/682990",
+      "firstName": "Charles",
+      "lastName": "Priester",
+      "primaryNumber": "46",
+      "birthDate": "2000-09-16",
+      "currentAge": 25,
+      "birthCity": "Glendale Heights",
+      "birthStateProvince": "IL",
+      "birthCountry": "USA",
+      "height": "6' 3\"",
+      "weight": 224,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Quinn",
+      "useLastName": "Priester",
+      "middleName": "Quinn",
+      "boxscoreName": "Priester",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2019,
+      "pronunciation": "rhymes with \u201cEaster\u201d",
+      "mlbDebutDate": "2023-07-17",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Quinn Priester",
+      "nameSlug": "quinn-priester-682990",
+      "firstLastName": "Quinn Priester",
+      "lastFirstName": "Priester, Quinn",
+      "lastInitName": "Priester, Q",
+      "initLastName": "Q Priester",
+      "fullFMLName": "Charles Quinn Priester",
+      "fullLFMName": "Priester, Charles Quinn",
+      "strikeZoneTop": 3.344,
+      "strikeZoneBottom": 1.688
+    }
+  ]
+}

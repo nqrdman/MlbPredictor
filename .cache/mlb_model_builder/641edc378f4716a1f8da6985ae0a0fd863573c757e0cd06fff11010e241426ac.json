@@ -1,0 +1,55 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 489119,
+      "fullName": "Wade Miley",
+      "link": "/api/v1/people/489119",
+      "firstName": "Wade",
+      "lastName": "Miley",
+      "primaryNumber": "22",
+      "birthDate": "1986-11-13",
+      "currentAge": 39,
+      "birthCity": "Hammond",
+      "birthStateProvince": "LA",
+      "birthCountry": "USA",
+      "height": "6' 1\"",
+      "weight": 220,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Wade",
+      "useLastName": "Miley",
+      "middleName": "Allen",
+      "boxscoreName": "Miley",
+      "nickName": "Miles",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2008,
+      "mlbDebutDate": "2011-08-20",
+      "batSide": {
+        "code": "L",
+        "description": "Left"
+      },
+      "pitchHand": {
+        "code": "L",
+        "description": "Left"
+      },
+      "nameFirstLast": "Wade Miley",
+      "nameSlug": "wade-miley-489119",
+      "firstLastName": "Wade Miley",
+      "lastFirstName": "Miley, Wade",
+      "lastInitName": "Miley, W",
+      "initLastName": "W Miley",
+      "fullFMLName": "Wade Allen Miley",
+      "fullLFMName": "Miley, Wade Allen",
+      "strikeZoneTop": 3.48,
+      "strikeZoneBottom": 1.65
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 672016,
+      "fullName": "Denzel Clarke",
+      "link": "/api/v1/people/672016",
+      "firstName": "Denzel",
+      "lastName": "Clarke",
+      "primaryNumber": "1",
+      "birthDate": "2000-05-01",
+      "currentAge": 25,
+      "birthCity": "Toronto",
+      "birthStateProvince": "ON",
+      "birthCountry": "Canada",
+      "height": "6' 3\"",
+      "weight": 220,
+      "active": true,
+      "primaryPosition": {
+        "code": "8",
+        "name": "Outfielder",
+        "type": "Outfielder",
+        "abbreviation": "CF"
+      },
+      "useName": "Denzel",
+      "useLastName": "Clarke",
+      "middleName": "Leslie",
+      "boxscoreName": "Clarke",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2021,
+      "mlbDebutDate": "2025-05-23",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Denzel Clarke",
+      "nameSlug": "denzel-clarke-672016",
+      "firstLastName": "Denzel Clarke",
+      "lastFirstName": "Clarke, Denzel",
+      "lastInitName": "Clarke, D",
+      "initLastName": "D Clarke",
+      "fullFMLName": "Denzel Leslie Clarke",
+      "fullLFMName": "Clarke, Denzel Leslie",
+      "strikeZoneTop": 3.363,
+      "strikeZoneBottom": 1.697
+    }
+  ]
+}

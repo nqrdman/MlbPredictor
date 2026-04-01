@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 26,
+            "gamesPlayed": 90,
+            "groundOuts": 42,
+            "airOuts": 64,
+            "runs": 16,
+            "doubles": 14,
+            "triples": 0,
+            "homeRuns": 0,
+            "strikeOuts": 55,
+            "baseOnBalls": 8,
+            "intentionalWalks": 0,
+            "hits": 46,
+            "hitByPitch": 4,
+            "avg": ".224",
+            "atBats": 205,
+            "obp": ".266",
+            "slg": ".293",
+            "ops": ".559",
+            "caughtStealing": 2,
+            "stolenBases": 11,
+            "stolenBasePercentage": ".846",
+            "caughtStealingPercentage": ".154",
+            "groundIntoDoublePlay": 3,
+            "numberOfPitches": 807,
+            "plateAppearances": 219,
+            "totalBases": 60,
+            "rbi": 14,
+            "leftOnBase": 93,
+            "sacBunts": 1,
+            "sacFlies": 1,
+            "babip": ".305",
+            "groundOutsToAirouts": "0.66",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "-.--"
+          },
+          "team": {
+            "id": 140,
+            "name": "Texas Rangers",
+            "link": "/api/v1/teams/140"
+          },
+          "player": {
+            "id": 677649,
+            "fullName": "Ezequiel Duran",
+            "link": "/api/v1/people/677649"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

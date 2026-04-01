@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 32,
+            "gamesPlayed": 141,
+            "groundOuts": 159,
+            "airOuts": 146,
+            "runs": 94,
+            "doubles": 31,
+            "triples": 7,
+            "homeRuns": 15,
+            "strikeOuts": 107,
+            "baseOnBalls": 43,
+            "intentionalWalks": 1,
+            "hits": 179,
+            "hitByPitch": 5,
+            "avg": ".304",
+            "atBats": 589,
+            "obp": ".355",
+            "slg": ".457",
+            "ops": ".812",
+            "caughtStealing": 7,
+            "stolenBases": 36,
+            "stolenBasePercentage": ".837",
+            "caughtStealingPercentage": ".163",
+            "groundIntoDoublePlay": 11,
+            "numberOfPitches": 2407,
+            "plateAppearances": 639,
+            "totalBases": 269,
+            "rbi": 69,
+            "leftOnBase": 221,
+            "sacBunts": 0,
+            "sacFlies": 2,
+            "babip": ".350",
+            "groundOutsToAirouts": "1.09",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "39.27"
+          },
+          "team": {
+            "id": 143,
+            "name": "Philadelphia Phillies",
+            "link": "/api/v1/teams/143"
+          },
+          "player": {
+            "id": 607208,
+            "fullName": "Trea Turner",
+            "link": "/api/v1/people/607208"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

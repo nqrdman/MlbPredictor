@@ -1,0 +1,55 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 670102,
+      "fullName": "Bowden Francis",
+      "link": "/api/v1/people/670102",
+      "firstName": "Robert",
+      "lastName": "Francis",
+      "primaryNumber": "44",
+      "birthDate": "1996-04-22",
+      "currentAge": 29,
+      "birthCity": "Tallahassee",
+      "birthStateProvince": "FL",
+      "birthCountry": "USA",
+      "height": "6' 5\"",
+      "weight": 220,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Bowden",
+      "useLastName": "Francis",
+      "middleName": "Bowden",
+      "boxscoreName": "Francis",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": false,
+      "draftYear": 2017,
+      "pronunciation": "BAO-den",
+      "mlbDebutDate": "2022-04-27",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Bowden Francis",
+      "nameSlug": "bowden-francis-670102",
+      "firstLastName": "Bowden Francis",
+      "lastFirstName": "Francis, Bowden",
+      "lastInitName": "Francis, B",
+      "initLastName": "B Francis",
+      "fullFMLName": "Robert Bowden Francis",
+      "fullLFMName": "Francis, Robert Bowden",
+      "strikeZoneTop": 3.433,
+      "strikeZoneBottom": 1.733
+    }
+  ]
+}

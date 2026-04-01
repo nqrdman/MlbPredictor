@@ -1,0 +1,187 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "gamesPlayed": 134,
+            "groundOuts": 121,
+            "airOuts": 115,
+            "runs": 61,
+            "doubles": 21,
+            "triples": 4,
+            "homeRuns": 14,
+            "strikeOuts": 110,
+            "baseOnBalls": 42,
+            "intentionalWalks": 1,
+            "hits": 107,
+            "hitByPitch": 2,
+            "avg": ".237",
+            "atBats": 451,
+            "obp": ".304",
+            "slg": ".395",
+            "ops": ".699",
+            "caughtStealing": 3,
+            "stolenBases": 13,
+            "stolenBasePercentage": ".813",
+            "caughtStealingPercentage": ".188",
+            "groundIntoDoublePlay": 10,
+            "numberOfPitches": 1936,
+            "plateAppearances": 497,
+            "totalBases": 178,
+            "rbi": 48,
+            "leftOnBase": 196,
+            "sacBunts": 0,
+            "sacFlies": 2,
+            "babip": ".283",
+            "groundOutsToAirouts": "1.05",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "32.21"
+          },
+          "player": {
+            "id": 660821,
+            "fullName": "Jes\u00fas S\u00e1nchez",
+            "link": "/api/v1/people/660821"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R",
+          "numTeams": 2,
+          "numLeagues": 2
+        },
+        {
+          "season": "2025",
+          "stat": {
+            "age": 27,
+            "gamesPlayed": 48,
+            "groundOuts": 40,
+            "airOuts": 37,
+            "runs": 21,
+            "doubles": 9,
+            "triples": 0,
+            "homeRuns": 4,
+            "strikeOuts": 40,
+            "baseOnBalls": 13,
+            "intentionalWalks": 0,
+            "hits": 29,
+            "hitByPitch": 1,
+            "avg": ".199",
+            "atBats": 146,
+            "obp": ".269",
+            "slg": ".342",
+            "ops": ".611",
+            "caughtStealing": 1,
+            "stolenBases": 4,
+            "stolenBasePercentage": ".800",
+            "caughtStealingPercentage": ".200",
+            "groundIntoDoublePlay": 2,
+            "numberOfPitches": 629,
+            "plateAppearances": 160,
+            "totalBases": 50,
+            "rbi": 12,
+            "leftOnBase": 69,
+            "sacBunts": 0,
+            "sacFlies": 0,
+            "babip": ".245",
+            "groundOutsToAirouts": "1.08",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "36.50"
+          },
+          "team": {
+            "id": 117,
+            "name": "Houston Astros",
+            "link": "/api/v1/teams/117"
+          },
+          "player": {
+            "id": 660821,
+            "fullName": "Jes\u00fas S\u00e1nchez",
+            "link": "/api/v1/people/660821"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        },
+        {
+          "season": "2025",
+          "stat": {
+            "age": 27,
+            "gamesPlayed": 86,
+            "groundOuts": 81,
+            "airOuts": 78,
+            "runs": 40,
+            "doubles": 12,
+            "triples": 4,
+            "homeRuns": 10,
+            "strikeOuts": 70,
+            "baseOnBalls": 29,
+            "intentionalWalks": 1,
+            "hits": 78,
+            "hitByPitch": 1,
+            "avg": ".256",
+            "atBats": 305,
+            "obp": ".320",
+            "slg": ".420",
+            "ops": ".740",
+            "caughtStealing": 2,
+            "stolenBases": 9,
+            "stolenBasePercentage": ".818",
+            "caughtStealingPercentage": ".182",
+            "groundIntoDoublePlay": 8,
+            "numberOfPitches": 1307,
+            "plateAppearances": 337,
+            "totalBases": 128,
+            "rbi": 36,
+            "leftOnBase": 127,
+            "sacBunts": 0,
+            "sacFlies": 2,
+            "babip": ".300",
+            "groundOutsToAirouts": "1.04",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "30.50"
+          },
+          "team": {
+            "id": 146,
+            "name": "Miami Marlins",
+            "link": "/api/v1/teams/146"
+          },
+          "player": {
+            "id": 660821,
+            "fullName": "Jes\u00fas S\u00e1nchez",
+            "link": "/api/v1/people/660821"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "gameLog"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "summary": "5.0 IP, ER, K, 2 BB",
+            "gamesPlayed": 1,
+            "gamesStarted": 1,
+            "flyOuts": 4,
+            "groundOuts": 8,
+            "airOuts": 6,
+            "runs": 3,
+            "doubles": 1,
+            "triples": 0,
+            "homeRuns": 0,
+            "strikeOuts": 1,
+            "baseOnBalls": 2,
+            "intentionalWalks": 0,
+            "hits": 6,
+            "hitByPitch": 0,
+            "avg": ".286",
+            "atBats": 21,
+            "obp": ".348",
+            "slg": ".333",
+            "ops": ".681",
+            "caughtStealing": 0,
+            "stolenBases": 4,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 0,
+            "numberOfPitches": 90,
+            "era": "1.80",
+            "inningsPitched": "5.0",
+            "wins": 0,
+            "losses": 1,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 1,
+            "whip": "1.60",
+            "battersFaced": 23,
+            "outs": 15,
+            "gamesPitched": 1,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 55,
+            "strikePercentage": ".610",
+            "hitBatsmen": 0,
+            "balks": 0,
+            "wildPitches": 0,
+            "pickoffs": 0,
+            "totalBases": 7,
+            "groundOutsToAirouts": "1.33",
+            "winPercentage": ".000",
+            "pitchesPerInning": "18.00",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "0.50",
+            "strikeoutsPer9Inn": "1.80",
+            "walksPer9Inn": "3.60",
+            "hitsPer9Inn": "10.80",
+            "runsScoredPer9": "5.40",
+            "homeRunsPer9": "0.00",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 0,
+            "sacFlies": 0
+          },
+          "team": {
+            "id": 118,
+            "name": "Kansas City Royals",
+            "link": "/api/v1/teams/118"
+          },
+          "player": {
+            "id": 448179,
+            "fullName": "Rich Hill",
+            "link": "/api/v1/people/448179"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "opponent": {
+            "id": 112,
+            "name": "Chicago Cubs",
+            "link": "/api/v1/teams/112"
+          },
+          "date": "2025-07-22",
+          "gameType": "R",
+          "isHome": false,
+          "isWin": false,
+          "game": {
+            "gamePk": 777047,
+            "link": "/api/v1.1/game/777047/feed/live",
+            "content": {
+              "link": "/api/v1/game/777047/content"
+            },
+            "gameNumber": 1,
+            "dayNight": "day"
+          }
+        },
+        {
+          "season": "2025",
+          "stat": {
+            "summary": "4.0 IP, 4 ER, 3 K, 6 BB",
+            "gamesPlayed": 1,
+            "gamesStarted": 1,
+            "flyOuts": 3,
+            "groundOuts": 4,
+            "airOuts": 4,
+            "runs": 4,
+            "doubles": 0,
+            "triples": 0,
+            "homeRuns": 2,
+            "strikeOuts": 3,
+            "baseOnBalls": 6,
+            "intentionalWalks": 0,
+            "hits": 3,
+            "hitByPitch": 0,
+            "avg": ".257",
+            "atBats": 14,
+            "obp": ".450",
+            "slg": ".643",
+            "ops": "1.093",
+            "caughtStealing": 1,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".000",
+            "caughtStealingPercentage": "1.000",
+            "groundIntoDoublePlay": 0,
+            "numberOfPitches": 81,
+            "era": "5.00",
+            "inningsPitched": "4.0",
+            "wins": 0,
+            "losses": 1,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 4,
+            "whip": "1.89",
+            "battersFaced": 20,
+            "outs": 12,
+            "gamesPitched": 1,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 45,
+            "strikePercentage": ".560",
+            "hitBatsmen": 0,
+            "balks": 0,
+            "wildPitches": 0,
+            "pickoffs": 1,
+            "totalBases": 9,
+            "groundOutsToAirouts": "1.20",
+            "winPercentage": ".000",
+            "pitchesPerInning": "20.25",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "0.50",
+            "strikeoutsPer9Inn": "6.75",
+            "walksPer9Inn": "13.50",
+            "hitsPer9Inn": "6.75",
+            "runsScoredPer9": "9.00",
+            "homeRunsPer9": "4.50",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 0,
+            "sacFlies": 0
+          },
+          "team": {
+            "id": 118,
+            "name": "Kansas City Royals",
+            "link": "/api/v1/teams/118"
+          },
+          "player": {
+            "id": 448179,
+            "fullName": "Rich Hill",
+            "link": "/api/v1/people/448179"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "opponent": {
+            "id": 144,
+            "name": "Atlanta Braves",
+            "link": "/api/v1/teams/144"
+          },
+          "date": "2025-07-28",
+          "gameType": "R",
+          "isHome": true,
+          "isWin": false,
+          "game": {
+            "gamePk": 776971,
+            "link": "/api/v1.1/game/776971/feed/live",
+            "content": {
+              "link": "/api/v1/game/776971/content"
+            },
+            "gameNumber": 1,
+            "dayNight": "day"
+          }
+        }
+      ]
+    }
+  ]
+}

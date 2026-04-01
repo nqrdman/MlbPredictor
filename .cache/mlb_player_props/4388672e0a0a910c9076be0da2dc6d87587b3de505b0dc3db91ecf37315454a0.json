@@ -1,0 +1,55 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 596115,
+      "fullName": "Trevor Story",
+      "link": "/api/v1/people/596115",
+      "firstName": "Trevor",
+      "lastName": "Story",
+      "primaryNumber": "10",
+      "birthDate": "1992-11-15",
+      "currentAge": 33,
+      "birthCity": "Irving",
+      "birthStateProvince": "TX",
+      "birthCountry": "USA",
+      "height": "6' 1\"",
+      "weight": 209,
+      "active": true,
+      "primaryPosition": {
+        "code": "6",
+        "name": "Shortstop",
+        "type": "Infielder",
+        "abbreviation": "SS"
+      },
+      "useName": "Trevor",
+      "useLastName": "Story",
+      "middleName": "John",
+      "boxscoreName": "Story",
+      "nickName": "True",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2011,
+      "mlbDebutDate": "2016-04-04",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Trevor Story",
+      "nameSlug": "trevor-story-596115",
+      "firstLastName": "Trevor Story",
+      "lastFirstName": "Story, Trevor",
+      "lastInitName": "Story, T",
+      "initLastName": "T Story",
+      "fullFMLName": "Trevor John Story",
+      "fullLFMName": "Story, Trevor John",
+      "strikeZoneTop": 3.242,
+      "strikeZoneBottom": 1.636
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 26,
+            "gamesPlayed": 64,
+            "groundOuts": 50,
+            "airOuts": 33,
+            "runs": 13,
+            "doubles": 10,
+            "triples": 0,
+            "homeRuns": 3,
+            "strikeOuts": 61,
+            "baseOnBalls": 22,
+            "intentionalWalks": 0,
+            "hits": 40,
+            "hitByPitch": 2,
+            "avg": ".220",
+            "atBats": 182,
+            "obp": ".309",
+            "slg": ".324",
+            "ops": ".633",
+            "caughtStealing": 3,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".000",
+            "caughtStealingPercentage": "1.000",
+            "groundIntoDoublePlay": 3,
+            "numberOfPitches": 876,
+            "plateAppearances": 208,
+            "totalBases": 59,
+            "rbi": 12,
+            "leftOnBase": 83,
+            "sacBunts": 1,
+            "sacFlies": 1,
+            "babip": ".311",
+            "groundOutsToAirouts": "1.52",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "60.67"
+          },
+          "team": {
+            "id": 142,
+            "name": "Minnesota Twins",
+            "link": "/api/v1/teams/142"
+          },
+          "player": {
+            "id": 666397,
+            "fullName": "Edouard Julien",
+            "link": "/api/v1/people/666397"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

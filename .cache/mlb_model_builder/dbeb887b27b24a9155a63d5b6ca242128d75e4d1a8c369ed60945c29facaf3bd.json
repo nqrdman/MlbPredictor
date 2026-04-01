@@ -1,0 +1,56 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 606965,
+      "fullName": "Chris Devenski",
+      "link": "/api/v1/people/606965",
+      "firstName": "Christopher",
+      "lastName": "Devenski",
+      "primaryNumber": "57",
+      "birthDate": "1990-11-13",
+      "currentAge": 35,
+      "birthCity": "Cerritos",
+      "birthStateProvince": "CA",
+      "birthCountry": "USA",
+      "height": "6' 3\"",
+      "weight": 208,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Chris",
+      "useLastName": "Devenski",
+      "middleName": "Michael",
+      "boxscoreName": "Devenski",
+      "nickName": "Devo",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2011,
+      "pronunciation": "deh-VEHN-ski",
+      "mlbDebutDate": "2016-04-08",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Chris Devenski",
+      "nameSlug": "chris-devenski-606965",
+      "firstLastName": "Chris Devenski",
+      "lastFirstName": "Devenski, Chris",
+      "lastInitName": "Devenski, C",
+      "initLastName": "C Devenski",
+      "fullFMLName": "Christopher Michael Devenski",
+      "fullLFMName": "Devenski, Christopher Michael",
+      "strikeZoneTop": 3.344,
+      "strikeZoneBottom": 1.688
+    }
+  ]
+}

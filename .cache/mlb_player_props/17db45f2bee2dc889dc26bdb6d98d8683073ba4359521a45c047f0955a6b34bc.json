@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 680777,
+      "fullName": "Ryan Jeffers",
+      "link": "/api/v1/people/680777",
+      "firstName": "Ryan",
+      "lastName": "Jeffers",
+      "primaryNumber": "27",
+      "birthDate": "1997-06-03",
+      "currentAge": 28,
+      "birthCity": "Raleigh",
+      "birthStateProvince": "NC",
+      "birthCountry": "USA",
+      "height": "6' 2\"",
+      "weight": 235,
+      "active": true,
+      "primaryPosition": {
+        "code": "2",
+        "name": "Catcher",
+        "type": "Catcher",
+        "abbreviation": "C"
+      },
+      "useName": "Ryan",
+      "useLastName": "Jeffers",
+      "middleName": "Michael",
+      "boxscoreName": "Jeffers",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": false,
+      "draftYear": 2018,
+      "mlbDebutDate": "2020-08-20",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Ryan Jeffers",
+      "nameSlug": "ryan-jeffers-680777",
+      "firstLastName": "Ryan Jeffers",
+      "lastFirstName": "Jeffers, Ryan",
+      "lastInitName": "Jeffers, R",
+      "initLastName": "R Jeffers",
+      "fullFMLName": "Ryan Michael Jeffers",
+      "fullLFMName": "Jeffers, Ryan Michael",
+      "strikeZoneTop": 3.285,
+      "strikeZoneBottom": 1.658
+    }
+  ]
+}

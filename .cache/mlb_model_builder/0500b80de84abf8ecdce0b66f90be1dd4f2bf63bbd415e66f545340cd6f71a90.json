@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 592254,
+      "fullName": "Jos\u00e9 De Le\u00f3n",
+      "link": "/api/v1/people/592254",
+      "firstName": "Jos\u00e9",
+      "lastName": "De Le\u00f3n",
+      "primaryNumber": "78",
+      "birthDate": "1992-08-07",
+      "currentAge": 33,
+      "birthCity": "Isabela",
+      "birthCountry": "Puerto Rico",
+      "height": "6' 0\"",
+      "weight": 220,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Jos\u00e9",
+      "useLastName": "De Le\u00f3n",
+      "middleName": "Eugenio",
+      "boxscoreName": "De Le\u00f3n, J",
+      "nickName": "Pulpito",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2013,
+      "mlbDebutDate": "2016-09-04",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Jos\u00e9 De Le\u00f3n",
+      "nameSlug": "jose-de-leon-592254",
+      "firstLastName": "Jos\u00e9 De Le\u00f3n",
+      "lastFirstName": "De Le\u00f3n, Jos\u00e9",
+      "lastInitName": "De Le\u00f3n, J",
+      "initLastName": "J De Le\u00f3n",
+      "fullFMLName": "Jos\u00e9 Eugenio De Le\u00f3n",
+      "fullLFMName": "De Le\u00f3n, Jos\u00e9 Eugenio",
+      "strikeZoneTop": 3.21,
+      "strikeZoneBottom": 1.62
+    }
+  ]
+}

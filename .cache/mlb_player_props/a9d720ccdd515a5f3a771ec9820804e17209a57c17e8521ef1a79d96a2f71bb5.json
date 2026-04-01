@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 23,
+            "gamesPlayed": 136,
+            "groundOuts": 161,
+            "airOuts": 143,
+            "runs": 72,
+            "doubles": 33,
+            "triples": 1,
+            "homeRuns": 21,
+            "strikeOuts": 113,
+            "baseOnBalls": 36,
+            "intentionalWalks": 2,
+            "hits": 124,
+            "hitByPitch": 8,
+            "avg": ".231",
+            "atBats": 537,
+            "obp": ".287",
+            "slg": ".413",
+            "ops": ".700",
+            "caughtStealing": 3,
+            "stolenBases": 16,
+            "stolenBasePercentage": ".842",
+            "caughtStealingPercentage": ".158",
+            "groundIntoDoublePlay": 13,
+            "numberOfPitches": 2122,
+            "plateAppearances": 585,
+            "totalBases": 222,
+            "rbi": 67,
+            "leftOnBase": 217,
+            "sacBunts": 0,
+            "sacFlies": 4,
+            "babip": ".253",
+            "groundOutsToAirouts": "1.13",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "25.57"
+          },
+          "team": {
+            "id": 146,
+            "name": "Miami Marlins",
+            "link": "/api/v1/teams/146"
+          },
+          "player": {
+            "id": 682663,
+            "fullName": "Agust\u00edn Ram\u00edrez",
+            "link": "/api/v1/people/682663"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 22,
+            "gamesPlayed": 91,
+            "groundOuts": 73,
+            "airOuts": 100,
+            "runs": 51,
+            "doubles": 15,
+            "triples": 11,
+            "homeRuns": 9,
+            "strikeOuts": 56,
+            "baseOnBalls": 21,
+            "intentionalWalks": 0,
+            "hits": 96,
+            "hitByPitch": 4,
+            "avg": ".299",
+            "atBats": 321,
+            "obp": ".347",
+            "slg": ".498",
+            "ops": ".845",
+            "caughtStealing": 6,
+            "stolenBases": 8,
+            "stolenBasePercentage": ".571",
+            "caughtStealingPercentage": ".429",
+            "groundIntoDoublePlay": 5,
+            "numberOfPitches": 1306,
+            "plateAppearances": 351,
+            "totalBases": 160,
+            "rbi": 41,
+            "leftOnBase": 138,
+            "sacBunts": 1,
+            "sacFlies": 3,
+            "babip": ".336",
+            "groundOutsToAirouts": "0.73",
+            "catchersInterference": 1,
+            "atBatsPerHomeRun": "35.67"
+          },
+          "team": {
+            "id": 120,
+            "name": "Washington Nationals",
+            "link": "/api/v1/teams/120"
+          },
+          "player": {
+            "id": 695734,
+            "fullName": "Daylen Lile",
+            "link": "/api/v1/people/695734"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

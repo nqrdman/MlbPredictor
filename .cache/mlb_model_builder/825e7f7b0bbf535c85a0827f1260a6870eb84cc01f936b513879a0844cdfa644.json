@@ -1,0 +1,55 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 680885,
+      "fullName": "Spencer Schwellenbach",
+      "link": "/api/v1/people/680885",
+      "firstName": "Spencer",
+      "lastName": "Schwellenbach",
+      "primaryNumber": "56",
+      "birthDate": "2000-05-31",
+      "currentAge": 25,
+      "birthCity": "Saginaw",
+      "birthStateProvince": "MI",
+      "birthCountry": "USA",
+      "height": "6' 1\"",
+      "weight": 200,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Spencer",
+      "useLastName": "Schwellenbach",
+      "middleName": "Drew",
+      "boxscoreName": "Schwellenbach",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2021,
+      "pronunciation": "SHWELL-ehn-bahk",
+      "mlbDebutDate": "2024-05-29",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Spencer Schwellenbach",
+      "nameSlug": "spencer-schwellenbach-680885",
+      "firstLastName": "Spencer Schwellenbach",
+      "lastFirstName": "Schwellenbach, Spencer",
+      "lastInitName": "Schwellenbach, S",
+      "initLastName": "S Schwellenbach",
+      "fullFMLName": "Spencer Drew Schwellenbach",
+      "fullLFMName": "Schwellenbach, Spencer Drew",
+      "strikeZoneTop": 3.37,
+      "strikeZoneBottom": 1.54
+    }
+  ]
+}

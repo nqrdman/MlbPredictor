@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 27,
+            "gamesPlayed": 160,
+            "groundOuts": 153,
+            "airOuts": 202,
+            "runs": 72,
+            "doubles": 33,
+            "triples": 1,
+            "homeRuns": 32,
+            "strikeOuts": 107,
+            "baseOnBalls": 49,
+            "intentionalWalks": 5,
+            "hits": 164,
+            "hitByPitch": 7,
+            "avg": ".264",
+            "atBats": 621,
+            "obp": ".323",
+            "slg": ".475",
+            "ops": ".798",
+            "caughtStealing": 0,
+            "stolenBases": 1,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 14,
+            "numberOfPitches": 2572,
+            "plateAppearances": 682,
+            "totalBases": 295,
+            "rbi": 113,
+            "leftOnBase": 289,
+            "sacBunts": 0,
+            "sacFlies": 5,
+            "babip": ".271",
+            "groundOutsToAirouts": "0.76",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "19.41"
+          },
+          "team": {
+            "id": 118,
+            "name": "Kansas City Royals",
+            "link": "/api/v1/teams/118"
+          },
+          "player": {
+            "id": 686469,
+            "fullName": "Vinnie Pasquantino",
+            "link": "/api/v1/people/686469"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

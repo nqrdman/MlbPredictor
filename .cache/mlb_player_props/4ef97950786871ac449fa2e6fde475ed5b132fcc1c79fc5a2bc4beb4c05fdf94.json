@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 687637,
+      "fullName": "Dylan Beavers",
+      "link": "/api/v1/people/687637",
+      "firstName": "Dylan",
+      "lastName": "Beavers",
+      "primaryNumber": "12",
+      "birthDate": "2001-08-11",
+      "currentAge": 24,
+      "birthCity": "San Luis Obispo",
+      "birthStateProvince": "CA",
+      "birthCountry": "USA",
+      "height": "6' 5\"",
+      "weight": 220,
+      "active": true,
+      "primaryPosition": {
+        "code": "9",
+        "name": "Outfielder",
+        "type": "Outfielder",
+        "abbreviation": "RF"
+      },
+      "useName": "Dylan",
+      "useLastName": "Beavers",
+      "middleName": "Matthew",
+      "boxscoreName": "Beavers",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2022,
+      "mlbDebutDate": "2025-08-16",
+      "batSide": {
+        "code": "L",
+        "description": "Left"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Dylan Beavers",
+      "nameSlug": "dylan-beavers-687637",
+      "firstLastName": "Dylan Beavers",
+      "lastFirstName": "Beavers, Dylan",
+      "lastInitName": "Beavers, D",
+      "initLastName": "D Beavers",
+      "fullFMLName": "Dylan Matthew Beavers",
+      "fullLFMName": "Beavers, Dylan Matthew",
+      "strikeZoneTop": 3.42,
+      "strikeZoneBottom": 1.73
+    }
+  ]
+}

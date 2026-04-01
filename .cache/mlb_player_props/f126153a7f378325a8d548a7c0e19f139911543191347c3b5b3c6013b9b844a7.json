@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 27,
+            "gamesPlayed": 104,
+            "groundOuts": 62,
+            "airOuts": 94,
+            "runs": 47,
+            "doubles": 16,
+            "triples": 3,
+            "homeRuns": 22,
+            "strikeOuts": 114,
+            "baseOnBalls": 46,
+            "intentionalWalks": 0,
+            "hits": 68,
+            "hitByPitch": 8,
+            "avg": ".202",
+            "atBats": 336,
+            "obp": ".311",
+            "slg": ".464",
+            "ops": ".775",
+            "caughtStealing": 3,
+            "stolenBases": 4,
+            "stolenBasePercentage": ".571",
+            "caughtStealingPercentage": ".429",
+            "groundIntoDoublePlay": 3,
+            "numberOfPitches": 1555,
+            "plateAppearances": 392,
+            "totalBases": 156,
+            "rbi": 40,
+            "leftOnBase": 128,
+            "sacBunts": 0,
+            "sacFlies": 2,
+            "babip": ".228",
+            "groundOutsToAirouts": "0.66",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "15.27"
+          },
+          "team": {
+            "id": 142,
+            "name": "Minnesota Twins",
+            "link": "/api/v1/teams/142"
+          },
+          "player": {
+            "id": 670242,
+            "fullName": "Matt Wallner",
+            "link": "/api/v1/people/670242"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

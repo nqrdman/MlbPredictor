@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 691781,
+      "fullName": "Brady House",
+      "link": "/api/v1/people/691781",
+      "firstName": "Brady",
+      "lastName": "House",
+      "primaryNumber": "12",
+      "birthDate": "2003-06-04",
+      "currentAge": 22,
+      "birthCity": "Winder",
+      "birthStateProvince": "GA",
+      "birthCountry": "USA",
+      "height": "6' 4\"",
+      "weight": 208,
+      "active": true,
+      "primaryPosition": {
+        "code": "5",
+        "name": "Third Base",
+        "type": "Infielder",
+        "abbreviation": "3B"
+      },
+      "useName": "Brady",
+      "useLastName": "House",
+      "middleName": "Hunter",
+      "boxscoreName": "House",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2021,
+      "mlbDebutDate": "2025-06-16",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Brady House",
+      "nameSlug": "brady-house-691781",
+      "firstLastName": "Brady House",
+      "lastFirstName": "House, Brady",
+      "lastInitName": "House, B",
+      "initLastName": "B House",
+      "fullFMLName": "Brady Hunter House",
+      "fullLFMName": "House, Brady Hunter",
+      "strikeZoneTop": 3.371,
+      "strikeZoneBottom": 1.701
+    }
+  ]
+}

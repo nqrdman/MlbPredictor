@@ -1,0 +1,55 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 686701,
+      "fullName": "Ryan Bergert",
+      "link": "/api/v1/people/686701",
+      "firstName": "Ryan",
+      "lastName": "Bergert",
+      "primaryNumber": "38",
+      "birthDate": "2000-03-08",
+      "currentAge": 26,
+      "birthCity": "Canton",
+      "birthStateProvince": "OH",
+      "birthCountry": "USA",
+      "height": "6' 1\"",
+      "weight": 210,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Ryan",
+      "useLastName": "Bergert",
+      "middleName": "Michael",
+      "boxscoreName": "Bergert",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2021,
+      "pronunciation": "Bur-GURT",
+      "mlbDebutDate": "2025-04-26",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Ryan Bergert",
+      "nameSlug": "ryan-bergert-686701",
+      "firstLastName": "Ryan Bergert",
+      "lastFirstName": "Bergert, Ryan",
+      "lastInitName": "Bergert, R",
+      "initLastName": "R Bergert",
+      "fullFMLName": "Ryan Michael Bergert",
+      "fullLFMName": "Bergert, Ryan Michael",
+      "strikeZoneTop": 3.255,
+      "strikeZoneBottom": 1.643
+    }
+  ]
+}

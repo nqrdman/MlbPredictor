@@ -1,0 +1,191 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "gamesPlayed": 138,
+            "groundOuts": 137,
+            "airOuts": 113,
+            "runs": 50,
+            "doubles": 25,
+            "triples": 0,
+            "homeRuns": 7,
+            "strikeOuts": 83,
+            "baseOnBalls": 22,
+            "intentionalWalks": 1,
+            "hits": 114,
+            "hitByPitch": 21,
+            "avg": ".257",
+            "atBats": 444,
+            "obp": ".320",
+            "slg": ".360",
+            "ops": ".680",
+            "caughtStealing": 0,
+            "stolenBases": 1,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 11,
+            "numberOfPitches": 1873,
+            "plateAppearances": 490,
+            "totalBases": 160,
+            "rbi": 52,
+            "leftOnBase": 183,
+            "sacBunts": 0,
+            "sacFlies": 3,
+            "babip": ".300",
+            "groundOutsToAirouts": "1.21",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "63.43"
+          },
+          "player": {
+            "id": 664034,
+            "fullName": "Ty France",
+            "link": "/api/v1/people/664034"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R",
+          "numTeams": 2
+        },
+        {
+          "season": "2025",
+          "stat": {
+            "age": 30,
+            "gamesPlayed": 37,
+            "groundOuts": 31,
+            "airOuts": 19,
+            "runs": 9,
+            "doubles": 6,
+            "triples": 0,
+            "homeRuns": 1,
+            "strikeOuts": 20,
+            "baseOnBalls": 3,
+            "intentionalWalks": 1,
+            "hits": 26,
+            "hitByPitch": 4,
+            "avg": ".277",
+            "atBats": 94,
+            "obp": ".320",
+            "slg": ".372",
+            "ops": ".692",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 3,
+            "numberOfPitches": 390,
+            "plateAppearances": 103,
+            "totalBases": 35,
+            "rbi": 8,
+            "leftOnBase": 37,
+            "sacBunts": 0,
+            "sacFlies": 2,
+            "babip": ".333",
+            "groundOutsToAirouts": "1.63",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "94.00"
+          },
+          "team": {
+            "id": 141,
+            "name": "Toronto Blue Jays",
+            "link": "/api/v1/teams/141"
+          },
+          "player": {
+            "id": 664034,
+            "fullName": "Ty France",
+            "link": "/api/v1/people/664034"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        },
+        {
+          "season": "2025",
+          "stat": {
+            "age": 30,
+            "gamesPlayed": 101,
+            "groundOuts": 106,
+            "airOuts": 94,
+            "runs": 41,
+            "doubles": 19,
+            "triples": 0,
+            "homeRuns": 6,
+            "strikeOuts": 63,
+            "baseOnBalls": 19,
+            "intentionalWalks": 0,
+            "hits": 88,
+            "hitByPitch": 17,
+            "avg": ".251",
+            "atBats": 350,
+            "obp": ".320",
+            "slg": ".357",
+            "ops": ".677",
+            "caughtStealing": 0,
+            "stolenBases": 1,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 8,
+            "numberOfPitches": 1483,
+            "plateAppearances": 387,
+            "totalBases": 125,
+            "rbi": 44,
+            "leftOnBase": 146,
+            "sacBunts": 0,
+            "sacFlies": 1,
+            "babip": ".291",
+            "groundOutsToAirouts": "1.13",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "58.33"
+          },
+          "team": {
+            "id": 142,
+            "name": "Minnesota Twins",
+            "link": "/api/v1/teams/142"
+          },
+          "player": {
+            "id": 664034,
+            "fullName": "Ty France",
+            "link": "/api/v1/people/664034"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

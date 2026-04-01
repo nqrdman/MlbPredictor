@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 26,
+            "gamesPlayed": 152,
+            "groundOuts": 111,
+            "airOuts": 141,
+            "runs": 63,
+            "doubles": 18,
+            "triples": 1,
+            "homeRuns": 37,
+            "strikeOuts": 151,
+            "baseOnBalls": 33,
+            "intentionalWalks": 0,
+            "hits": 124,
+            "hitByPitch": 10,
+            "avg": ".236",
+            "atBats": 526,
+            "obp": ".293",
+            "slg": ".485",
+            "ops": ".778",
+            "caughtStealing": 1,
+            "stolenBases": 5,
+            "stolenBasePercentage": ".833",
+            "caughtStealingPercentage": ".167",
+            "groundIntoDoublePlay": 10,
+            "numberOfPitches": 2220,
+            "plateAppearances": 573,
+            "totalBases": 255,
+            "rbi": 98,
+            "leftOnBase": 239,
+            "sacBunts": 0,
+            "sacFlies": 1,
+            "babip": ".257",
+            "groundOutsToAirouts": "0.79",
+            "catchersInterference": 3,
+            "atBatsPerHomeRun": "14.22"
+          },
+          "team": {
+            "id": 108,
+            "name": "Los Angeles Angels",
+            "link": "/api/v1/teams/108"
+          },
+          "player": {
+            "id": 666176,
+            "fullName": "Jo Adell",
+            "link": "/api/v1/people/666176"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

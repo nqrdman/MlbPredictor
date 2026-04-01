@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 669854,
+      "fullName": "Ronel Blanco",
+      "link": "/api/v1/people/669854",
+      "firstName": "Ronel",
+      "lastName": "Blanco",
+      "primaryNumber": "56",
+      "birthDate": "1993-08-31",
+      "currentAge": 32,
+      "birthCity": "Santiago",
+      "birthCountry": "Dominican Republic",
+      "height": "6' 3\"",
+      "weight": 265,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Ronel",
+      "useLastName": "Blanco",
+      "middleName": "De Jesus",
+      "boxscoreName": "Blanco",
+      "gender": "M",
+      "nameMatrilineal": "Nova",
+      "isPlayer": true,
+      "isVerified": false,
+      "pronunciation": "RO-nell",
+      "mlbDebutDate": "2022-04-08",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Ronel Blanco",
+      "nameSlug": "ronel-blanco-669854",
+      "firstLastName": "Ronel Blanco",
+      "lastFirstName": "Blanco, Ronel",
+      "lastInitName": "Blanco, R",
+      "initLastName": "R Blanco",
+      "fullFMLName": "Ronel De Jesus Blanco",
+      "fullLFMName": "Blanco, Ronel De Jesus",
+      "strikeZoneTop": 3.344,
+      "strikeZoneBottom": 1.688
+    }
+  ]
+}

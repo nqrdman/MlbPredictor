@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 702674,
+      "fullName": "Caden Dana",
+      "link": "/api/v1/people/702674",
+      "firstName": "Caden",
+      "lastName": "Dana",
+      "primaryNumber": "36",
+      "birthDate": "2003-12-17",
+      "currentAge": 22,
+      "birthCity": "Warwick",
+      "birthStateProvince": "NY",
+      "birthCountry": "USA",
+      "height": "6' 4\"",
+      "weight": 215,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Caden",
+      "useLastName": "Dana",
+      "middleName": "Lawrence",
+      "boxscoreName": "Dana",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2022,
+      "mlbDebutDate": "2024-09-01",
+      "batSide": {
+        "code": "L",
+        "description": "Left"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Caden Dana",
+      "nameSlug": "caden-dana-702674",
+      "firstLastName": "Caden Dana",
+      "lastFirstName": "Dana, Caden",
+      "lastInitName": "Dana, C",
+      "initLastName": "C Dana",
+      "fullFMLName": "Caden Lawrence Dana",
+      "fullLFMName": "Dana, Caden Lawrence",
+      "strikeZoneTop": 3.388,
+      "strikeZoneBottom": 1.71
+    }
+  ]
+}

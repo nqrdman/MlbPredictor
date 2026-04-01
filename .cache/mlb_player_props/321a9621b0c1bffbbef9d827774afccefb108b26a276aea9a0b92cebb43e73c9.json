@@ -1,0 +1,55 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 660162,
+      "fullName": "Yo\u00e1n Moncada",
+      "link": "/api/v1/people/660162",
+      "firstName": "Yo\u00e1n",
+      "lastName": "Moncada",
+      "primaryNumber": "10",
+      "birthDate": "1995-05-27",
+      "currentAge": 30,
+      "birthCity": "Cienfuegos",
+      "birthCountry": "Cuba",
+      "height": "6' 0\"",
+      "weight": 220,
+      "active": true,
+      "primaryPosition": {
+        "code": "5",
+        "name": "Third Base",
+        "type": "Infielder",
+        "abbreviation": "3B"
+      },
+      "useName": "Yo\u00e1n",
+      "useLastName": "Moncada",
+      "middleName": "Manuel",
+      "boxscoreName": "Moncada",
+      "nickName": "Yoyo",
+      "gender": "M",
+      "nameMatrilineal": "Olivera",
+      "isPlayer": true,
+      "isVerified": true,
+      "pronunciation": "YO-on moan-CAH-duh",
+      "mlbDebutDate": "2016-09-02",
+      "batSide": {
+        "code": "S",
+        "description": "Switch"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Yo\u00e1n Moncada",
+      "nameSlug": "yoan-moncada-660162",
+      "firstLastName": "Yo\u00e1n Moncada",
+      "lastFirstName": "Moncada, Yo\u00e1n",
+      "lastInitName": "Moncada, Y",
+      "initLastName": "Y Moncada",
+      "fullFMLName": "Yo\u00e1n Manuel Moncada",
+      "fullLFMName": "Moncada, Yo\u00e1n Manuel",
+      "strikeZoneTop": 3.217,
+      "strikeZoneBottom": 1.624
+    }
+  ]
+}

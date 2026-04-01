@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 27,
+            "gamesPlayed": 150,
+            "groundOuts": 172,
+            "airOuts": 133,
+            "runs": 89,
+            "doubles": 28,
+            "triples": 0,
+            "homeRuns": 17,
+            "strikeOuts": 120,
+            "baseOnBalls": 84,
+            "intentionalWalks": 4,
+            "hits": 147,
+            "hitByPitch": 3,
+            "avg": ".260",
+            "atBats": 566,
+            "obp": ".355",
+            "slg": ".399",
+            "ops": ".754",
+            "caughtStealing": 4,
+            "stolenBases": 6,
+            "stolenBasePercentage": ".600",
+            "caughtStealingPercentage": ".400",
+            "groundIntoDoublePlay": 14,
+            "numberOfPitches": 2556,
+            "plateAppearances": 659,
+            "totalBases": 226,
+            "rbi": 76,
+            "leftOnBase": 250,
+            "sacBunts": 0,
+            "sacFlies": 6,
+            "babip": ".299",
+            "groundOutsToAirouts": "1.29",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "33.29"
+          },
+          "team": {
+            "id": 158,
+            "name": "Milwaukee Brewers",
+            "link": "/api/v1/teams/158"
+          },
+          "player": {
+            "id": 661388,
+            "fullName": "William Contreras",
+            "link": "/api/v1/people/661388"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

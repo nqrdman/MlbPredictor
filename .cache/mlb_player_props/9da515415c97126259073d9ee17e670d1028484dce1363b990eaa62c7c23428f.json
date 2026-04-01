@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 32,
+            "gamesPlayed": 126,
+            "groundOuts": 99,
+            "airOuts": 105,
+            "runs": 55,
+            "doubles": 17,
+            "triples": 3,
+            "homeRuns": 12,
+            "strikeOuts": 109,
+            "baseOnBalls": 10,
+            "intentionalWalks": 0,
+            "hits": 107,
+            "hitByPitch": 6,
+            "avg": ".257",
+            "atBats": 417,
+            "obp": ".282",
+            "slg": ".398",
+            "ops": ".680",
+            "caughtStealing": 1,
+            "stolenBases": 5,
+            "stolenBasePercentage": ".833",
+            "caughtStealingPercentage": ".167",
+            "groundIntoDoublePlay": 8,
+            "numberOfPitches": 1543,
+            "plateAppearances": 437,
+            "totalBases": 166,
+            "rbi": 57,
+            "leftOnBase": 177,
+            "sacBunts": 0,
+            "sacFlies": 3,
+            "babip": ".318",
+            "groundOutsToAirouts": "0.94",
+            "catchersInterference": 1,
+            "atBatsPerHomeRun": "34.75"
+          },
+          "team": {
+            "id": 116,
+            "name": "Detroit Tigers",
+            "link": "/api/v1/teams/116"
+          },
+          "player": {
+            "id": 595879,
+            "fullName": "Javier B\u00e1ez",
+            "link": "/api/v1/people/595879"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

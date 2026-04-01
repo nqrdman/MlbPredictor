@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 24,
+            "gamesPlayed": 148,
+            "groundOuts": 108,
+            "airOuts": 119,
+            "runs": 62,
+            "doubles": 27,
+            "triples": 5,
+            "homeRuns": 16,
+            "strikeOuts": 174,
+            "baseOnBalls": 43,
+            "intentionalWalks": 0,
+            "hits": 139,
+            "hitByPitch": 4,
+            "avg": ".258",
+            "atBats": 539,
+            "obp": ".317",
+            "slg": ".416",
+            "ops": ".733",
+            "caughtStealing": 8,
+            "stolenBases": 19,
+            "stolenBasePercentage": ".704",
+            "caughtStealingPercentage": ".296",
+            "groundIntoDoublePlay": 9,
+            "numberOfPitches": 2336,
+            "plateAppearances": 588,
+            "totalBases": 224,
+            "rbi": 53,
+            "leftOnBase": 193,
+            "sacBunts": 0,
+            "sacFlies": 1,
+            "babip": ".351",
+            "groundOutsToAirouts": "0.91",
+            "catchersInterference": 1,
+            "atBatsPerHomeRun": "33.69"
+          },
+          "team": {
+            "id": 115,
+            "name": "Colorado Rockies",
+            "link": "/api/v1/teams/115"
+          },
+          "player": {
+            "id": 687597,
+            "fullName": "Jordan Beck",
+            "link": "/api/v1/people/687597"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 27,
+            "gamesPlayed": 146,
+            "groundOuts": 99,
+            "airOuts": 163,
+            "runs": 66,
+            "doubles": 21,
+            "triples": 2,
+            "homeRuns": 21,
+            "strikeOuts": 129,
+            "baseOnBalls": 51,
+            "intentionalWalks": 0,
+            "hits": 121,
+            "hitByPitch": 5,
+            "avg": ".238",
+            "atBats": 509,
+            "obp": ".312",
+            "slg": ".411",
+            "ops": ".723",
+            "caughtStealing": 1,
+            "stolenBases": 7,
+            "stolenBasePercentage": ".875",
+            "caughtStealingPercentage": ".125",
+            "groundIntoDoublePlay": 12,
+            "numberOfPitches": 2316,
+            "plateAppearances": 568,
+            "totalBases": 209,
+            "rbi": 75,
+            "leftOnBase": 221,
+            "sacBunts": 1,
+            "sacFlies": 2,
+            "babip": ".277",
+            "groundOutsToAirouts": "0.61",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "24.24"
+          },
+          "team": {
+            "id": 113,
+            "name": "Cincinnati Reds",
+            "link": "/api/v1/teams/113"
+          },
+          "player": {
+            "id": 668715,
+            "fullName": "Spencer Steer",
+            "link": "/api/v1/people/668715"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

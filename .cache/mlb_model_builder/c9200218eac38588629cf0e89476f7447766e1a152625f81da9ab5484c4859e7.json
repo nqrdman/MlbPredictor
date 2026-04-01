@@ -1,0 +1,55 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 592866,
+      "fullName": "Trevor Williams",
+      "link": "/api/v1/people/592866",
+      "firstName": "Trevor",
+      "lastName": "Williams",
+      "primaryNumber": "32",
+      "birthDate": "1992-04-25",
+      "currentAge": 33,
+      "birthCity": "San Diego",
+      "birthStateProvince": "CA",
+      "birthCountry": "USA",
+      "height": "6' 3\"",
+      "weight": 231,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Trevor",
+      "useLastName": "Williams",
+      "middleName": "Anthony",
+      "boxscoreName": "Williams",
+      "nickName": "Project",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2013,
+      "mlbDebutDate": "2016-09-07",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Trevor Williams",
+      "nameSlug": "trevor-williams-592866",
+      "firstLastName": "Trevor Williams",
+      "lastFirstName": "Williams, Trevor",
+      "lastInitName": "Williams, T",
+      "initLastName": "T Williams",
+      "fullFMLName": "Trevor Anthony Williams",
+      "fullLFMName": "Williams, Trevor Anthony",
+      "strikeZoneTop": 3.17,
+      "strikeZoneBottom": 1.55
+    }
+  ]
+}

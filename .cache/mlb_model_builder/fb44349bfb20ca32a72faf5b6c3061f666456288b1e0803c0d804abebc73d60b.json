@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 663485,
+      "fullName": "Cole Sands",
+      "link": "/api/v1/people/663485",
+      "firstName": "Bryson",
+      "lastName": "Sands",
+      "primaryNumber": "44",
+      "birthDate": "1997-07-17",
+      "currentAge": 28,
+      "birthCity": "Tallahassee",
+      "birthStateProvince": "FL",
+      "birthCountry": "USA",
+      "height": "6' 3\"",
+      "weight": 215,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Cole",
+      "useLastName": "Sands",
+      "middleName": "Cole",
+      "boxscoreName": "Sands",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2018,
+      "mlbDebutDate": "2022-05-01",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Cole Sands",
+      "nameSlug": "cole-sands-663485",
+      "firstLastName": "Cole Sands",
+      "lastFirstName": "Sands, Cole",
+      "lastInitName": "Sands, C",
+      "initLastName": "C Sands",
+      "fullFMLName": "Bryson Cole Sands",
+      "fullLFMName": "Sands, Bryson Cole",
+      "strikeZoneTop": 3.344,
+      "strikeZoneBottom": 1.688
+    }
+  ]
+}

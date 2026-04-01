@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 690990,
+      "fullName": "Cade Horton",
+      "link": "/api/v1/people/690990",
+      "firstName": "Cade",
+      "lastName": "Horton",
+      "primaryNumber": "22",
+      "birthDate": "2001-08-20",
+      "currentAge": 24,
+      "birthCity": "Oklahoma City",
+      "birthStateProvince": "OK",
+      "birthCountry": "USA",
+      "height": "6' 1\"",
+      "weight": 211,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Cade",
+      "useLastName": "Horton",
+      "middleName": "Michael",
+      "boxscoreName": "Horton",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2022,
+      "mlbDebutDate": "2025-05-10",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Cade Horton",
+      "nameSlug": "cade-horton-690990",
+      "firstLastName": "Cade Horton",
+      "lastFirstName": "Horton, Cade",
+      "lastInitName": "Horton, C",
+      "initLastName": "C Horton",
+      "fullFMLName": "Cade Michael Horton",
+      "fullLFMName": "Horton, Cade Michael",
+      "strikeZoneTop": 3.253,
+      "strikeZoneBottom": 1.642
+    }
+  ]
+}

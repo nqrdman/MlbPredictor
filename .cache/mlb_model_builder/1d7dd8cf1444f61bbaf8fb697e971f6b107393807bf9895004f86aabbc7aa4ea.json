@@ -1,0 +1,56 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 502043,
+      "fullName": "Kyle Gibson",
+      "link": "/api/v1/people/502043",
+      "firstName": "Kyle",
+      "lastName": "Gibson",
+      "primaryNumber": "32",
+      "birthDate": "1987-10-23",
+      "currentAge": 38,
+      "birthCity": "Greenfield",
+      "birthStateProvince": "IN",
+      "birthCountry": "USA",
+      "height": "6' 6\"",
+      "weight": 200,
+      "active": false,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Kyle",
+      "useLastName": "Gibson",
+      "middleName": "Benjamin",
+      "boxscoreName": "Gibson, K",
+      "nickName": "Gibby",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2009,
+      "lastPlayedDate": "2025-05-17",
+      "mlbDebutDate": "2013-06-29",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Kyle Gibson",
+      "nameSlug": "kyle-gibson-502043",
+      "firstLastName": "Kyle Gibson",
+      "lastFirstName": "Gibson, Kyle",
+      "lastInitName": "Gibson, K",
+      "initLastName": "K Gibson",
+      "fullFMLName": "Kyle Benjamin Gibson",
+      "fullLFMName": "Gibson, Kyle Benjamin",
+      "strikeZoneTop": 3.478,
+      "strikeZoneBottom": 1.755
+    }
+  ]
+}

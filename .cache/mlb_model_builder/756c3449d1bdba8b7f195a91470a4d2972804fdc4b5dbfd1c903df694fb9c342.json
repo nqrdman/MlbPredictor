@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 656240,
+      "fullName": "Scott Blewett",
+      "link": "/api/v1/people/656240",
+      "firstName": "Scott",
+      "lastName": "Blewett",
+      "primaryNumber": "66",
+      "birthDate": "1996-04-10",
+      "currentAge": 29,
+      "birthCity": "Syracuse",
+      "birthStateProvince": "NY",
+      "birthCountry": "USA",
+      "height": "6' 6\"",
+      "weight": 245,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Scott",
+      "useLastName": "Blewett",
+      "middleName": "Thomas",
+      "boxscoreName": "Blewett",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2014,
+      "mlbDebutDate": "2020-09-18",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Scott Blewett",
+      "nameSlug": "scott-blewett-656240",
+      "firstLastName": "Scott Blewett",
+      "lastFirstName": "Blewett, Scott",
+      "lastInitName": "Blewett, S",
+      "initLastName": "S Blewett",
+      "fullFMLName": "Scott Thomas Blewett",
+      "fullLFMName": "Blewett, Scott Thomas",
+      "strikeZoneTop": 3.478,
+      "strikeZoneBottom": 1.755
+    }
+  ]
+}

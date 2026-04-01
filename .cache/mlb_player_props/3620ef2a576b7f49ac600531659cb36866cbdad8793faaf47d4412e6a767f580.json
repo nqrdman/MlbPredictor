@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 24,
+            "gamesPlayed": 143,
+            "groundOuts": 111,
+            "airOuts": 158,
+            "runs": 107,
+            "doubles": 32,
+            "triples": 17,
+            "homeRuns": 31,
+            "strikeOuts": 153,
+            "baseOnBalls": 67,
+            "intentionalWalks": 4,
+            "hits": 146,
+            "hitByPitch": 7,
+            "avg": ".259",
+            "atBats": 564,
+            "obp": ".343",
+            "slg": ".541",
+            "ops": ".884",
+            "caughtStealing": 6,
+            "stolenBases": 32,
+            "stolenBasePercentage": ".842",
+            "caughtStealingPercentage": ".158",
+            "groundIntoDoublePlay": 6,
+            "numberOfPitches": 2497,
+            "plateAppearances": 642,
+            "totalBases": 305,
+            "rbi": 84,
+            "leftOnBase": 205,
+            "sacBunts": 0,
+            "sacFlies": 4,
+            "babip": ".299",
+            "groundOutsToAirouts": "0.70",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "18.19"
+          },
+          "team": {
+            "id": 109,
+            "name": "Arizona Diamondbacks",
+            "link": "/api/v1/teams/109"
+          },
+          "player": {
+            "id": 682998,
+            "fullName": "Corbin Carroll",
+            "link": "/api/v1/people/682998"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 682227,
+      "fullName": "Brandon Williamson",
+      "link": "/api/v1/people/682227",
+      "firstName": "Brandon",
+      "lastName": "Williamson",
+      "primaryNumber": "55",
+      "birthDate": "1998-04-02",
+      "currentAge": 27,
+      "birthCity": "Fairmont",
+      "birthStateProvince": "MN",
+      "birthCountry": "USA",
+      "height": "6' 6\"",
+      "weight": 210,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Brandon",
+      "useLastName": "Williamson",
+      "middleName": "Martin",
+      "boxscoreName": "Williamson",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2019,
+      "mlbDebutDate": "2023-05-16",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "L",
+        "description": "Left"
+      },
+      "nameFirstLast": "Brandon Williamson",
+      "nameSlug": "brandon-williamson-682227",
+      "firstLastName": "Brandon Williamson",
+      "lastFirstName": "Williamson, Brandon",
+      "lastInitName": "Williamson, B",
+      "initLastName": "B Williamson",
+      "fullFMLName": "Brandon Martin Williamson",
+      "fullLFMName": "Williamson, Brandon Martin",
+      "strikeZoneTop": 3.478,
+      "strikeZoneBottom": 1.755
+    }
+  ]
+}

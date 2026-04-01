@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 621043,
+      "fullName": "Carlos Correa",
+      "link": "/api/v1/people/621043",
+      "firstName": "Carlos",
+      "lastName": "Correa",
+      "primaryNumber": "1",
+      "birthDate": "1994-09-22",
+      "currentAge": 31,
+      "birthCity": "Ponce",
+      "birthCountry": "Puerto Rico",
+      "height": "6' 3\"",
+      "weight": 220,
+      "active": true,
+      "primaryPosition": {
+        "code": "6",
+        "name": "Shortstop",
+        "type": "Infielder",
+        "abbreviation": "SS"
+      },
+      "useName": "Carlos",
+      "useLastName": "Correa",
+      "middleName": "Javier",
+      "boxscoreName": "Correa",
+      "nickName": "I Am Groot",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2012,
+      "mlbDebutDate": "2015-06-08",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Carlos Correa",
+      "nameSlug": "carlos-correa-621043",
+      "firstLastName": "Carlos Correa",
+      "lastFirstName": "Correa, Carlos",
+      "lastInitName": "Correa, C",
+      "initLastName": "C Correa",
+      "fullFMLName": "Carlos Javier Correa",
+      "fullLFMName": "Correa, Carlos Javier",
+      "strikeZoneTop": 3.337,
+      "strikeZoneBottom": 1.684
+    }
+  ]
+}

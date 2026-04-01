@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 25,
+            "gamesPlayed": 126,
+            "groundOuts": 75,
+            "airOuts": 131,
+            "runs": 51,
+            "doubles": 22,
+            "triples": 1,
+            "homeRuns": 21,
+            "strikeOuts": 118,
+            "baseOnBalls": 30,
+            "intentionalWalks": 0,
+            "hits": 88,
+            "hitByPitch": 5,
+            "avg": ".219",
+            "atBats": 401,
+            "obp": ".275",
+            "slg": ".436",
+            "ops": ".711",
+            "caughtStealing": 1,
+            "stolenBases": 5,
+            "stolenBasePercentage": ".833",
+            "caughtStealingPercentage": ".167",
+            "groundIntoDoublePlay": 10,
+            "numberOfPitches": 1794,
+            "plateAppearances": 448,
+            "totalBases": 175,
+            "rbi": 71,
+            "leftOnBase": 177,
+            "sacBunts": 0,
+            "sacFlies": 11,
+            "babip": ".245",
+            "groundOutsToAirouts": "0.57",
+            "catchersInterference": 1,
+            "atBatsPerHomeRun": "19.10"
+          },
+          "team": {
+            "id": 147,
+            "name": "New York Yankees",
+            "link": "/api/v1/teams/147"
+          },
+          "player": {
+            "id": 669224,
+            "fullName": "Austin Wells",
+            "link": "/api/v1/people/669224"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

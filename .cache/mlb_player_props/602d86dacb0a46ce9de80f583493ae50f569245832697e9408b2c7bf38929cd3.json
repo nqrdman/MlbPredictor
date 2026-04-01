@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 32,
+            "gamesPlayed": 158,
+            "groundOuts": 135,
+            "airOuts": 222,
+            "runs": 103,
+            "doubles": 34,
+            "triples": 3,
+            "homeRuns": 30,
+            "strikeOuts": 74,
+            "baseOnBalls": 66,
+            "intentionalWalks": 22,
+            "hits": 168,
+            "hitByPitch": 8,
+            "avg": ".283",
+            "atBats": 593,
+            "obp": ".360",
+            "slg": ".503",
+            "ops": ".863",
+            "caughtStealing": 7,
+            "stolenBases": 44,
+            "stolenBasePercentage": ".863",
+            "caughtStealingPercentage": ".137",
+            "groundIntoDoublePlay": 9,
+            "numberOfPitches": 2666,
+            "plateAppearances": 673,
+            "totalBases": 298,
+            "rbi": 85,
+            "leftOnBase": 210,
+            "sacBunts": 0,
+            "sacFlies": 5,
+            "babip": ".279",
+            "groundOutsToAirouts": "0.61",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "19.77"
+          },
+          "team": {
+            "id": 114,
+            "name": "Cleveland Guardians",
+            "link": "/api/v1/teams/114"
+          },
+          "player": {
+            "id": 608070,
+            "fullName": "Jos\u00e9 Ram\u00edrez",
+            "link": "/api/v1/people/608070"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

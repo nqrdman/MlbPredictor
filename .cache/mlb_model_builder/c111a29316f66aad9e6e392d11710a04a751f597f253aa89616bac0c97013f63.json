@@ -1,0 +1,55 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 596295,
+      "fullName": "Austin Gomber",
+      "link": "/api/v1/people/596295",
+      "firstName": "Austin",
+      "lastName": "Gomber",
+      "primaryNumber": "40",
+      "birthDate": "1993-11-23",
+      "currentAge": 32,
+      "birthCity": "Winter Garden",
+      "birthStateProvince": "FL",
+      "birthCountry": "USA",
+      "height": "6' 5\"",
+      "weight": 220,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Austin",
+      "useLastName": "Gomber",
+      "middleName": "Zachary",
+      "boxscoreName": "Gomber",
+      "nickName": "Big G",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2014,
+      "mlbDebutDate": "2018-06-02",
+      "batSide": {
+        "code": "L",
+        "description": "Left"
+      },
+      "pitchHand": {
+        "code": "L",
+        "description": "Left"
+      },
+      "nameFirstLast": "Austin Gomber",
+      "nameSlug": "austin-gomber-596295",
+      "firstLastName": "Austin Gomber",
+      "lastFirstName": "Gomber, Austin",
+      "lastInitName": "Gomber, A",
+      "initLastName": "A Gomber",
+      "fullFMLName": "Austin Zachary Gomber",
+      "fullLFMName": "Gomber, Austin Zachary",
+      "strikeZoneTop": 3.433,
+      "strikeZoneBottom": 1.733
+    }
+  ]
+}

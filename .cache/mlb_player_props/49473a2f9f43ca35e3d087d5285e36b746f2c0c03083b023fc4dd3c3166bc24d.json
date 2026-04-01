@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 24,
+            "gamesPlayed": 138,
+            "groundOuts": 104,
+            "airOuts": 110,
+            "runs": 54,
+            "doubles": 15,
+            "triples": 1,
+            "homeRuns": 5,
+            "strikeOuts": 111,
+            "baseOnBalls": 42,
+            "intentionalWalks": 0,
+            "hits": 86,
+            "hitByPitch": 10,
+            "avg": ".216",
+            "atBats": 398,
+            "obp": ".305",
+            "slg": ".296",
+            "ops": ".601",
+            "caughtStealing": 4,
+            "stolenBases": 34,
+            "stolenBasePercentage": ".895",
+            "caughtStealingPercentage": ".105",
+            "groundIntoDoublePlay": 3,
+            "numberOfPitches": 1703,
+            "plateAppearances": 463,
+            "totalBases": 118,
+            "rbi": 37,
+            "leftOnBase": 161,
+            "sacBunts": 10,
+            "sacFlies": 3,
+            "babip": ".284",
+            "groundOutsToAirouts": "0.95",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "79.60"
+          },
+          "team": {
+            "id": 138,
+            "name": "St. Louis Cardinals",
+            "link": "/api/v1/teams/138"
+          },
+          "player": {
+            "id": 687363,
+            "fullName": "Victor Scott II",
+            "link": "/api/v1/people/687363"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

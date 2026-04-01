@@ -1,0 +1,187 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "gamesPlayed": 119,
+            "groundOuts": 73,
+            "airOuts": 112,
+            "runs": 46,
+            "doubles": 12,
+            "triples": 4,
+            "homeRuns": 19,
+            "strikeOuts": 93,
+            "baseOnBalls": 29,
+            "intentionalWalks": 1,
+            "hits": 74,
+            "hitByPitch": 5,
+            "avg": ".213",
+            "atBats": 348,
+            "obp": ".281",
+            "slg": ".434",
+            "ops": ".715",
+            "caughtStealing": 1,
+            "stolenBases": 5,
+            "stolenBasePercentage": ".833",
+            "caughtStealingPercentage": ".167",
+            "groundIntoDoublePlay": 4,
+            "numberOfPitches": 1529,
+            "plateAppearances": 386,
+            "totalBases": 151,
+            "rbi": 52,
+            "leftOnBase": 153,
+            "sacBunts": 2,
+            "sacFlies": 2,
+            "babip": ".231",
+            "groundOutsToAirouts": "0.65",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "18.32"
+          },
+          "player": {
+            "id": 665019,
+            "fullName": "Kody Clemens",
+            "link": "/api/v1/people/665019"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R",
+          "numTeams": 2,
+          "numLeagues": 2
+        },
+        {
+          "season": "2025",
+          "stat": {
+            "age": 29,
+            "gamesPlayed": 112,
+            "groundOuts": 69,
+            "airOuts": 110,
+            "runs": 46,
+            "doubles": 12,
+            "triples": 4,
+            "homeRuns": 19,
+            "strikeOuts": 93,
+            "baseOnBalls": 28,
+            "intentionalWalks": 1,
+            "hits": 74,
+            "hitByPitch": 5,
+            "avg": ".216",
+            "atBats": 342,
+            "obp": ".284",
+            "slg": ".442",
+            "ops": ".726",
+            "caughtStealing": 1,
+            "stolenBases": 5,
+            "stolenBasePercentage": ".833",
+            "caughtStealingPercentage": ".167",
+            "groundIntoDoublePlay": 4,
+            "numberOfPitches": 1500,
+            "plateAppearances": 379,
+            "totalBases": 151,
+            "rbi": 52,
+            "leftOnBase": 150,
+            "sacBunts": 2,
+            "sacFlies": 2,
+            "babip": ".237",
+            "groundOutsToAirouts": "0.63",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "18.00"
+          },
+          "team": {
+            "id": 142,
+            "name": "Minnesota Twins",
+            "link": "/api/v1/teams/142"
+          },
+          "player": {
+            "id": 665019,
+            "fullName": "Kody Clemens",
+            "link": "/api/v1/people/665019"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        },
+        {
+          "season": "2025",
+          "stat": {
+            "age": 29,
+            "gamesPlayed": 7,
+            "groundOuts": 4,
+            "airOuts": 2,
+            "runs": 0,
+            "doubles": 0,
+            "triples": 0,
+            "homeRuns": 0,
+            "strikeOuts": 0,
+            "baseOnBalls": 1,
+            "intentionalWalks": 0,
+            "hits": 0,
+            "hitByPitch": 0,
+            "avg": ".000",
+            "atBats": 6,
+            "obp": ".143",
+            "slg": ".000",
+            "ops": ".143",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 0,
+            "numberOfPitches": 29,
+            "plateAppearances": 7,
+            "totalBases": 0,
+            "rbi": 0,
+            "leftOnBase": 3,
+            "sacBunts": 0,
+            "sacFlies": 0,
+            "babip": ".000",
+            "groundOutsToAirouts": "2.00",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "-.--"
+          },
+          "team": {
+            "id": 143,
+            "name": "Philadelphia Phillies",
+            "link": "/api/v1/teams/143"
+          },
+          "player": {
+            "id": 665019,
+            "fullName": "Kody Clemens",
+            "link": "/api/v1/people/665019"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

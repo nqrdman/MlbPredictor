@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 30,
+            "gamesPlayed": 158,
+            "groundOuts": 120,
+            "airOuts": 134,
+            "runs": 146,
+            "doubles": 25,
+            "triples": 9,
+            "homeRuns": 55,
+            "strikeOuts": 187,
+            "baseOnBalls": 109,
+            "intentionalWalks": 20,
+            "hits": 172,
+            "hitByPitch": 3,
+            "avg": ".282",
+            "atBats": 611,
+            "obp": ".392",
+            "slg": ".622",
+            "ops": "1.014",
+            "caughtStealing": 6,
+            "stolenBases": 20,
+            "stolenBasePercentage": ".769",
+            "caughtStealingPercentage": ".231",
+            "groundIntoDoublePlay": 9,
+            "numberOfPitches": 2865,
+            "plateAppearances": 727,
+            "totalBases": 380,
+            "rbi": 102,
+            "leftOnBase": 188,
+            "sacBunts": 0,
+            "sacFlies": 2,
+            "babip": ".315",
+            "groundOutsToAirouts": "0.90",
+            "catchersInterference": 2,
+            "atBatsPerHomeRun": "11.11"
+          },
+          "team": {
+            "id": 119,
+            "name": "Los Angeles Dodgers",
+            "link": "/api/v1/teams/119"
+          },
+          "player": {
+            "id": 660271,
+            "fullName": "Shohei Ohtani",
+            "link": "/api/v1/people/660271"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

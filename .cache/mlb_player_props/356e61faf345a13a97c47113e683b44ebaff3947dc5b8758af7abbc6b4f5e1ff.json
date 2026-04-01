@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 27,
+            "gamesPlayed": 147,
+            "groundOuts": 116,
+            "airOuts": 170,
+            "runs": 66,
+            "doubles": 22,
+            "triples": 3,
+            "homeRuns": 13,
+            "strikeOuts": 91,
+            "baseOnBalls": 54,
+            "intentionalWalks": 1,
+            "hits": 128,
+            "hitByPitch": 1,
+            "avg": ".257",
+            "atBats": 499,
+            "obp": ".328",
+            "slg": ".391",
+            "ops": ".719",
+            "caughtStealing": 5,
+            "stolenBases": 24,
+            "stolenBasePercentage": ".828",
+            "caughtStealingPercentage": ".172",
+            "groundIntoDoublePlay": 4,
+            "numberOfPitches": 2466,
+            "plateAppearances": 560,
+            "totalBases": 195,
+            "rbi": 66,
+            "leftOnBase": 211,
+            "sacBunts": 2,
+            "sacFlies": 4,
+            "babip": ".288",
+            "groundOutsToAirouts": "0.68",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "38.38"
+          },
+          "team": {
+            "id": 143,
+            "name": "Philadelphia Phillies",
+            "link": "/api/v1/teams/143"
+          },
+          "player": {
+            "id": 681082,
+            "fullName": "Bryson Stott",
+            "link": "/api/v1/people/681082"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

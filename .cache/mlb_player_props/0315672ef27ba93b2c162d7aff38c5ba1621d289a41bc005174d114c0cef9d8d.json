@@ -1,0 +1,56 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 518595,
+      "fullName": "Travis d'Arnaud",
+      "link": "/api/v1/people/518595",
+      "firstName": "Travis",
+      "lastName": "d'Arnaud",
+      "primaryNumber": "25",
+      "birthDate": "1989-02-10",
+      "currentAge": 37,
+      "birthCity": "Long Beach",
+      "birthStateProvince": "CA",
+      "birthCountry": "USA",
+      "height": "6' 0\"",
+      "weight": 210,
+      "active": true,
+      "primaryPosition": {
+        "code": "2",
+        "name": "Catcher",
+        "type": "Catcher",
+        "abbreviation": "C"
+      },
+      "useName": "Travis",
+      "useLastName": "d'Arnaud",
+      "middleName": "E.",
+      "boxscoreName": "d'Arnaud",
+      "nickName": "Little d'",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2007,
+      "pronunciation": "dar-NO",
+      "mlbDebutDate": "2013-08-17",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Travis d'Arnaud",
+      "nameSlug": "travis-d-arnaud-518595",
+      "firstLastName": "Travis d'Arnaud",
+      "lastFirstName": "d'Arnaud, Travis",
+      "lastInitName": "d'Arnaud, T",
+      "initLastName": "T d'Arnaud",
+      "fullFMLName": "Travis E. d'Arnaud",
+      "fullLFMName": "d'Arnaud, Travis E.",
+      "strikeZoneTop": 3.195,
+      "strikeZoneBottom": 1.612
+    }
+  ]
+}

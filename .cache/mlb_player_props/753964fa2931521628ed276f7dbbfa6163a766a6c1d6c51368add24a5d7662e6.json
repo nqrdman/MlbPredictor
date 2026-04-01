@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 26,
+            "gamesPlayed": 96,
+            "groundOuts": 104,
+            "airOuts": 109,
+            "runs": 39,
+            "doubles": 18,
+            "triples": 3,
+            "homeRuns": 5,
+            "strikeOuts": 73,
+            "baseOnBalls": 21,
+            "intentionalWalks": 0,
+            "hits": 99,
+            "hitByPitch": 2,
+            "avg": ".260",
+            "atBats": 381,
+            "obp": ".299",
+            "slg": ".362",
+            "ops": ".661",
+            "caughtStealing": 2,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".000",
+            "caughtStealingPercentage": "1.000",
+            "groundIntoDoublePlay": 12,
+            "numberOfPitches": 1405,
+            "plateAppearances": 408,
+            "totalBases": 138,
+            "rbi": 30,
+            "leftOnBase": 157,
+            "sacBunts": 0,
+            "sacFlies": 4,
+            "babip": ".306",
+            "groundOutsToAirouts": "0.95",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "76.20"
+          },
+          "team": {
+            "id": 134,
+            "name": "Pittsburgh Pirates",
+            "link": "/api/v1/teams/134"
+          },
+          "player": {
+            "id": 693304,
+            "fullName": "Nick Gonzales",
+            "link": "/api/v1/people/693304"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

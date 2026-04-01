@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 27,
+            "gamesPlayed": 156,
+            "groundOuts": 167,
+            "airOuts": 238,
+            "runs": 81,
+            "doubles": 29,
+            "triples": 1,
+            "homeRuns": 11,
+            "strikeOuts": 60,
+            "baseOnBalls": 55,
+            "intentionalWalks": 2,
+            "hits": 170,
+            "hitByPitch": 3,
+            "avg": ".272",
+            "atBats": 625,
+            "obp": ".330",
+            "slg": ".374",
+            "ops": ".704",
+            "caughtStealing": 5,
+            "stolenBases": 21,
+            "stolenBasePercentage": ".808",
+            "caughtStealingPercentage": ".192",
+            "groundIntoDoublePlay": 3,
+            "numberOfPitches": 2786,
+            "plateAppearances": 693,
+            "totalBases": 234,
+            "rbi": 56,
+            "leftOnBase": 168,
+            "sacBunts": 3,
+            "sacFlies": 7,
+            "babip": ".283",
+            "groundOutsToAirouts": "0.70",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "56.82"
+          },
+          "team": {
+            "id": 114,
+            "name": "Cleveland Guardians",
+            "link": "/api/v1/teams/114"
+          },
+          "player": {
+            "id": 680757,
+            "fullName": "Steven Kwan",
+            "link": "/api/v1/people/680757"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

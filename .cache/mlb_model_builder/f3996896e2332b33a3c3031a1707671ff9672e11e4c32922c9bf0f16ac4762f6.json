@@ -1,0 +1,56 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 642152,
+      "fullName": "Lou Trivino",
+      "link": "/api/v1/people/642152",
+      "firstName": "Lou",
+      "lastName": "Trivino",
+      "primaryNumber": "22",
+      "birthDate": "1991-10-01",
+      "currentAge": 34,
+      "birthCity": "Green Lane",
+      "birthStateProvince": "PA",
+      "birthCountry": "USA",
+      "height": "6' 5\"",
+      "weight": 232,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Lou",
+      "useLastName": "Trivino",
+      "middleName": "Albert",
+      "boxscoreName": "Trivino",
+      "nickName": "Sweet Lou",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2013,
+      "pronunciation": "tri-VEE-noh",
+      "mlbDebutDate": "2018-04-17",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Lou Trivino",
+      "nameSlug": "lou-trivino-642152",
+      "firstLastName": "Lou Trivino",
+      "lastFirstName": "Trivino, Lou",
+      "lastInitName": "Trivino, L",
+      "initLastName": "L Trivino",
+      "fullFMLName": "Lou Albert Trivino",
+      "fullLFMName": "Trivino, Lou Albert",
+      "strikeZoneTop": 3.433,
+      "strikeZoneBottom": 1.733
+    }
+  ]
+}

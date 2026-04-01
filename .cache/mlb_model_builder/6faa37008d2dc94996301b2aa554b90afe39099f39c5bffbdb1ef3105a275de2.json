@@ -1,0 +1,53 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 674370,
+      "fullName": "Osvaldo Bido",
+      "link": "/api/v1/people/674370",
+      "firstName": "Osvaldo",
+      "lastName": "Bido",
+      "primaryNumber": "70",
+      "birthDate": "1995-10-18",
+      "currentAge": 30,
+      "birthCity": "Los Hidalgos",
+      "birthCountry": "Dominican Republic",
+      "height": "6' 3\"",
+      "weight": 175,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Osvaldo",
+      "useLastName": "Bido",
+      "boxscoreName": "Bido",
+      "gender": "M",
+      "nameMatrilineal": "Ventura",
+      "isPlayer": true,
+      "isVerified": true,
+      "pronunciation": "ohs-WAHL-doh BEE-doh",
+      "mlbDebutDate": "2023-06-14",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Osvaldo Bido",
+      "nameSlug": "osvaldo-bido-674370",
+      "firstLastName": "Osvaldo Bido",
+      "lastFirstName": "Bido, Osvaldo",
+      "lastInitName": "Bido, O",
+      "initLastName": "O Bido",
+      "fullFMLName": "Osvaldo  Bido",
+      "fullLFMName": "Bido, Osvaldo",
+      "strikeZoneTop": 3.344,
+      "strikeZoneBottom": 1.688
+    }
+  ]
+}

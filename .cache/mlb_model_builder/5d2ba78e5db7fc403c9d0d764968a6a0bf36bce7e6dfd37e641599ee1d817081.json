@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 694363,
+      "fullName": "Jared Shuster",
+      "link": "/api/v1/people/694363",
+      "firstName": "Jared",
+      "lastName": "Shuster",
+      "primaryNumber": "94",
+      "birthDate": "1998-08-03",
+      "currentAge": 27,
+      "birthCity": "New Bedford",
+      "birthStateProvince": "MA",
+      "birthCountry": "USA",
+      "height": "6' 3\"",
+      "weight": 220,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Jared",
+      "useLastName": "Shuster",
+      "middleName": "Craig",
+      "boxscoreName": "Shuster",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2020,
+      "mlbDebutDate": "2023-04-02",
+      "batSide": {
+        "code": "L",
+        "description": "Left"
+      },
+      "pitchHand": {
+        "code": "L",
+        "description": "Left"
+      },
+      "nameFirstLast": "Jared Shuster",
+      "nameSlug": "jared-shuster-694363",
+      "firstLastName": "Jared Shuster",
+      "lastFirstName": "Shuster, Jared",
+      "lastInitName": "Shuster, J",
+      "initLastName": "J Shuster",
+      "fullFMLName": "Jared Craig Shuster",
+      "fullLFMName": "Shuster, Jared Craig",
+      "strikeZoneTop": 3.344,
+      "strikeZoneBottom": 1.688
+    }
+  ]
+}

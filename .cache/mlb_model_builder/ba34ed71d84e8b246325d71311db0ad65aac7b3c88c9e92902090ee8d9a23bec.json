@@ -1,0 +1,55 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 801403,
+      "fullName": "Chase Dollander",
+      "link": "/api/v1/people/801403",
+      "firstName": "Tyler",
+      "lastName": "Dollander",
+      "primaryNumber": "32",
+      "birthDate": "2001-10-26",
+      "currentAge": 24,
+      "birthCity": "Evans",
+      "birthStateProvince": "GA",
+      "birthCountry": "USA",
+      "height": "6' 2\"",
+      "weight": 200,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Chase",
+      "useLastName": "Dollander",
+      "middleName": "Chase",
+      "boxscoreName": "Dollander",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2023,
+      "pronunciation": "DOE-land-err",
+      "mlbDebutDate": "2025-04-06",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Chase Dollander",
+      "nameSlug": "chase-dollander-801403",
+      "firstLastName": "Chase Dollander",
+      "lastFirstName": "Dollander, Chase",
+      "lastInitName": "Dollander, C",
+      "initLastName": "C Dollander",
+      "fullFMLName": "Tyler Chase Dollander",
+      "fullLFMName": "Dollander, Tyler Chase",
+      "strikeZoneTop": 3.299,
+      "strikeZoneBottom": 1.665
+    }
+  ]
+}

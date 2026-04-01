@@ -1,0 +1,187 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "gamesPlayed": 63,
+            "groundOuts": 53,
+            "airOuts": 48,
+            "runs": 20,
+            "doubles": 11,
+            "triples": 0,
+            "homeRuns": 6,
+            "strikeOuts": 31,
+            "baseOnBalls": 7,
+            "intentionalWalks": 0,
+            "hits": 50,
+            "hitByPitch": 2,
+            "avg": ".276",
+            "atBats": 181,
+            "obp": ".309",
+            "slg": ".436",
+            "ops": ".745",
+            "caughtStealing": 0,
+            "stolenBases": 1,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 6,
+            "numberOfPitches": 646,
+            "plateAppearances": 191,
+            "totalBases": 79,
+            "rbi": 23,
+            "leftOnBase": 68,
+            "sacBunts": 0,
+            "sacFlies": 1,
+            "babip": ".303",
+            "groundOutsToAirouts": "1.10",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "30.17"
+          },
+          "player": {
+            "id": 642708,
+            "fullName": "Amed Rosario",
+            "link": "/api/v1/people/642708"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R",
+          "numTeams": 2,
+          "numLeagues": 2
+        },
+        {
+          "season": "2025",
+          "stat": {
+            "age": 29,
+            "gamesPlayed": 47,
+            "groundOuts": 45,
+            "airOuts": 42,
+            "runs": 19,
+            "doubles": 8,
+            "triples": 0,
+            "homeRuns": 5,
+            "strikeOuts": 22,
+            "baseOnBalls": 7,
+            "intentionalWalks": 0,
+            "hits": 40,
+            "hitByPitch": 2,
+            "avg": ".270",
+            "atBats": 148,
+            "obp": ".310",
+            "slg": ".426",
+            "ops": ".736",
+            "caughtStealing": 0,
+            "stolenBases": 1,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 5,
+            "numberOfPitches": 528,
+            "plateAppearances": 158,
+            "totalBases": 63,
+            "rbi": 18,
+            "leftOnBase": 57,
+            "sacBunts": 0,
+            "sacFlies": 1,
+            "babip": ".287",
+            "groundOutsToAirouts": "1.07",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "29.60"
+          },
+          "team": {
+            "id": 120,
+            "name": "Washington Nationals",
+            "link": "/api/v1/teams/120"
+          },
+          "player": {
+            "id": 642708,
+            "fullName": "Amed Rosario",
+            "link": "/api/v1/people/642708"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        },
+        {
+          "season": "2025",
+          "stat": {
+            "age": 29,
+            "gamesPlayed": 16,
+            "groundOuts": 8,
+            "airOuts": 6,
+            "runs": 1,
+            "doubles": 3,
+            "triples": 0,
+            "homeRuns": 1,
+            "strikeOuts": 9,
+            "baseOnBalls": 0,
+            "intentionalWalks": 0,
+            "hits": 10,
+            "hitByPitch": 0,
+            "avg": ".303",
+            "atBats": 33,
+            "obp": ".303",
+            "slg": ".485",
+            "ops": ".788",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 1,
+            "numberOfPitches": 118,
+            "plateAppearances": 33,
+            "totalBases": 16,
+            "rbi": 5,
+            "leftOnBase": 11,
+            "sacBunts": 0,
+            "sacFlies": 0,
+            "babip": ".391",
+            "groundOutsToAirouts": "1.33",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "33.00"
+          },
+          "team": {
+            "id": 147,
+            "name": "New York Yankees",
+            "link": "/api/v1/teams/147"
+          },
+          "player": {
+            "id": 642708,
+            "fullName": "Amed Rosario",
+            "link": "/api/v1/people/642708"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

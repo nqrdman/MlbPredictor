@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 28,
+            "gamesPlayed": 89,
+            "groundOuts": 79,
+            "airOuts": 78,
+            "runs": 34,
+            "doubles": 18,
+            "triples": 0,
+            "homeRuns": 7,
+            "strikeOuts": 98,
+            "baseOnBalls": 15,
+            "intentionalWalks": 0,
+            "hits": 83,
+            "hitByPitch": 4,
+            "avg": ".250",
+            "atBats": 332,
+            "obp": ".286",
+            "slg": ".367",
+            "ops": ".653",
+            "caughtStealing": 0,
+            "stolenBases": 3,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 10,
+            "numberOfPitches": 1354,
+            "plateAppearances": 357,
+            "totalBases": 122,
+            "rbi": 35,
+            "leftOnBase": 147,
+            "sacBunts": 0,
+            "sacFlies": 6,
+            "babip": ".326",
+            "groundOutsToAirouts": "1.01",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "47.43"
+          },
+          "team": {
+            "id": 110,
+            "name": "Baltimore Orioles",
+            "link": "/api/v1/teams/110"
+          },
+          "player": {
+            "id": 663624,
+            "fullName": "Ryan Mountcastle",
+            "link": "/api/v1/people/663624"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

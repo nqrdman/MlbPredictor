@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 27,
+            "gamesPlayed": 123,
+            "groundOuts": 107,
+            "airOuts": 143,
+            "runs": 73,
+            "doubles": 32,
+            "triples": 0,
+            "homeRuns": 31,
+            "strikeOuts": 103,
+            "baseOnBalls": 36,
+            "intentionalWalks": 1,
+            "hits": 133,
+            "hitByPitch": 1,
+            "avg": ".277",
+            "atBats": 481,
+            "obp": ".325",
+            "slg": ".536",
+            "ops": ".861",
+            "caughtStealing": 1,
+            "stolenBases": 7,
+            "stolenBasePercentage": ".875",
+            "caughtStealingPercentage": ".125",
+            "groundIntoDoublePlay": 10,
+            "numberOfPitches": 1924,
+            "plateAppearances": 523,
+            "totalBases": 258,
+            "rbi": 72,
+            "leftOnBase": 206,
+            "sacBunts": 0,
+            "sacFlies": 5,
+            "babip": ".290",
+            "groundOutsToAirouts": "0.75",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "15.52"
+          },
+          "team": {
+            "id": 133,
+            "name": "Athletics",
+            "link": "/api/v1/teams/133"
+          },
+          "player": {
+            "id": 669127,
+            "fullName": "Shea Langeliers",
+            "link": "/api/v1/people/669127"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 450203,
+      "fullName": "Charlie Morton",
+      "link": "/api/v1/people/450203",
+      "firstName": "Charles",
+      "lastName": "Morton",
+      "birthDate": "1983-11-12",
+      "currentAge": 42,
+      "birthCity": "Flemington",
+      "birthStateProvince": "NJ",
+      "birthCountry": "USA",
+      "height": "6' 5\"",
+      "weight": 215,
+      "active": false,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Charlie",
+      "useLastName": "Morton",
+      "middleName": "A.",
+      "boxscoreName": "Morton, C",
+      "nickName": "Ground Chuck",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2002,
+      "lastPlayedDate": "2025-09-28",
+      "mlbDebutDate": "2008-06-14",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Charlie Morton",
+      "nameSlug": "charlie-morton-450203",
+      "firstLastName": "Charlie Morton",
+      "lastFirstName": "Morton, Charlie",
+      "lastInitName": "Morton, C",
+      "initLastName": "C Morton",
+      "fullFMLName": "Charles A. Morton",
+      "fullLFMName": "Morton, Charles A.",
+      "strikeZoneTop": 3.51,
+      "strikeZoneBottom": 1.63
+    }
+  ]
+}

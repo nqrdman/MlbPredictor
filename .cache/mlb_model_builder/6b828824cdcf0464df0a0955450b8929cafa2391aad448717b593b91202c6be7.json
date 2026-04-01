@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 687922,
+      "fullName": "Easton Lucas",
+      "link": "/api/v1/people/687922",
+      "firstName": "Easton",
+      "lastName": "Lucas",
+      "primaryNumber": "62",
+      "birthDate": "1996-09-23",
+      "currentAge": 29,
+      "birthCity": "Thousand Oaks",
+      "birthStateProvince": "CA",
+      "birthCountry": "USA",
+      "height": "6' 4\"",
+      "weight": 180,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Easton",
+      "useLastName": "Lucas",
+      "middleName": "James",
+      "boxscoreName": "Lucas",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2019,
+      "mlbDebutDate": "2023-09-08",
+      "batSide": {
+        "code": "L",
+        "description": "Left"
+      },
+      "pitchHand": {
+        "code": "L",
+        "description": "Left"
+      },
+      "nameFirstLast": "Easton Lucas",
+      "nameSlug": "easton-lucas-687922",
+      "firstLastName": "Easton Lucas",
+      "lastFirstName": "Lucas, Easton",
+      "lastInitName": "Lucas, E",
+      "initLastName": "E Lucas",
+      "fullFMLName": "Easton James Lucas",
+      "fullLFMName": "Lucas, Easton James",
+      "strikeZoneTop": 3.388,
+      "strikeZoneBottom": 1.71
+    }
+  ]
+}

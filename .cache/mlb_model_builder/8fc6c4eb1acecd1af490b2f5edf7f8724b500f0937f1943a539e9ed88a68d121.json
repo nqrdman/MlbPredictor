@@ -1,0 +1,55 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 680951,
+      "fullName": "Doug Nikhazy",
+      "link": "/api/v1/people/680951",
+      "firstName": "Douglas",
+      "lastName": "Nikhazy",
+      "primaryNumber": "65",
+      "birthDate": "1999-08-11",
+      "currentAge": 26,
+      "birthCity": "Burlington",
+      "birthStateProvince": "NC",
+      "birthCountry": "USA",
+      "height": "6' 0\"",
+      "weight": 210,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Doug",
+      "useLastName": "Nikhazy",
+      "middleName": "Samuel",
+      "boxscoreName": "Nikhazy",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2021,
+      "pronunciation": "NICK-hazy",
+      "mlbDebutDate": "2025-04-26",
+      "batSide": {
+        "code": "L",
+        "description": "Left"
+      },
+      "pitchHand": {
+        "code": "L",
+        "description": "Left"
+      },
+      "nameFirstLast": "Doug Nikhazy",
+      "nameSlug": "doug-nikhazy-680951",
+      "firstLastName": "Doug Nikhazy",
+      "lastFirstName": "Nikhazy, Doug",
+      "lastInitName": "Nikhazy, D",
+      "initLastName": "D Nikhazy",
+      "fullFMLName": "Douglas Samuel Nikhazy",
+      "fullLFMName": "Nikhazy, Douglas Samuel",
+      "strikeZoneTop": 3.3,
+      "strikeZoneBottom": 1.5
+    }
+  ]
+}

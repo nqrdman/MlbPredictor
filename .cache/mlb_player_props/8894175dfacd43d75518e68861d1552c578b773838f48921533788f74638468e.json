@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 600869,
+      "fullName": "Jeimer Candelario",
+      "link": "/api/v1/people/600869",
+      "firstName": "Jeimer",
+      "lastName": "Candelario",
+      "primaryNumber": "46",
+      "birthDate": "1993-11-24",
+      "currentAge": 32,
+      "birthCity": "New York",
+      "birthStateProvince": "NY",
+      "birthCountry": "USA",
+      "height": "6' 1\"",
+      "weight": 222,
+      "active": true,
+      "primaryPosition": {
+        "code": "5",
+        "name": "Third Base",
+        "type": "Infielder",
+        "abbreviation": "3B"
+      },
+      "useName": "Jeimer",
+      "useLastName": "Candelario",
+      "boxscoreName": "Candelario",
+      "nickName": "Candy",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "pronunciation": "JAY-mer can-duh-LAR-ee-oh",
+      "mlbDebutDate": "2016-07-03",
+      "batSide": {
+        "code": "S",
+        "description": "Switch"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Jeimer Candelario",
+      "nameSlug": "jeimer-candelario-600869",
+      "firstLastName": "Jeimer Candelario",
+      "lastFirstName": "Candelario, Jeimer",
+      "lastInitName": "Candelario, J",
+      "initLastName": "J Candelario",
+      "fullFMLName": "Jeimer Candelario",
+      "fullLFMName": "Candelario, Jeimer",
+      "strikeZoneTop": 3.232,
+      "strikeZoneBottom": 1.631
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 630105,
+      "fullName": "Jake Cronenworth",
+      "link": "/api/v1/people/630105",
+      "firstName": "Jacob",
+      "lastName": "Cronenworth",
+      "primaryNumber": "9",
+      "birthDate": "1994-01-21",
+      "currentAge": 32,
+      "birthCity": "St. Clair",
+      "birthStateProvince": "MI",
+      "birthCountry": "USA",
+      "height": "5' 11\"",
+      "weight": 187,
+      "active": true,
+      "primaryPosition": {
+        "code": "4",
+        "name": "Second Base",
+        "type": "Infielder",
+        "abbreviation": "2B"
+      },
+      "useName": "Jake",
+      "useLastName": "Cronenworth",
+      "middleName": "John",
+      "boxscoreName": "Cronenworth",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2015,
+      "pronunciation": "CROW-nen-worth",
+      "mlbDebutDate": "2020-07-26",
+      "batSide": {
+        "code": "L",
+        "description": "Left"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Jake Cronenworth",
+      "nameSlug": "jake-cronenworth-630105",
+      "firstLastName": "Jake Cronenworth",
+      "lastFirstName": "Cronenworth, Jake",
+      "lastInitName": "Cronenworth, J",
+      "initLastName": "J Cronenworth",
+      "fullFMLName": "Jacob John Cronenworth",
+      "fullLFMName": "Cronenworth, Jacob John",
+      "strikeZoneTop": 3.172,
+      "strikeZoneBottom": 1.601
+    }
+  ]
+}

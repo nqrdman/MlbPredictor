@@ -1,0 +1,56 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 608331,
+      "fullName": "Max Fried",
+      "link": "/api/v1/people/608331",
+      "firstName": "Max",
+      "lastName": "Fried",
+      "primaryNumber": "54",
+      "birthDate": "1994-01-18",
+      "currentAge": 32,
+      "birthCity": "Santa Monica",
+      "birthStateProvince": "CA",
+      "birthCountry": "USA",
+      "height": "6' 4\"",
+      "weight": 190,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Max",
+      "useLastName": "Fried",
+      "middleName": "Dorian",
+      "boxscoreName": "Fried",
+      "nickName": "Maximus",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2012,
+      "pronunciation": "FREED",
+      "mlbDebutDate": "2017-08-08",
+      "batSide": {
+        "code": "L",
+        "description": "Left"
+      },
+      "pitchHand": {
+        "code": "L",
+        "description": "Left"
+      },
+      "nameFirstLast": "Max Fried",
+      "nameSlug": "max-fried-608331",
+      "firstLastName": "Max Fried",
+      "lastFirstName": "Fried, Max",
+      "lastInitName": "Fried, M",
+      "initLastName": "M Fried",
+      "fullFMLName": "Max Dorian Fried",
+      "fullLFMName": "Fried, Max Dorian",
+      "strikeZoneTop": 3.37,
+      "strikeZoneBottom": 1.56
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 29,
+            "gamesPlayed": 118,
+            "groundOuts": 138,
+            "airOuts": 85,
+            "runs": 37,
+            "doubles": 18,
+            "triples": 1,
+            "homeRuns": 3,
+            "strikeOuts": 64,
+            "baseOnBalls": 19,
+            "intentionalWalks": 0,
+            "hits": 120,
+            "hitByPitch": 2,
+            "avg": ".296",
+            "atBats": 405,
+            "obp": ".330",
+            "slg": ".368",
+            "ops": ".698",
+            "caughtStealing": 6,
+            "stolenBases": 27,
+            "stolenBasePercentage": ".818",
+            "caughtStealingPercentage": ".182",
+            "groundIntoDoublePlay": 4,
+            "numberOfPitches": 1442,
+            "plateAppearances": 428,
+            "totalBases": 149,
+            "rbi": 40,
+            "leftOnBase": 159,
+            "sacBunts": 1,
+            "sacFlies": 1,
+            "babip": ".345",
+            "groundOutsToAirouts": "1.62",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "135.00"
+          },
+          "team": {
+            "id": 139,
+            "name": "Tampa Bay Rays",
+            "link": "/api/v1/teams/139"
+          },
+          "player": {
+            "id": 663968,
+            "fullName": "Jake Mangum",
+            "link": "/api/v1/people/663968"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

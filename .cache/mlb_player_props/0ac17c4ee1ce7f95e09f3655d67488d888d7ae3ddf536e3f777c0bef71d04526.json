@@ -1,0 +1,55 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 671218,
+      "fullName": "Heliot Ramos",
+      "link": "/api/v1/people/671218",
+      "firstName": "Heliot",
+      "lastName": "Ramos",
+      "primaryNumber": "17",
+      "birthDate": "1999-09-07",
+      "currentAge": 26,
+      "birthCity": "Humacao",
+      "birthCountry": "Puerto Rico",
+      "height": "5' 11\"",
+      "weight": 235,
+      "active": true,
+      "primaryPosition": {
+        "code": "7",
+        "name": "Outfielder",
+        "type": "Outfielder",
+        "abbreviation": "LF"
+      },
+      "useName": "Heliot",
+      "useLastName": "Ramos",
+      "middleName": "Lemuel",
+      "boxscoreName": "Ramos, H",
+      "gender": "M",
+      "nameMatrilineal": "Lebron",
+      "isPlayer": true,
+      "isVerified": false,
+      "draftYear": 2017,
+      "pronunciation": "Elliot",
+      "mlbDebutDate": "2022-04-10",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Heliot Ramos",
+      "nameSlug": "heliot-ramos-671218",
+      "firstLastName": "Heliot Ramos",
+      "lastFirstName": "Ramos, Heliot",
+      "lastInitName": "Ramos, H",
+      "initLastName": "H Ramos",
+      "fullFMLName": "Heliot Lemuel Ramos",
+      "fullLFMName": "Ramos, Heliot Lemuel",
+      "strikeZoneTop": 3.18,
+      "strikeZoneBottom": 1.61
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 800049,
+      "fullName": "Adam Mazur",
+      "link": "/api/v1/people/800049",
+      "firstName": "Adam",
+      "lastName": "Mazur",
+      "primaryNumber": "60",
+      "birthDate": "2001-04-20",
+      "currentAge": 24,
+      "birthCity": "St. Paul",
+      "birthStateProvince": "MN",
+      "birthCountry": "USA",
+      "height": "6' 2\"",
+      "weight": 180,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Adam",
+      "useLastName": "Mazur",
+      "middleName": "McKinnlee",
+      "boxscoreName": "Mazur",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2022,
+      "pronunciation": "may-zhur",
+      "mlbDebutDate": "2024-06-04",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Adam Mazur",
+      "nameSlug": "adam-mazur-800049",
+      "firstLastName": "Adam Mazur",
+      "lastFirstName": "Mazur, Adam",
+      "lastInitName": "Mazur, A",
+      "initLastName": "A Mazur",
+      "fullFMLName": "Adam McKinnlee Mazur",
+      "fullLFMName": "Mazur, Adam McKinnlee",
+      "strikeZoneTop": 3.299,
+      "strikeZoneBottom": 1.665
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 477132,
+      "fullName": "Clayton Kershaw",
+      "link": "/api/v1/people/477132",
+      "firstName": "Clayton",
+      "lastName": "Kershaw",
+      "primaryNumber": "22",
+      "birthDate": "1988-03-19",
+      "currentAge": 38,
+      "birthCity": "Dallas",
+      "birthStateProvince": "TX",
+      "birthCountry": "USA",
+      "height": "6' 4\"",
+      "weight": 225,
+      "active": false,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Clayton",
+      "useLastName": "Kershaw",
+      "middleName": "Edward",
+      "boxscoreName": "Kershaw",
+      "nickName": "Kersh",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2006,
+      "lastPlayedDate": "2025-09-28",
+      "mlbDebutDate": "2008-05-25",
+      "batSide": {
+        "code": "L",
+        "description": "Left"
+      },
+      "pitchHand": {
+        "code": "L",
+        "description": "Left"
+      },
+      "nameFirstLast": "Clayton Kershaw",
+      "nameSlug": "clayton-kershaw-477132",
+      "firstLastName": "Clayton Kershaw",
+      "lastFirstName": "Kershaw, Clayton",
+      "lastInitName": "Kershaw, C",
+      "initLastName": "C Kershaw",
+      "fullFMLName": "Clayton Edward Kershaw",
+      "fullLFMName": "Kershaw, Clayton Edward",
+      "strikeZoneTop": 3.36,
+      "strikeZoneBottom": 1.6
+    }
+  ]
+}

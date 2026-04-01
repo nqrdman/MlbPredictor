@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 669721,
+      "fullName": "Davis Daniel",
+      "link": "/api/v1/people/669721",
+      "firstName": "Robert",
+      "lastName": "Daniel",
+      "primaryNumber": "58",
+      "birthDate": "1997-06-11",
+      "currentAge": 28,
+      "birthCity": "Atlanta",
+      "birthStateProvince": "GA",
+      "birthCountry": "USA",
+      "height": "6' 1\"",
+      "weight": 190,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Davis",
+      "useLastName": "Daniel",
+      "middleName": "Davis",
+      "boxscoreName": "Daniel",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2019,
+      "mlbDebutDate": "2023-09-07",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Davis Daniel",
+      "nameSlug": "davis-daniel-669721",
+      "firstLastName": "Davis Daniel",
+      "lastFirstName": "Daniel, Davis",
+      "lastInitName": "Daniel, D",
+      "initLastName": "D Daniel",
+      "fullFMLName": "Robert Davis Daniel",
+      "fullLFMName": "Daniel, Robert Davis",
+      "strikeZoneTop": 3.255,
+      "strikeZoneBottom": 1.643
+    }
+  ]
+}

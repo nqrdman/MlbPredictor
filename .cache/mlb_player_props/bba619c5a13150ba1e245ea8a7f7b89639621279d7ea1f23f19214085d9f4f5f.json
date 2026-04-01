@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 22,
+            "gamesPlayed": 117,
+            "groundOuts": 73,
+            "airOuts": 77,
+            "runs": 90,
+            "doubles": 26,
+            "triples": 2,
+            "homeRuns": 36,
+            "strikeOuts": 151,
+            "baseOnBalls": 63,
+            "intentionalWalks": 3,
+            "hits": 122,
+            "hitByPitch": 2,
+            "avg": ".290",
+            "atBats": 420,
+            "obp": ".383",
+            "slg": ".619",
+            "ops": "1.002",
+            "caughtStealing": 1,
+            "stolenBases": 2,
+            "stolenBasePercentage": ".667",
+            "caughtStealingPercentage": ".333",
+            "groundIntoDoublePlay": 4,
+            "numberOfPitches": 1954,
+            "plateAppearances": 489,
+            "totalBases": 260,
+            "rbi": 86,
+            "leftOnBase": 158,
+            "sacBunts": 0,
+            "sacFlies": 3,
+            "babip": ".364",
+            "groundOutsToAirouts": "0.95",
+            "catchersInterference": 1,
+            "atBatsPerHomeRun": "11.67"
+          },
+          "team": {
+            "id": 133,
+            "name": "Athletics",
+            "link": "/api/v1/teams/133"
+          },
+          "player": {
+            "id": 701762,
+            "fullName": "Nick Kurtz",
+            "link": "/api/v1/people/701762"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

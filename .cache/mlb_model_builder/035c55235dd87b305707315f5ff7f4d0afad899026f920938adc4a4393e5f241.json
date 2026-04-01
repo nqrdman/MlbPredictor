@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 681857,
+      "fullName": "Reese Olson",
+      "link": "/api/v1/people/681857",
+      "firstName": "William",
+      "lastName": "Olson",
+      "primaryNumber": "45",
+      "birthDate": "1999-07-31",
+      "currentAge": 26,
+      "birthCity": "Gainesville",
+      "birthStateProvince": "GA",
+      "birthCountry": "USA",
+      "height": "6' 1\"",
+      "weight": 160,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Reese",
+      "useLastName": "Olson",
+      "middleName": "Reese",
+      "boxscoreName": "Olson",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": false,
+      "draftYear": 2018,
+      "mlbDebutDate": "2023-06-02",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Reese Olson",
+      "nameSlug": "reese-olson-681857",
+      "firstLastName": "Reese Olson",
+      "lastFirstName": "Olson, Reese",
+      "lastInitName": "Olson, R",
+      "initLastName": "R Olson",
+      "fullFMLName": "William Reese Olson",
+      "fullLFMName": "Olson, William Reese",
+      "strikeZoneTop": 3.255,
+      "strikeZoneBottom": 1.643
+    }
+  ]
+}

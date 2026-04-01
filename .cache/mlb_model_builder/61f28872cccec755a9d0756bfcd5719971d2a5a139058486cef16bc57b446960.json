@@ -1,0 +1,55 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 690953,
+      "fullName": "Mick Abel",
+      "link": "/api/v1/people/690953",
+      "firstName": "McLean",
+      "lastName": "Abel",
+      "primaryNumber": "20",
+      "birthDate": "2001-08-18",
+      "currentAge": 24,
+      "birthCity": "Portland",
+      "birthStateProvince": "OR",
+      "birthCountry": "USA",
+      "height": "6' 5\"",
+      "weight": 190,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Mick",
+      "useLastName": "Abel",
+      "middleName": "Stine",
+      "boxscoreName": "Abel",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2020,
+      "pronunciation": "AY-bull",
+      "mlbDebutDate": "2025-05-18",
+      "batSide": {
+        "code": "R",
+        "description": "Right"
+      },
+      "pitchHand": {
+        "code": "R",
+        "description": "Right"
+      },
+      "nameFirstLast": "Mick Abel",
+      "nameSlug": "mick-abel-690953",
+      "firstLastName": "Mick Abel",
+      "lastFirstName": "Abel, Mick",
+      "lastInitName": "Abel, M",
+      "initLastName": "M Abel",
+      "fullFMLName": "McLean Stine Abel",
+      "fullLFMName": "Abel, McLean Stine",
+      "strikeZoneTop": 3.433,
+      "strikeZoneBottom": 1.733
+    }
+  ]
+}

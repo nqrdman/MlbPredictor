@@ -1,0 +1,191 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "gamesPlayed": 144,
+            "groundOuts": 153,
+            "airOuts": 124,
+            "runs": 63,
+            "doubles": 29,
+            "triples": 0,
+            "homeRuns": 13,
+            "strikeOuts": 113,
+            "baseOnBalls": 45,
+            "intentionalWalks": 0,
+            "hits": 148,
+            "hitByPitch": 1,
+            "avg": ".276",
+            "atBats": 537,
+            "obp": ".332",
+            "slg": ".402",
+            "ops": ".734",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 19,
+            "numberOfPitches": 2311,
+            "plateAppearances": 584,
+            "totalBases": 216,
+            "rbi": 52,
+            "leftOnBase": 252,
+            "sacBunts": 0,
+            "sacFlies": 1,
+            "babip": ".328",
+            "groundOutsToAirouts": "1.23",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "41.31"
+          },
+          "player": {
+            "id": 621043,
+            "fullName": "Carlos Correa",
+            "link": "/api/v1/people/621043"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R",
+          "numTeams": 2
+        },
+        {
+          "season": "2025",
+          "stat": {
+            "age": 30,
+            "gamesPlayed": 51,
+            "groundOuts": 55,
+            "airOuts": 42,
+            "runs": 23,
+            "doubles": 10,
+            "triples": 0,
+            "homeRuns": 6,
+            "strikeOuts": 45,
+            "baseOnBalls": 19,
+            "intentionalWalks": 0,
+            "hits": 58,
+            "hitByPitch": 1,
+            "avg": ".290",
+            "atBats": 200,
+            "obp": ".355",
+            "slg": ".430",
+            "ops": ".785",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 7,
+            "numberOfPitches": 912,
+            "plateAppearances": 220,
+            "totalBases": 86,
+            "rbi": 21,
+            "leftOnBase": 91,
+            "sacBunts": 0,
+            "sacFlies": 0,
+            "babip": ".349",
+            "groundOutsToAirouts": "1.31",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "33.33"
+          },
+          "team": {
+            "id": 117,
+            "name": "Houston Astros",
+            "link": "/api/v1/teams/117"
+          },
+          "player": {
+            "id": 621043,
+            "fullName": "Carlos Correa",
+            "link": "/api/v1/people/621043"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        },
+        {
+          "season": "2025",
+          "stat": {
+            "age": 30,
+            "gamesPlayed": 93,
+            "groundOuts": 98,
+            "airOuts": 82,
+            "runs": 40,
+            "doubles": 19,
+            "triples": 0,
+            "homeRuns": 7,
+            "strikeOuts": 68,
+            "baseOnBalls": 26,
+            "intentionalWalks": 0,
+            "hits": 90,
+            "hitByPitch": 0,
+            "avg": ".267",
+            "atBats": 337,
+            "obp": ".319",
+            "slg": ".386",
+            "ops": ".705",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 12,
+            "numberOfPitches": 1399,
+            "plateAppearances": 364,
+            "totalBases": 130,
+            "rbi": 31,
+            "leftOnBase": 161,
+            "sacBunts": 0,
+            "sacFlies": 1,
+            "babip": ".316",
+            "groundOutsToAirouts": "1.20",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "48.14"
+          },
+          "team": {
+            "id": 142,
+            "name": "Minnesota Twins",
+            "link": "/api/v1/teams/142"
+          },
+          "player": {
+            "id": 621043,
+            "fullName": "Carlos Correa",
+            "link": "/api/v1/people/621043"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

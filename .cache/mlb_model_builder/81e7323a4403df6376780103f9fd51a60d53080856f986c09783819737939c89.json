@@ -1,0 +1,334 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "gameLog"
+      },
+      "group": {
+        "displayName": "pitching"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "summary": "2.0 IP, 0 ER, 2 K, 0 BB",
+            "gamesPlayed": 1,
+            "gamesStarted": 0,
+            "flyOuts": 1,
+            "groundOuts": 2,
+            "airOuts": 2,
+            "runs": 0,
+            "doubles": 1,
+            "triples": 0,
+            "homeRuns": 0,
+            "strikeOuts": 2,
+            "baseOnBalls": 0,
+            "intentionalWalks": 0,
+            "hits": 2,
+            "hitByPitch": 0,
+            "avg": ".250",
+            "atBats": 8,
+            "obp": ".250",
+            "slg": ".375",
+            "ops": ".625",
+            "caughtStealing": 0,
+            "stolenBases": 1,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 0,
+            "numberOfPitches": 29,
+            "era": "0.00",
+            "inningsPitched": "2.0",
+            "wins": 1,
+            "losses": 0,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 0,
+            "whip": "1.00",
+            "battersFaced": 8,
+            "outs": 6,
+            "gamesPitched": 1,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 22,
+            "strikePercentage": ".760",
+            "hitBatsmen": 0,
+            "balks": 0,
+            "wildPitches": 0,
+            "pickoffs": 0,
+            "totalBases": 3,
+            "groundOutsToAirouts": "1.00",
+            "winPercentage": "1.000",
+            "pitchesPerInning": "14.50",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "-.--",
+            "strikeoutsPer9Inn": "9.00",
+            "walksPer9Inn": "0.00",
+            "hitsPer9Inn": "9.00",
+            "runsScoredPer9": "0.00",
+            "homeRunsPer9": "0.00",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 0,
+            "sacFlies": 0
+          },
+          "team": {
+            "id": 141,
+            "name": "Toronto Blue Jays",
+            "link": "/api/v1/teams/141"
+          },
+          "player": {
+            "id": 605513,
+            "fullName": "Spencer Turnbull",
+            "link": "/api/v1/people/605513"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "opponent": {
+            "id": 138,
+            "name": "St. Louis Cardinals",
+            "link": "/api/v1/teams/138"
+          },
+          "date": "2025-06-11",
+          "gameType": "R",
+          "isHome": false,
+          "isWin": true,
+          "game": {
+            "gamePk": 777545,
+            "link": "/api/v1.1/game/777545/feed/live",
+            "content": {
+              "link": "/api/v1/game/777545/content"
+            },
+            "gameNumber": 1,
+            "dayNight": "day"
+          }
+        },
+        {
+          "season": "2025",
+          "stat": {
+            "summary": "2.1 IP, ER, 0 K, 2 BB",
+            "gamesPlayed": 1,
+            "gamesStarted": 0,
+            "flyOuts": 1,
+            "groundOuts": 4,
+            "airOuts": 2,
+            "runs": 1,
+            "doubles": 0,
+            "triples": 0,
+            "homeRuns": 0,
+            "strikeOuts": 0,
+            "baseOnBalls": 2,
+            "intentionalWalks": 0,
+            "hits": 5,
+            "hitByPitch": 0,
+            "avg": ".368",
+            "atBats": 11,
+            "obp": ".538",
+            "slg": ".455",
+            "ops": ".993",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 1,
+            "numberOfPitches": 51,
+            "era": "2.08",
+            "inningsPitched": "2.1",
+            "wins": 0,
+            "losses": 0,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 1,
+            "whip": "2.08",
+            "battersFaced": 13,
+            "outs": 7,
+            "gamesPitched": 1,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 33,
+            "strikePercentage": ".650",
+            "hitBatsmen": 0,
+            "balks": 0,
+            "wildPitches": 0,
+            "pickoffs": 0,
+            "totalBases": 5,
+            "groundOutsToAirouts": "1.50",
+            "winPercentage": ".---",
+            "pitchesPerInning": "21.86",
+            "gamesFinished": 1,
+            "strikeoutWalkRatio": "0.00",
+            "strikeoutsPer9Inn": "0.00",
+            "walksPer9Inn": "7.71",
+            "hitsPer9Inn": "19.29",
+            "runsScoredPer9": "3.86",
+            "homeRunsPer9": "0.00",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 0,
+            "sacFlies": 0
+          },
+          "team": {
+            "id": 141,
+            "name": "Toronto Blue Jays",
+            "link": "/api/v1/teams/141"
+          },
+          "player": {
+            "id": 605513,
+            "fullName": "Spencer Turnbull",
+            "link": "/api/v1/people/605513"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "opponent": {
+            "id": 143,
+            "name": "Philadelphia Phillies",
+            "link": "/api/v1/teams/143"
+          },
+          "date": "2025-06-15",
+          "gameType": "R",
+          "isHome": false,
+          "isWin": false,
+          "game": {
+            "gamePk": 777499,
+            "link": "/api/v1.1/game/777499/feed/live",
+            "content": {
+              "link": "/api/v1/game/777499/content"
+            },
+            "gameNumber": 1,
+            "dayNight": "day"
+          }
+        },
+        {
+          "season": "2025",
+          "stat": {
+            "summary": "2.0 IP, 4 ER, 2 K, 2 BB",
+            "gamesPlayed": 1,
+            "gamesStarted": 1,
+            "flyOuts": 2,
+            "groundOuts": 1,
+            "airOuts": 2,
+            "runs": 4,
+            "doubles": 0,
+            "triples": 1,
+            "homeRuns": 1,
+            "strikeOuts": 2,
+            "baseOnBalls": 2,
+            "intentionalWalks": 0,
+            "hits": 5,
+            "hitByPitch": 0,
+            "avg": ".414",
+            "atBats": 10,
+            "obp": ".583",
+            "slg": "1.000",
+            "ops": "1.583",
+            "caughtStealing": 0,
+            "stolenBases": 0,
+            "stolenBasePercentage": ".---",
+            "caughtStealingPercentage": ".---",
+            "groundIntoDoublePlay": 0,
+            "numberOfPitches": 45,
+            "era": "7.11",
+            "inningsPitched": "2.0",
+            "wins": 0,
+            "losses": 1,
+            "saves": 0,
+            "saveOpportunities": 0,
+            "holds": 0,
+            "blownSaves": 0,
+            "earnedRuns": 4,
+            "whip": "2.53",
+            "battersFaced": 12,
+            "outs": 6,
+            "gamesPitched": 1,
+            "completeGames": 0,
+            "shutouts": 0,
+            "strikes": 24,
+            "strikePercentage": ".530",
+            "hitBatsmen": 0,
+            "balks": 0,
+            "wildPitches": 0,
+            "pickoffs": 0,
+            "totalBases": 10,
+            "groundOutsToAirouts": "1.17",
+            "winPercentage": ".000",
+            "pitchesPerInning": "22.50",
+            "gamesFinished": 0,
+            "strikeoutWalkRatio": "1.00",
+            "strikeoutsPer9Inn": "9.00",
+            "walksPer9Inn": "9.00",
+            "hitsPer9Inn": "22.50",
+            "runsScoredPer9": "18.00",
+            "homeRunsPer9": "4.50",
+            "inheritedRunners": 0,
+            "inheritedRunnersScored": 0,
+            "catchersInterference": 0,
+            "sacBunts": 0,
+            "sacFlies": 0
+          },
+          "team": {
+            "id": 141,
+            "name": "Toronto Blue Jays",
+            "link": "/api/v1/teams/141"
+          },
+          "player": {
+            "id": 605513,
+            "fullName": "Spencer Turnbull",
+            "link": "/api/v1/people/605513"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "opponent": {
+            "id": 145,
+            "name": "Chicago White Sox",
+            "link": "/api/v1/teams/145"
+          },
+          "date": "2025-06-20",
+          "gameType": "R",
+          "isHome": true,
+          "isWin": false,
+          "game": {
+            "gamePk": 777435,
+            "link": "/api/v1.1/game/777435/feed/live",
+            "content": {
+              "link": "/api/v1/game/777435/content"
+            },
+            "gameNumber": 1,
+            "dayNight": "day"
+          }
+        }
+      ]
+    }
+  ]
+}

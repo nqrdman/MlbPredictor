@@ -1,0 +1,54 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 687888,
+      "fullName": "Brandon Walter",
+      "link": "/api/v1/people/687888",
+      "firstName": "Brandon",
+      "lastName": "Walter",
+      "primaryNumber": "60",
+      "birthDate": "1996-09-08",
+      "currentAge": 29,
+      "birthCity": "New Castle",
+      "birthStateProvince": "DE",
+      "birthCountry": "USA",
+      "height": "6' 2\"",
+      "weight": 201,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Brandon",
+      "useLastName": "Walter",
+      "middleName": "Lee",
+      "boxscoreName": "Walter",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": true,
+      "draftYear": 2019,
+      "mlbDebutDate": "2023-06-22",
+      "batSide": {
+        "code": "L",
+        "description": "Left"
+      },
+      "pitchHand": {
+        "code": "L",
+        "description": "Left"
+      },
+      "nameFirstLast": "Brandon Walter",
+      "nameSlug": "brandon-walter-687888",
+      "firstLastName": "Brandon Walter",
+      "lastFirstName": "Walter, Brandon",
+      "lastInitName": "Walter, B",
+      "initLastName": "B Walter",
+      "fullFMLName": "Brandon Lee Walter",
+      "fullLFMName": "Walter, Brandon Lee",
+      "strikeZoneTop": 3.299,
+      "strikeZoneBottom": 1.665
+    }
+  ]
+}

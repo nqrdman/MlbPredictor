@@ -1,0 +1,55 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "people": [
+    {
+      "id": 607481,
+      "fullName": "Aaron Bummer",
+      "link": "/api/v1/people/607481",
+      "firstName": "Aaron",
+      "lastName": "Bummer",
+      "primaryNumber": "49",
+      "birthDate": "1993-09-21",
+      "currentAge": 32,
+      "birthCity": "Valencia",
+      "birthStateProvince": "CA",
+      "birthCountry": "USA",
+      "height": "6' 3\"",
+      "weight": 215,
+      "active": true,
+      "primaryPosition": {
+        "code": "1",
+        "name": "Pitcher",
+        "type": "Pitcher",
+        "abbreviation": "P"
+      },
+      "useName": "Aaron",
+      "useLastName": "Bummer",
+      "middleName": "James",
+      "boxscoreName": "Bummer",
+      "nickName": "Bum",
+      "gender": "M",
+      "isPlayer": true,
+      "isVerified": false,
+      "draftYear": 2014,
+      "mlbDebutDate": "2017-07-27",
+      "batSide": {
+        "code": "L",
+        "description": "Left"
+      },
+      "pitchHand": {
+        "code": "L",
+        "description": "Left"
+      },
+      "nameFirstLast": "Aaron Bummer",
+      "nameSlug": "aaron-bummer-607481",
+      "firstLastName": "Aaron Bummer",
+      "lastFirstName": "Bummer, Aaron",
+      "lastInitName": "Bummer, A",
+      "initLastName": "A Bummer",
+      "fullFMLName": "Aaron James Bummer",
+      "fullLFMName": "Bummer, Aaron James",
+      "strikeZoneTop": 3.344,
+      "strikeZoneBottom": 1.688
+    }
+  ]
+}

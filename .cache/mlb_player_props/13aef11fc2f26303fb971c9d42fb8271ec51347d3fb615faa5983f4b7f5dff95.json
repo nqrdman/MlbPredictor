@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 22,
+            "gamesPlayed": 157,
+            "groundOuts": 143,
+            "airOuts": 84,
+            "runs": 87,
+            "doubles": 38,
+            "triples": 0,
+            "homeRuns": 31,
+            "strikeOuts": 221,
+            "baseOnBalls": 85,
+            "intentionalWalks": 8,
+            "hits": 153,
+            "hitByPitch": 3,
+            "avg": ".256",
+            "atBats": 598,
+            "obp": ".350",
+            "slg": ".475",
+            "ops": ".825",
+            "caughtStealing": 7,
+            "stolenBases": 15,
+            "stolenBasePercentage": ".682",
+            "caughtStealingPercentage": ".318",
+            "groundIntoDoublePlay": 12,
+            "numberOfPitches": 2887,
+            "plateAppearances": 689,
+            "totalBases": 284,
+            "rbi": 94,
+            "leftOnBase": 212,
+            "sacBunts": 0,
+            "sacFlies": 3,
+            "babip": ".350",
+            "groundOutsToAirouts": "1.70",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "19.29"
+          },
+          "team": {
+            "id": 120,
+            "name": "Washington Nationals",
+            "link": "/api/v1/teams/120"
+          },
+          "player": {
+            "id": 695578,
+            "fullName": "James Wood",
+            "link": "/api/v1/people/695578"
+          },
+          "league": {
+            "id": 104,
+            "name": "National League",
+            "link": "/api/v1/league/104"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}

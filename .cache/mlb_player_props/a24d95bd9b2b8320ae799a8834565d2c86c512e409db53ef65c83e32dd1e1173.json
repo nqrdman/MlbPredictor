@@ -1,0 +1,76 @@
+{
+  "copyright": "Copyright 2026 MLB Advanced Media, L.P.  Use of any content on this page acknowledges agreement to the terms posted here http://gdx.mlb.com/components/copyright.txt",
+  "stats": [
+    {
+      "type": {
+        "displayName": "season"
+      },
+      "group": {
+        "displayName": "hitting"
+      },
+      "exemptions": [],
+      "splits": [
+        {
+          "season": "2025",
+          "stat": {
+            "age": 25,
+            "gamesPlayed": 138,
+            "groundOuts": 91,
+            "airOuts": 198,
+            "runs": 80,
+            "doubles": 32,
+            "triples": 2,
+            "homeRuns": 16,
+            "strikeOuts": 100,
+            "baseOnBalls": 56,
+            "intentionalWalks": 0,
+            "hits": 118,
+            "hitByPitch": 6,
+            "avg": ".234",
+            "atBats": 504,
+            "obp": ".316",
+            "slg": ".401",
+            "ops": ".717",
+            "caughtStealing": 0,
+            "stolenBases": 6,
+            "stolenBasePercentage": "1.000",
+            "caughtStealingPercentage": ".000",
+            "groundIntoDoublePlay": 9,
+            "numberOfPitches": 2323,
+            "plateAppearances": 569,
+            "totalBases": 202,
+            "rbi": 60,
+            "leftOnBase": 222,
+            "sacBunts": 0,
+            "sacFlies": 3,
+            "babip": ".261",
+            "groundOutsToAirouts": "0.46",
+            "catchersInterference": 0,
+            "atBatsPerHomeRun": "31.50"
+          },
+          "team": {
+            "id": 145,
+            "name": "Chicago White Sox",
+            "link": "/api/v1/teams/145"
+          },
+          "player": {
+            "id": 678246,
+            "fullName": "Miguel Vargas",
+            "link": "/api/v1/people/678246"
+          },
+          "league": {
+            "id": 103,
+            "name": "American League",
+            "link": "/api/v1/league/103"
+          },
+          "sport": {
+            "id": 1,
+            "link": "/api/v1/sports/1",
+            "abbreviation": "MLB"
+          },
+          "gameType": "R"
+        }
+      ]
+    }
+  ]
+}
